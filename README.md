@@ -118,4 +118,6 @@ Walker, J. B. (1930). *The "Summa Historialis" of Saint Antonius, Archbishop of 
 
 White, K. (1992). Review of Vincent de Beauvais: Intentions et réceptions d’une oeuvre encyclopédique au Moyen Âge. Actes du XIVe Colloque de l’Institut d’études médiévales, organisé conjointement par l’Atelier Vincent de Beauvais (A.R.Te.M., Université de Nancy II) et l’Institut d’études médiévales (Université de Montréal) 27-30 avril 1988, by M. Paulmier-Foucart, S. Lusignan, & A. Nadeau. *The Catholic Historical Review 78* (3): 447–49. http://www.jstor.org/stable/25023841.
 
+Wikisource contributors. (2024). *Schedelsche Weltchronik.* Retrieved 2024 from de.wikisource.org. https://de.wikisource.org/wiki/Kategorie:Schedelsche_Weltchronik.
+
 Young, K. (1930). The Speculum Majus of Vincent of Beauvais. *The Yale University Library Gazette 5* (1): 1–13. http://www.jstor.org/stable/40856730.
