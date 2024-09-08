@@ -45,7 +45,7 @@ Primarily influenced by Conrad Celtis (1459-1476), Martin Behaim (1459-1507), Jo
 >„ […] collectors of incunabula have often been attracted by the magnificent illustrations […] Brought to the general attention of English collectors in 1724 by Thomas Hearne […] ", (Cushing Duniway, 1941, p. 17). 
 
 
-In this context see also Haitz (1899), Schnieper (1950), Sladeczek (1965), Rücker (1988) or Green (2003). Englisch translations are given by Hadawas (2023); for a (full) raw transcripton of the *Early New High German* (ENHG) text see https://de.wikisource.org/wiki/Kategorie:Schedelsche_Weltchronik.
+In this context see also Haitz (1899), Schnieper (1950), Sladeczek (1965), Rücker (1988) or Green (2003). Englisch translations are given by Hadawas (2023); for a (full) raw transcripton of the *Early New High German* (ENHG) text see Wikisource contributors (2024).
 
 
 ## References
