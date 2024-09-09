@@ -1,4 +1,4 @@
-# Nuremberg Chronicle tables
+# The Nuremberg Chronicle 1493: Tables
 
 Tables (`NC_tab01.md`) from the *Nuremberg Chronicle*, fol. 1r to  VIIr, s.  Tab. 1 (Schedel, 1493; Schedel & Alt, 1493, 1496, res.):
 
