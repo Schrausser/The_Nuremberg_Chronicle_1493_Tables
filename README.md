@@ -40,10 +40,7 @@ VI, VII						ad finem mundi, quiescentium
 VIII						resurgentium
 ~~~
 
-Primarily influenced by Conrad Celtis (1459-1476), Martin Behaim (1459-1507), Johannes Müller (Regiomontanus, 1436-1476) and Johannes Werner (1468-1522), the text is mainly based on the *Supplementum Chronicarum* (Foresti, 1492), as well as on the *Speculum Naturale* (De Beauvais, 1264a) based on the *Historia Naturalis* of Plinius Secundus   (1250, 1455) and *Speculum Historiale* (De Beauvais, 1264b) from the *Speculum Maius* (Ferguson, 1886; Young, 1930; De Beauvais, 1964b; White, 1992; Albrecht, 2000), further on the *Vitæ Pontificum* (Platina, 1481), the *Summa Historialis* (c.f. Walker, 1930), on works by *Biondo* (e.g. 1484, 2005, res.) as well as on geographical and cosmographic works by *Ptolemæus* (1100, 1482; Tudeer, 1917; Neugebauer, 1959; Talbert, 2002), *Strabo* (1469; Manutius & Asulanus, 1516) and *Mela* (1477, 1518):
-
->„ […] collectors of incunabula have often been attracted by the magnificent illustrations […] Brought to the general attention of English collectors in 1724 by Thomas Hearne […] ", (Cushing Duniway, 1941, p. 17). 
-
+Primarily influenced by Conrad Celtis (1459-1476), Martin Behaim (1459-1507), Johannes Müller (Regiomontanus, 1436-1476) and Johannes Werner (1468-1522), the text is mainly based on the *Supplementum Chronicarum* (Foresti, 1492), as well as on the *Speculum Naturale* (De Beauvais, 1264a) based on the *Historia Naturalis* of Plinius Secundus   (1250, 1455) and *Speculum Historiale* (De Beauvais, 1264b) from the *Speculum Maius* (Ferguson, 1886; Young, 1930; De Beauvais, 1964b; White, 1992; Albrecht, 2000), further on the *Vitæ Pontificum* (Platina, 1481), the *Summa Historialis* (c.f. Walker, 1930), on works by *Biondo* (e.g. 1484, 2005, res.) as well as on geographical and cosmographic works by *Ptolemæus* (1100, 1482; Tudeer, 1917; Neugebauer, 1959; Talbert, 2002), *Strabo* (1469; Manutius & Asulanus, 1516) and *Mela* (1477, 1518).
 
 In this context see also Haitz (1899), Schnieper (1950), Sladeczek (1965), Rücker (1988) or Green (2003). Englisch translations are given by Hadawas (2023); for a (full) raw transcripton of the *Early New High German* (ENHG) text see Wikisource contributors (2024).
 
@@ -57,8 +54,6 @@ Bernstein, E. (2002). Review. *Renaissance Quarterly 55* (4): 1422–24. http://
 Biondo, F. (1484). *Historiarum ab inclinatione Romanorum imperii decades*. Venetiis: Thomas de Blavis. https://books.google.com/books?id=MT3JwgEACAAJ.
 
 ———. (2005). *Biondo Flavio’s "Italia Illustrata": Edited by Castner, C. J. Vol. 1. Biondo Flavio’s Italia Illustrata: Text, Translation, and Commentary*. Binghamton, New York: Global Academic Publishing. https://books.google.com/books?id=kttXsdZlUPQC.
-
-Cushing Duniway, D. (1941). A Study of the Nuremberg Chronicle. *The Papers of the Bibliographical Society of America 35* (1): 17–34. http://www.jstor.org/stable/24296510.
 
 
 De Beauvais, V. (1264a). *Speculi naturalis pars II*. Arch. Cap. S. Pietro. A. 40. Vatican: Biblioteca Apostolica Vaticana. https://digi.vatlib.it/view/MSS_Arch.Cap.S.Pietro.A.40.
