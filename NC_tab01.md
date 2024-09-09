@@ -1,3 +1,5 @@
+## NC_tab01.md
+
 Table 1. Headings and contents (Schedel, 1493, fol. 1 to fol. VII).
 ~~~
 page			contenta
@@ -16,7 +18,7 @@ Foliu[m] VI	recto	Queda[m] circa spera[m] planetaru[m] et orbiu[m] declara[n]da.
 Folium   VII	recto	Etas prima mundi
 ~~~
 
-Table 2. Etates mu[n]di (Schedel, 1493, fol. VIr).		
+Table 2. "Etates mu[n]di", (Schedel, 1493, fol. VIr).		
 ~~~
 		AM		BC				
 age		hebr	lxx	hebr	lxx	Etas	
@@ -28,6 +30,20 @@ IIII		3373	4609	592	592	ad transmigrat[i]o[n]em babilonis
 V		3963	5199	2	2	ad benedicta[m] nativitatem [christ]i
 VI, VII						ad finem mundi, quiescentium
 VIII						resurgentium
-~~~ 
+~~~
+
+Table 3. The ages of man, "Etates aut[em] hominis su[n]t iste", (Schedel, 1493, fol. VIr).						
+~~~
+	years			description			
+age	from	to	n	Latin			ENHG			English
+
+I		7	7	infantia		ungesprechheyt		infancy
+II	8	14	6	puericia		kintheit		childhood
+III	15	38	23	adolesce[n]tia		zeittigkeit		maturity
+IIII	39	49	10	iuue[n]t[us]		iuge[n]t		youth
+V	50	79	29	senect[us]		altheit			timely age
+VI	80			decrepita		das verlebt		the spent age
+~~~
+
 
 ## References
