@@ -6,7 +6,7 @@ Tables (`NC_tab01.md`) from the *Nuremberg Chronicle*, fol. 1r to  VIIr, s.  Tab
 
 >The creation of things is explained by numbers. Their parts are one, two, three, which form a triangle. In the first *creation*. In the second and third *arrangement*. In the rest *ornament*, as Moses shows through the works of six days.
 
-Table 1. Headings and contents of fol. 1 to fol. VII of the Nuremberg Chronicle (Schedel, 1493).
+Table 1. Headings and contents of fol. 1 to fol. VII (Schedel, 1493).
 ~~~
 page			contenta
 
