@@ -1,6 +1,6 @@
 ## NC_tab01.md
 
-Table 1. Headings and contents (Schedel, 1493, fol. 1 to fol. VII).
+Table 1. Headings and contents (Schedel, 1493, fol. 1 - VII; Schedel & Alt, 1493, 1496, bl. 1 - VII, res.).
 ~~~
 page			contenta
 
@@ -18,7 +18,7 @@ Foliu[m] VI	recto	Queda[m] circa spera[m] planetaru[m] et orbiu[m] declara[n]da.
 Folium   VII	recto	Etas prima mundi
 ~~~
 
-Table 2. "Etates mu[n]di", (Schedel, 1493, fol. VIr).		
+Table 2. "Etates mu[n]di", (Schedel, 1493, fol. VIr; Schedel & Alt, 1493, 1496, bl. VIr, res.).		
 ~~~
 		AM		BC				
 age		hebr	lxx	hebr	lxx	Etas	
@@ -32,7 +32,7 @@ VI, VII						ad finem mundi, quiescentium
 VIII						resurgentium
 ~~~
 
-Table 3. The ages of man, "Etates aut[em] hominis su[n]t iste", (Schedel, 1493, fol. VIr).						
+Table 3. The ages of man, "Etates aut[em] hominis su[n]t iste", (Schedel, 1493, fol. VIr; Schedel & Alt, 1493, 1496, bl. VIr, res.).						
 ~~~
 	years			description			
 age	from	to	n	Latin			ENHG			English
@@ -47,3 +47,10 @@ VI	80			decrepita		das verlebt		the spent age
 
 
 ## References
+
+Schedel, H. (1493). *Liber chronicarum cum figuris et ymagibus ab inicio mundi*. Nuremberge: Antonius Koberger. https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024.
+
+Schedel, H., & Alt, G. (tr.). (1493). *Buch der Chroniken und geschichten mit figure und pildnüssen von anbegin der welt bis auf diese unsere Zeit*. Nuremberge: Antonius Koberger.
+https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218.
+
+———. (1496). *Das buch Der croniken unnd geschichten mit figuren und pildnussen von Anbeginn der welt bis auff diese unsere Zeyt*. Augsburg: Johann Schönsperger. https://doi.org/10.3931/e-rara-69075.
