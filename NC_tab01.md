@@ -18,7 +18,7 @@ Foliu[m] VI	recto	Queda[m] circa spera[m] planetaru[m] et orbiu[m] declara[n]da.
 Folium   VII	recto	Etas prima mundi
 ~~~
 
-Table 2. "Etates mu[n]di", (Schedel, 1493, fol. VIr; Schedel & Alt, 1493, 1496, bl. VIr, res.).		
+Table 2. Ages of the world, "Etates mu[n]di", (Schedel, 1493, fol. VIr; Schedel & Alt, 1493, 1496, bl. VIr, res.).		
 ~~~
 		AM		BC				
 age		hebr	lxx	hebr	lxx	Etas	
