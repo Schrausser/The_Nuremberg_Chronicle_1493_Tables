@@ -55,7 +55,6 @@ Biondo, F. (1484). *Historiarum ab inclinatione Romanorum imperii decades*. Vene
 
 ———. (2005). *Biondo Flavio’s "Italia Illustrata": Edited by Castner, C. J. Vol. 1. Biondo Flavio’s Italia Illustrata: Text, Translation, and Commentary*. Binghamton, New York: Global Academic Publishing. https://books.google.com/books?id=kttXsdZlUPQC.
 
-
 De Beauvais, V. (1264a). *Speculi naturalis pars II*. Arch. Cap. S. Pietro. A. 40. Vatican: Biblioteca Apostolica Vaticana. https://digi.vatlib.it/view/MSS_Arch.Cap.S.Pietro.A.40.
 
 ———. (1264b). *Speculum historiale*. Vat. lat. 1965. Vatican: Biblioteca Apostolica Vaticana. https://digi.vatlib.it/view/MSS_Vat.lat.1965.
