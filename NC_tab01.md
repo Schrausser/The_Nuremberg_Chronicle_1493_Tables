@@ -33,8 +33,19 @@ VI, VII	terminum solus deus nouit					ad finem mundi, quiescentium		bis zu der w
 VIII									resurgentium				d[er] auffersteenden			of the Resurrection
 ~~~
 
+Table 3. Generations.
+~~~
+					cum				
+age	gen		×32		gen		×32	
 
-Table 3. The ages of man, "Etates aut[em] hominis su[n]t iste", (Schedel, 1493, fol. VIr; Schedel & Alt, 1493, 1496, bl. VIr, res.).						
+I	10		320		10	10	320	320
+II	10		320		20	20	640	640
+III	14		448		34	34	1088	1088
+IIII	17	14	544	448	51	48	1632	1536
+V	14		448		65	62	2080	1984
+~~~
+
+Table 4. The ages of man, "Etates aut[em] hominis su[n]t iste", (Schedel, 1493, fol. VIr; Schedel & Alt, 1493, 1496, bl. VIr, res.).						
 ~~~
 	years			description			
 age	from	to	n	Latin			ENHG			English
