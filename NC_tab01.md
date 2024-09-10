@@ -19,18 +19,20 @@ Folium   VII	recto	Etas prima mundi
 ~~~
 
 Table 2. Ages of the world, "Etates mu[n]di", (Schedel, 1493, fol. VIr; Schedel & Alt, 1493, 1496, bl. VIr, res.).		
-~~~
-		AM		BC				
-age		hebr	lxx	hebr	lxx	Etas	
 
-I		1656	2242	2309	2959	ad diluuiu[m]	
-II		1948	3184	2017	2017	ad natiuitatem abrahe	
-III		2889	4124	1076	1077	ad iniciu[m] regni Dauid	
-IIII		3373	4609	592	592	ad transmigrat[i]o[n]em babilonis	
-V		3963	5199	2	2	ad benedicta[m] nativitatem [christ]i
-VI, VII						ad finem mundi, quiescentium
-VIII						resurgentium
 ~~~
+	AM			cum			BC					
+age	hebr	lxx	gen	hebr	lxx	gen	hebr	lxx	Latin					ENHG					English
+
+I	1656	2242	10	1656	2242	10	2309	2959	ad diluuiu[m]				bis zu der sintflus			to the Flood
+II	292	942	10	1948	3184	20	2017	2017	ad natiuitatem abrahe			bis auf die gepurt abrahams		to the birth of Abraham
+III	941	940	14	2889	4124	34	1076	1077	ad iniciu[m] regni Dauid		bis zu anfang des reichs david		to the beginning of the Kingdom of David
+IIII	484	485	17	3373	4609	51	592	592	ad transmigrat[i]o[n]em babilonis	bis zu de[m] übergang babilonis		to the passing of Babylon
+V	590	590	14	3963	5199	65	2	2	ad benedicta[m] nativitatem [christ]i	bis zu der gebenedeiten gepurt cristi	to the blessed Birth of Christ
+VI, VII	terminum solus deus nouit					ad finem mundi, quiescentium		bis zu der werlt ende, der die nw ruen	to the End of the World, of those who are now at rest
+VIII									resurgentium				d[er] auffersteenden			of the Resurrection
+~~~
+
 
 Table 3. The ages of man, "Etates aut[em] hominis su[n]t iste", (Schedel, 1493, fol. VIr; Schedel & Alt, 1493, 1496, bl. VIr, res.).						
 ~~~
