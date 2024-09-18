@@ -10,7 +10,7 @@ Table 1. Headings and contents of fol. 1 to fol. VII (Schedel, 1493).
 ~~~
 page			contenta
 
-Foliu[m] 1		Epitoma operu[m] sex dieru[m] de mu[n]di fabrica Prologus
+Foliu[m] 1	recto	Epitoma operu[m] sex dieru[m] de mu[n]di fabrica Prologus
 Folium   II	recto	"
 		verso	De opere prime diei.
 Foliu[m] III	recto	De opere secunde diei.
