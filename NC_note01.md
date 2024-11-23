@@ -1,3 +1,5 @@
+# NC_note01.md
+
 ## Konzil von Ephesos, 3. Ökumenisches Konzil (22. 6. - 31.7. 431):
 
 Das zentrale Thema war der Streit zwischen der (a) alexandrinischen Katechetenschule welche sich an **Platon**[^1] orientierte und der (b) antiochenischen Schule, welche sich auf **Aristoteles**[^2] berief (s. Hamilton & Cairns, 1961; Tanner, 2009; Price & Graumann, 2022).
