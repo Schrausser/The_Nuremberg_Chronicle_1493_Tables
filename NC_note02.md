@@ -1,6 +1,6 @@
 ## NC_note02.md
 
-For the *Epicurus paradox* as the incompatibility of evil with an omniscient omnipotent and benevolent God see e.g. Walker (1982) or Burns (1988). A clear description is given of the *nature* and *origin* of evil:
+A clear description is given of the *nature* and *origin* of evil:
 
 >"Angelos i[n] p[ri]ncipio o[mn]i[u]m creatura[rum] p[ri]mordiales fecit [...] In q[ui]busda[m] t[a]m[en] indolis diui[n]e stirpis no[n] perma[n]sit. Auctore[m] hui[us] rei ex bono p[er] se malu[m] effectu[m] greci **diabolu[m]** appelant: nos **crimi[n]atore[m]** vocam[us].", (Schedel, 1493, fol. IIr).
 
@@ -24,7 +24,11 @@ Finally:
 
 >"The celestial consists of the angelic orders [..]  The middle hierarchy embraces the Dominations, Principalities and Powers [...] the third restrain the powers of the **Devil** [...] the Lord [...] is considered as the salvation."
 
+For the *Epicurus paradox* as the incompatibility of evil with an omniscient omnipotent and benevolent God see e.g. Walker (1982) or Burns (1988).
+
 ## References
+
+Burns, J. P. (1988). Augustine on the Origin and Progress of Evil. *The Journal of Religious Ethics 16* (1): 9–27. http://www.jstor.org/stable/40015076.
 
 Schedel, H. (1493). *Liber chronicarum cum figuris et ymagibus ab inicio mundi*. Nuremberge: Antonius Koberger. https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024.
 
@@ -32,3 +36,5 @@ Schedel, H., & Alt, G. (tr.). (1493). *Buch der Chroniken und geschichten mit fi
 https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218.
 
 ———. (1496). *Das buch Der croniken unnd geschichten mit figuren und pildnussen von Anbeginn der welt bis auff diese unsere Zeyt*. Augsburg: Johann Schönsperger. https://doi.org/10.3931/e-rara-69075. 
+
+Walker, I. (1982). The Problem of Evil and the Activity of God. *New Blackfriars 63* (739): 25–31. http://www.jstor.org/stable/43247256.
