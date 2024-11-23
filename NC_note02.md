@@ -24,7 +24,7 @@ Finally:
 
 >"The celestial consists of the angelic orders [..]  The middle hierarchy embraces the Dominations, Principalities and Powers [...] the third restrain the powers of the **Devil** [...] the Lord [...] is considered as the salvation."
 
-For the *Epicurus paradox* as the incompatibility of evil with an omniscient omnipotent and benevolent God see e.g. Walker (1982) or Burns (1988).
+For the *Epicurus paradox* as the incompatibility of evil with an omniscient omnipotent and benevolent God see e.g. Walker (1982) or Burns (1988), further De Witt (1932, 1954), Wasserstein (1978), Inwood (1981) or Carlo & Duignan (2023).
 
 ## References
 
