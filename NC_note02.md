@@ -1,4 +1,4 @@
-## NC_note02.md
+# NC_note02.md
 
 A clear description is given of the *nature* and *origin* of evil:
 
