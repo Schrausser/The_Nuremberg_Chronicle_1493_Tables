@@ -30,7 +30,7 @@ For the *Epicurus paradox* as the incompatibility of evil with an omniscient omn
 
 Burns, J. P. (1988). Augustine on the Origin and Progress of Evil. *The Journal of Religious Ethics 16* (1): 9–27. http://www.jstor.org/stable/40015076.
 
-De Witt, N. W. (1932). Notes on the History of Epicureanism.* Transactions and Proceedings of the American Philological Association 63*: 166–76. http://www.jstor.org/stable/283212.
+De Witt, N. W. (1932). Notes on the History of Epicureanism. *Transactions and Proceedings of the American Philological Association 63*: 166–76. http://www.jstor.org/stable/283212.
 
 ———. (1954). *Epicurus and His Philosophy*. Minnesota: University Press. http://www.jstor.org/stable/10.5749/j.cttts81p.
 
