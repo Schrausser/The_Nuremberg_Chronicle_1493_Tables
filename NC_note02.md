@@ -6,7 +6,7 @@ A clear description is given of the *nature* and *origin* of evil:
 
 >"Er hat in anfa[n]g die engel, aller creatur die erste[n] gemacht [...] doch ist in etliche[n] die einpildung göttliches sta[m]mens nit blibe[n], sunder sie sind aus aigner verkerung vo[m] gůtten zum ubel getretten vn[d] zu **teüfeln** worde[n].", (Schedel & Alt, 1493, 1496, bl. IIr).
 
->"Of all beings he first created the angels [...] but some of them did not retain the conception of their divine origin, and through their own errors deserted good for evil, and became **devils**."
+>"Of all beings he first created the angels [...] but some of them did not retain the conception of their divine origin, and through their own errors deserted good for evil, and became **devils**.", (Hadavas, 2023, p. ).
 
 And further:
 
@@ -14,7 +14,7 @@ And further:
 
 >"Der luft hat [...] drey underschied [...] aber in dem mitteln underschid [...] ist kelt und tunckelheit darinn sollen wonen die **teüfel** die in diesen tunckeln luft verstössen sind. Daselbst werde[n] auch ungestümigkeit als donerschleg hagel schne vnd der gleich.", (Schedel & Alt, 1493, 1496, bl. VIr).
 
->"The air [...] has three distinct parts [...] But the middle part [...] is cold and dark, and therein are said to reside the **devils**, who have been banished to this dark atmosphere. Therein are also to be found such elemental disturbances as thunderclaps, hail, snow and the like."
+>"The air [...] has three distinct parts [...] But the middle part [...] is cold and dark, and therein are said to reside the **devils**, who have been banished to this dark atmosphere. Therein are also to be found such elemental disturbances as thunderclaps, hail, snow and the like.", (Hadavas, 2023, p. ).
 
 Finally:
 
@@ -22,7 +22,7 @@ Finally:
 
 >" [...] in de[n] englischen orden [...] Die mittel ierarchey helt herschengel fürstengel gewaltengel [...] die dritten zwinge[n] der **teüfel** macht [...] der herr [...] wird [...] gehalte[n] als das hail.", (Schedel & Alt, 1493, 1496, bl. VIr).
 
->"The celestial consists of the angelic orders [..]  The middle hierarchy embraces the Dominations, Principalities and Powers [...] the third restrain the powers of the **Devil** [...] the Lord [...] is considered as the salvation."
+>"The celestial consists of the angelic orders [..]  The middle hierarchy embraces the Dominations, Principalities and Powers [...] the third restrain the powers of the **Devil** [...] the Lord [...] is considered as the salvation.", (Hadavas, 2023, p. ).
 
 For the *Epicurus paradox* as the incompatibility of evil with an omniscient omnipotent and benevolent God see e.g. Walker (1982) or Burns (1988), further De Witt (1932, 1954), Wasserstein (1978) or Inwood (1981).
 
@@ -33,6 +33,8 @@ Burns, J. P. (1988). Augustine on the Origin and Progress of Evil. *The Journal 
 De Witt, N. W. (1932). Notes on the History of Epicureanism. *Transactions and Proceedings of the American Philological Association 63*: 166–76. http://www.jstor.org/stable/283212.
 
 ———. (1954). *Epicurus and His Philosophy*. Minnesota: University Press. http://www.jstor.org/stable/10.5749/j.cttts81p.
+
+Hadavas, K. (2023). *First English edition of the Nuremberg chronicle : being the Liber chronicarum of Dr. Hartmann Schedel.* Edited by Hadavas, K. UW–Madison TEI edition. Madison, Wisconsin: University of Wisconsin–Madison Libraries. https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J.
 
 Inwood, B. (1981). The Origin of Epicurus’ Concept of Void. *Classical Philology 76* (4): 273–85. http://www.jstor.org/stable/270296.
 
