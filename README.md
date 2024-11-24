@@ -95,6 +95,8 @@ Rücker, E. (1988). *Hartmann Schedels Weltchronik: das grösste Buchunternehmen
 
 Schedel, H. (1493). *Liber chronicarum cum figuris et ymagibus ab inicio mundi*. Nuremberge: Antonius Koberger. https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024.
 
+———. (2010). *Liber Chronicarum Reference Edition*. Facsimile. Boston, MA: Selim S. Nahas Press. http://www.smithandpress.com/Our_Books.html.
+
 Schedel, H., & Alt, G. (tr.). (1493). *Buch der Chroniken und geschichten mit figure und pildnüssen von anbegin der welt bis auf diese unsere Zeit*. Nuremberge: Antonius Koberger.
 https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218.
 
