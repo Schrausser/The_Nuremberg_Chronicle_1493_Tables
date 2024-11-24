@@ -42,7 +42,9 @@ VIII						resurgentium
 
 Primarily influenced by Conrad Celtis (1459-1476), Martin Behaim (1459-1507), Johannes Müller (Regiomontanus, 1436-1476) and Johannes Werner (1468-1522), is the text mainly based on the *Supplementum Chronicarum* (Foresti, 1492), as well as on the *Speculum Naturale* (De Beauvais, 1264a) based on the *Historia Naturalis* of Plinius Secundus   (1250, 1455) and *Speculum Historiale* (De Beauvais, 1264b) from the *Speculum Maius* (Ferguson, 1886; Young, 1930; De Beauvais, 1964b; White, 1992; Albrecht, 2000), further on the *Vitæ Pontificum* (Platina, 1481), the *Summa Historialis* (c.f. Walker, 1930), on works by *Biondo* (e.g. 1484, 2005, res.) as well as on geographical and cosmographic works by *Ptolemæus* (1100, 1482; Tudeer, 1917; Neugebauer, 1959; Talbert, 2002), *Strabo* (1469; Manutius & Asulanus, 1516) and *Mela* (1477, 1518).
 
-See also Haitz (1899), Schnieper (1950), Sladeczek (1965), Rücker (1988) or Green (2003). Englisch translations are given by Hadawas (2023); for a (full) raw transcripton of the *Early New High German* (ENHG) text see Wikisource contributors (2024).
+See also Haitz (1899), Schnieper (1950), Sladeczek (1965), Rücker (1988) or Green (2003). Englisch translations are given by Hadawas (2023), facsimile and translations are given by Schedel (2010), Zellmann-Roher & Hadavas (2011a, b, 2012a, b, res.).
+
+For a (full) raw transcripton of the *Early New High German* (ENHG) text see Wikisource contributors (2024), ENHG dictionaries are given by Goebel et al. (1989).
 
 
 ## References
@@ -115,3 +117,11 @@ White, K. (1992). Review of Vincent de Beauvais: Intentions et réceptions d’u
 Wikisource contributors. (2024). *Schedelsche Weltchronik.* Retrieved 2024 from de.wikisource.org. https://de.wikisource.org/wiki/Kategorie:Schedelsche_Weltchronik.
 
 Young, K. (1930). The Speculum Majus of Vincent of Beauvais. *The Yale University Library Gazette 5* (1): 1–13. http://www.jstor.org/stable/40856730.
+
+Zellmann-Roher, M., & Hadavas, C. (2011a). *Liber Chronicarum Translation*. 1st ed. Vol. 1. Boston, MA: Selim S. Nahas Press. [https://www.abebooks.com/9780983140726](https://www.abebooks.com/9780983140726/Liber-Chronicarum-Translation-Volume-Nuremberg-0983140723/plp).
+
+———. (2011b). *Liber Chronicarum Translation*. 1st ed. Vol. 2. Boston, MA: Selim S. Nahas Press. [https://www.abebooks.com/9780983140719](https://www.abebooks.com/9780983140719/Liber-Chronicarum-Translation-Volume-Nuremberg-0983140715/plp).
+
+———. (2012a). *Liber Chronicarum Translation*. 1st ed. Vol. 3. Boston, MA: Selim S. Nahas Press. [https://ocul-gue.alma.exlibrisgroup.com/discovery/fulldisplay](https://ocul-gue.alma.exlibrisgroup.com/discovery/fulldisplay?docid=alma991033686926707371&context=L&vid=01OCUL_GUE:GUELPH&search_scope=OCULDiscoveryNetwork&adaptor=Local%20Search%20Engine&tab=OCULDiscoveryNetwork&query=creator,equals,%20Zellmann-Rohrer,%20Michael,AND&mode=advanced&offset=0&lang=en).
+
+———. (2012b). *Liber Chronicarum Translation*. 1st ed. Vol. 4. Boston, MA: Selim S. Nahas Press. https://www.gettextbooks.com/isbn/9780983140740/.
