@@ -14,7 +14,7 @@ ad saturnum		0,5	5,5	6
 ad signiferum		1,5	7,0	7	Iapetus		VIII
 ~~~
 
-Table 2. Latin.
+Table 2. Latin, $\overline{rf}=1.04$, $r=0.993$, $n=6$, $det=98.5\\%$.
 ~~~
 					actual		
 			km		km		rf	Object
