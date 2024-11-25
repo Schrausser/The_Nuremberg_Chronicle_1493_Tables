@@ -19,7 +19,7 @@ Table 2. Latin, $\overline{rf}=1.04$, $r=0.993$, $n=6$, $det=98.5\\%$.
 					actual		
 			km		km		rf	Object
 
-terram ad lunam		3,6E+05		3,8E+05		1,04	Earthmoon, Dione (Saturn lV)
+terram ad lunam		3,6E+05		3,8E+05		1,04	Earthmoon, Dione (Saturn IV)
 luna ad mercurium	5,5E+05		5,3E+05		0,96	Rhea (Saturn V)
 ad venerem		7,3E+05		6,7E+05		0,92	Europa (Jupiter II)
 ad solem		1,3E+06		1,2E+06		0,98	Titan (Saturn VI)
