@@ -48,6 +48,16 @@ ad signiferum		2,5E+06		3,6E+06		1,41	Iapetus (Saturn VIII)
 
 ## References
 
+De Beauvais, V. (1476). *Speculum naturale*. Düsseldorf: Universitäts- und Landesbibliothek. https://nbn-resolving.org/urn:nbn:de:hbz:061:1-592809.
+
+———. (1494). *Speculum naturale*. Venetiis: Hermannus Liechtenstein. https://books.google.com/books?id=v9yKk_tdhusC.
+
+———. (1964a). *Speculum historiale.Speculum quadruplex sive speculum maius*. Photomechan. Nachdr. [d. Ausg. Duaci 1624]. Düsseldorf: Universitäts- und Landesbibliothek. https://nbn-resolving.org/urn:nbn:de:hbz:061:1-20729.
+
+———. (1964b). *Speculum maius*. Graz: Akad. Druck- u. Verl.-Anst. https://nbn-resolving.org/urn:nbn:de:hbz:061:1-20612.
+
+———. (1964c). *Speculum naturale. Speculum quadruplex sive speculum maius*. Photomechan. Nachdr. [d. Ausg. Duaci 1624]. Düsseldorf: Universitäts- und Landesbibliothek. https://nbn-resolving.org/urn:nbn:de:hbz:061:1-20603.
+
 Schedel, H. (1493). *Liber chronicarum cum figuris et ymagibus ab inicio mundi*. Nuremberge: Antonius Koberger. https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024.
 
 Schedel, H., & Alt, G. (tr.). (1493). *Buch der Chroniken und geschichten mit figure und pildnüssen von anbegin der welt bis auf diese unsere Zeit*. Nuremberge: Antonius Koberger.
