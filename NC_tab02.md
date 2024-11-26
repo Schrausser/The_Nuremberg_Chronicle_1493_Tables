@@ -58,7 +58,7 @@ De Beauvais, V. (1476). *Speculum naturale*. Düsseldorf: Universitäts- und La
 
 ———. (1964c). *Speculum naturale. Speculum quadruplex sive speculum maius*. Photomechan. Nachdr. [d. Ausg. Duaci 1624]. Düsseldorf: Universitäts- und Landesbibliothek. https://nbn-resolving.org/urn:nbn:de:hbz:061:1-20603.
 
-Hadavas, K. (202)3. *First English edition of the Nuremberg chronicle : being the Liber chronicarum of Dr. Hartmann Schedel*. Edited by Hadavas, K. UW–Madison TEI edition. Madison, Wisconsin: University of Wisconsin–Madison Libraries. https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J.
+Hadavas, K. (2023). *First English edition of the Nuremberg chronicle : being the Liber chronicarum of Dr. Hartmann Schedel*. Edited by Hadavas, K. UW–Madison TEI edition. Madison, Wisconsin: University of Wisconsin–Madison Libraries. https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J.
 
 Plinius Secundus, G. (1250). *Plinius Secundus Major, Historia Naturalis. Liber Trigesimus Septimus Manu Recentiore Suppletus Est*. Latin 6797. Paris: Bibliothèque nationale de France. https://gallica.bnf.fr/ark:/12148/btv1b550140045/.
 
