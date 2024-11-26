@@ -2,6 +2,32 @@
 
 Table 1.
 ~~~
+Fol VIr												Fol Vv			Velho
+orbes mundi		natura							
+
+celum trinitatis	celesti		empyreum									CELVM EMPIREVM
+XII					cristallinum			primu[m] mobile		Primum mobile		PRIMO MOBILE
+							inferior				Celum Cristallinum		
+												firma mentu[m]		FIRMAMENTO
+XI					firmamentu[m]			Saturnus		spera saturni		SATVRNO
+X									Iupiter			spera iouis		IVPITER
+VIIII									Mars			spera martus		MARS
+VIII									Sol			spera solis		SOL
+VII									Venus			spera ueneris		VENVS
+VI									Mercurius		spera mercu [rum]	MERCVRIO
+V									Luna			spera lune		LVNA
+IIII			elementari	ignis		supremu[m]	igneum			spera ignis		FOGO
+III							mediu[m]	olimpium				
+							infimu[m]	olimpium				
+II					aeris		supremum	ethereum		spera aeris		AR
+I							medium		aereum				
+							infimu[m]	aereum				
+					terre							spera aque		
+					aque							terrA
+~~~
+
+Table 2.
+~~~
 Fol VIr									Fol Vv	
 
 supernatura												n
@@ -18,5 +44,5 @@ celestem	in ordinibus angelicis	superiorem	seraphin	Seraphin			4
 							angelos		Angeli				1
 subcelestem	in hominibus sanctis									2
 ~~~										
-¹) Greek  
-²) Latin 
+¹) Greek.  
+²) Latin. 
