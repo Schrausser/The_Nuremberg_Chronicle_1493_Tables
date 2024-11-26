@@ -14,7 +14,23 @@ ad saturnum		0,5	5,5	6
 ad signiferum		1,5	7,0	7	Iapetus		VIII
 ~~~
 
-Table 2. Latin, $\overline{rf}=1.04$, $r=0.993$, $n=6$, $det=98.5\\%$.
+Table 2. Meyl
+~~~				
+distance		World Chronicle 1493				Spec. Nat.
+			ENHG		Latin		English tr.	
+
+erd zu dem mond 	 15 625,00 	 15 625,00 	 15 625,00 	 15 625,00 
+mond zu mercurio	 7 813,00 	 7 812,50 	 7 813,00 	 7 812,50 
+mercurio zu venus	 7 813,00 	 7 812,50 	 7 813,00 	 7 812,50 
+venus zu der sunnen	 23 436,00 	 22 436,00 	 23 436,00 	 23 437,50 
+der sunnen zu mars	 15 625,00 	 15 625,00 	 15 625,00 	 15 625,00 
+mars zu iupiter		 6 822,00 	 7 812,00 	 6 832,00 	 7 812,50 
+iupiter zu saturnus	 6 822,00 	 7 812,00 	 6 832,00 	 7 812,50 
+saturno zum firmament	 23 436,00 	 23 436,00 	 23 436,00 	 23 437,50
+~~~
+
+
+Table 3. Latin, $\overline{rf}=1.04$, $r=0.993$, $n=6$, $det=98.5\\%$.
 ~~~
 					actual		
 			km		km		rf	Object
