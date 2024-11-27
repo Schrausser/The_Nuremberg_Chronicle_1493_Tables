@@ -87,4 +87,36 @@ himlische	in de[n] englischen orden	oberere		seraphin
 undehi[m]lische	in heiligen mensche[n]
 ~~~
 
+Table 5. Cmp.
+~~~
+Latin							
+orbes mundi		natura								supernatura			
+
+celum trinitatis	celesti		empyreum		sup[er]celestem			
+XII					cristallinum		primu[m] mobile		celestem	in ordinibus angelicis		superiorem	seraphin
+								inferior										cherubin
+XI					firmamentu[m]		Saturnus										thronos
+X								Iupiter									media[m]	dominat[i]ones
+VIIII								Mars											principatus
+VIII								Sol											potestates
+VII								Venus									inferiorem	virtutes
+VI								Mercurius										archangelos
+V								Luna											angelos
+			elementari							subcelestem	in hominibus sanctis
+ENHG
+umbkrais, himel		natur						
+
+himel der trifeltigkeit	himlisch	feürigen		überhi[m]lische			
+12					cristallinischen	erst beweglich		himlische	in de[n] englischen orden	oberere		seraphin
+								untere umbkreys										cherubin
+11					firmament		Saturnus										tronengel
+10								Iupiter									mittlere	herschengel
+9								Mars											fürstengel
+8								Sun[n]											gewaltengel
+7								Venus									undere		kreftengel
+6								Mercurius										erzengel
+5								Mond											engel
+			eleme[n]tische							undehi[m]lische	in heiligen mensche[n]		
+~~~
+
 ## References
