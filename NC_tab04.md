@@ -76,3 +76,5 @@ NC lxx	ε.Κ.²	NC AM	AM¹	BC	AD	AVC	AH				from	to
 ~~~																					
 ¹) AM hebrew calendar.  
 ²) ε.Κ. *epoch kosmos*, byzantine or roman calendar.
+
+## References
