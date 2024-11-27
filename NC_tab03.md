@@ -140,4 +140,10 @@ Plinius Secundus, G. (1250). *Plinius Secundus Major, Historia Naturalis. Liber
 
 Rackham, H. (1967). *Pliny Natural History in Ten Volumes*. Vol. 1. Cambridge, Massachusetts: Harvard University Press. https://archive.org/details/naturalhistory01plinuoft/.
 
+Schedel, H. (1493). *Liber chronicarum cum figuris et ymagibus ab inicio mundi. Nuremberge*: Antonius Koberger. https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024.
+
+Schedel, H., & Alt, G. (tr.). (1493). *Buch der Chroniken und geschichten mit figure und pildnüssen von anbegin der welt bis auf diese unsere Zeit*. Nuremberge: Antonius Koberger. https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218.
+
+———. (1496). *Das buch Der croniken unnd geschichten mit figuren und pildnussen von Anbeginn der welt bis auff diese unsere Zeyt*. Augsburg: Johann Schönsperger. https://doi.org/10.3931/e-rara-69075.
+
 Ullman, C. (1851). *Gregory of Nazianzum. The Divine. A Contribution to the Ecclesiastical History of the Fourth Century*. London: John W. Parker, West Strand. https://archive.org/details/gregoryofnazian00ullm.
