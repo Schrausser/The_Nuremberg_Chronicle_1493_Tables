@@ -14,10 +14,10 @@ ad saturnum		0,5	5,5	6
 ad signiferum		1,5	7,0	7	Iapetus		VIII
 ~~~
 
-Table 2. Latin.
+Table 2. Latin (st=0.18498km).
 ~~~
-			myle		stadia		km (st=0.18498km)	km			AM		mile in km CI		
-									150m		210m				s=150m	s=210m	AM
+			myle		stadia		km 		km				AM			
+							st		st=0.150km	st=0.210km				
 
 terram ad lunam	 	 15 625 	 1 968 750 	 364 179,38 	 295 312,50 	 413 437,50 	 354 375,00 
 luna ad mercurium	 7 813 	 	 984 375 	 182 089,69 	 147 656,25 	 206 718,75 	 177 187,50 
@@ -32,9 +32,26 @@ ad signiferum	 	 23 436 	 2 952 936 	 546 234,10 	 442 940,40 	 620 116,56 	 531
 sum	 	 	 108 371 	 13 654 746 	 2 525 854,92 	 2 048 211,90 	 2 867 496,66 	 2 457 854,28 
 diff	 		 1 004 	 	 126 504 	 23 400,71 	 18 975,60 	 26 565,84 	 22 770,72
 ~~~
+Table 3. ENHG.
+~~~
+			myle		stadia		km 		km				AM			
+							st		st=0.150km	st=0.210km				
 
+erd zu dem mond 	 15 625 	 1 968 750 	 364 179,38 	 295 312,50 	 413 437,50 	 354 375,00 
+mond zu mercurio	 7 813 	 	 984 438 	 182 101,34 	 147 665,70 	 206 731,98 	 177 198,84 
+mercurio zu venus	 7 813 	 	 984 438 	 182 101,34 	 147 665,70 	 206 731,98 	 177 198,84 
+venus zu der sunnen	 23 436 	 2 952 936 	 546 234,10 	 442 940,40 	 620 116,56 	 531 528,48 
+der sunnen zu mars	 15 625 	 1 968 750 	 364 179,38 	 295 312,50 	 413 437,50 	 354 375,00 
+mars zu iupiter	 	 6 822 	 	 859 572 	 159 003,63 	 128 935,80 	 180 510,12 	 154 722,96 
+iupiter zu saturnus	 6 822 	 	 859 572 	 159 003,63 	 128 935,80 	 180 510,12 	 154 722,96 
+saturno zum firmament	 23 436 	 2 952 936 	 546 234,10 	 442 940,40 	 620 116,56 	 531 528,48 
+	 	 	 109 365 	 13 779 990 	 2 549 022,55 	 2 066 998,50 	 2 893 797,90 	 2 480 398,20 
 
-Table 3. Meyl
+sum	 	 	 107 392 	 13 531 392 	 2 503 036,89 	 2 029 708,80 	 2 841 592,32 	 2 435 650,56 
+diff	 	 	 1 973 	 	 248 598 	 45 985,66 	 37 289,70 	 52 205,58 	 44 747,64 
+~~~
+
+Table 4. Meyl
 ~~~				
 distance		World Chronicle 1493				Spec. Nat.
 			ENHG		Latin		English tr.	
@@ -50,7 +67,7 @@ saturno zum firmament	 23 436,00 	 23 436,00 	 23 436,00 	 23 437,50
 ~~~
 
 
-Table 4. Latin, $\overline{rf}=1.04$, $r=0.993$, $n=6$, $det=98.5\\%$.
+Table 5. Latin, $\overline{rf}=1.04$, $r=0.993$, $n=6$, $det=98.5\\%$.
 ~~~
 					actual		
 			km		km		rf	Object
