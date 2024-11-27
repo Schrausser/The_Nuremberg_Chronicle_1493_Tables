@@ -126,10 +126,18 @@ Alfeyev, H. H. (2003). The Trinitarian Teaching of St. Gregory Nazianzen. In *Th
 Corderius, B. (1644). *Sancti Dionysii Areopagitae Operum Omnium Quae Extant, Et Commentariorum Quibus Illustrantur* ... Lutetiae Parisorum: Apud Laurentium Cottereau.
 https://books.google.com/books?id=SzyAVTu3RI0C.
 
+De Beauvais, V. (1494). *Speculum naturale*. Venetiis: Hermannus Liechtenstein. https://books.google.com/books?id=v9yKk_tdhusC.
+
 De Billy, J. (1609). *Sancti Gregorii Nazianzeni, Cognomento theologi, opera*. Lutetiae Parisorum: Typis regiis, apud Claudium Morellum. https://books.google.com/books?id=FMtQAAAAcAAJ.
 
 Dionysius. (1350). *De Caelesti Hierarchia*. MS Gr 2. Oxford, Magdalen College: Oxford Digital Library. https://digital.bodleian.ox.ac.uk/objects/ee19a692-5066-4c84-95db-d93c4fc82b97/.
 
 Ficinus, M. (1503). *Opera Dionysii Veteris Et Nove Translationis Etiam Novissime Ipsius Marsilii Ficini Cum Commentariis Hugonis, Alberti, Thome, Ambrosii Oratoris Linconiensis Et Vercellensis. Veteris Translationis. De Celesti Hierarchia* ... Straßburg: Husner. https://doi.org/10.3931/e-rara-9747.
+
+Plinius Secundus, G. (1250). *Plinius Secundus Major, Historia Naturalis. Liber Trigesimus Septimus Manu Recentiore Suppletus Est*. Latin 6797. Paris: Bibliothèque nationale de France. https://gallica.bnf.fr/ark:/12148/btv1b550140045/.
+
+———. (1470). *Historia naturalis*. Impressum Rome: magistris Conrado Sweynheym & Arnoldo Panaratz. https://doi.org/10.3931/e-rara-74199.
+
+Rackham, H. (1967). *Pliny Natural History in Ten Volumes*. Vol. 1. Cambridge, Massachusetts: Harvard University Press. https://archive.org/details/naturalhistory01plinuoft/.
 
 Ullman, C. (1851). *Gregory of Nazianzum. The Divine. A Contribution to the Ecclesiastical History of the Fourth Century*. London: John W. Parker, West Strand. https://archive.org/details/gregoryofnazian00ullm.
