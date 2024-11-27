@@ -82,6 +82,20 @@ ad saturnum		2,0E+06
 ad signiferum		2,5E+06		3,6E+06		1,41	Iapetus (Saturn VIII)
 ~~~
 
+Table 6. ENHG, $\overline{rf}=1.04$, $r=0.991$, $n=6$, $det=98.2\\%$.
+~~~
+					actual		
+			km		km		rf	Object
+
+erd zu dem mond 	3,6E+05		3,8E+05		1,04	Earthmoon, Dione (Saturn lV)
+zu mercurio		5,5E+05		5,3E+05		0,96	Rhea (Saturn V)
+zu venus		7,3E+05		6,7E+05		0,92	Europa (Jupiter II)
+zu der sunnen		1,3E+06		1,2E+06		0,96	Titan (Saturn VI)
+zu mars			1,6E+06		1,5E+06		0,90	Hyperion (Saturn VII)
+zu iupiter		1,8E+06		1,9E+06		1,05	Callisto (Jupiter IV)
+zu saturnus		2,0E+06			
+zum firmament		2,5E+06		3,6E+06		1,42	Iapetus (Saturn VIII)
+~~~
 
 ## References
 
