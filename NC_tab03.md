@@ -1,6 +1,6 @@
 # NC_tab03.md
 
-Table 1.
+Table 1. Latin, cmp.
 ~~~
 Fol VIr												Fol Vv			Velho
 orbes mundi		natura							
@@ -26,7 +26,30 @@ I							medium		aereum
 					aque							terrA
 ~~~
 
-Table 2.
+Table 2. ENHG.
+~~~
+umbkrais, himel		natur						art	
+
+himel der trifeltigkeit	himlisch	feürigen			det rüet	
+12					cristallinischen		erst beweglich		
+							untere umbkreys		
+11					firmament			Saturnus		
+10									Iupiter		
+9									Mars		
+8									Sun[n]		
+7									Venus		
+6									Mercurius		
+5									Mond		
+4			eleme[n]tische 	feüers		obersten	feürig	
+3							mitteln		liecht	
+							understen	liecht	
+2					lufts		oberst		scheynlich	wyrm vnd das liecht von nehe wegen der sunne[n]
+1							mittel		lüftig		kelt und tunckelheit
+							underst		lüftig		wyrm vnd das liecht vo[n] wider scheyns wegen der glentz von der erden
+					erden
+~~~
+
+Table 3. Fol VIr vs. Vv.
 ~~~
 Fol VIr									Fol Vv	
 
