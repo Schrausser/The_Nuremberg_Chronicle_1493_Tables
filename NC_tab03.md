@@ -50,7 +50,7 @@ himel der trifeltigkeit	himlisch	feürigen			det rüet
 					wassers
 ~~~
 
-Table 3. Fol VIr vs. Vv.
+Table 3. Latin, Fol VIr vs. Vv.
 ~~~
 Fol VIr									Fol Vv	
 
@@ -70,3 +70,19 @@ subcelestem	in hominibus sanctis									2
 ~~~										
 ¹) Greek.  
 ²) Latin. 
+
+Table 4. ENHG.
+~~~
+überhi[m]lische				
+
+himlische	in de[n] englischen orden	oberere		seraphin	
+								cherubin	
+								tronengel	
+						mittlere	herschengel	
+								fürstengel	creftengel
+								gewaltengel	
+						undere		kreftengel	fürstengel
+								erzengel	
+								engel	
+undehi[m]lische	in heiligen mensche[n]
+~~~
