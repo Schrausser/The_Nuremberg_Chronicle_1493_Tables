@@ -47,6 +47,7 @@ himel der trifeltigkeit	himlisch	feürigen			det rüet
 1							mittel		lüftig		kelt und tunckelheit
 							underst		lüftig		wyrm vnd das liecht vo[n] wider scheyns wegen der glentz von der erden
 					erden
+					wassers
 ~~~
 
 Table 3. Fol VIr vs. Vv.
