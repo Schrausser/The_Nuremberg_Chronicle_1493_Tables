@@ -16,8 +16,9 @@ ad signiferum		1,5	7,0	7	Iapetus		VIII
 
 Table 2. Latin.
 ~~~
+			myle		stadia		km (st=0.18498km)	km			AM		mile in km CI		
+									150m		210m				s=150m	s=210m	AM
 
-						
 terram ad lunam	 	 15 625 	 1 968 750 	 364 179,38 	 295 312,50 	 413 437,50 	 354 375,00 
 luna ad mercurium	 7 813 	 	 984 375 	 182 089,69 	 147 656,25 	 206 718,75 	 177 187,50 
 ad venerem	 	 7 813 	 	 984 375 	 182 089,69 	 147 656,25 	 206 718,75 	 177 187,50 
