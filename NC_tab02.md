@@ -16,7 +16,7 @@ ad signiferum		1,5	7,0	7	Iapetus		VIII
 
 Table 2. Latin (st=0.18498km).
 ~~~
-			myle		stadia		km 		km				AM			
+			milaria		stadia		km 		km				AM			
 							st		st=0.150km	st=0.210km				
 
 terram ad lunam	 	 15 625 	 1 968 750 	 364 179,38 	 295 312,50 	 413 437,50 	 354 375,00 
@@ -51,7 +51,7 @@ sum	 	 	 107 392 	 13 531 392 	 2 503 036,89 	 2 029 708,80 	 2 841 592,32 	 2 4
 diff	 	 	 1 973 	 	 248 598 	 45 985,66 	 37 289,70 	 52 205,58 	 44 747,64 
 ~~~
 
-Table 4. Meyl
+Table 4. Milaria/Meyl
 ~~~				
 distance		World Chronicle 1493				Spec. Nat.
 			ENHG		Latin		English tr.	
