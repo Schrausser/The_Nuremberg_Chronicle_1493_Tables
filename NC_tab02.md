@@ -66,8 +66,31 @@ iupiter zu saturnus	 6 822,00 	 7 812,00 	 6 832,00 	 7 812,50
 saturno zum firmament	 23 436,00 	 23 436,00 	 23 436,00 	 23 437,50
 ~~~
 
+Table 5. kum.
+~~~	
+		 	 km 	 	 km kum	
+Latin			
+terram ad lunam	 	 364 179,38 			3,6E+05
+luna ad mercurium	 182 089,69 	 546 269,06 	1,8E+05
+ad venerem	 	 182 089,69 	 728 358,75 	1,8E+05
+ad solem	 	 522 926,62 	 1 251 285,37 	5,2E+05
+ad martem	 	 364 179,38 	 1 615 464,75 	3,6E+05
+ad iovem	 	 182 078,03 	 1 797 542,78 	1,8E+05
+ad saturnum	 	 182 078,03 	 1 979 620,81 	1,8E+05
+ad signiferum	 	 546 234,10 	 2 525 854,92 	5,5E+05
 
-Table 5. Latin, $\overline{rf}=1.04$, $r=0.993$, $n=6$, $det=98.5\\%$.
+ENHG	
+erd zu dem mond 	 364 179,38 			3,6E+05
+zu mercurio	 	 182 101,34 	 546 280,72 	1,8E+05
+zu venus	 	 182 101,34 	 728 382,06 	1,8E+05
+zu der sunnen	 	 546 234,10 	 1 274 616,16 	5,5E+05
+zu mars	 	 	 364 179,38 	 1 638 795,53 	3,6E+05
+zu iupiter	 	 159 003,63 	 1 797 799,16 	1,6E+05
+zu saturnus	 	 159 003,63 	 1 956 802,79 	1,6E+05
+zum firmament	 	 546 234,10 	 2 503 036,89 	5,5E+05
+~~~
+
+Table 6. Latin, $\overline{rf}=1.04$, $r=0.993$, $n=6$, $det=98.5\\%$.
 ~~~
 					actual		
 			km		km		rf	Object
@@ -82,7 +105,7 @@ ad saturnum		2,0E+06
 ad signiferum		2,5E+06		3,6E+06		1,41	Iapetus (Saturn VIII)
 ~~~
 
-Table 6. ENHG, $\overline{rf}=1.04$, $r=0.991$, $n=6$, $det=98.2\\%$.
+Table 7. ENHG, $\overline{rf}=1.04$, $r=0.991$, $n=6$, $det=98.2\\%$.
 ~~~
 					actual		
 			km		km		rf	Object
