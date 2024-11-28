@@ -90,13 +90,43 @@ zu saturnus	 	 159 003,63 	 1 956 802,79 	1,6E+05
 zum firmament	 	 546 234,10 	 2 503 036,89 	5,5E+05
 ~~~
 
+Table 6. diff.
+~~~
+			km				diff		factor 1/x
+			Latin		 ENHG
+
+terram ad lunam	 	364 179,38 	 364 179,38 	0,00		1,00
+luna ad mercurium	182 089,69 	 182 101,34 	11,65		1,00
+ad venerem	 	182 089,69 	 182 101,34 	11,65		1,00
+ad solem	 	522 926,62 	 546 234,10 	23 307,48	1,04
+ad martem	 	364 179,38 	 364 179,38 	0,00		1,00
+ad iovem	 	182 078,03 	 159 003,63 	-23 074,41	0,87
+ad saturnum	 	182 078,03 	 159 003,63 	-23 074,41	0,87
+ad signiferum	 	546 234,10 	 546 234,10 	0,00		1,00
+sum0	 		2 549 255,63 	 2 549 022,55 	-233,07		1,00
+sum	 		2 525 854,92 	 2 503 036,89 	-22 818,02	7,79
+am	 		315 731,86 	 312 879,61 	-2 852,25	0,97
+				
+kum				
+terram ad lunam	 	364 179,38 	 364 179,38 	0,00		1,00
+ad mercurium	 	546 269,06 	 546 280,72 	11,65		1,00
+ad venerem	 	728 358,75 	 728 382,06 	23,31		1,00
+ad solem	 	1 251 285,37 	 1 274 616,16 	23 330,79	1,02
+ad martem	 	1 615 464,75 	 1 638 795,53 	23 330,79	1,01
+ad iovem	 	1 797 542,78 	 1 797 799,16 	256,38		1,00
+ad saturnum	 	1 979 620,81 	 1 956 802,79 	-22 818,02	0,99
+ad signiferum	 	2 525 854,92 	 2 503 036,89 	-22 818,02	0,99				
+sum	 		10 808 575,81 	 10 809 892,69 	1 316,87	8,01
+am	 		1 351 071,98 	 1 351 236,59 	164,61		1,00
+~~~
+
 Table 6. Latin, $\overline{rf}=1.04$, $r=0.993$, $n=6$, $det=98.5\\%$.
 ~~~
 					actual		
 			km		km		rf	Object
 
 terram ad lunam		3,6E+05		3,8E+05		1,04	Earthmoon, Dione (Saturn IV)
-luna ad mercurium	5,5E+05		5,3E+05		0,96	Rhea (Saturn V)
+ad mercurium		5,5E+05		5,3E+05		0,96	Rhea (Saturn V)
 ad venerem		7,3E+05		6,7E+05		0,92	Europa (Jupiter II)
 ad solem		1,3E+06		1,2E+06		0,98	Titan (Saturn VI)
 ad martem		1,6E+06		1,5E+06		0,92	Hyperion (Saturn VII)
