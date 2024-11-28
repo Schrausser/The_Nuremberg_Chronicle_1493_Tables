@@ -2,7 +2,7 @@
 
 Table 1. Spec nat.
 ~~~
-			tonus	cum	 milaria	 cum
+			tonus	cum	 miliaria	 cum
 
 terram ad lunam		1,0		 15 625,00 	 15 625,00 
 luna ad mercurium	0,5	1,5	 7 812,50 	 23 437,50 
@@ -17,7 +17,7 @@ ad signiferum		1,5	7,0	 23 437,50 	 109 375,00
 
 Table 2. Latin (st=0.18498km).
 ~~~
-			milaria		stadia		km 		km				AM			
+			miliaria	stadia		km 		km				AM			
 							st		st=0.150km	st=0.210km				
 
 terram ad lunam	 	 15 625 	 1 968 750 	 364 179,38 	 295 312,50 	 413 437,50 	 354 375,00 
@@ -52,7 +52,7 @@ sum	 	 	 107 392 	 13 531 392 	 2 503 036,89 	 2 029 708,80 	 2 841 592,32 	 2 4
 diff	 	 	 1 973 	 	 248 598 	 45 985,66 	 37 289,70 	 52 205,58 	 44 747,64 
 ~~~
 
-Table 4. Milaria/Meyl
+Table 4. Miliaria/Meyl
 ~~~				
 distance		World Chronicle 1493				Spec. Nat.
 			ENHG		Latin		English tr.	
