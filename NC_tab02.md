@@ -1,17 +1,18 @@
 # NC_tab02.md
 
-Table 1.
+Table 1. Spec nat.
 ~~~
-			tone 	cum	rd	Object		Saturn	Jupiter
+			tonus	cum	 milaria	 cum
 
-terram ad lunam		1,0	1,0	1	Dione		IV	
-luna ad mercurium	0,5	1,5	2	Rhea		V	
-ad venerem		0,5	2,0	2	Europa			II
-ad solem		1,5	3,5	4	Titan		VI	
-ad martem		1,0	4,5	5	Hyperion	VII	
-ad iovem		0,5	5,0	5	Callisto		IV
-ad saturnum		0,5	5,5	6			
-ad signiferum		1,5	7,0	7	Iapetus		VIII
+terram ad lunam		1,0		 15 625,00 	 15 625,00 
+luna ad mercurium	0,5	1,5	 7 812,50 	 23 437,50 
+ad venerem		0,5	2,0	 7 812,50 	 31 250,00 
+ad solem		1,5	3,5	 23 437,50 	 54 687,50 
+ad martem		1,0	4,5	 15 625,00 	 70 312,50 
+ad iovem		0,5	5,0	 7 812,50 	 78 125,00 
+ad saturnum		0,5	5,5	 7 812,50 	 85 937,50 
+ad signiferum		1,5	7,0	 23 437,50 	 109 375,00
+
 ~~~
 
 Table 2. Latin (st=0.18498km).
@@ -148,6 +149,20 @@ zu mars			1,6E+06		1,5E+06		0,90	Hyperion (Saturn VII)
 zu iupiter		1,8E+06		1,9E+06		1,05	Callisto (Jupiter IV)
 zu saturnus		2,0E+06			
 zum firmament		2,5E+06		3,6E+06		1,42	Iapetus (Saturn VIII)
+~~~
+
+Table 8.
+~~~
+			tonus 	cum	rd	Object		Saturn	Jupiter
+
+terram ad lunam		1,0	1,0	1	Dione		IV	
+luna ad mercurium	0,5	1,5	2	Rhea		V	
+ad venerem		0,5	2,0	2	Europa			II
+ad solem		1,5	3,5	4	Titan		VI	
+ad martem		1,0	4,5	5	Hyperion	VII	
+ad iovem		0,5	5,0	5	Callisto		IV
+ad saturnum		0,5	5,5	6			
+ad signiferum		1,5	7,0	7	Iapetus		VIII
 ~~~
 
 ## References
