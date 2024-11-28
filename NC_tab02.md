@@ -15,7 +15,52 @@ ad signiferum		1,5	7,0	 23 437,50 	 109 375,00
 
 ~~~
 
-Table 2. Latin (st=0.18498km).
+Table 2. Miliaria cmp.
+~~~				
+distance		Nuremberg Chronicle 1493			 Spec. Nat.	
+			Latin		 ENHG		 English tr.	
+
+terram ad lunam	 	15 625,00 	 15 625,00 	 15 625,00 	 15 625,00 
+luna ad mercurium	7 812,50 	 7 813,00 	 7 813,00 	 7 812,50 
+ad venerem	 	7 812,50 	 7 813,00 	 7 813,00 	 7 812,50 
+ad solem	 	22 436,00 	 23 436,00 	 23 436,00 	 23 437,50 
+ad martem	 	15 625,00 	 15 625,00 	 15 625,00 	 15 625,00 
+ad iovem	 	7 812,00 	 6 822,00 	 6 832,00 	 7 812,50 
+ad saturnum	 	7 812,00 	 6 822,00 	 6 832,00 	 7 812,50 
+ad signiferum	 	23 436,00 	 23 436,00 	 23 436,00 	 23 437,50 
+				
+diff				
+terram ad lunam		0,00		0,00		0,00	 	15 625,00 
+luna ad mercurium	0,00		-0,50		-0,50	 	7 812,50 
+ad venerem		0,00		-0,50		-0,50	 	7 812,50 
+ad solem		1001,50		1,50		1,50	 	23 437,50 
+ad martem		0,00		0,00		0,00	 	15 625,00 
+ad iovem		0,50		990,50		980,50	 	7 812,50 
+ad saturnum		0,50		990,50		980,50	 	7 812,50 
+ad signiferum		1,50		1,50		1,50	 	23 437,50 
+				
+cum				
+terram ad lunam	 	15 625,00 	 15 625,00 	 15 625,00 	 15 625,00 
+ad mercurium	 	23 437,50 	 23 438,00 	 23 438,00 	 23 437,50 
+ad venerem	 	31 250,00 	 31 251,00 	 31 251,00 	 31 250,00 
+ad solem	 	53 686,00 	 54 687,00 	 54 687,00 	 54 687,50 
+ad martem	 	69 311,00 	 70 312,00 	 70 312,00 	 70 312,50 
+ad iovem	 	77 123,00 	 77 134,00 	 77 144,00 	 78 125,00 
+ad saturnum	 	84 935,00 	 83 956,00 	 83 976,00 	 85 937,50 
+ad signiferum	 	108 371,00 	 107 392,00 	 107 412,00 	 109 375,00 
+				
+cum diff				
+terram ad lunam		0,00		0,00		0,00	 	15 625,00 
+ad mercurium		0,00		-0,50		-0,50	 	23 437,50 
+ad venerem		0,00		-1,00		-1,00	 	31 250,00 
+ad solem		1001,50		0,50		0,50	 	54 687,50 
+ad martem		1001,50		0,50		0,50	 	70 312,50 
+ad iovem		1002,00		991,00		981,00	 	78 125,00 
+ad saturnum		1002,50		1981,50		1961,50	 	85 937,50 
+ad signiferum		1004,00		1983,00		1963,00	 	109 375,00
+~~~
+
+Table 3. Km Latin (st=0.18498km).
 ~~~
 			miliaria	stadia		km 		km				AM			
 							st		st=0.150km	st=0.210km				
@@ -33,7 +78,7 @@ ad signiferum	 	 23 436 	 2 952 936 	 546 234,10 	 442 940,40 	 620 116,56 	 531
 sum	 	 	 108 371 	 13 654 746 	 2 525 854,92 	 2 048 211,90 	 2 867 496,66 	 2 457 854,28 
 diff	 		 1 004 	 	 126 504 	 23 400,71 	 18 975,60 	 26 565,84 	 22 770,72
 ~~~
-Table 3. ENHG.
+Table 4. Km ENHG.
 ~~~
 			myle		stadia		km 		km				AM			
 							st		st=0.150km	st=0.210km				
@@ -50,21 +95,6 @@ saturno zum firmament	 23 436 	 2 952 936 	 546 234,10 	 442 940,40 	 620 116,56
 
 sum	 	 	 107 392 	 13 531 392 	 2 503 036,89 	 2 029 708,80 	 2 841 592,32 	 2 435 650,56 
 diff	 	 	 1 973 	 	 248 598 	 45 985,66 	 37 289,70 	 52 205,58 	 44 747,64 
-~~~
-
-Table 4. Miliaria/Meyl
-~~~				
-distance		World Chronicle 1493				Spec. Nat.
-			ENHG		Latin		English tr.	
-
-erd zu dem mond 	 15 625,00 	 15 625,00 	 15 625,00 	 15 625,00 
-mond zu mercurio	 7 813,00 	 7 812,50 	 7 813,00 	 7 812,50 
-mercurio zu venus	 7 813,00 	 7 812,50 	 7 813,00 	 7 812,50 
-venus zu der sunnen	 23 436,00 	 22 436,00 	 23 436,00 	 23 437,50 
-der sunnen zu mars	 15 625,00 	 15 625,00 	 15 625,00 	 15 625,00 
-mars zu iupiter		 6 822,00 	 7 812,00 	 6 832,00 	 7 812,50 
-iupiter zu saturnus	 6 822,00 	 7 812,00 	 6 832,00 	 7 812,50 
-saturno zum firmament	 23 436,00 	 23 436,00 	 23 436,00 	 23 437,50
 ~~~
 
 Table 5. kum.
