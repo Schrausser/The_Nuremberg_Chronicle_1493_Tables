@@ -112,4 +112,20 @@ function	Latin		object							kind
 				stars							moisture
 ~~~
 
+>"Ornauit igitur eo die deus aerem [et] aquam: volatilia dans aeri: natalilia aquis: q[uae] reptilia dicuntur:", ().
+
+>" [...] an disem tag den lufft vn[d] das wasser gezieret. den luft mit de[m] geflügel. vn[d] die wasser mit den schwimme[n]de[n] dinge[n].", ().
+
+>"God adorned the air and the water, the air with fowl and the water with swimming creatures;", ().
+
+Table 7. The creatures are by Moses and Thimeo divided into three classes.	
+~~~
+	Latin			ENHG			Eng. tr.
+
+1	volatilia		in dez lufft		air
+2	aquis dege[n]tia	in wassern		water
+3	terrestria		auff der erden		land
+~~~
+
+
 ## References
