@@ -61,6 +61,21 @@ sphere	Fol. VIr		Latin						ENHG							Eng. tr.
 ¹) "Isaac the Wise [...] holds that the tenth heaven was identified by Ezekiel through the zaphirum, in the similitude of a throne."  
 ²) "primusq[ue] est inter corpora que mouentur", "die erst undter den beweglichen leiplichen dingen", "the first among movable corporeal things."
 
+>"Post firmamentum de elementorum integritate: [et] positura: [et] ordine: nos breuiter admonet per collectionem aquarum ad locum vnum: [et] prescriptas mari leges ne terram obruat.", ().
 
+>"Nach de[m] firmament vermanet er uns von d[er] genzigkeit geleger vn[d] ordnu[n]g d[er] eleme[n]t kürtzlich durch versamlung d[er] wasser an ein stat vnd durch die zile de[m] meer fürgesteckt das es die erde[n] nit uberfiele.", ().
+
+>"After the creation of the firmament Moses calls our attention to the completeness, location, and order of the elements.", ().
+
+Table 5. 
+~~~
+Latin		ENHG		Engl. tr.	
+mare		meer		sea	
+
+indicum		iüdisch		Hebrew		Indian Ocean (Indicum[!] Mare)
+hircanum	hircanisch	Hyrcanian	Caspian Sea (Hyrcanian Ocean)
+adriacum	adriatisch	Adriatic	Adriatic Sea, Ionian Sea (Mare Adriaticum)
+Euxinum		euxinisch	Euxine		Black Sea (Póntos Áxeinos)
+~~~
 
 ## References
