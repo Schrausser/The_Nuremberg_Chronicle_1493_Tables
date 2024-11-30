@@ -127,5 +127,20 @@ Table 7. The creatures are by Moses and Thimeo divided into three classes.
 3	terrestria		auff der erden		land
 ~~~
 
+>"Ornatis sup[er]iorib[us] mu[n]di p[er]tib[us] ta[n]de[m] sexta die terra[m] generib[us] a[n]i[m]aliu[m] ornauit.", ().
+
+>"Als nw got die obern teil der werlt geziert hat do zieret er zu letzt am sechte[n] tag die erde[n] mit de[n] geschlechte[n] der thier.", ().
+
+>"Having adorned the upper part of the world, God finally, on the sixth day, provided the earth with species of animals.", ().
+
+Table 8. Inter a[n]i[m]alia terre tria memorat moyses.
+~~~
+
+~~~
+
+Table 9. De (trib[us]) mu[n]dis.
+~~~
+
+~~~
 
 ## References
