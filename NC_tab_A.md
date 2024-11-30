@@ -24,5 +24,23 @@ Parts, days	Latin			ENHG			Engl. tr.
 4,5,6		ornatum			zierung			adornment
 ~~~
 
+>"Gl[or]iosus e[ni]m de[us]. q[ui] e[st] vera lux. luce[m]q[ue] dilige[n]s. o[mn]ia in luce facie[n]s.", ().
+
+>" [...] dan[n] d[er] glori wirdig got (der das war liecht ist) vnd das liecht liebett hat alle ding im liecht machende. das geschöpff der werlt am liecht gar recht angefange[n].", ().
+
+> " [...] for the glorious God, who is the true light, and who loves the light and made all light-giving things, very fitly began the creation with light.", ().
+
+Table 3. 
+~~~
+Latin			ENHG			Engl. tr .
+
+materia[m] informe[m]	unförmlich materie	shapeless matter
+Angelos			die engel		the angels
+Celu[m]			die himel		the heavens
+#Luce[m]		das liecht		the light
+terra[m]		die erden		the earth
+aqua[m]			das wasser		(water)
+aerem			den luft		(air)
+~~~
 
 ## References
