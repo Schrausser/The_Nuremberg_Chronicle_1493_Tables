@@ -78,4 +78,38 @@ adriacum	adriatisch	Adriatic	Adriatic Sea, Ionian Sea (Mare Adriaticum)
 Euxinum		euxinisch	Euxine		Black Sea (Póntos Áxeinos)
 ~~~
 
+>" [...] posuit de[us] in firmame[n]to vt lucere[n]t in celo: [et] terra[m] illuminare[n]t sole[m] videlicet luna[m] [et] stellas: quib[us] ip[s]a sup[er]ior mundi p[ar]s ornat[ur]: vti terra ornat[ur] bis q[uae] in ea fiunt metallis: pla[n]tis: a[n]i[m]antib[us].", ().
+
+>" [...] ding die got gesetzt hat in de[m] firmament zescheine[n] an de[m] himel. vn[d] zeerlewchte[n] d[er] erde[n]. als die sunne[n]. de[n] mo[n]d. vnd die stern. mit de[n] d[er] oberteil d[er] werlt geziert wirdt. wie die erden mit de[n] dinge[n] die in ir werde[n].", ().
+
+>"God set in the firmament to shine in the heavens and to give light to the earth; as the sun, the moon and the stars with which the upper part of the world is adorned, just like the earth is adorned with the things that grow in it.", ().
+
+Table 6. Heavenly corporeal bodies have two apparent functions.	
+~~~
+function	Latin		object							kind
+
+1		mot[us]		
+				mu[n]di totius q[uo] celu[m] [et] ether 		.24. horis
+				Sol, sidera						.xij. mensiu[m], multiplex [et] varius
+2		illumi[n]atio		
+				Sol							calor
+				sidera							humor
+		ENHG		
+
+1		bewegnus		
+				ga[n]tze[n] werlt, himel, spera des lufts, feüers	.xxiiij. stu[n]de[n]
+				sun[n], gestirn						xij. monaten, vilfeltig vnd ma[n]cherlay
+2		erlewchtu[n]g		
+				sun[n]							wirm
+				sterne							feüchtigkeit
+		Engl. tr.		
+
+1		motion		
+				whole world, heaven, sphere, air, fire			twenty-four hours
+				Sun, stars						twelve months, manifold and various
+2		give light		
+				Sun							warmth
+				stars							moisture
+~~~
+
 ## References
