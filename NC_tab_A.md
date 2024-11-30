@@ -135,7 +135,13 @@ Table 7. The creatures are by Moses and Thimeo divided into three classes.
 
 Table 8. Inter a[n]i[m]alia terre tria memorat moyses.
 ~~~
+typ				
+	Latin		ENHG		Eng. tr.		
+	animalia	thier		animals		
 
+1	iumenta		iohthier	beasts of burden	between animals and man			some measure of understanding
+3	bestias		wildthier	wild animals		middle ground among irrational animals	perfect imagination and fantasy
+2	reptilia	kriechende	creeping animals	between animals and plants		imperfect imagination and fantasy
 ~~~
 
 Table 9. De (trib[us]) mu[n]dis.
