@@ -20,7 +20,7 @@ Table 2. " [...] work is of divine perfection and is expressed in the figure six
 Parts, days	Latin			ENHG			Engl. tr.
 
 1		creatione[m]		beschöpfung		creation
-2,3		dispositione[m]		ordnung, schickung		order
+2,3		dispositione[m]		ordnung, schickung	order
 4,5,6		ornatum			zierung			adornment
 ~~~
 
