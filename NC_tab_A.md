@@ -43,13 +43,23 @@ aqua[m]			das wasser		(water)
 aerem			den luft		(air)
 ~~~
 
+Table 4. 
+~~~
+Latin			ENHG		Engl. tr .
+
+orientem		auffgang	East (Aufgang, or rise)
+occidentem		nidergang	West (Niedergang, decline)
+meridie[m]		mittag		South (Mittag, noon)
+septe[m]trione[m]	mitternacht	North (Mitternacht, midnight)
+~~~
+
 >" Fecit e[ni]m deus firmamentum rotundum mobile cetera sensibilia continens.", ().
 
 >" Got hat das firmament gescheibelt. beweglich. andere empfintliche dig begreiffende gemacht.", ().
 
 >"God divided the firmament and made it movable; and he made other sensitive things comprehensible.", ().
 
-Table 4.
+Table 5.
 ~~~
 sphere	Fol. VIr		Latin						ENHG							Eng. tr.
 
@@ -67,7 +77,7 @@ sphere	Fol. VIr		Latin						ENHG							Eng. tr.
 
 >"After the creation of the firmament Moses calls our attention to the completeness, location, and order of the elements.", ().
 
-Table 5. 
+Table 6. 
 ~~~
 Latin		ENHG		Engl. tr.	
 mare		meer		sea	
@@ -84,7 +94,7 @@ Euxinum		euxinisch	Euxine		Black Sea (Póntos Áxeinos)
 
 >"God set in the firmament to shine in the heavens and to give light to the earth; as the sun, the moon and the stars with which the upper part of the world is adorned, just like the earth is adorned with the things that grow in it.", ().
 
-Table 6. Heavenly corporeal bodies have two apparent functions.	
+Table 7. Heavenly corporeal bodies have two apparent functions.	
 ~~~
 function	Latin		object							kind
 
@@ -118,7 +128,7 @@ function	Latin		object							kind
 
 >"God adorned the air and the water, the air with fowl and the water with swimming creatures;", ().
 
-Table 7. The creatures are by Moses and Thimeo divided into three classes.	
+Table 8. The creatures are by Moses and Thimeo divided into three classes.	
 ~~~
 	Latin			ENHG			Eng. tr.
 
@@ -133,7 +143,7 @@ Table 7. The creatures are by Moses and Thimeo divided into three classes.
 
 >"Having adorned the upper part of the world, God finally, on the sixth day, provided the earth with species of animals.", ().
 
-Table 8. Inter a[n]i[m]alia terre tria memorat moyses.
+Table 9. Inter a[n]i[m]alia terre tria memorat moyses.
 ~~~
 typ				
 	Latin		ENHG		Eng. tr.		
@@ -144,7 +154,7 @@ typ
 2	reptilia	kriechende	creeping animals	between animals and plants		imperfect imagination and fantasy
 ~~~
 
-Table 9. De (trib[us]) mu[n]dis.
+Table 10. De (trib[us]) mu[n]dis.
 ~~~
 	Latin			ENHG			Eng. tr.
 
