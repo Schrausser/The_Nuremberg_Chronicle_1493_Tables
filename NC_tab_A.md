@@ -1,12 +1,44 @@
 # NC_tab_A.md
 
+>" [...] a mu[n]di fabrica: ac prima hominu[m] generatione: duplex opinio fert[ur].", ().
+
+>" [...] vo[n] geschopff der werlt. vnd vo[n] erster geburt der menschen zwayerlay wone ist.", ().
+
+>" [...] of the creation of the world and [...] of the birth of man [...] two different accounts exist [...] ", ().
+
+
+Table 1.
+~~~
+
+~~~
+
+> "Tres mundos figurat antiquitas [...] ", ().
+
+> "Die alte[n] habe[n] von dreyerlay werlt gesagt [...] ", ().
+
+> "The ancients spoke of three kinds of worlds [...] ", ().
+
+
+
+Table 2.
+~~~
+
+~~~
+1) which the theologians call "of the angels" or "angelic", whereas  philosophers call it "the intellectual".
+
+>"De his quatuor mundis moyses sufficienter differuit [...] ", ().
+
+>"Vo[n] dise[n] dreye[n] werlte[n] hat moyses genugsa[m]lich gesagt [...]", ().
+
+>"And all this according to Moses [...]", ().
+
 >" [...] fecit p[ri]mu[m] o[mn]i[u]m celu[m]: et i[n] s[u]blime suspe[n]dit: q[uo]d e[ss]et sedes ipsi[us] dei [con]ditoris: deinde terra[m] fundavit: ac celo s[u]bdidit.", ().
 
 >" [...] zu allererst de[n] himel zeseyn einen stul desselbe[n] gottes des schöpffers gemacht vnd in die höhe auffgehenkt vn[d] dar nach die erde[n] gestifftet vnd de[n] himel vnderworffe[n] hat.", ().
 
 >" [...] first made of heaven a throne for himself as Creator, and raised it on high; and thereafter he established the earth and subordinated it to heaven.", ().
 
-Table 1. "When Moses states that God created, etc, he abrogates the errors of Plato, Aristotle, and Epicurus.", ().
+Table 3. "When Moses states that God created, etc, he abrogates the errors of Plato, Aristotle, and Epicurus.", ().
 ~~~
 Err	Plato							Moses
 
@@ -15,7 +47,7 @@ Err	Plato							Moses
 3	God [...] Yle, have existed for all time		the Spirit of the Lord [...] moved over the waters [...] who orders all things done
 ~~~
 
-Table 2. " [...] work is of divine perfection and is expressed in the figure six, whose component parts are 1, 2, and 3.", ().
+Table 4. " [...] work is of divine perfection and is expressed in the figure six, whose component parts are 1, 2, and 3.", ().
 ~~~
 Parts, days	Latin			ENHG			Engl. tr.
 
@@ -30,7 +62,7 @@ Parts, days	Latin			ENHG			Engl. tr.
 
 > " [...] for the glorious God, who is the true light, and who loves the light and made all light-giving things, very fitly began the creation with light.", ().
 
-Table 3. 
+Table 5. 
 ~~~
 Latin			ENHG			Engl. tr .
 
@@ -43,7 +75,7 @@ aqua[m]			das wasser		(water)
 aerem			den luft		(air)
 ~~~
 
-Table 4. 
+Table 6. 
 ~~~
 Latin			ENHG		Engl. tr .
 
@@ -59,7 +91,7 @@ septe[m]trione[m]	mitternacht	North (Mitternacht, midnight)
 
 >"God divided the firmament and made it movable; and he made other sensitive things comprehensible.", ().
 
-Table 5.
+Table 7.
 ~~~
 sphere	Fol. VIr		Latin						ENHG							Eng. tr.
 
@@ -77,7 +109,7 @@ sphere	Fol. VIr		Latin						ENHG							Eng. tr.
 
 >"After the creation of the firmament Moses calls our attention to the completeness, location, and order of the elements.", ().
 
-Table 6. 
+Table 8. 
 ~~~
 Latin		ENHG		Engl. tr.	
 mare		meer		sea	
@@ -94,7 +126,7 @@ Euxinum		euxinisch	Euxine		Black Sea (Póntos Áxeinos)
 
 >"God set in the firmament to shine in the heavens and to give light to the earth; as the sun, the moon and the stars with which the upper part of the world is adorned, just like the earth is adorned with the things that grow in it.", ().
 
-Table 7. Heavenly corporeal bodies have two apparent functions.	
+Table 9. Heavenly corporeal bodies have two apparent functions.	
 ~~~
 function	Latin		object							kind
 
@@ -128,7 +160,7 @@ function	Latin		object							kind
 
 >"God adorned the air and the water, the air with fowl and the water with swimming creatures;", ().
 
-Table 8. The creatures are by Moses and Thimeo divided into three classes.	
+Table 10. The creatures are by Moses and Thimeo divided into three classes.	
 ~~~
 	Latin			ENHG			Eng. tr.
 
@@ -143,7 +175,7 @@ Table 8. The creatures are by Moses and Thimeo divided into three classes.
 
 >"Having adorned the upper part of the world, God finally, on the sixth day, provided the earth with species of animals.", ().
 
-Table 9. Inter a[n]i[m]alia terre tria memorat moyses.
+Table 11. Inter a[n]i[m]alia terre tria memorat moyses.
 ~~~
 typ				
 	Latin		ENHG		Eng. tr.		
@@ -154,7 +186,7 @@ typ
 2	reptilia	kriechende	creeping animals	between animals and plants		imperfect imagination and fantasy
 ~~~
 
-Table 10. De (trib[us]) mu[n]dis.
+Table 12. De (trib[us]) mu[n]dis.
 ~~~
 	Latin			ENHG			Eng. tr.
 
