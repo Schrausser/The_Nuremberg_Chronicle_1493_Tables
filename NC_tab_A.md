@@ -67,6 +67,7 @@ Engl. tr.	world
 su[n]t ip[s]e ma[n]dau[it] [et]  
 creata su[n]t  
 Ps[alm] 32" [^1], (Schedel, 1493, fol. Iv; Schedel & Alt, 1493, 1496, fol. 1v; Hadawas, 2023, p. 3).
+
 [^1]: Psalm 32 according to the Greek (Septuagint) count, otherwise (Hebrew, Masoretic) Psalm 33, see e.g. Jiménez de Cisneros (1517, fol. BVv), Ulrich & Holzhalb (1756, Das Buch der Psalmen, p. 47), Christian Standard Bible (2017).
   
 >" [...] fecit p[ri]mu[m] o[mn]i[u]m celu[m]: et i[n] s[u]blime suspe[n]dit: q[uo]d e[ss]et sedes ipsi[us] dei [con]ditoris: deinde terra[m] fundavit: ac celo s[u]bdidit.", (Schedel, 1493, fol. IIr).
