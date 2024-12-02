@@ -1,6 +1,6 @@
 # NC_tab_A.md
 
->" [...] a mu[n]di fabrica: ac prima hominu[m] generatione: duplex opinio fert[ur].", ().
+>" [...] a mu[n]di fabrica: ac prima hominu[m] generatione: duplex opinio fert[ur].", (Schedel, 1493, fol. Ir).
 
 >" [...] vo[n] geschopff der werlt. vnd vo[n] erster geburt der menschen zwayerlay wone ist.", ().
 
@@ -28,7 +28,7 @@ Engl. tr.
 					had no origin				from birth
 ~~~
 
-> "Tres mundos figurat antiquitas [...] ", ().
+> "Tres mundos figurat antiquitas [...] ", (Schedel, 1493, fol. Ir).
 
 > "Die alte[n] habe[n] von dreyerlay werlt gesagt [...] ", ().
 
@@ -56,13 +56,13 @@ Engl. tr.	world
 ~~~
 ¹) which the theologians call *of the angels* or *angelic*, whereas  philosophers call it *the intellectual*.
 
->"De his quatuor mundis moyses sufficienter differuit [...] ", ().
+>"De his quatuor mundis moyses sufficienter differuit [...] ", (Schedel, 1493, fol. Ir).
 
 >"Vo[n] dise[n] dreye[n] werlte[n] hat moyses genugsa[m]lich gesagt [...]", ().
 
 >"And all this according to Moses [...]", ().
 
->" [...] fecit p[ri]mu[m] o[mn]i[u]m celu[m]: et i[n] s[u]blime suspe[n]dit: q[uo]d e[ss]et sedes ipsi[us] dei [con]ditoris: deinde terra[m] fundavit: ac celo s[u]bdidit.", ().
+>" [...] fecit p[ri]mu[m] o[mn]i[u]m celu[m]: et i[n] s[u]blime suspe[n]dit: q[uo]d e[ss]et sedes ipsi[us] dei [con]ditoris: deinde terra[m] fundavit: ac celo s[u]bdidit.", (Schedel, 1493, fol. IIr).
 
 >" [...] zu allererst de[n] himel zeseyn einen stul desselbe[n] gottes des schöpffers gemacht vnd in die höhe auffgehenkt vn[d] dar nach die erde[n] gestifftet vnd de[n] himel vnderworffe[n] hat.", ().
 
@@ -86,7 +86,7 @@ Parts, days	Latin			ENHG			Engl. tr.
 4,5,6		ornatum			zierung			adornment
 ~~~
 
->"Gl[or]iosus e[ni]m de[us]. q[ui] e[st] vera lux. luce[m]q[ue] dilige[n]s. o[mn]ia in luce facie[n]s.", ().
+>"Gl[or]iosus e[ni]m de[us]. q[ui] e[st] vera lux. luce[m]q[ue] dilige[n]s. o[mn]ia in luce facie[n]s.", (Schedel, 1493, fol. IIv).
 
 >" [...] dan[n] d[er] glori wirdig got (der das war liecht ist) vnd das liecht liebett hat alle ding im liecht machende. das geschöpff der werlt am liecht gar recht angefange[n].", ().
 
@@ -115,7 +115,7 @@ meridie[m]		mittag		South (Mittag, noon)
 septe[m]trione[m]	mitternacht	North (Mitternacht, midnight)
 ~~~
 
->" Fecit e[ni]m deus firmamentum rotundum mobile cetera sensibilia continens.", ().
+>" Fecit e[ni]m deus firmamentum rotundum mobile cetera sensibilia continens.", (Schedel, 1493, fol. IIIr).
 
 >" Got hat das firmament gescheibelt. beweglich. andere empfintliche dig begreiffende gemacht.", ().
 
