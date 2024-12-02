@@ -67,7 +67,7 @@ Engl. tr.	world
 su[n]t ip[s]e ma[n]dau[it] [et]  
 creata su[n]t  
 Ps[alm] 32" [^1], (Schedel, 1493, fol. Iv; Schedel & Alt, 1493, 1496, fol. 1v; Hadawas, 2023, p. 3).
-[^1]: Psalm 32 according to the Greek (Septuagint) count, otherwise (Hebrew, Masoretic) Psalm 33, see e.g. Christian Standard Bible (2017).
+[^1]: Psalm 32 according to the Greek (Septuagint) count, otherwise (Hebrew, Masoretic) Psalm 33, see e.g. Ulrich & Holzhalb (1756, p. 47), Christian Standard Bible (2017).
   
 >" [...] fecit p[ri]mu[m] o[mn]i[u]m celu[m]: et i[n] s[u]blime suspe[n]dit: q[uo]d e[ss]et sedes ipsi[us] dei [con]ditoris: deinde terra[m] fundavit: ac celo s[u]bdidit.", (Schedel, 1493, fol. IIr).
 
@@ -245,3 +245,5 @@ Schedel, H., & Alt, G. (tr.). (1493). *Buch der Chroniken und geschichten mit fi
 https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218.
 
 ———. (1496). *Das buch Der croniken unnd geschichten mit figuren und pildnussen von Anbeginn der welt bis auff diese unsere Zeyt*. Augsburg: Johann Schönsperger. https://doi.org/10.3931/e-rara-69075.
+
+Ulrich, J. C., & Holzhalb, J. R. (1756). *Biblia, das ist, die ganze Heilige Schrift Alten und Neuen Testaments, aus den Grundsprachen treulich wol verteutschet*. Zürich: bey Conrad Orell und Comp. https://doi.org/10.3931/e-rara-65699.
