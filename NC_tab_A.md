@@ -67,7 +67,7 @@ Engl. tr.	world
 su[n]t ip[s]e ma[n]dau[it] [et]  
 creata su[n]t  
 Ps[alm] 32" [^1], (Schedel, 1493, fol. Iv; Schedel & Alt, 1493, 1496, fol. 1v; Hadawas, 2023, p. 3).
-[^1]: Psalm 32 according to the Greek (Septuagint) count, otherwise (Hebrew, Masoretic) Psalm 33, see e.g. Ulrich & Holzhalb (1756, p. 47), Christian Standard Bible (2017).
+[^1]: Psalm 32 according to the Greek (Septuagint) count, otherwise (Hebrew, Masoretic) Psalm 33, see e.g. Jiménez de Cisneros (1517, fol. BVv), Ulrich & Holzhalb (1756, p. 47), Christian Standard Bible (2017).
   
 >" [...] fecit p[ri]mu[m] o[mn]i[u]m celu[m]: et i[n] s[u]blime suspe[n]dit: q[uo]d e[ss]et sedes ipsi[us] dei [con]ditoris: deinde terra[m] fundavit: ac celo s[u]bdidit.", (Schedel, 1493, fol. IIr).
 
@@ -238,6 +238,8 @@ Table 12. De (trib[us]) mu[n]dis.
 Christian Standard Bible (CSB): Psalm 33:9. (2017). Holman Bible Publishers. https://www.biblegateway.com/passage/?search=Psalm%2033&version=CSB.
 
 Hadavas, K. (2023). *First English edition of the Nuremberg chronicle : being the Liber chronicarum of Dr. Hartmann Schedel*. Edited by Hadavas, K. UW–Madison TEI edition. Madison, Wisconsin: University of Wisconsin–Madison Libraries. https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J.
+
+Jiménez de Cisneros, F. (1517). *Biblia Polyglotta Complutensis*. Complutum: Arnaldo Guillén de Brocar. https://doi.org/10.3931/e-rara-46695.
 
 Schedel, H. (1493). *Liber chronicarum cum figuris et ymagibus ab inicio mundi*. Nuremberge: Antonius Koberger. https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024.
 
