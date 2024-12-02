@@ -227,3 +227,12 @@ Table 12. De (trib[us]) mu[n]dis.
 ~~~
 
 ## References
+
+Hadavas, K. (2023). *First English edition of the Nuremberg chronicle : being the Liber chronicarum of Dr. Hartmann Schedel*. Edited by Hadavas, K. UW–Madison TEI edition. Madison, Wisconsin: University of Wisconsin–Madison Libraries. https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J.
+
+Schedel, H. (1493). *Liber chronicarum cum figuris et ymagibus ab inicio mundi*. Nuremberge: Antonius Koberger. https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024.
+
+Schedel, H., & Alt, G. (tr.). (1493). *Buch der Chroniken und geschichten mit figure und pildnüssen von anbegin der welt bis auf diese unsere Zeit*. Nuremberge: Antonius Koberger.
+https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218.
+
+———. (1496). *Das buch Der croniken unnd geschichten mit figuren und pildnussen von Anbeginn der welt bis auff diese unsere Zeyt*. Augsburg: Johann Schönsperger. https://doi.org/10.3931/e-rara-69075.
