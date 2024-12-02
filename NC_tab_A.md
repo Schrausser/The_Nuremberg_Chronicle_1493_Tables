@@ -112,6 +112,12 @@ aqua[m]			das wasser		(water)
 aerem			den luft		(air)
 ~~~
 
+See in this context *De iis, quæ in sublimi cernuntur* and *De Mundo* in the presentation and translation of the phenomena of Aratus by Petavius ​​(1630):
+
+>" [...] Ros est humor puriori allapsus ex æthere, [...] tenuissima substantiæ diffusio, suapte natura calida, & splendida: ac primigenia lux [...] Aër [...] communicatum aliunde calorem, ac lumen [...] ex æthere compactum [...] ", (Petavius, 1630, p. 261-262)
+
+>Dew is pure moisture falling out from *the ether*, the thinnest substance diffusion, of natural warmth and radiance - *the original light*. Air shares warmth and condenses luminosity from the Ether.
+
 Table 6. 
 ~~~
 Latin			ENHG		Engl. tr .
