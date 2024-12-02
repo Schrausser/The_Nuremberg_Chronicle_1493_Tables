@@ -4,7 +4,7 @@
 
 >" [...] vo[n] geschopff der werlt. vnd vo[n] erster geburt der menschen zwayerlay wone ist.", (Schedel & Alt, 1493, 1496, fol. 1r).
 
->" [...] of the creation of the world and [...] of the birth of man [...] two different accounts exist [...] ", ().
+>" [...] of the creation of the world and [...] of the birth of man [...] two different accounts exist [...] ", (Hadawas, 2023, p. ).
 
 
 Table 1.
@@ -32,7 +32,7 @@ Engl. tr.
 
 > "Die alte[n] habe[n] von dreyerlay werlt gesagt [...] ", (Schedel & Alt, 1493, 1496, fol. 1r).
 
-> "The ancients spoke of three kinds of worlds [...] ", ().
+> "The ancients spoke of three kinds of worlds [...] ", (Hadawas, 2023, p. ).
 
 Table 2.
 ~~~
@@ -60,15 +60,15 @@ Engl. tr.	world
 
 >"Vo[n] dise[n] dreye[n] werlte[n] hat moyses genugsa[m]lich gesagt [...]", (Schedel & Alt, 1493, 1496, fol. 1r).
 
->"And all this according to Moses [...]", ().
+>"And all this according to Moses [...]", (Hadawas, 2023, p. ).
 
 >" [...] fecit p[ri]mu[m] o[mn]i[u]m celu[m]: et i[n] s[u]blime suspe[n]dit: q[uo]d e[ss]et sedes ipsi[us] dei [con]ditoris: deinde terra[m] fundavit: ac celo s[u]bdidit.", (Schedel, 1493, fol. IIr).
 
 >" [...] zu allererst de[n] himel zeseyn einen stul desselbe[n] gottes des schöpffers gemacht vnd in die höhe auffgehenkt vn[d] dar nach die erde[n] gestifftet vnd de[n] himel vnderworffe[n] hat.", (Schedel & Alt, 1493, 1496, fol. IIr).
 
->" [...] first made of heaven a throne for himself as Creator, and raised it on high; and thereafter he established the earth and subordinated it to heaven.", ().
+>" [...] first made of heaven a throne for himself as Creator, and raised it on high; and thereafter he established the earth and subordinated it to heaven.", (Hadawas, 2023, p. ).
 
-Table 3. "When Moses states that God created, etc, he abrogates the errors of Plato, Aristotle, and Epicurus.", ().
+Table 3. "When Moses states that God created, etc, he abrogates the errors of Plato, Aristotle, and Epicurus.", (Hadawas, 2023, p. ).
 ~~~
 Err	Plato							Moses
 
@@ -77,7 +77,7 @@ Err	Plato							Moses
 3	God [...] Yle, have existed for all time		the Spirit of the Lord [...] moved over the waters [...] who orders all things done
 ~~~
 
-Table 4. " [...] work is of divine perfection and is expressed in the figure six, whose component parts are 1, 2, and 3.", ().
+Table 4. " [...] work is of divine perfection and is expressed in the figure six, whose component parts are 1, 2, and 3.", (Hadawas, 2023, p. ).
 ~~~
 Parts, days	Latin			ENHG			Engl. tr.
 
@@ -90,7 +90,7 @@ Parts, days	Latin			ENHG			Engl. tr.
 
 >" [...] dan[n] d[er] glori wirdig got (der das war liecht ist) vnd das liecht liebett hat alle ding im liecht machende. das geschöpff der werlt am liecht gar recht angefange[n].", (Schedel & Alt, 1493, 1496, fol. IIv).
 
-> " [...] for the glorious God, who is the true light, and who loves the light and made all light-giving things, very fitly began the creation with light.", ().
+> " [...] for the glorious God, who is the true light, and who loves the light and made all light-giving things, very fitly began the creation with light.", (Hadawas, 2023, p. ).
 
 Table 5. 
 ~~~
@@ -119,7 +119,7 @@ septe[m]trione[m]	mitternacht	North (Mitternacht, midnight)
 
 >" Got hat das firmament gescheibelt. beweglich. andere empfintliche dig begreiffende gemacht.", (Schedel & Alt, 1493, 1496, fol. IIIr).
 
->"God divided the firmament and made it movable; and he made other sensitive things comprehensible.", ().
+>"God divided the firmament and made it movable; and he made other sensitive things comprehensible.", (Hadawas, 2023, p. ).
 
 Table 7.
 ~~~
@@ -137,7 +137,7 @@ sphere	Fol. VIr		Latin						ENHG							Eng. tr.
 
 >"Nach de[m] firmament vermanet er uns von d[er] genzigkeit geleger vn[d] ordnu[n]g d[er] eleme[n]t kürtzlich durch versamlung d[er] wasser an ein stat vnd durch die zile de[m] meer fürgesteckt das es die erde[n] nit uberfiele.", (Schedel & Alt, 1493, 1496, fol. IIIv).
 
->"After the creation of the firmament Moses calls our attention to the completeness, location, and order of the elements.", ().
+>"After the creation of the firmament Moses calls our attention to the completeness, location, and order of the elements.", (Hadawas, 2023, p. ).
 
 Table 8. 
 ~~~
@@ -154,7 +154,7 @@ Euxinum		euxinisch	Euxine		Black Sea (Póntos Áxeinos)
 
 >" [...] ding die got gesetzt hat in de[m] firmament zescheine[n] an de[m] himel. vn[d] zeerlewchte[n] d[er] erde[n]. als die sunne[n]. de[n] mo[n]d. vnd die stern. mit de[n] d[er] oberteil d[er] werlt geziert wirdt. wie die erden mit de[n] dinge[n] die in ir werde[n].", (Schedel & Alt, 1493, 1496, fol. IIIIr).
 
->"God set in the firmament to shine in the heavens and to give light to the earth; as the sun, the moon and the stars with which the upper part of the world is adorned, just like the earth is adorned with the things that grow in it.", ().
+>"God set in the firmament to shine in the heavens and to give light to the earth; as the sun, the moon and the stars with which the upper part of the world is adorned, just like the earth is adorned with the things that grow in it.", (Hadawas, 2023, p. ).
 
 Table 9. Heavenly corporeal bodies have two apparent functions.	
 ~~~
@@ -188,7 +188,7 @@ function	Latin		object							kind
 
 >" [...] an disem tag den lufft vn[d] das wasser gezieret. den luft mit de[m] geflügel. vn[d] die wasser mit den schwimme[n]de[n] dinge[n].", (Schedel & Alt, 1493, 1496, fol. IIIIv).
 
->"God adorned the air and the water, the air with fowl and the water with swimming creatures;", ().
+>"God adorned the air and the water, the air with fowl and the water with swimming creatures;", (Hadawas, 2023, p. ).
 
 Table 10. The creatures are by Moses and Thimeo divided into three classes.	
 ~~~
@@ -203,7 +203,7 @@ Table 10. The creatures are by Moses and Thimeo divided into three classes.
 
 >"Als nw got die obern teil der werlt geziert hat do zieret er zu letzt am sechte[n] tag die erde[n] mit de[n] geschlechte[n] der thier.", (Schedel & Alt, 1493, 1496, fol. Vr).
 
->"Having adorned the upper part of the world, God finally, on the sixth day, provided the earth with species of animals.", ().
+>"Having adorned the upper part of the world, God finally, on the sixth day, provided the earth with species of animals.", (Hadawas, 2023, p. ).
 
 Table 11. Inter a[n]i[m]alia terre tria memorat moyses.
 ~~~
