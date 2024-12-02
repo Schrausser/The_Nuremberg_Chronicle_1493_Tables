@@ -256,4 +256,6 @@ https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/
 
 ———. (1496). *Das buch Der croniken unnd geschichten mit figuren und pildnussen von Anbeginn der welt bis auff diese unsere Zeyt*. Augsburg: Johann Schönsperger. https://doi.org/10.3931/e-rara-69075.
 
+Schrausser, D. G. (2024). Schrausser/Uranologion-Tables: 1.0. Zenodo. https://doi.org/10.5281/zenodo.10691681.
+
 Ulrich, J. C., & Holzhalb, J. R. (1756). *Biblia, das ist, die ganze Heilige Schrift Alten und Neuen Testaments, aus den Grundsprachen treulich wol verteutschet*. Zürich: bey Conrad Orell und Comp. https://doi.org/10.3931/e-rara-65699.
