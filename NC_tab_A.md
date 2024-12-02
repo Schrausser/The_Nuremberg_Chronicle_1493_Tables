@@ -144,8 +144,8 @@ sphere	Fol. VIr		Latin						ENHG							Eng. tr.
 8				inerrantem					die unirrende[n]					the unerring one
 1-7	V-XI			septem planetas	speras 				d[er] sibe[n] planete[n]				spheres of the seven planets
 ~~~
-¹) "Isaac the Wise [...] holds that the tenth heaven was identified by Ezekiel through the zaphirum, in the similitude of a throne."  
-²) "primusq[ue] est inter corpora que mouentur", "die erst undter den beweglichen leiplichen dingen", "the first among movable corporeal things."
+¹) "Isaac the Wise [...] holds that the tenth heaven was identified by Ezekiel through the zaphirum, in the similitude of a throne.", (Hadawas, 2023, p. 4).  
+²) "primusq[ue] est inter corpora que mouentur", "die erst undter den beweglichen leiplichen dingen", "the first among movable corporeal things.", (Schedel, 1493, fol. IIIr; Schedel & Alt, 1493, 1496, fol. IIIr; Hadawas, 2023, p. 4).
 
 >"Post firmamentum de elementorum integritate: [et] positura: [et] ordine: nos breuiter admonet per collectionem aquarum ad locum vnum: [et] prescriptas mari leges ne terram obruat.", (Schedel, 1493, fol. IIIv).
 
@@ -219,7 +219,7 @@ Table 10. The creatures are by Moses and Thimeo divided into three classes.
 
 >"Having adorned the upper part of the world, God finally, on the sixth day, provided the earth with species of animals.", (Hadawas, 2023, p. 7).
 
-Table 11. Inter a[n]i[m]alia terre tria memorat moyses (Schedel, 1493, fol. Vr).
+Table 11. "Inter a[n]i[m]alia terre tria memorat moyses", (Schedel, 1493, fol. Vr).
 ~~~
 typ				
 	Latin		ENHG		Eng. tr.		
@@ -230,7 +230,7 @@ typ
 2	reptilia	kriechende	creeping animals	between animals and plants		imperfect imagination and fantasy
 ~~~
 
-Table 12. De (trib[us]) mu[n]dis.
+Table 12. De (trib[us]) mu[n]dis (s. Tab. 2).
 ~~~
 	Latin			ENHG			Eng. tr.
 
