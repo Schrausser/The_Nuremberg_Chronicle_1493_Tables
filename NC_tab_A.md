@@ -2,7 +2,7 @@
 
 >" [...] a mu[n]di fabrica: ac prima hominu[m] generatione: duplex opinio fert[ur].", (Schedel, 1493, fol. Ir).
 
->" [...] vo[n] geschopff der werlt. vnd vo[n] erster geburt der menschen zwayerlay wone ist.", ().
+>" [...] vo[n] geschopff der werlt. vnd vo[n] erster geburt der menschen zwayerlay wone ist.", (Schedel & Alt, 1493, 1496, fol. 1r).
 
 >" [...] of the creation of the world and [...] of the birth of man [...] two different accounts exist [...] ", ().
 
@@ -30,7 +30,7 @@ Engl. tr.
 
 > "Tres mundos figurat antiquitas [...] ", (Schedel, 1493, fol. Ir).
 
-> "Die alte[n] habe[n] von dreyerlay werlt gesagt [...] ", ().
+> "Die alte[n] habe[n] von dreyerlay werlt gesagt [...] ", (Schedel & Alt, 1493, 1496, fol. 1r).
 
 > "The ancients spoke of three kinds of worlds [...] ", ().
 
@@ -58,13 +58,13 @@ Engl. tr.	world
 
 >"De his quatuor mundis moyses sufficienter differuit [...] ", (Schedel, 1493, fol. Ir).
 
->"Vo[n] dise[n] dreye[n] werlte[n] hat moyses genugsa[m]lich gesagt [...]", ().
+>"Vo[n] dise[n] dreye[n] werlte[n] hat moyses genugsa[m]lich gesagt [...]", (Schedel & Alt, 1493, 1496, fol. 1r).
 
 >"And all this according to Moses [...]", ().
 
 >" [...] fecit p[ri]mu[m] o[mn]i[u]m celu[m]: et i[n] s[u]blime suspe[n]dit: q[uo]d e[ss]et sedes ipsi[us] dei [con]ditoris: deinde terra[m] fundavit: ac celo s[u]bdidit.", (Schedel, 1493, fol. IIr).
 
->" [...] zu allererst de[n] himel zeseyn einen stul desselbe[n] gottes des schöpffers gemacht vnd in die höhe auffgehenkt vn[d] dar nach die erde[n] gestifftet vnd de[n] himel vnderworffe[n] hat.", ().
+>" [...] zu allererst de[n] himel zeseyn einen stul desselbe[n] gottes des schöpffers gemacht vnd in die höhe auffgehenkt vn[d] dar nach die erde[n] gestifftet vnd de[n] himel vnderworffe[n] hat.", (Schedel & Alt, 1493, 1496, fol. IIr).
 
 >" [...] first made of heaven a throne for himself as Creator, and raised it on high; and thereafter he established the earth and subordinated it to heaven.", ().
 
@@ -88,7 +88,7 @@ Parts, days	Latin			ENHG			Engl. tr.
 
 >"Gl[or]iosus e[ni]m de[us]. q[ui] e[st] vera lux. luce[m]q[ue] dilige[n]s. o[mn]ia in luce facie[n]s.", (Schedel, 1493, fol. IIv).
 
->" [...] dan[n] d[er] glori wirdig got (der das war liecht ist) vnd das liecht liebett hat alle ding im liecht machende. das geschöpff der werlt am liecht gar recht angefange[n].", ().
+>" [...] dan[n] d[er] glori wirdig got (der das war liecht ist) vnd das liecht liebett hat alle ding im liecht machende. das geschöpff der werlt am liecht gar recht angefange[n].", (Schedel & Alt, 1493, 1496, fol. IIv).
 
 > " [...] for the glorious God, who is the true light, and who loves the light and made all light-giving things, very fitly began the creation with light.", ().
 
@@ -117,7 +117,7 @@ septe[m]trione[m]	mitternacht	North (Mitternacht, midnight)
 
 >" Fecit e[ni]m deus firmamentum rotundum mobile cetera sensibilia continens.", (Schedel, 1493, fol. IIIr).
 
->" Got hat das firmament gescheibelt. beweglich. andere empfintliche dig begreiffende gemacht.", ().
+>" Got hat das firmament gescheibelt. beweglich. andere empfintliche dig begreiffende gemacht.", (Schedel & Alt, 1493, 1496, fol. IIIr).
 
 >"God divided the firmament and made it movable; and he made other sensitive things comprehensible.", ().
 
@@ -135,7 +135,7 @@ sphere	Fol. VIr		Latin						ENHG							Eng. tr.
 
 >"Post firmamentum de elementorum integritate: [et] positura: [et] ordine: nos breuiter admonet per collectionem aquarum ad locum vnum: [et] prescriptas mari leges ne terram obruat.", (Schedel, 1493, fol. IIIv).
 
->"Nach de[m] firmament vermanet er uns von d[er] genzigkeit geleger vn[d] ordnu[n]g d[er] eleme[n]t kürtzlich durch versamlung d[er] wasser an ein stat vnd durch die zile de[m] meer fürgesteckt das es die erde[n] nit uberfiele.", ().
+>"Nach de[m] firmament vermanet er uns von d[er] genzigkeit geleger vn[d] ordnu[n]g d[er] eleme[n]t kürtzlich durch versamlung d[er] wasser an ein stat vnd durch die zile de[m] meer fürgesteckt das es die erde[n] nit uberfiele.", (Schedel & Alt, 1493, 1496, fol. IIIv).
 
 >"After the creation of the firmament Moses calls our attention to the completeness, location, and order of the elements.", ().
 
@@ -152,7 +152,7 @@ Euxinum		euxinisch	Euxine		Black Sea (Póntos Áxeinos)
 
 >" [...] posuit de[us] in firmame[n]to vt lucere[n]t in celo: [et] terra[m] illuminare[n]t sole[m] videlicet luna[m] [et] stellas: quib[us] ip[s]a sup[er]ior mundi p[ar]s ornat[ur]: vti terra ornat[ur] bis q[uae] in ea fiunt metallis: pla[n]tis: a[n]i[m]antib[us].", (Schedel, 1493, fol. IIIIr).
 
->" [...] ding die got gesetzt hat in de[m] firmament zescheine[n] an de[m] himel. vn[d] zeerlewchte[n] d[er] erde[n]. als die sunne[n]. de[n] mo[n]d. vnd die stern. mit de[n] d[er] oberteil d[er] werlt geziert wirdt. wie die erden mit de[n] dinge[n] die in ir werde[n].", ().
+>" [...] ding die got gesetzt hat in de[m] firmament zescheine[n] an de[m] himel. vn[d] zeerlewchte[n] d[er] erde[n]. als die sunne[n]. de[n] mo[n]d. vnd die stern. mit de[n] d[er] oberteil d[er] werlt geziert wirdt. wie die erden mit de[n] dinge[n] die in ir werde[n].", (Schedel & Alt, 1493, 1496, fol. IIIIr).
 
 >"God set in the firmament to shine in the heavens and to give light to the earth; as the sun, the moon and the stars with which the upper part of the world is adorned, just like the earth is adorned with the things that grow in it.", ().
 
@@ -186,7 +186,7 @@ function	Latin		object							kind
 
 >"Ornauit igitur eo die deus aerem [et] aquam: volatilia dans aeri: natalilia aquis: q[uae] reptilia dicuntur:", (Schedel, 1493, fol. IIIIv).
 
->" [...] an disem tag den lufft vn[d] das wasser gezieret. den luft mit de[m] geflügel. vn[d] die wasser mit den schwimme[n]de[n] dinge[n].", ().
+>" [...] an disem tag den lufft vn[d] das wasser gezieret. den luft mit de[m] geflügel. vn[d] die wasser mit den schwimme[n]de[n] dinge[n].", (Schedel & Alt, 1493, 1496, fol. IIIIv).
 
 >"God adorned the air and the water, the air with fowl and the water with swimming creatures;", ().
 
@@ -201,7 +201,7 @@ Table 10. The creatures are by Moses and Thimeo divided into three classes.
 
 >"Ornatis sup[er]iorib[us] mu[n]di p[er]tib[us] ta[n]de[m] sexta die terra[m] generib[us] a[n]i[m]aliu[m] ornauit.", (Schedel, 1493, fol. Vr).
 
->"Als nw got die obern teil der werlt geziert hat do zieret er zu letzt am sechte[n] tag die erde[n] mit de[n] geschlechte[n] der thier.", ().
+>"Als nw got die obern teil der werlt geziert hat do zieret er zu letzt am sechte[n] tag die erde[n] mit de[n] geschlechte[n] der thier.", (Schedel & Alt, 1493, 1496, fol. Vr).
 
 >"Having adorned the upper part of the world, God finally, on the sixth day, provided the earth with species of animals.", ().
 
