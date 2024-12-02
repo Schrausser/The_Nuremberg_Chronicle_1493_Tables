@@ -62,6 +62,13 @@ Engl. tr.	world
 
 >"And all this according to Moses [...]", (Hadawas, 2023, p. ).
 
+  
+>"Ipse dixit et f[ac]ta  
+su[n]t ip[s]e ma[n]dau[it] [et]  
+creata su[n]t  
+Ps[alm] 32", (Schedel, 1493, fol. Iv; Schedel & Alt, 1493, 1496, fol. 1v; Hadawas, 2023, p. 3).
+
+  
 >" [...] fecit p[ri]mu[m] o[mn]i[u]m celu[m]: et i[n] s[u]blime suspe[n]dit: q[uo]d e[ss]et sedes ipsi[us] dei [con]ditoris: deinde terra[m] fundavit: ac celo s[u]bdidit.", (Schedel, 1493, fol. IIr).
 
 >" [...] zu allererst de[n] himel zeseyn einen stul desselbe[n] gottes des schöpffers gemacht vnd in die höhe auffgehenkt vn[d] dar nach die erde[n] gestifftet vnd de[n] himel vnderworffe[n] hat.", (Schedel & Alt, 1493, 1496, fol. IIr).
