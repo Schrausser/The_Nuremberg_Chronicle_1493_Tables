@@ -133,7 +133,7 @@ sphere	Fol. VIr		Latin						ENHG							Eng. tr.
 ¹) "Isaac the Wise [...] holds that the tenth heaven was identified by Ezekiel through the zaphirum, in the similitude of a throne."  
 ²) "primusq[ue] est inter corpora que mouentur", "die erst undter den beweglichen leiplichen dingen", "the first among movable corporeal things."
 
->"Post firmamentum de elementorum integritate: [et] positura: [et] ordine: nos breuiter admonet per collectionem aquarum ad locum vnum: [et] prescriptas mari leges ne terram obruat.", ().
+>"Post firmamentum de elementorum integritate: [et] positura: [et] ordine: nos breuiter admonet per collectionem aquarum ad locum vnum: [et] prescriptas mari leges ne terram obruat.", (Schedel, 1493, fol. IIIv).
 
 >"Nach de[m] firmament vermanet er uns von d[er] genzigkeit geleger vn[d] ordnu[n]g d[er] eleme[n]t kürtzlich durch versamlung d[er] wasser an ein stat vnd durch die zile de[m] meer fürgesteckt das es die erde[n] nit uberfiele.", ().
 
@@ -150,7 +150,7 @@ adriacum	adriatisch	Adriatic	Adriatic Sea, Ionian Sea (Mare Adriaticum)
 Euxinum		euxinisch	Euxine		Black Sea (Póntos Áxeinos)
 ~~~
 
->" [...] posuit de[us] in firmame[n]to vt lucere[n]t in celo: [et] terra[m] illuminare[n]t sole[m] videlicet luna[m] [et] stellas: quib[us] ip[s]a sup[er]ior mundi p[ar]s ornat[ur]: vti terra ornat[ur] bis q[uae] in ea fiunt metallis: pla[n]tis: a[n]i[m]antib[us].", ().
+>" [...] posuit de[us] in firmame[n]to vt lucere[n]t in celo: [et] terra[m] illuminare[n]t sole[m] videlicet luna[m] [et] stellas: quib[us] ip[s]a sup[er]ior mundi p[ar]s ornat[ur]: vti terra ornat[ur] bis q[uae] in ea fiunt metallis: pla[n]tis: a[n]i[m]antib[us].", (Schedel, 1493, fol. IIIIr).
 
 >" [...] ding die got gesetzt hat in de[m] firmament zescheine[n] an de[m] himel. vn[d] zeerlewchte[n] d[er] erde[n]. als die sunne[n]. de[n] mo[n]d. vnd die stern. mit de[n] d[er] oberteil d[er] werlt geziert wirdt. wie die erden mit de[n] dinge[n] die in ir werde[n].", ().
 
@@ -184,7 +184,7 @@ function	Latin		object							kind
 				stars							moisture
 ~~~
 
->"Ornauit igitur eo die deus aerem [et] aquam: volatilia dans aeri: natalilia aquis: q[uae] reptilia dicuntur:", ().
+>"Ornauit igitur eo die deus aerem [et] aquam: volatilia dans aeri: natalilia aquis: q[uae] reptilia dicuntur:", (Schedel, 1493, fol. IIIIv).
 
 >" [...] an disem tag den lufft vn[d] das wasser gezieret. den luft mit de[m] geflügel. vn[d] die wasser mit den schwimme[n]de[n] dinge[n].", ().
 
@@ -199,7 +199,7 @@ Table 10. The creatures are by Moses and Thimeo divided into three classes.
 3	terrestria		auff der erden		land
 ~~~
 
->"Ornatis sup[er]iorib[us] mu[n]di p[er]tib[us] ta[n]de[m] sexta die terra[m] generib[us] a[n]i[m]aliu[m] ornauit.", ().
+>"Ornatis sup[er]iorib[us] mu[n]di p[er]tib[us] ta[n]de[m] sexta die terra[m] generib[us] a[n]i[m]aliu[m] ornauit.", (Schedel, 1493, fol. Vr).
 
 >"Als nw got die obern teil der werlt geziert hat do zieret er zu letzt am sechte[n] tag die erde[n] mit de[n] geschlechte[n] der thier.", ().
 
