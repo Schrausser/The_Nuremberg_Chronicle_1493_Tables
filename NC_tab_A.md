@@ -112,7 +112,7 @@ aqua[m]			das wasser		(water)
 aerem			den luft		(air)
 ~~~
 
-See in this context *De iis, quæ in sublimi cernuntur* and *De Mundo* in the presentation and translation of the phenomena of Aratus by Petavius ​​(1630):
+See in this context *De iis, quæ in sublimi cernuntur* and *De Mundo* in the presentation and translation of the *Phenomena of Aratus* by Petavius ​​(1630):
 
 >" [...] Ros est humor puriori allapsus ex æthere, [...] tenuissima substantiæ diffusio, suapte natura calida, & splendida: ac primigenia lux [...] Aër [...] communicatum aliunde calorem, ac lumen [...] ex æthere compactum [...] ", (Petavius, 1630, p. 261-262).
 
