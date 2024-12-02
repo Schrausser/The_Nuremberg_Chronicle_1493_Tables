@@ -114,7 +114,7 @@ aerem			den luft		(air)
 
 See in this context *De iis, quæ in sublimi cernuntur* and *De Mundo* in the presentation and translation of the phenomena of Aratus by Petavius ​​(1630):
 
->" [...] Ros est humor puriori allapsus ex æthere, [...] tenuissima substantiæ diffusio, suapte natura calida, & splendida: ac primigenia lux [...] Aër [...] communicatum aliunde calorem, ac lumen [...] ex æthere compactum [...] ", (Petavius, 1630, p. 261-262)
+>" [...] Ros est humor puriori allapsus ex æthere, [...] tenuissima substantiæ diffusio, suapte natura calida, & splendida: ac primigenia lux [...] Aër [...] communicatum aliunde calorem, ac lumen [...] ex æthere compactum [...] ", (Petavius, 1630, p. 261-262).
 
 >Dew is pure moisture falling out from *the ether*, the thinnest substance diffusion, of natural warmth and radiance - *the original light*. Air shares warmth and condenses luminosity from the Ether.
 
@@ -169,7 +169,7 @@ Euxinum		euxinisch	Euxine		Black Sea (Póntos Áxeinos)
 
 >"God set in the firmament to shine in the heavens and to give light to the earth; as the sun, the moon and the stars with which the upper part of the world is adorned, just like the earth is adorned with the things that grow in it.", (Hadawas, 2023, p. 5).
 
-Table 9. Heavenly corporeal bodies have two apparent functions.	
+Table 9. Heavenly corporeal bodies have two apparent functions (see also Petavius, 1630, p. 261-262, Schrausser, 2024, res.).
 ~~~
 function	Latin		object							kind
 
@@ -246,6 +246,8 @@ Christian Standard Bible (CSB): Psalm 33:9. (2017). Holman Bible Publishers. ht
 Hadavas, K. (2023). *First English edition of the Nuremberg chronicle : being the Liber chronicarum of Dr. Hartmann Schedel*. Edited by Hadavas, K. UW–Madison TEI edition. Madison, Wisconsin: University of Wisconsin–Madison Libraries. https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J.
 
 Jiménez de Cisneros, F. (1517). *Biblia Polyglotta Complutensis*. Complutum: Arnaldo Guillén de Brocar. https://doi.org/10.3931/e-rara-46695.
+
+Petavius, D. (1630). *VRANOLOGION sive systema variorvm authorvm. qvi de sphaera, ac sideribvs, eorvmove motibvs Graece commentati sunt*. LVTETIAE PARISIORVM: Sumptibus Sebastiani Cramoisy, via Iacobaea, sub Ciconiis. M. DC. XXX. CVM PRIVILEGIO REGIS CHRISTIANISS. https://doi.org/10.3931/e-rara-2004.
 
 Schedel, H. (1493). *Liber chronicarum cum figuris et ymagibus ab inicio mundi*. Nuremberge: Antonius Koberger. https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024.
 
