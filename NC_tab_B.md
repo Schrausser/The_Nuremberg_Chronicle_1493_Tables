@@ -9,7 +9,7 @@ ENHG		ein eynige form			absunderu[n]g vn[d] zertaylu[n]g	odnung vnd gestalt
 Engl. tr.	single form			separation and division			order and structure
 ~~~
 
-Table 2.
+Table 2. *Air*, constantly in *motion*.
 ~~~
 		part				to region		cause				effect
 
