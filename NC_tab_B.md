@@ -40,7 +40,21 @@ From *b* (Tab. 3) follows >
 
 Table 4. Variety of living *forms*.
 ~~~
+		cause			form				A comb
+Latin			
+1		maiorem calorem		volatilia			1 3
+2		grauiora		terrestria euaserunt animantia	3 1
+3		Naturam aquosam		aquosam				2 1
 
+ENHG			
+1		merer wirm		geflügele			1 3
+2		schwerere		irdische[n] thieren		3 1
+3		wasserige natur		wasserige			2 1
+
+Engl. tr.			
+1		more heat		winged creatures		1 3
+2		heavier ones		earthly animals			3 1
+3		watery nature		waterly				2 1
 ~~~
 
 ## References
