@@ -27,9 +27,13 @@ Engl. tr.
 													3	substantial matter, became the earth
 ~~~
 
-Table 3. Through the *heat of the Sun* the *Earth* became...
+Table 3. Through the *heat of the Sun* (1) the *Earth* (2) became...
 ~~~
+	Latin			ENHG			Engl. tr.
 
+1	densior			dicker			denser
+2	putredines		faulfeüchtigkeitn[n]	decaying ooze
+3	co[n]tecte pellicula	mit dynne[n] hewtlein	covered by a thin skin
 ~~~
 
 From *b* (Tab. 3) follows >  
