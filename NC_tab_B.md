@@ -27,4 +27,11 @@ Engl. tr.
 													3	substantial matter, became the earth
 ~~~
 
+Table 3. *Earth* became...
+~~~
+
+~~~
+
+Table 4. 
+
 ## References
