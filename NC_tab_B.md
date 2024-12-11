@@ -27,7 +27,7 @@ Engl. tr.
 													3	substantial matter, became the earth
 ~~~
 
-Table 3. *Earth* became...
+Table 3. Through the *heat of the Sun* the *Earth* became...
 ~~~
 
 ~~~
