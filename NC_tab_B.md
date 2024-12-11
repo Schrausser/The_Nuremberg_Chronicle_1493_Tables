@@ -32,6 +32,11 @@ Table 3. *Earth* became...
 
 ~~~
 
-Table 4. 
+From *b* (Tab. 3) follows >  
+
+Table 4. Variety of living *forms*.
+~~~
+
+~~~
 
 ## References
