@@ -1,0 +1,16 @@
+//NCdLIST()/D.G.SCHRAUSSER/2025
+#cas
+NCdLIST():=
+BEGIN
+{}▶L1;{}▶L2;{}▶L3;{}▶L4;{}▶L5;
+{}▶L6;{}▶L7;{}▶L8;{}▶L9;{}▶L0;
+//
+{}▶TN4;{}▶TNa5;{}▶TNb5;{}▶TN5;{}▶TN7;{}▶TNc7;{}▶TN8;
+{}▶MN4;{}▶MN5;{}▶MN7;
+{}▶PT4;{}▶PT5;{}▶PT7;{}▶PT8;
+{}▶VL4;{}▶VL5;{}▶VL7;{}▶VL8;
+{}▶AS4;{}▶AS5;{}▶AS7;{}▶AS8;
+{}▶Gk5;{}▶Gl4;{}▶Gl5;
+END;
+#end
+//
