@@ -1,12 +1,12 @@
 # The Nuremberg Chronicle 1493: Tables
 
-Tables (`NC_tab01`, `NC_tab02`, `NC_tab03`, `NC_tab04`, `NC_tab_A`) from the *Nuremberg Chronicle*, fol. 1r to  VIIr, s.  Tab. 1 (Schedel, 1493; Schedel & Alt, 1493, 1496, res.):
+Tables (`NC_tab01`, `NC_tab02`, `NC_tab03`, `NC_tab04`, `NC_tab_A`) from the *Nuremberg Chronicle*, fol. 1r to  VIIr, s.  Tab. 1 (Schedel, [1493](); Schedel and Alt, [1493](), [1496](), res.):
 
->"Creatio re[rum] senario numero explicatur. Cuius partes, unu[m]: duo: tria sunt, que in trigonu[m] surga[n]t. In primo creatione[m]. In secundo [et] tercio dispositione[m]. In reliquis ornatum Moyses per opera sex die[rum] ostendit.", (Schedel, 1493, fol. IIr).
+>"Creatio re[rum] senario numero explicatur. Cuius partes, unu[m]: duo: tria sunt, que in trigonu[m] surga[n]t. In primo creatione[m]. In secundo [et] tercio dispositione[m]. In reliquis ornatum Moyses per opera sex die[rum] ostendit.", (Schedel, [1493](), fol. IIr).
 
 >The creation of things is explained by numbers. Their parts are one, two, three, which form a triangle. In the first *creation*. In the second and third *arrangement*. In the rest *ornament*, as Moses shows through the works of six days.
 
-Table 1. Headings and contents of fol. 1 to fol. VII (Schedel, 1493).
+Table 1. Headings and contents of fol. 1 to fol. VII (Schedel, [1493]()).
 ~~~
 page			contenta
 
@@ -24,9 +24,9 @@ Foliu[m] VI	recto	Queda[m] circa spera[m] planetaru[m] et orbiu[m] declara[n]da.
 Folium   VII	recto	Etas prima mundi
 ~~~
 
->„ […] The Nuremberg Chronicle […] is one of the most important and most beautiful books of the incunabula era. Both the Latin version […] and the German version […] were printed in the offices of Anton Koberger who owned one of Europe's largest printing houses of the period. […] Following medieval traditions, the author divides the history of mankind into seven ages: the first age extended from the creation to the deluge; the second from the deluge to the birth of Abraham, the third to the kingdom of David; the fourth covered the period […] to the Babylonian Captivity; the fifth to the birth of Christ; the sixth […] from the birth of Christ to the present; and the seventh dealt with the arrival of the Antichrist and the Last Judgment.", (Bernstein, 2002, p. 1422; c.f. Tab. 2). 
+>„ […] The Nuremberg Chronicle […] is one of the most important and most beautiful books of the incunabula era. Both the Latin version […] and the German version […] were printed in the offices of Anton Koberger who owned one of Europe's largest printing houses of the period. […] Following medieval traditions, the author divides the history of mankind into seven ages: the first age extended from the creation to the deluge; the second from the deluge to the birth of Abraham, the third to the kingdom of David; the fourth covered the period […] to the Babylonian Captivity; the fifth to the birth of Christ; the sixth […] from the birth of Christ to the present; and the seventh dealt with the arrival of the Antichrist and the Last Judgment.", (Bernstein, [2002](), p. 1422; c.f. Tab. 2). 
 
-Table 2. Etates mu[n]di (Schedel, 1493, fol. VIr).		
+Table 2. Etates mu[n]di (Schedel, [1493](), fol. VIr).		
 ~~~
 		AM		BC				
 age		hebr	lxx	hebr	lxx	Etas	
@@ -40,11 +40,11 @@ VI, VII						ad finem mundi, quiescentium
 VIII						resurgentium
 ~~~
 
-Primarily influenced by Conrad Celtis (1459-1476), Martin Behaim (1459-1507), Johannes Müller (Regiomontanus, 1436-1476) and Johannes Werner (1468-1522), is the text mainly based on the *Supplementum Chronicarum* (Foresti, 1492), as well as on the *Speculum Naturale* (De Beauvais, 1264a) based on the *Historia Naturalis* of Plinius Secundus   (1250, 1455) and *Speculum Historiale* (De Beauvais, 1264b) from the *Speculum Maius* (Ferguson, 1886; Young, 1930; De Beauvais, 1964b; White, 1992; Albrecht, 2000), further on the *Vitæ Pontificum* (Platina, 1481), the *Summa Historialis* (c.f. Walker, 1930), on works by *Biondo* (e.g. 1484, 2005, res.) as well as on geographical and cosmographic works by *Ptolemæus* (1100, 1482; Tudeer, 1917; Neugebauer, 1959; Talbert, 2002), *Strabo* (1469; Manutius & Asulanus, 1516) and *Mela* (1477, 1518).
+Primarily influenced by Conrad Celtis (1459-1476), Martin Behaim (1459-1507), Johannes Müller (Regiomontanus, 1436-1476) and Johannes Werner (1468-1522), is the text mainly based on the *Supplementum Chronicarum* (Foresti, [1492]()), as well as on the *Speculum Naturale* (De Beauvais, [1264a]()) based on the *Historia Naturalis* of Plinius Secundus   ([1250](), [1455]()) and *Speculum Historiale* (De Beauvais, [1264b]()) from the *Speculum Maius* (Ferguson, [1886](); Young, [1930](); De Beauvais, [1964b](); White, [1992](); Albrecht, [2000]()), further on the *Vitæ Pontificum* (Platina, [1481]()), the *Summa Historialis* (c.f. Walker, [1930]()), on works by *Biondo* (e.g. [1484](), [2005](), res.) as well as on geographical and cosmographic works by *Ptolemæus* ([1100](), [1482](); Tudeer, [1917](); Neugebauer, [1959](); Talbert, [2002]()), *Strabo* ([1469](); Manutius and Asulanus, [1516]()) and *Mela* ([1477](), [1518]()).
 
-See also Haitz (1899), Schnieper (1950), Sladeczek (1965), Rücker (1988) or Green (2003). Englisch translations, facsimile or translations are given by Hadawas (2023),  Schedel (2010), Zellmann-Roher & Hadavas (2011a, b, 2012a, b, res.).
+See also Haitz ([1899]()), Schnieper ([1950]()), Sladeczek ([1965]()), Rücker ([1988]()) or Green ([2003]()). Englisch translations, facsimile or translations are given by Hadawas ([2023]()),  Schedel ([2010]()), Zellmann-Roher and Hadavas ([2011a](), [b](), [2012a](), [b](), res.).
 
-For a (full) raw transcripton of the *Early New High German* (ENHG) text see Wikisource contributors (2024), for ENHG dictionaries see Goebel et al. (1989).
+For a (full) raw transcripton of the *Early New High German* (ENHG) text see Wikisource contributors ([2024]()), for ENHG dictionaries see Goebel et al. ([1989]()).
 
 
 ## References
