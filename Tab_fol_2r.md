@@ -1,6 +1,6 @@
 # Tab_fol_2r.md
 
-Table 1. When Moses states that God created, [...] he abrogates the errors of Plato, Aristotle, and Epicurus (Hadawas,[2023](), p. ).
+Table 1. When Moses states that God created, [...] he abrogates the errors of Plato, Aristotle, and Epicurus (Hadawas, [2023](), p. ).
 ~~~
 	Plato							Moses
 
