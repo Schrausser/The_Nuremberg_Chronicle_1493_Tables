@@ -1,6 +1,6 @@
 # Tab_fol_2r.md
 
-Table 1.
+Table 1. When Moses states that God created, [...] he abrogates the errors of Plato, Aristotle, and Epicurus (Hadawas,[2023](), p. ).
 ~~~
 	Plato							Moses
 
@@ -14,6 +14,6 @@ Table 2. The work of divine perfection is expressed in the figure six, whose com
 parts 	days		Latin			ENHG			Engl. tr.
 
 1	1		creatione[m]		beschöpfung		creation
-2	2,3		dispositione[m]		schickung		order
+2	2,3		dispositione[m]		ordnung oder schickung	order
 3	4,5,6		ornatum			zierung			adornment
 ~~~
