@@ -1,3 +1,5 @@
+# Tab_fol_2r.md
+
 Table 1.
 ~~~
 	Plato							Moses
@@ -7,3 +9,11 @@ Table 1.
 3	God [...] Yle, have existed for all time		the Spirit of the Lord [...] moved over the waters [...] who orders all things done
 ~~~
 
+Table 2. The work of divine perfection is expressed in the figure six, whose component parts are 1, 2, and 3.
+~~~
+parts 	days		Latin			ENHG			Engl. tr.
+
+1	1		creatione[m]		beschöpfung		creation
+2	2,3		dispositione[m]		schickung		order
+3	4,5,6		ornatum			zierung			adornment
+~~~
