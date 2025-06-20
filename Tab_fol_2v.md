@@ -1,6 +1,6 @@
 # Tab_fol_2v.md
 
-Table 2. For the glorious God [...] began the creation with light (Hadawas, [2023](), p. ). 
+Table 1. For the glorious God [...] began the creation with light (Hadawas, [2023](), p. ). 
 ~~~
 t	Latin			ENHG			Engl. tr.
 
@@ -13,7 +13,7 @@ t	Latin			ENHG			Engl. tr.
 7	aerem			den luft		(air)
 ~~~
 
-Table 3.
+Table 2.
 ~~~
 Latin			ENHG		Engl. tr .
 
