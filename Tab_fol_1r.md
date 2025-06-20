@@ -43,7 +43,7 @@ Engl. tr.	world
 ~~~
 ¹) which the theologians call *of the angels* or *angelic*, whereas philosophers call it ***the intellectual***.
 
-Table 3. Account A: *Before* the beginning, there was merely a single *form*.
+Table 3. Account A: *Before* the beginning, there was merely a single ***form***.
 ~~~		
 		before the beginning		through					to
 
@@ -68,4 +68,33 @@ Engl. tr.
 1		fiery				upper state		became lighter			1	sun and many of the stars
 2		substantial			lowest region		by their own weight		2	sea came out of the mist
 													3	substantial matter, became the earth
+~~~
+
+Table 5. Through the heat of the sun the earth first became...
+~~~
+	Latin			ENHG			Engl. tr.
+
+1	densior			dicker			denser
+2	putredines		faulfeüchtigkeitn[n]	decaying ooze
+3	co[n]tecte pellicula	mit dynne[n] hewtlein	covered by a thin skin
+~~~
+
+Table 6. From Tab 5. it follows a variety of ***living forms***.
+~~~
+		cause			living form
+
+Latin		
+1		maiorem calorem		volatilia
+2		grauiora		terrestria euaserunt animantia
+3		Naturam aquosam		aquosam
+
+ENHG		
+1		merer wirm		geflügele
+2		schwerere		irdische[n] thieren
+3		wasserige natur		wasserige
+
+Engl. tr.		
+1		more heat		winged creatures
+2		heavier ones		earthly animals
+3		watery nature		waterly
 ~~~
