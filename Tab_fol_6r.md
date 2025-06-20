@@ -47,8 +47,48 @@ himel der trifeltigkeit	himlisch	feürigen			det rüet
 					erden
 					wassers
 ~~~
+Table 2.
+~~~
+Latin			miliaria¹
 
-Table .
+terram ad lunam	 	15 625 
+luna ad mercurium	7 813 
+ad venerem	 	7 813 
+ad solem		22 436 
+ad martem	 	15 625 
+ad iovem	 	7 812 
+ad saturnum	 	7 812 
+ad signiferum	 	23 436 
+	 		109 375
+
+ENHG			myle 
+
+erd zu dem mond 	15 625 
+mond zu mercurio	7 813 
+mercurio zu venus	7 813 
+venus zu der sunnen	23 436 
+der sunnen zu mars	15 625 
+mars zu iupiter	 	6 822 
+iupiter zu saturnus	6 822 
+saturno zum firmament	23 436 
+	 		109 375
+
+Engl. tr.		miles
+
+Earth to Moon	 	15 625 
+Moon to Mercury	 	7 813 
+Mercury to Venus	7 813 
+Venus to Sun	 	23 436 
+Sun to Mars	 	15 625 
+Mars to Jupiter	 	6 832 
+Jupiter to Saturn	6 832 
+Saturn to Stars	 	23 436 
+	 		108 375 
+~~~
+¹)
+
+
+Table 3.
 ~~~
 Latin
 supernatura												
@@ -81,7 +121,7 @@ himlische	in de[n] englischen orden	oberere		seraphin
 undehi[m]lische	in heiligen mensche[n]
 ~~~
 
-Table . Ages of the world, "Etates mu[n]di", (Schedel, [1493](), fol. VIr; Schedel and Alt, [1493](), [1496](), bl. VIr, res.).
+Table 4. Ages of the world, "Etates mu[n]di", (Schedel, [1493](), fol. VIr; Schedel and Alt, [1493](), [1496](), bl. VIr, res.).
 ~~~
 	AM			cum			BC					
 age	hebr	lxx	gen	hebr	lxx	gen	hebr	lxx	Latin					ENHG					English
@@ -95,7 +135,7 @@ VI, VII	terminum solus deus nouit					ad finem mundi, quiescentium		bis zu der w
 VIII									resurgentium				d[er] auffersteenden			of the Resurrection
 ~~~
 
-Table . The ages of man, "Etates aut[em] hominis su[n]t iste", (Schedel, [1493](), fol. VIr; Schedel and Alt, [1493](), [1496](), bl. VIr, res.).						
+Table 5. The ages of man, "Etates aut[em] hominis su[n]t iste", (Schedel, [1493](), fol. VIr; Schedel and Alt, [1493](), [1496](), bl. VIr, res.).						
 ~~~
 	years			description			
 age	from	to	n	Latin			ENHG			Engl. tr.
