@@ -1,6 +1,6 @@
 # Tab_fol_2v.md
 
-Table 2. 
+Table 2. For the glorious God [...] began the creation with light (Hadawas, [2023](), p. ). 
 ~~~
 t	Latin			ENHG			Engl. tr.
 
@@ -11,4 +11,14 @@ t	Latin			ENHG			Engl. tr.
 5	terra[m]		die erden		the earth
 6	aqua[m]			das wasser		(water)
 7	aerem			den luft		(air)
+~~~
+
+Table 3.
+~~~
+Latin			ENHG		Engl. tr .
+
+orientem		auffgang	East (Aufgang, or rise)
+occidentem		nidergang	West (Niedergang, decline)
+meridie[m]		mittag		South (Mittag, noon)
+septe[m]trione[m]	mitternacht	North (Mitternacht, midnight)
 ~~~
