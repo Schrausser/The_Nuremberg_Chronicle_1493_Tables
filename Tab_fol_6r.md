@@ -1,5 +1,36 @@
 # Tab_fol_6r.md
 
+Table .
+~~~
+Latin
+supernatura												
+
+sup[er]celestem																	
+celestem	in ordinibus angelicis		superiorem	seraphin	
+								cherubin	
+								thronos		
+						media[m]	dominat[i]ones	
+								principatus	
+								potestates	
+						inferiorem	virtutes	
+								archangelos	
+								angelos		
+subcelestem	in hominibus sanctis				
+
+ENHG
+
+überhi[m]lische				
+himlische	in de[n] englischen orden	oberere		seraphin	
+								cherubin	
+								tronengel	
+						mittlere	herschengel	
+								fürstengel
+								gewaltengel	
+						undere		kreftengel
+								erzengel	
+								engel	
+undehi[m]lische	in heiligen mensche[n]
+~~~
 
 Table . Ages of the world, "Etates mu[n]di", (Schedel, [1493](), fol. VIr; Schedel and Alt, [1493](), [1496](), bl. VIr, res.).
 ~~~
