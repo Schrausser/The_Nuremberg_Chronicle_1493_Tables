@@ -85,7 +85,7 @@ Jupiter to Saturn	6 832
 Saturn to Stars	 	23 436 
 	 		108 375 
 ~~~
-¹)
+¹) miliaria. hec sunt stadia .cxxvi., where miles are 126 stades. 
 
 
 Table 3.
