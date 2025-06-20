@@ -18,6 +18,7 @@ celestem	in ordinibus angelicis		superiorem	seraphin
 subcelestem	in hominibus sanctis				
 
 ENHG
+himlische natur
 
 überhi[m]lische				
 himlische	in de[n] englischen orden	oberere		seraphin	
