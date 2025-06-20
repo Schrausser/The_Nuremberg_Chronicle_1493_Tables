@@ -1,6 +1,6 @@
 # Tab_fol_3r.md
 
-Table 1. God divided the firmament and made it movable; and he made other sensitive things comprehensible (Hadawas, [2023])), p. ).
+Table 1. God divided the firmament and made it movable; and he made other sensitive things comprehensible (Hadawas, [2023](), p. ).
 ~~~
 sphere	Fol. VIr		Latin					ENHG							Engl. tr.
 
