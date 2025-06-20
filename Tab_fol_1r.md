@@ -21,10 +21,9 @@ Engl. tr.
 				had no origin				from birth
 ~~~
 
-Table 2. 
-~~~
-		mundus		
-Latin			
+Table 2. The ancients spoke of three kinds of worlds [...] ().
+~~~				
+Latin		mundus	
 1		supremum		quem theologi angelicum: philosophi: autem intellectualem vocant¹	
 2		celestem		(lux)	
 3		sublunarem		hu[n]c quem incolimus: hic tenebrarum mundus				ille aut[em] lucis: celum ex luce [et] tenebris temperat[ur]
