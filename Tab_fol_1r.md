@@ -98,3 +98,68 @@ Engl. tr.
 2		heavier ones		earthly animals
 3		watery nature		waterly
 ~~~
+
+Table 7. Mentioned authors.
+~~~
+Latin							ENHG								Engl. tr.
+
+greci viri clarissimi [...] testatur:											highly enlightened Greeks [...] testifies:
+Euripides Tragicus					euripides tragicus						Euripides, the tragedian
+Anaxagore						anaxagore							(disciple of) Anaxagoras
+
+celesti dictante spiritu totius magistro:		auß himlischer dichtung des heilige[n] geistes des maisters:	through the dictation of the holy spirit of the Master:
+moyses							Moyses								Moses (the prophet, father of God’s historians)
+
+Apud hebreos:		
+Salomonis (liber)					Salomo[n] (in seine[m] buch der weysheit)			Solomon (in his book of wisdom)
+
+apud nostros:						bey den vnsern[n]:						our own brave teachers:
+Lucas [et] philon					Lucas vnd Philon						Luke and Philo (our own brave teachers say)
+in vniuersa egyptiorum docrina fuisse eruditissimu[m]	In aller lere d[er] egyptier hoherfare[n] gewest		was highly experienced in all the lore of the Egyptians
+hermippus (attestat[ur])				hermippus							(according to) Hermippus
+Pythagoram						Pitagoras							Pythagoras
+Numenij philosophi					Numenius philosophus sagt					Numenius (philosopher, states)
+no[n] aliud esse platone[m]				platone[n]							Plato was a very Attic Moses
+Hieronymus						Ieronimus							Jerome
+
+viri sanctissimi:					die heiligsten mann:						most pious men:
+Ambrosius						Ambrosius							Ambrose
+Augustinus						Augustinus							Augustine
+Strabo							Strabo								Strabo
+Beda							Beda								Bede
+Remigius						Remigius							Remigius
+
+Et ex iunioribus:					auß den iungern[n]:						and the younger ones:
+Egidius							Egidius								Aegidius
+Albertus						Albertus							Albertus
+		
+apud grecos:						bey den kriechischen:						Greek:
+Philon							Philon								Philo
+Origenes						Origenes							Origen
+Basilius						Basilius							Basil
+theodoric[us]						Theodorus							Theodorus
+Appollinarius						Appolinarius							Appollinarius
+Dydimus							Didimus								Didymus
+Ge[r]nadius						Gernadius							Gennadius
+Crisostomus						Crisostomus							Chrysostom
+
+chaldaice:						Caldeysche[n]:							Chaldean:
+Jonethes						Ionethes							Jonethes
+Anchelos						anchelos							Anchelos
+Symeon antiquus						Simeo[n] d[er] alt						Simeon the elder
+
+ex hebreis:						auß de[n] hebreysche[n]:					Hebrews:
+Eleazarus						Eleazadus							Eleazadus
+Aba iohannes						Aba								Aba
+							Ioannes								Joannes
+Neonius							Neonius								Neonius
+Isaac							ysaac								Isaac
+Ioseph							Iosephus							Josephus
+
+iuniores:		
+Gersonides						Gersonides							Gersonides
+Sadias							Sadias								Sadias
+Abraam							Abraham								Abraham
+		
+(no[n]) iupiter (fecit)					(hat nit der) Iupiter (gemacht)					Jupiter (did not create all this)
+~~~
