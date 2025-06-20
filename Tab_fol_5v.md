@@ -25,7 +25,7 @@ Aparcias³		firma mentu[m]			Zephyrus⁴
 			Celum Cristallinum	
 			Primum mobile	
 ~~~					
-¹) The Roman god of the *southeast* wind, *Apeliotes* in Greek.  
+¹) The Roman god of the *southeast* wind, *Apeliotes* in Greek. *Eurus*, the Greek god of the *rain-bringing east* wind, is mostly excluded from the *Anemoi*; the Roman *Vulturnus* or *Africanus*.    
 ²) The Roman god of the *south* wind, *Notus* in Greek.  
 ³) Boreas, the Greek god of the *north* wind, the Roman *Aquilo* or *Septentrio*, respectively.  
 ⁴) The Greek god of the *west* wind, the Roman *Favonius*.  
