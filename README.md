@@ -1,6 +1,6 @@
 # The Nuremberg Chronicle 1493: Tables
 
-Tables (`Tab_fol_1r` to `Tab_fol_6r`, `NC_tab01`, `NC_tab02`, `NC_tab03`, `NC_tab_A`) from the *Nuremberg Chronicle*, fol. 1r to  VIIr, s.  Tab. 1 (Schedel, [1493](); Schedel and Alt, [1493](), [1496](), res.):
+Tables (`Tab_fol_1r` to `Tab_fol_6r`, `NC_tab01`, `NC_tab02`, `NC_tab03`, `NC_tab_A`, `NC_tab_timeline`) from the *Nuremberg Chronicle*, fol. 1r to  VIIr, s.  Tab. 1 (Schedel, [1493](); Schedel and Alt, [1493](), [1496](), res.):
 
 >"Creatio re[rum] senario numero explicatur. Cuius partes, unu[m]: duo: tria sunt, que in trigonu[m] surga[n]t. In primo creatione[m]. In secundo [et] tercio dispositione[m]. In reliquis ornatum Moyses per opera sex die[rum] ostendit.", (Schedel, [1493](), fol. IIr).
 
