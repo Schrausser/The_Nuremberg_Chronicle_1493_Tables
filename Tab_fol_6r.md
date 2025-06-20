@@ -1,5 +1,53 @@
 # Tab_fol_6r.md
 
+Table 1.
+~~~										
+Latin
+orbes mundi		natura							
+
+celum trinitatis	celesti		empyreum								
+XII					cristallinum			primu[m] mobile		
+							inferior						
+												
+XI					firmamentu[m]			Saturnus		
+X									Iupiter			
+VIIII									Mars			
+VIII									Sol			
+VII									Venus			
+VI									Mercurius		
+V									Luna			
+IIII			elementari	ignis		supremu[m]	igneum			
+III							mediu[m]	olimpium				
+							infimu[m]	olimpium				
+II					aeris		supremum	ethereum		
+I							medium		aereum				
+							infimu[m]	aereum				
+					terre								
+					aque							
+
+ENHG
+umbkrais, himel		natur							
+
+himel der trifeltigkeit	himlisch	feürigen			det rüet	
+12					cristallinischen		erst beweglich		
+							untere umbkreys		
+11					firmament			Saturnus		
+10									Iupiter		
+9									Mars		
+8									Sun[n]		
+7									Venus		
+6									Mercurius		
+5									Mond		
+4			eleme[n]tische 	feüers		obersten	feürig	
+3							mitteln		liecht	
+							understen	liecht	
+2					lufts		oberst		scheynlich	
+1							mittel		lüftig		
+							underst		lüftig	
+					erden
+					wassers
+~~~
+
 Table .
 ~~~
 Latin
