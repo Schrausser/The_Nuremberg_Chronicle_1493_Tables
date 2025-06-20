@@ -11,7 +11,7 @@ Latin
 				neq[ue] habuisse ortus principiu[m]	sortitos
 ENHG			
 1	werlt			vngeporn				geborn[n]
-				vnzastolich				zurstörlich
+				vnzerstörlich				zurstörlich
 2	me[n]schlich geschlecht	vo[n] ewigkeit her			anfang
 				einichs vrsprungs nit gehabt		der gepurt
 Engl. tr.			
