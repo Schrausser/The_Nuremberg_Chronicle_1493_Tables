@@ -1,6 +1,12 @@
 # Tab_fol_1r.md
 
-Table 1. [...] of the creation of the world [...] two different accounts exist ().
+>" [...] a mu[n]di fabrica: ac prima hominu[m] generatione: duplex opinio fert[ur].", (Schedel, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), fol. Ir).
+
+>" [...] vo[n] geschopff der werlt. vnd vo[n] erster geburt der menschen zwayerlay wone ist.", (Schedel and Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), [1496](https://doi.org/10.3931/e-rara-69075), fo. .1.r).
+
+>" [...] of the creation of the world and [...] of the birth of man [...] two different accounts exist [...] ", (Hadawas, [2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J), p. 2).
+
+Table 1. The two Accounts *A* and *B* of the creation of the world and man.
 ~~~
 				Account	
 				A					B
@@ -21,7 +27,13 @@ Engl. tr.
 				had no origin				from birth
 ~~~
 
-Table 2. The ancients spoke of three kinds of worlds [...] ().
+> "Tres mundos figurat antiquitas [...] ", (Schedel, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), fol. Ir).
+
+> "Die alte[n] habe[n] von dreyerlay werlt gesagt [...] ", (Schedel and Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), [1496](https://doi.org/10.3931/e-rara-69075), fo. .1.r).
+
+> "The ancients spoke of three kinds of worlds [...] ", (Hadawas, [2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J), p. 2).
+
+Table 2. The three or four, res. *kinds of worlds*" according to the ancients with short descriptions.
 ~~~				
 Latin		mundus	
 1		supremum		quem theologi angelicum: philosophi: autem intellectualem vocant¹	
@@ -41,9 +53,9 @@ Engl. tr.	world
 3		under the moon		which we live, the world of darkness					lighted, however, by the lights of heaven
 (4)		man himself		all the attributes of the other worlds are to be found	
 ~~~
-¹) which the theologians call *of the angels* or *angelic*, whereas philosophers call it ***the intellectual***.
+¹) which the theologians call *of the angels* or *angelic*, whereas philosophers call it *the intellectual*(!).
 
-Table 3. Account A: *Before* the beginning, there was merely a single ***form***.
+Table 3. Development of the merely *single form* from *before* the beginning according to *A* (s. Tab 2.).
 ~~~		
 		before the beginning		through					to
 
@@ -52,7 +64,7 @@ ENHG		ein eynige form			absunderu[n]g vn[d] zertaylu[n]g	odnung vnd gestalt
 Engl. tr.	single form			separation and division			order and structure
 ~~~
 
-Table 4. *Air*, being constantly in (circular) *motion* (motu [con]tinuum).
+Table 4. Parts, regions, cause and effect of *Air* being constantly in (*circular*) *motion* (motu [con]tinuum).
 ~~~
 		part				to region		cause				effect
 
@@ -70,7 +82,7 @@ Engl. tr.
 													3	substantial matter, became the earth
 ~~~
 
-Table 5. Through the heat of the sun the earth first became...
+Table 5. First effects of *solar heat* on the *Earth*.
 ~~~
 	Latin			ENHG			Engl. tr.
 
@@ -79,7 +91,7 @@ Table 5. Through the heat of the sun the earth first became...
 3	co[n]tecte pellicula	mit dynne[n] hewtlein	covered by a thin skin
 ~~~
 
-Table 6. From Tab 5. it follows a variety of ***living forms***.
+Table 6. As a *result* of the processes in Tab. 5 (s. above), a variety of *living forms* emerge.
 ~~~
 		cause			living form
 
@@ -99,7 +111,13 @@ Engl. tr.
 3		watery nature		waterly
 ~~~
 
-Table 7. Mentioned authors.
+>"De his quatuor mundis moyses sufficienter differuit [...] ", (Schedel, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), fol. Ir).
+
+>"Vo[n] dise[n] dreye[n] werlte[n] hat moyses genugsa[m]lich gesagt [...]", (Schedel and Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), [1496](https://doi.org/10.3931/e-rara-69075), fo. .1.r).
+
+>"And all this according to Moses [...]", (Hadawas, [2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J), p. 2).
+
+Table 7. Chronological list of the *authors mentioned* with a brief description of their origin.
 ~~~
 Latin							ENHG								Engl. tr.
 
@@ -163,3 +181,14 @@ Abraam							Abraham								Abraham
 		
 (no[n]) iupiter (fecit)					(hat nit der) Iupiter (gemacht)					Jupiter (did not create all this)
 ~~~
+
+## References
+
+Hadavas, K. (2023). *First English edition of the Nuremberg chronicle : being the Liber chronicarum of Dr. Hartmann Schedel*. Edited by Hadavas, K. UW–Madison TEI edition. Madison, Wisconsin: University of Wisconsin–Madison Libraries. [https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J)
+
+Schedel, H. (1493). *Liber chronicarum cum figuris et ymagibus ab inicio mundi*. Nuremberge: Antonius Koberger. https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024.
+
+Schedel, H., & Alt, G. (tr.). (1493). *Buch der Chroniken und geschichten mit figure und pildnüssen von anbegin der welt bis auf diese unsere Zeit*. Nuremberge: Antonius Koberger.
+[https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218)
+
+———. (1496). *Das buch Der croniken unnd geschichten mit figuren und pildnussen von Anbeginn der welt bis auff diese unsere Zeyt*. Augsburg: Johann Schönsperger. [https://doi.org/10.3931/e-rara-69075](https://doi.org/10.3931/e-rara-69075)
