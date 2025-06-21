@@ -74,7 +74,7 @@ Latin
 													3	Ex durioribus vero terram lutosam euasisse: [et] omnino mollem
 ENHG					
 1		feürig tayl			obern stett		vo[n] leichtheit wege[n]	1	sunn vnd merug der stern
-2		irdisch tey			niderste[n] ort		vo[n] swertheit wege[n]		2	auß de[n] feüchte[n] das mer
+2		irdisch teyl			niderste[n] ort		vo[n] swertheit wege[n]		2	auß de[n] feüchte[n] das mer
 													3	vnd auß de[n] hertte[n] dinge[n]. das [...] ertreich worde[n]
 Engl. tr.					
 1		fiery				upper state		became lighter			1	sun and many of the stars
