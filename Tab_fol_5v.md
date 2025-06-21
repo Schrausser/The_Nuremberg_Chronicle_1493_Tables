@@ -1,6 +1,13 @@
 # Tab_fol_5v.md
 
-Table 1. Names of *angels* and *spheres* between the Roman and Greek *wind gods*; the *Anemoi*, sons of *Astraeus* and *Eos*(s. Neuser [1982](ttps://books.google.com/books?id=T0gcAAAAMAAJ) or Miller et al. [2010](https://books.google.com/books?id=LCYlQwAACAAJ)).
+>"Compleuit de[us] gl[or]iosus opus suu[m]: [et] requienit die septimo ab operib[us] manuum suaru[m]:", (Schedel, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), fol. Vv).
+
+>" [...] do hat der glori wirdige got sein werck erfüllet vn[d] am sybende[n] tag von den wercken seiner hendt geruet." (Schedel and Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), [1496](https://doi.org/10.3931/e-rara-69075), fol. Vv).
+
+>" [...] the glorious God fulfilled his task; and on the seventh day he rested from his labors." (Hadawas, [2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J), p. ).
+
+
+Table 1. Names of *angels* and *spheres* between the Roman and Greek *wind gods*; the *Anemoi*, sons of *Astraeus* and *Eos* (s. Neuser, [1982](https://books.google.com/books?id=T0gcAAAAMAAJ) or Miller et al., [2010](https://books.google.com/books?id=LCYlQwAACAAJ)).
 ~~~
 Subsolanus¹						Auster²
 		
@@ -25,7 +32,7 @@ Aparcias³		firma mentu[m]			Zephyrus⁴
 			Celum Cristallinum	
 			Primum mobile	
 ~~~					
-¹) The Roman god of the *southeast* wind, *Apeliotes* in Greek. *Eurus*, the Greek god of the *rain-bringing east* wind, is mostly excluded from the *Anemoi*; the Roman *Vulturnus* or *Africanus*.    
+¹) The Roman god of the *southeast* wind, *Apeliotes* in Greek. *Eurus*, the Greek god of the *rain-bringing east* wind, mostly excluded from the *Anemoi*, is the Roman *Vulturnus* or *Africanus*.    
 ²) The Roman god of the *south* wind, *Notus* in Greek.  
 ³) Boreas, the Greek god of the *north* wind, the Roman *Aquilo* or *Septentrio*, respectively.  
 ⁴) The Greek god of the *west* wind, the Roman *Favonius*.  
@@ -33,6 +40,8 @@ Aparcias³		firma mentu[m]			Zephyrus⁴
 See further in this context Plinius ([1250](https://gallica.bnf.fr/ark:/12148/btv1b550140045/), [1470](https://doi.org/10.3931/e-rara-74199), [1967](https://archive.org/details/naturalhistory01plinuoft/)), von Raumer ([1837](http://www.jstor.org/stable/41247444)), Thompson ([1918](http://www.jstor.org/stable/697189)), McCartney ([1930](http://www.jstor.org/stable/4389493)) or Moraux ([1981](http://www.jstor.org/stable/20185993)).
 
 ## References
+
+Hadavas, K. (2023). *First English edition of the Nuremberg chronicle : being the Liber chronicarum of Dr. Hartmann Schedel*. Edited by Hadavas, K. UW–Madison TEI edition. Madison, Wisconsin: University of Wisconsin–Madison Libraries. [https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J)
 
 McCartney E. S. (1930). Greek and Roman Weather Lore of Winds. *The Classical Weekly 24* (2), 11–16. [http://www.jstor.org/stable/4389493](http://www.jstor.org/stable/4389493)
 
@@ -48,6 +57,13 @@ Plinius Secundus, G. (1470). *Historia naturalis*. Impressum Rome: magistris Con
 
 Rackham, H. (1967). Pliny Natural History In Ten Volumes. Cambridge, Massachusetts: Harvard University Press. [https://archive.org/details/naturalhistory01plinuoft/](https://archive.org/details/naturalhistory01plinuoft/)
 
+Schedel, H. (1493). *Liber chronicarum cum figuris et ymagibus ab inicio mundi*. Nuremberge: Antonius Koberger. https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024.
+
+Schedel, H., & Alt, G. (tr.). (1493). *Buch der Chroniken und geschichten mit figure und pildnüssen von anbegin der welt bis auf diese unsere Zeit*. Nuremberge: Antonius Koberger.
+[https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218)
+
+———. (1496). *Das buch Der croniken unnd geschichten mit figuren und pildnussen von Anbeginn der welt bis auff diese unsere Zeyt*. Augsburg: Johann Schönsperger. [https://doi.org/10.3931/e-rara-69075](https://doi.org/10.3931/e-rara-69075)
+
 Thompson, D. W. (1918). The Greek Winds. *The Classical Review 32* (3/4), 49–56.  [http://www.jstor.org/stable/697189](http://www.jstor.org/stable/697189)
 
-von Raumer, K. (1837). Die Windrose der Griechen und Römer. *Rheinisches Museum Für Philologie 5*, 497–521. [http://www.jstor.org/stable/41247444](http://www.jstor.org/stable/41247444)
+von Raumer, K. (1837). Die Windrose der Griechen und Römer. *Rheinisches Museum Für Philologie 5*, 497–521. [http://www.jstor.org/stable/41247444](http://www.jstor.org/stable/41247444) 
