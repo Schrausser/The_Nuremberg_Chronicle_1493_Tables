@@ -1,12 +1,12 @@
 # The Nuremberg Chronicle 1493: Tables
 
-Tables (`Tab_fol_1r` to `Tab_fol_6r`, `NC_tab01`, `NC_tab02`, `NC_tab03`, `NC_tab_timeline`) from the *Nuremberg Chronicle*, fol. 1r to  VIIr, s.  Tab. 1 (Schedel, [1493](); Schedel and Alt, [1493](), [1496](), res.):
+Tables (`Tab_fol_1r` to `Tab_fol_6r`, `NC_tab01`, `NC_tab02`, `NC_tab03`, `NC_tab_timeline`) from the *Nuremberg Chronicle*, fol. 1r to  VIIr, s.  Tab. 1 (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024); Schedel and Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), [1496](), res.):
 
->"Creatio re[rum] senario numero explicatur. Cuius partes, unu[m]: duo: tria sunt, que in trigonu[m] surga[n]t. In primo creatione[m]. In secundo [et] tercio dispositione[m]. In reliquis ornatum Moyses per opera sex die[rum] ostendit.", (Schedel, [1493](), fol. IIr).
+>"Creatio re[rum] senario numero explicatur. Cuius partes, unu[m]: duo: tria sunt, que in trigonu[m] surga[n]t. In primo creatione[m]. In secundo [et] tercio dispositione[m]. In reliquis ornatum Moyses per opera sex die[rum] ostendit.", (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024), fol. IIr).
 
 >The creation of things is explained by numbers. Their parts are one, two, three, which form a triangle. In the first *creation*. In the second and third *arrangement*. In the rest *ornament*, as Moses shows through the works of six days.
 
-Table 1. Headings and contents of fol. 1 to fol. VII (Schedel, [1493]()).
+Table 1. Headings and contents of fol. 1 to fol. VII (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024)).
 ~~~
 page			contenta
 
@@ -26,7 +26,7 @@ Folium   VII	recto	Etas prima mundi
 
 >„ […] The Nuremberg Chronicle […] is one of the most important and most beautiful books of the incunabula era. Both the Latin version […] and the German version […] were printed in the offices of Anton Koberger who owned one of Europe's largest printing houses of the period. […] Following medieval traditions, the author divides the history of mankind into seven ages: the first age extended from the creation to the deluge; the second from the deluge to the birth of Abraham, the third to the kingdom of David; the fourth covered the period […] to the Babylonian Captivity; the fifth to the birth of Christ; the sixth […] from the birth of Christ to the present; and the seventh dealt with the arrival of the Antichrist and the Last Judgment.", (Bernstein, [2002](), p. 1422; c.f. Tab. 2). 
 
-Table 2. Etates mu[n]di (Schedel, [1493](), fol. VIr).		
+Table 2. Etates mu[n]di (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024), fol. VIr).		
 ~~~
 		AM		BC				
 age		hebr	lxx	hebr	lxx	Etas	
@@ -40,16 +40,16 @@ VI, VII						ad finem mundi, quiescentium
 VIII						resurgentium
 ~~~
 
-Primarily influenced by Conrad Celtis (1459-1476), Martin Behaim (1459-1507), Johannes Müller (Regiomontanus, 1436-1476) and Johannes Werner (1468-1522), is the text mainly based on the *Supplementum Chronicarum* (Foresti, [1492]()), as well as on the *Speculum Naturale* (De Beauvais, [1264a]()) based on the *Historia Naturalis* of Plinius Secundus   ([1250](), [1455]()) and *Speculum Historiale* (De Beauvais, [1264b]()) from the *Speculum Maius* (Ferguson, [1886](); Young, [1930](); De Beauvais, [1964b](); White, [1992](); Albrecht, [2000]()), further on the *Vitæ Pontificum* (Platina, [1481]()), the *Summa Historialis* (c.f. Walker, [1930]()), on works by *Biondo* (e.g. [1484](), [2005](), res.) as well as on geographical and cosmographic works by *Ptolemæus* ([1100](), [1482](); Tudeer, [1917](); Neugebauer, [1959](); Talbert, [2002]()), *Strabo* ([1469](); Manutius and Asulanus, [1516]()) and *Mela* ([1477](), [1518]()).
+Primarily influenced by Conrad Celtis (1459-1476), Martin Behaim (1459-1507), Johannes Müller (Regiomontanus, 1436-1476) and Johannes Werner (1468-1522), is the text mainly based on the *Supplementum Chronicarum* (Foresti, [1492]()), as well as on the *Speculum Naturale* (De Beauvais, [1264a]()) based on the *Historia Naturalis* of Plinius Secundus   ([1250](), [1455]()) and *Speculum Historiale* (De Beauvais, [1264b]()) from the *Speculum Maius* (Ferguson, [1886](); Young, [1930](); De Beauvais, [1964b](); White, [1992](); Albrecht, [2000](https://doi.org/10.1007/978-94-015-9389-2_3)), further on the *Vitæ Pontificum* (Platina, [1481]()), the *Summa Historialis* (c.f. Walker, [1930]()), on works by *Biondo* (e.g. [1484](), [2005](), res.) as well as on geographical and cosmographic works by *Ptolemæus* ([1100](), [1482](); Tudeer, [1917](); Neugebauer, [1959](); Talbert, [2002]()), *Strabo* ([1469](); Manutius and Asulanus, [1516]()) and *Mela* ([1477](), [1518]()).
 
-See also Haitz ([1899]()), Schnieper ([1950]()), Sladeczek ([1965]()), Rücker ([1988]()) or Green ([2003]()). Englisch translations, facsimile or translations are given by Hadawas ([2023]()),  Schedel ([2010]()), Zellmann-Roher and Hadavas ([2011a](), [b](), [2012a](), [b](), res.).
+See also Haitz ([1899]()), Schnieper ([1950]()), Sladeczek ([1965]()), Rücker ([1988]()) or Green ([2003]()). Englisch translations, facsimile or translations are given by Hadawas ([2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J)),  Schedel ([2010]()), Zellmann-Roher and Hadavas ([2011a](https://www.abebooks.com/9780983140726/Liber-Chronicarum-Translation-Volume-Nuremberg-0983140723/plp), [b](https://www.abebooks.com/9780983140719/Liber-Chronicarum-Translation-Volume-Nuremberg-0983140715/plp), [2012a](https://ocul-gue.alma.exlibrisgroup.com/discovery/fulldisplay?docid=alma991033686926707371&context=L&vid=01OCUL_GUE:GUELPH&search_scope=OCULDiscoveryNetwork&adaptor=Local%20Search%20Engine&tab=OCULDiscoveryNetwork&query=creator,equals,%20Zellmann-Rohrer,%20Michael,AND&mode=advanced&offset=0&lang=en), [b](https://www.gettextbooks.com/isbn/9780983140740/), res.).
 
-For a (full) raw transcripton of the *Early New High German* (ENHG) text see Wikisource contributors ([2024]()), for ENHG dictionaries see Goebel et al. ([1989]()).
+For a (full) raw transcripton of the *Early New High German* (ENHG) text see Wikisource contributors ([2024](https://de.wikisource.org/wiki/Kategorie:Schedelsche_Weltchronik)), for ENHG dictionaries see Goebel et al. ([1989]()).
 
 
 ## References
 
-Albrecht, E. (2000). The Organization of Vincent of Beauvais’ Speculum Maius and of Some Other Latin Encyclopedias. In *The Medieval Hebrew Encyclopedias of Science and Philosophy: Proceedings of the Bar-Ilan University Conference*, edited by Harvey, S., 46–74. Dordrecht: Springer Netherlands. [https://doi.org/10.1007/978-94-015-9389-2_3]()
+Albrecht, E. (2000). The Organization of Vincent of Beauvais’ Speculum Maius and of Some Other Latin Encyclopedias. In *The Medieval Hebrew Encyclopedias of Science and Philosophy: Proceedings of the Bar-Ilan University Conference*, edited by Harvey, S., 46–74. Dordrecht: Springer Netherlands. [https://doi.org/10.1007/978-94-015-9389-2_3](https://doi.org/10.1007/978-94-015-9389-2_3)
 
 Bernstein, E. (2002). Review. *Renaissance Quarterly 55* (4): 1422–24. [http://www.jstor.org/stable/1262133]()
 
@@ -57,7 +57,7 @@ Biondo, F. (1484). *Historiarum ab inclinatione Romanorum imperii decades*. Vene
 
 ———. (2005). *Biondo Flavio’s "Italia Illustrata": Edited by Castner, C. J. Vol. 1. Biondo Flavio’s Italia Illustrata: Text, Translation, and Commentary*. Binghamton, New York: Global Academic Publishing. [https://books.google.com/books?id=kttXsdZlUPQC]()
 
-De Beauvais, V. (1264a). *Speculi naturalis pars II*. Arch. Cap. S. Pietro. A. 40. Vatican: Biblioteca Apostolica Vaticana. [https://digi.vatlib.it/view/MSS_Arch.Cap.S.Pietro.A.40]()
+de Beauvais, V. (1264a). *Speculi naturalis pars II*. Arch. Cap. S. Pietro. A. 40. Vatican: Biblioteca Apostolica Vaticana. [https://digi.vatlib.it/view/MSS_Arch.Cap.S.Pietro.A.40]()
 
 ———. (1264b). *Speculum historiale*. Vat. lat. 1965. Vatican: Biblioteca Apostolica Vaticana. [https://digi.vatlib.it/view/MSS_Vat.lat.1965]()
 
@@ -69,7 +69,7 @@ Foresti, G. F. (1492). *Supplementum Chronicarum*. Novariensis: Bernardinus Rizu
 
 Green, J. P. (2003). *The Nuremberg Chronicle and Its Readers: The Reception of Hartmann Schedel’s Liber Cronicarum*. Illinois: University of Illinois at Urbana-Champaign. [https://books.google.com/books?id=tXC8HgAACAAJ]()
 
-Hadavas, K. (2023). *First English edition of the Nuremberg chronicle : being the Liber chronicarum of Dr. Hartmann Schedel*. Edited by Hadavas, K. UW–Madison TEI edition. Madison, Wisconsin: University of Wisconsin–Madison Libraries. [https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J]()
+Hadavas, K. (2023). *First English edition of the Nuremberg chronicle : being the Liber chronicarum of Dr. Hartmann Schedel*. Edited by Hadavas, K. UW–Madison TEI edition. Madison, Wisconsin: University of Wisconsin–Madison Libraries. [https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J)
 
 Haitz, M. (1899). *Hartmann Schedel’s Weltchronik*. München: Lüneburg. [https://books.google.com/books?id=bhdEtQEACAAJ]()
 
@@ -93,12 +93,12 @@ Ptolemæus, C. (1100). *ΚΛΑΥΔΙΟΥ ΠΤΟΛΕΜΑΙΟΥ γεωγραφικ
 
 Rücker, E. (1988). *Hartmann Schedels Weltchronik: das grösste Buchunternehmen der Dürer-Zeit : mit einem Katalog der Städteansichten*. München: Prestel. [https://books.google.com/books?id=CiujnAEACAAJ]()
 
-Schedel, H. (1493). *Liber chronicarum cum figuris et ymagibus ab inicio mundi*. Nuremberge: Antonius Koberger. [https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024]()
+Schedel, H. (1493). *Liber chronicarum cum figuris et ymagibus ab inicio mundi*. Nuremberge: Antonius Koberger. [https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024)
 
 ———. (2010). *Liber Chronicarum Reference Edition*. Facsimile. Boston, MA: Selim S. Nahas Press. [http://www.smithandpress.com/Our_Books.html]()
 
 Schedel, H., & Alt, G. (tr.). (1493). *Buch der Chroniken und geschichten mit figure und pildnüssen von anbegin der welt bis auf diese unsere Zeit*. Nuremberge: Antonius Koberger.
-[https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218]()
+[https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218)
 
 ———. (1496). *Das buch Der croniken unnd geschichten mit figuren und pildnussen von Anbeginn der welt bis auff diese unsere Zeyt*. Augsburg: Johann Schönsperger. [https://doi.org/10.3931/e-rara-69075]()
 
@@ -116,7 +116,7 @@ Walker, J. B. (1930). *The "Summa Historialis" of Saint Antonius, Archbishop of 
 
 White, K. (1992). Review of Vincent de Beauvais: Intentions et réceptions d’une oeuvre encyclopédique au Moyen Âge. Actes du XIVe Colloque de l’Institut d’études médiévales, organisé conjointement par l’Atelier Vincent de Beauvais (A.R.Te.M., Université de Nancy II) et l’Institut d’études médiévales (Université de Montréal) 27-30 avril 1988, by M. Paulmier-Foucart, S. Lusignan, & A. Nadeau. *The Catholic Historical Review 78* (3): 447–49. [http://www.jstor.org/stable/25023841]()
 
-Wikisource contributors. (2024). *Schedelsche Weltchronik.* Retrieved 2024 from de.wikisource.org. [https://de.wikisource.org/wiki/Kategorie:Schedelsche_Weltchronik]()
+Wikisource contributors. (2024). *Schedelsche Weltchronik.* Retrieved 2024 from de.wikisource.org. [https://de.wikisource.org/wiki/Kategorie:Schedelsche_Weltchronik](https://de.wikisource.org/wiki/Kategorie:Schedelsche_Weltchronik)
 
 Young, K. (1930). The Speculum Majus of Vincent of Beauvais. *The Yale University Library Gazette 5* (1): 1–13. [http://www.jstor.org/stable/40856730]()
 
@@ -126,4 +126,4 @@ Zellmann-Roher, M., & Hadavas, C. (2011a). *Liber Chronicarum Translation*. 1st
 
 ———. (2012a). *Liber Chronicarum Translation*. 1st ed. Vol. 3. Boston, MA: Selim S. Nahas Press. [https://ocul-gue.alma.exlibrisgroup.com/discovery/fulldisplay](https://ocul-gue.alma.exlibrisgroup.com/discovery/fulldisplay?docid=alma991033686926707371&context=L&vid=01OCUL_GUE:GUELPH&search_scope=OCULDiscoveryNetwork&adaptor=Local%20Search%20Engine&tab=OCULDiscoveryNetwork&query=creator,equals,%20Zellmann-Rohrer,%20Michael,AND&mode=advanced&offset=0&lang=en).
 
-———. (2012b). *Liber Chronicarum Translation*. 1st ed. Vol. 4. Boston, MA: Selim S. Nahas Press. [https://www.gettextbooks.com/isbn/9780983140740/]()
+———. (2012b). *Liber Chronicarum Translation*. 1st ed. Vol. 4. Boston, MA: Selim S. Nahas Press. [https://www.gettextbooks.com/isbn/9780983140740/](https://www.gettextbooks.com/isbn/9780983140740/)
