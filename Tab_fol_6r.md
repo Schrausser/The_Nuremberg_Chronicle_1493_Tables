@@ -1,6 +1,12 @@
 # Tab_fol_6r.md
 
-Table 1.
+>"COrporalis mundi machina tota consistit in duobus. scilicet in natura celesti: et in natura elementari.", (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024), fol. VIr).
+
+>"DAs ga[n]tz leiplich geschöpff der werlt steet in zwayen dinge[n]. Ne[m]lich in hi[m]lischer vnd in elementischer natur.", (Schedel and Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), [1496](https://doi.org/10.3931/e-rara-69075), bl. VIr).
+
+>"The entire corporeal creation of the world consists of two things, namely, the celestial (ethereal) and the elementary natures (regions)", (Hadawas, [2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J), p. 10).
+
+Table 1. The *celestial* and *elementary* orbits with the *planets* and *spheres*.
 ~~~										
 Latin
 orbes mundi		natura							
@@ -47,7 +53,14 @@ himel der trifeltigkeit	himlisch	feürigen			det rüet
 					erden
 					wassers
 ~~~
-Table 2.
+
+>"Distantia predictorum orbium et planetarum hec est.", (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024), fol. VIr).
+
+>"Mercke auch von gelegenheit der vorgenante[n] umbkrais vn[d] planeten", (Schedel and Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), [1496](https://doi.org/10.3931/e-rara-69075), bl. VIr).
+
+>"Note also that the distance [...]", (Hadawas, [2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J), p. 10).
+
+Table 2. The *distances* between the *predicted* orbits and planets in *miles*.
 ~~~
 Latin			miliaria¹
 
@@ -85,10 +98,15 @@ Jupiter to Saturn	6 832
 Saturn to Stars	 	23 436 
 	 		108 375 
 ~~~
-¹) miliaria. hec sunt stadia .cxxvi., where miles are 126 stades. 
+¹) "miliaria. hec sunt stadia .cxxvi.", where miles are 126 stades (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024), fol. VIr). 
 
+>"DE celesti vero natura triplicem quidam posuere distinct[i]onem. scilicet sup[er]naturalem. id est sup[er]celestem. celestem [et] subcelestem.", (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024), fol. VIr).
 
-Table 3.
+>"ABer von der himlischen natur haben etlich dreierley underschid gesetzt als ein überhi[m]lische. ein himlische vn[d] ein undehi[m]lische.", (Schedel and Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), [1496](https://doi.org/10.3931/e-rara-69075), bl. VIr).
+
+>"In the celestial nature some have made three classifications: super-celestial, celestial, and sub-celestial.", (Hadawas, [2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J), p. 10).
+
+Table 3. The *celestial hierarchy* and the classification of the *angels*.
 ~~~
 Latin
 supernatura												
@@ -121,10 +139,16 @@ himlische	in de[n] englischen orden	oberere		seraphin
 undehi[m]lische	in heiligen mensche[n]
 ~~~
 
-Table 4. Ages of the world, "Etates mu[n]di", (Schedel, [1493](), fol. VIr; Schedel and Alt, [1493](), [1496](), bl. VIr, res.).
+>"MUndi etates accipiunt[ur] similitudinarie iuxta etates homis:", (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024), fol. VIr).
+
+>"DEr werlt alter werde[n] in gleichnus weisgenommen nach d[er] mensche[n] alter.", (Schedel and Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), [1496](https://doi.org/10.3931/e-rara-69075), bl. VIr).
+
+>"The Ages of the World are analogous to the ages of man.", (Hadawas, [2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J), p. 10).
+
+Table 4. The *ages* of the *world*.
 ~~~
-	AM			cum			BC					
-age	hebr	lxx	gen	hebr	lxx	gen	hebr	lxx	Latin					ENHG					English
+	AM			cum			BC		description
+age	hebr	lxx	gen	hebr	lxx	gen	hebr	lxx	Latin					ENHG					Engl. tr.
 
 I	1656	2242	10	1656	2242	10	2309	2959	ad diluuiu[m]				bis zu der sintflus			to the Flood
 II	292	942	10	1948	3184	20	2017	2017	ad natiuitatem abrahe			bis auf die gepurt abrahams		to the birth of Abraham
@@ -135,7 +159,7 @@ VI, VII	terminum solus deus nouit					ad finem mundi, quiescentium		bis zu der w
 VIII									resurgentium				d[er] auffersteenden			of the Resurrection
 ~~~
 
-Table 5. The ages of man, "Etates aut[em] hominis su[n]t iste", (Schedel, [1493](), fol. VIr; Schedel and Alt, [1493](), [1496](), bl. VIr, res.).						
+Table 5. The *ages* of *man*.	
 ~~~
 	years			description			
 age	from	to	n	Latin			ENHG			Engl. tr.
@@ -147,3 +171,14 @@ IIII	39	49	10	iuue[n]t[us]		iuge[n]t		youth
 V	50	79	29	senect[us]		altheit			timely age
 VI	80			decrepita		das verlebt		the spent age
 ~~~
+
+## References
+
+Hadavas, K. (2023). *First English edition of the Nuremberg chronicle : being the Liber chronicarum of Dr. Hartmann Schedel*. Edited by Hadavas, K. UW–Madison TEI edition. Madison, Wisconsin: University of Wisconsin–Madison Libraries. [https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J)
+
+Schedel, H. (1493). *Liber chronicarum cum figuris et ymagibus ab inicio mundi*. Nuremberge: Antonius Koberger. [https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024)
+
+Schedel, H., & Alt, G. (tr.). (1493). *Buch der Chroniken und geschichten mit figure und pildnüssen von anbegin der welt bis auf diese unsere Zeit*. Nuremberge: Antonius Koberger.
+[https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218)
+
+———. (1496). *Das buch Der croniken unnd geschichten mit figuren und pildnussen von Anbeginn der welt bis auff diese unsere Zeyt*. Augsburg: Johann Schönsperger. [https://doi.org/10.3931/e-rara-69075](https://doi.org/10.3931/e-rara-69075) 
