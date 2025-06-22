@@ -9,46 +9,45 @@
 Table 1. The *celestial* and *elementary* orbits with the *planets* and *spheres*.
 ~~~										
 Latin
-orbes mundi		natura							
+orbes mundi		natura
 
-celum trinitatis	celesti		empyreum								
-XII					cristallinum			primu[m] mobile		
-							inferior						
-												
-XI					firmamentu[m]			Saturnus		
-X									Iupiter			
-VIIII									Mars			
-VIII									Sol			
-VII									Venus			
-VI									Mercurius		
-V									Luna			
-IIII			elementari	ignis		supremu[m]	igneum			
-III							mediu[m]	olimpium				
-							infimu[m]	olimpium				
-II					aeris		supremum	ethereum		
-I							medium		aereum				
-							infimu[m]	aereum				
-					terre								
-					aque							
+celum trinitatis	celesti		empyreum
+XII					cristallinum			primu[m] mobile
+							inferior			
+XI					firmamentu[m]			Saturnus
+X									Iupiter
+VIIII									Mars
+VIII									Sol
+VII									Venus	
+VI									Mercurius
+V									Luna
+IIII			elementari	ignis		supremu[m]	igneum
+III							mediu[m]	olimpium	
+							infimu[m]	olimpium	
+II					aeris		supremum	ethereum
+I							medium		aereum
+							infimu[m]	aereum
+					terre
+					aque
 
 ENHG
-umbkrais, himel		natur							
+umbkrais, himel		natur
 
-himel der trifeltigkeit	himlisch	feürigen			det rüet	
-12					cristallinischen		erst beweglich		
-							untere umbkreys		
-11					firmament			Saturnus		
-10									Iupiter		
-9									Mars		
-8									Sun[n]		
-7									Venus		
-6									Mercurius		
-5									Mond		
-4			eleme[n]tische 	feüers		obersten	feürig	
-3							mitteln		liecht	
-							understen	liecht	
-2					lufts		oberst		scheynlich	
-1							mittel		lüftig		
+himel der trifeltigkeit	himlisch	feürigen			det rüet
+12					cristallinischen		erst beweglich	
+							untere umbkreys
+11					firmament			Saturnus
+10									Iupiter
+9									Mars	
+8									Sun[n]
+7									Venus	
+6									Mercurius
+5									Mond
+4			eleme[n]tische 	feüers		obersten	feürig
+3							mitteln		liecht
+							understen	liecht
+2					lufts		oberst		scheynlich
+1							mittel		lüftig	
 							underst		lüftig	
 					erden
 					wassers
@@ -109,33 +108,33 @@ Saturn to Stars	 	23 436
 Table 3. The *celestial hierarchy* and the classification of the *angels*.
 ~~~
 Latin
-supernatura												
+supernatura
 
-sup[er]celestem																	
+sup[er]celestem
 celestem	in ordinibus angelicis		superiorem	seraphin	
-								cherubin	
-								thronos		
-						media[m]	dominat[i]ones	
+								cherubin
+								thronos
+						media[m]	dominat[i]ones
 								principatus	
-								potestates	
-						inferiorem	virtutes	
-								archangelos	
-								angelos		
-subcelestem	in hominibus sanctis				
+								potestates
+						inferiorem	virtutes
+								archangelos
+								angelos
+subcelestem	in hominibus sanctis
 
 ENHG
 himlische natur
 
-überhi[m]lische				
+überhi[m]lische
 himlische	in de[n] englischen orden	oberere		seraphin	
-								cherubin	
-								tronengel	
-						mittlere	herschengel	
+								cherubin
+								tronengel
+						mittlere	herschengel
 								fürstengel
-								gewaltengel	
+								gewaltengel
 						undere		kreftengel
-								erzengel	
-								engel	
+								erzengel
+								engel
 undehi[m]lische	in heiligen mensche[n]
 ~~~
 
