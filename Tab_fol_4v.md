@@ -4,7 +4,7 @@
 
 >" [...] an disem tag den lufft vn[d] das wasser gezieret. den luft mit de[m] geflügel. vn[d] die wasser mit den schwimme[n]de[n] dinge[n].", (Schedel and Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), [1496](https://doi.org/10.3931/e-rara-69075), bl. IIIIv).
 
->"God adorned the air and the water, the air with fowl and the water with swimming creatures;", (Hadawas, [2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J), p. 7).
+>"God adorned the air and the water, the air with fowl and the water with swimming creatures;", (Hadavas, [2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J), p. 7).
 
 Table 1. The three *classes of creatures*, according to *Moses* and *Thimeo* (Timaeus of Locri in Plato, [1588](https://doi.org/10.3931/e-rara-24349), p. 457 ff.).
 ~~~
