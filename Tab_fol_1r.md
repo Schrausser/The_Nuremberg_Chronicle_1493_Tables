@@ -4,7 +4,7 @@
 
 >" [...] vo[n] geschopff der werlt. vnd vo[n] erster geburt der menschen zwayerlay wone ist.", (Schedel and Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), [1496](https://doi.org/10.3931/e-rara-69075), fo. .1.r).
 
->" [...] of the creation of the world and [...] of the birth of man [...] two different accounts exist [...] ", (Hadawas, [2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J), p. 2).
+>" [...] of the creation of the world and [...] of the birth of man [...] two different accounts exist [...] ", (Hadavas, [2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J), p. 2).
 
 Table 1. The two Accounts *A* and *B* of the creation of the world and man.
 ~~~
@@ -31,7 +31,7 @@ Engl. tr.
 
 > "Die alte[n] habe[n] von dreyerlay werlt gesagt [...] ", (Schedel and Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), [1496](https://doi.org/10.3931/e-rara-69075), fo. .1.r).
 
-> "The ancients spoke of three kinds of worlds [...] ", (Hadawas, [2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J), p. 2).
+> "The ancients spoke of three kinds of worlds [...] ", (Hadavas, [2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J), p. 2).
 
 Table 2. The three or four, res. *kinds of worlds*" according to the ancients with short descriptions.
 ~~~				
@@ -115,7 +115,7 @@ Engl. tr.
 
 >"Vo[n] dise[n] dreye[n] werlte[n] hat moyses genugsa[m]lich gesagt [...]", (Schedel and Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), [1496](https://doi.org/10.3931/e-rara-69075), fo. .1.r).
 
->"And all this according to Moses [...]", (Hadawas, [2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J), p. 2).
+>"And all this according to Moses [...]", (Hadavas, [2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J), p. 2).
 
 Table 7. Chronological list of the *authors mentioned* with a brief description of their origin.
 ~~~
