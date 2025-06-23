@@ -1,8 +1,10 @@
 # NC_tab_astro.md
 
-Comparative representation of the *astronomical* parameters, c.f.
+>"Sed Pythagoras interdum ex musica r[ati]one appellat Tonum:", (Plinius Secundus, [1250](), Fol. 22r, [1470](), Lib. II).
 
-Table 1. Spec nat.
+>"But occasionally Pythagoras draws on the Tone theory of music [...] ", (Rackham, [1967](), p. 227 ff.).
+
+Table 1. Astronomical parameters from the Speculum naturale (de Beauvais, [1264a](), [c](), [1476](), [1494](), [1964c]()). As Basis see the Historia Naturalis of Plinius Secundus ([1250](), [1455](), [1469](), [1470](), [1496]()) where he refers to *musica universalis* as concept that regards *proportions* in the movements of celestial bodies as a form of music, originating in *Pythagoreanism*.
 ~~~
 			tonus	cum	 miliaria	 cum
 
@@ -17,7 +19,7 @@ ad signiferum		1,5	7,0	 23 437,50 	 109 375,00
 
 ~~~
 
-Table 2. Miliaria cmp.
+Table 2. Comparative representation of the *astronomical* parameters from the *Speculum naturale* (de Beauvais, [1264a](), [c](), [1476](), [1494](), [1964c]()).
 ~~~				
 distance		Nuremberg Chronicle 1493			 Spec. Nat.	
 			Latin		 ENHG		 English tr.	
