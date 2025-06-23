@@ -182,12 +182,22 @@ Abraam							Abraham								Abraham
 (no[n]) iupiter¹ (fecit)				(hat nit der) Iupiter¹ (gemacht)				Jupiter¹ (did not create all this)
 ~~~
 
-¹) Apparently the certain *Jupiter*, who is descended from *Eber*; Foresti mentions even an exact date, namely 2009 BC and writes here: "[…] *Is lysania ex heber filiis videlicet ierari originem duxit: qui cum esset nobilis genere ex Archadia athenas fuisse dicitur* […]" ([1492](), fol. 8v), "[…] *This Lysania was descended from the sons of the Ebers, namely Ierari, who, being of a noble family, is said to have been from Archadia, Athens*", see also Cherchie, " […] *the first Jupiter (in fact, a certain Lisania) was the first to give laws, civic institutions, and marriage to the Attics*." ([2018](), p. 255), c.f. Boccaccio ([1360](), [1487]()), Hyde ([1985]()), Bosco ([2024]()).  
+¹) Apparently the certain *Jupiter*, who is descended from *Eber*; Foresti mentions even an exact date, namely 2009 BC and writes here: "[…] *Is lysania ex heber filiis videlicet ierari originem duxit: qui cum esset nobilis genere ex Archadia athenas fuisse dicitur* […]" ([1492](https://books.google.com/books?id=ei9TruMbYCkC&printsec=frontcover), fol. 8v), "[…] *This Lysania was descended from the sons of the Ebers, namely Ierari, who, being of a noble family, is said to have been from Archadia, Athens*", see also Cherchie, " […] *the first Jupiter (in fact, a certain Lisania) was the first to give laws, civic institutions, and marriage to the Attics*." ([2018](https://doi.org/10.1515/9783110419306-013), p. 255), c.f. Boccaccio ([1360](https://digi.vatlib.it/view/MSS_Pal.lat.938), [1487](https://books.google.com/books?id=ZooTnQEACAAJ)) or Hyde ([1985](http://www.jstor.org/stable/462094)).  
 
 
 ## References
 
+Boccaccio, G. (1360). *Genealogiae deorum gentilium libri XV*. Pal. lat. 938. Vatican: Biblioteca Apostolica Vaticana. [https://digi.vatlib.it/view/MSS_Pal.lat.938](https://digi.vatlib.it/view/MSS_Pal.lat.938)
+
+———. (1487). *Genealogia Deorum Gentilium*. Vincentiae: Sym. de Gabis. [https://books.google.com/books?id=ZooTnQEACAAJ](https://books.google.com/books?id=ZooTnQEACAAJ)
+
+Cherchi, P. (2018). The Inventors of Things in Boccaccio’s de Genealogia Deorum Gentilium. In *The Unity of Knowledge in the Pre-Modern World*, edited by Candido, I., 244–69. Berlin, Boston: De Gruyter. [https://doi.org/10.1515/9783110419306-013](https://doi.org/10.1515/9783110419306-013)
+
+Foresti, G. F. (1492). *Supplementum Chronicarum*. Novariensis: Bernardinus Rizus. [https://books.google.com/books?id=ei9TruMbYCkC&printsec=frontcover](https://books.google.com/books?id=ei9TruMbYCkC&printsec=frontcover)
+
 Hadavas, K. (2023). *First English edition of the Nuremberg chronicle : being the Liber chronicarum of Dr. Hartmann Schedel*. Edited by Hadavas, K. UW–Madison TEI edition. Madison, Wisconsin: University of Wisconsin–Madison Libraries. [https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J)
+
+Hyde, T. (1985). Boccaccio: The Genealogies of Myth. *PMLA 100* (5): 737–45. [http://www.jstor.org/stable/462094](http://www.jstor.org/stable/462094)
 
 Schedel, H. (1493). *Liber chronicarum cum figuris et ymagibus ab inicio mundi*. Nuremberge: Antonius Koberger. [https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024)
 
