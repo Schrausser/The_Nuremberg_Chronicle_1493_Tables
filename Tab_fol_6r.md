@@ -127,7 +127,7 @@ Saturn to Stars	 	23 436
 
 >"In the celestial nature some have made three classifications: super-celestial, celestial, and sub-celestial.", (Hadavas, [2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J), p. 10).
 
-Table 3. The *celestial hierarchy* and the classification of the *angels*.
+Table 3. The *celestial hierarchy* and the classification of the *angels*, see Dionysius ([1350](https://digital.bodleian.ox.ac.uk/objects/ee19a692-5066-4c84-95db-d93c4fc82b97/)), c.f  Ficinus ([1503](https://doi.org/10.3931/e-rara-9747)) or Corderius ([1644]()).
 ~~~
 Latin
 supernatura
@@ -209,6 +209,10 @@ VI	80			decrepita		das verlebt		the spent age
 ~~~
 
 ## References
+
+Dionysius. (1350). *De Caelesti Hierarchia*. MS Gr 2. Oxford, Magdalen College: Oxford Digital Library. [https://digital.bodleian.ox.ac.uk/objects/ee19a692-5066-4c84-95db-d93c4fc82b97/](https://digital.bodleian.ox.ac.uk/objects/ee19a692-5066-4c84-95db-d93c4fc82b97/)
+
+Ficinus, M. (1503). *Opera Dionysii Veteris Et Nove Translationis Etiam Novissime Ipsius Marsilii Ficini Cum Commentariis Hugonis, Alberti, Thome, Ambrosii Oratoris Linconiensis Et Vercellensis. Veteris Translationis. De Celesti Hierarchia* ... Straßburg: Husner. [https://doi.org/10.3931/e-rara-9747](https://doi.org/10.3931/e-rara-9747)
 
 Hadavas, K. (2023). *First English edition of the Nuremberg chronicle : being the Liber chronicarum of Dr. Hartmann Schedel*. Edited by Hadavas, K. UW–Madison TEI edition. Madison, Wisconsin: University of Wisconsin–Madison Libraries. [https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J)
 
