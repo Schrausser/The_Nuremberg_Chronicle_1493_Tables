@@ -1,8 +1,8 @@
-# NC_tab03.md
+# NC_tab_cmp.md
 
-Table 1. Latin, cmp.
+Table 1. Comparison *natura* fol. VIr vs fol. Vv (Schedel, [1493]()) vs. Velho ([1568](), p. ).
 ~~~
-Fol VIr												Fol Vv			Velho
+fol. VIr											fol. Vv			Velho
 orbes mundi		natura							
 
 celum trinitatis	celesti		empyreum									CELVM EMPIREVM
@@ -26,73 +26,32 @@ I							medium		aereum
 					aque							terrA
 ~~~
 
-Table 2. ENHG.
+Table 2. Comparison *supernatura* fol. VIr vs. fol. Vv (Schedel, [1493]()).
 ~~~
-umbkrais, himel		natur						art	
+fol. VIr								fol. Vv	
+supernatura												
 
-himel der trifeltigkeit	himlisch	feürigen			det rüet	
-12					cristallinischen		erst beweglich		
-							untere umbkreys		
-11					firmament			Saturnus		
-10									Iupiter		
-9									Mars		
-8									Sun[n]		
-7									Venus		
-6									Mercurius		
-5									Mond		
-4			eleme[n]tische 	feüers		obersten	feürig	
-3							mitteln		liecht	
-							understen	liecht	
-2					lufts		oberst		scheynlich	wyrm vnd das liecht von nehe wegen der sunne[n]
-1							mittel		lüftig		kelt und tunckelheit
-							underst		lüftig		wyrm vnd das liecht vo[n] wider scheyns wegen der glentz von der erden
-					erden
-					wassers
-~~~
-
-Table 3. Latin, Fol VIr vs. Vv.
-~~~
-Fol VIr									Fol Vv	
-
-supernatura												n
-sup[er]celestem								Subsolanus O², Auster S²	
+sup[er]celestem								Subsolanus SO², Auster S²	
 									Aparcias N¹, Zephyrus W¹²	
-celestem	in ordinibus angelicis	superiorem	seraphin	Seraphin			4
-							cherubin	Cherubin			8
-							thronos		Throni				1
-					media[m]	dominat[i]ones	d[omi]nationes			8
-							principatus	principat[us]			7
-							potestates	P[o]t[est]ates			5
-					inferiorem	virtutes	u[ir]tutes			4
-							archangelos	archa[n]gli			4
-							angelos		Angeli				1
-subcelestem	in hominibus sanctis									2
+celestem	in ordinibus angelicis	superiorem	seraphin	Seraphin			
+							cherubin	Cherubin			
+							thronos		Throni				
+					media[m]	dominat[i]ones	d[omi]nationes			
+							principatus	principat[us]			
+							potestates	P[o]t[est]ates			
+					inferiorem	virtutes	u[ir]tutes			
+							archangelos	archa[n]gli			
+							angelos		Angeli				
+subcelestem	in hominibus sanctis									
 ~~~										
 ¹) Greek.  
 ²) Latin. 
 
-Table 4. ENHG.
-~~~
-überhi[m]lische				
-
-himlische	in de[n] englischen orden	oberere		seraphin	
-								cherubin	
-								tronengel	
-						mittlere	herschengel	
-								fürstengel	creftengel
-								gewaltengel	
-						undere		kreftengel	fürstengel
-								erzengel	
-								engel	
-undehi[m]lische	in heiligen mensche[n]
-~~~
-
-Table 5. Cmp.
-~~~
-Latin							
+Table 4. Comparison of *natura* vs. *supernatura* (Schedel, [1493](), fol. VIr).
+~~~						
 orbes mundi		natura								supernatura			
 
-celum trinitatis	celesti		empyreum		sup[er]celestem			
+celum trinitatis	celesti		empyreum					sup[er]celestem			
 XII					cristallinum		primu[m] mobile		celestem	in ordinibus angelicis		superiorem	seraphin
 								inferior										cherubin
 XI					firmamentu[m]		Saturnus										thronos
@@ -103,20 +62,6 @@ VII								Venus									inferiorem	virtutes
 VI								Mercurius										archangelos
 V								Luna											angelos
 			elementari							subcelestem	in hominibus sanctis
-ENHG
-umbkrais, himel		natur						
-
-himel der trifeltigkeit	himlisch	feürigen		überhi[m]lische			
-12					cristallinischen	erst beweglich		himlische	in de[n] englischen orden	oberere		seraphin
-								untere umbkreys										cherubin
-11					firmament		Saturnus										tronengel
-10								Iupiter									mittlere	herschengel
-9								Mars											fürstengel
-8								Sun[n]											gewaltengel
-7								Venus									undere		kreftengel
-6								Mercurius										erzengel
-5								Mond											engel
-			eleme[n]tische							undehi[m]lische	in heiligen mensche[n]		
 ~~~
 
 ## References
