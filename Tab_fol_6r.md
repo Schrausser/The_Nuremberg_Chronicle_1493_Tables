@@ -51,6 +51,28 @@ himel der trifeltigkeit	himlisch	feürigen			det rüet
 							underst		lüftig	
 					erden
 					wassers
+
+Engl. tr.
+orbits			natures (regions)
+
+Heaven of the Trinity	celestial	fiery				
+12					cristalline			prime mover	
+							lower orbit
+11					firmament			Saturn
+10									Jupiter
+9									Mars	
+8									Sun
+7									Venus	
+6									Mercury
+5									Moon
+4			elementary 	fire		upper part	fiery
+3							middle part	light
+							lower part	light
+2					air		upper part	shines
+1							middle part	airy	
+							lower part	airy	
+					earth
+					water
 ~~~
 
 >"Distantia predictorum orbium et planetarum hec est.", (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024), fol. VIr).
