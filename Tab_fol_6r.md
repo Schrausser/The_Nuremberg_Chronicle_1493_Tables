@@ -6,7 +6,7 @@
 
 >"The entire corporeal creation of the world consists of two things, namely, the celestial (ethereal) and the elementary natures (regions)", (Hadavas, [2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J), p. 10).
 
-Table 1. The *celestial* and *elementary* orbits with the *planets* and *spheres*.
+Table 1. The *celestial* and *elementary* orbits with the *planets* and *spheres*, c.f. Velho ([1568](http://catalogue.bnf.fr/ark:/12148/cb416166390), fol. 9r-10v), Petavius ([1630](), p. 261-262).
 ~~~										
 Latin
 orbes mundi		natura
@@ -225,3 +225,5 @@ Schedel, H., & Alt, G. (tr.). (1493). *Buch der Chroniken und geschichten mit fi
 [https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218)
 
 ———. (1496). *Das buch Der croniken unnd geschichten mit figuren und pildnussen von Anbeginn der welt bis auff diese unsere Zeyt*. Augsburg: Johann Schönsperger. [https://doi.org/10.3931/e-rara-69075](https://doi.org/10.3931/e-rara-69075) 
+
+Velho, B. (1568). *Principio da verdadeira cosmographia ... per Bartholomeu Velho portugues/neste anno de 1568*. Paris: Bibliothèque nationale de France. [http://catalogue.bnf.fr/ark:/12148/cb416166390](http://catalogue.bnf.fr/ark:/12148/cb416166390)
