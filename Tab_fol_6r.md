@@ -127,7 +127,7 @@ Saturn to Stars	 	23 436
 
 >"In the celestial nature some have made three classifications: super-celestial, celestial, and sub-celestial.", (Hadavas, [2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J), p. 10).
 
-Table 3. The *celestial hierarchy* and the classification of the *angels*, see Dionysius ([1350](https://digital.bodleian.ox.ac.uk/objects/ee19a692-5066-4c84-95db-d93c4fc82b97/)), c.f  Ficinus ([1503](https://doi.org/10.3931/e-rara-9747)) or Corderius ([1644]()).
+Table 3. The *celestial hierarchy* and the classification of the *angels*, see Dionysius ([1350](https://digital.bodleian.ox.ac.uk/objects/ee19a692-5066-4c84-95db-d93c4fc82b97/)), c.f  Ficinus ([1503](https://doi.org/10.3931/e-rara-9747)) or Corderius ([1644](https://books.google.com/books?id=SzyAVTu3RI0C)).
 ~~~
 Latin
 supernatura
@@ -209,6 +209,9 @@ VI	80			decrepita		das verlebt		the spent age
 ~~~
 
 ## References
+
+Corderius, B. (1644). *Sancti Dionysii Areopagitae Operum Omnium Quae Extant, Et Commentariorum Quibus Illustrantur* ... Lutetiae Parisorum: Apud Laurentium Cottereau.
+[https://books.google.com/books?id=SzyAVTu3RI0C](https://books.google.com/books?id=SzyAVTu3RI0C)
 
 Dionysius. (1350). *De Caelesti Hierarchia*. MS Gr 2. Oxford, Magdalen College: Oxford Digital Library. [https://digital.bodleian.ox.ac.uk/objects/ee19a692-5066-4c84-95db-d93c4fc82b97/](https://digital.bodleian.ox.ac.uk/objects/ee19a692-5066-4c84-95db-d93c4fc82b97/)
 
