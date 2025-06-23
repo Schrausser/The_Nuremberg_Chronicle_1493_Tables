@@ -158,6 +158,21 @@ himlische	in de[n] englischen orden	oberere		seraphin
 								erzengel
 								engel
 undehi[m]lische	in heiligen mensche[n]
+
+Engl. tr.
+celestial nature
+
+super-celestial
+celestial	in angelic orders		upper		Seraphim	
+								Cherubim
+								Thrones
+						middle		Dominations
+								Principalities
+								Powers
+						lower		angels of virtue
+								archangels
+								angels
+sub-celestial	holy persons (saints)
 ~~~
 
 >"MUndi etates accipiunt[ur] similitudinarie iuxta etates homis:", (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024), fol. VIr).
