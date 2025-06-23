@@ -4,7 +4,7 @@
 
 >" [...] dan[n] d[er] glori wirdig got (der das war liecht ist) vnd das liecht liebett hat alle ding im liecht machende. das geschöpff der werlt am liecht gar recht angefange[n].", (Schedel and Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), [1496](https://doi.org/10.3931/e-rara-69075), bl. IIv).
 
->" [...] for the glorious God, who is the true light, and who loves the light and made all light-giving things, very fitly began the creation with light.", (Hadawas, [2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J), p. 4).
+>" [...] for the glorious God, who is the true light, and who loves the light and made all light-giving things, very fitly began the creation with light.", (Hadavas, [2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J), p. 4).
 
 Table 1. Timeline of the *creation*.
 ~~~
@@ -39,7 +39,7 @@ septe[m]trione[m]	mitternacht	North (Mitternacht, midnight)
 
 >"Got hat das firmament gescheibelt. beweglich. andere empfintliche dig begreiffende gemacht.", (Schedel and Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), [1496](https://doi.org/10.3931/e-rara-69075), bl. IIv).
 
->"God divided the firmament and made it movable; and he made other sensitive things comprehensible.", (Hadawas, [2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J), p. 4).
+>"God divided the firmament and made it movable; and he made other sensitive things comprehensible.", (Hadavas, [2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J), p. 4).
 
 ## References
 
