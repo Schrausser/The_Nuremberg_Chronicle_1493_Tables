@@ -4,7 +4,7 @@
 
 >"DAs ga[n]tz leiplich geschöpff der werlt steet in zwayen dinge[n]. Ne[m]lich in hi[m]lischer vnd in elementischer natur.", (Schedel and Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), [1496](https://doi.org/10.3931/e-rara-69075), bl. VIr).
 
->"The entire corporeal creation of the world consists of two things, namely, the celestial (ethereal) and the elementary natures (regions)", (Hadawas, [2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J), p. 10).
+>"The entire corporeal creation of the world consists of two things, namely, the celestial (ethereal) and the elementary natures (regions)", (Hadavas, [2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J), p. 10).
 
 Table 1. The *celestial* and *elementary* orbits with the *planets* and *spheres*.
 ~~~										
@@ -57,7 +57,7 @@ himel der trifeltigkeit	himlisch	feürigen			det rüet
 
 >"Mercke auch von gelegenheit der vorgenante[n] umbkrais vn[d] planeten", (Schedel and Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), [1496](https://doi.org/10.3931/e-rara-69075), bl. VIr).
 
->"Note also that the distance [...]", (Hadawas, [2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J), p. 10).
+>"Note also that the distance [...]", (Hadavas, [2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J), p. 10).
 
 Table 2. The *distances* between the *predicted* orbits and planets in *miles*.
 ~~~
@@ -103,7 +103,7 @@ Saturn to Stars	 	23 436
 
 >"ABer von der himlischen natur haben etlich dreierley underschid gesetzt als ein überhi[m]lische. ein himlische vn[d] ein undehi[m]lische.", (Schedel and Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), [1496](https://doi.org/10.3931/e-rara-69075), bl. VIr).
 
->"In the celestial nature some have made three classifications: super-celestial, celestial, and sub-celestial.", (Hadawas, [2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J), p. 10).
+>"In the celestial nature some have made three classifications: super-celestial, celestial, and sub-celestial.", (Hadavas, [2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J), p. 10).
 
 Table 3. The *celestial hierarchy* and the classification of the *angels*.
 ~~~
@@ -142,7 +142,7 @@ undehi[m]lische	in heiligen mensche[n]
 
 >"DEr werlt alter werde[n] in gleichnus weisgenommen nach d[er] mensche[n] alter.", (Schedel and Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), [1496](https://doi.org/10.3931/e-rara-69075), bl. VIr).
 
->"The Ages of the World are analogous to the ages of man.", (Hadawas, [2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J), p. 10).
+>"The Ages of the World are analogous to the ages of man.", (Hadavas, [2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J), p. 10).
 
 Table 4. The *ages* of the *world*.
 ~~~
