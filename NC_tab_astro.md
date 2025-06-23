@@ -1,10 +1,10 @@
 # NC_tab_astro.md
 
->"Sed Pythagoras interdum ex musica r[ati]one appellat Tonum:", (Plinius Secundus, [1250](), Fol. 22r, [1470](), Lib. II).
+>"Sed Pythagoras interdum ex musica r[ati]one appellat Tonum:", (Plinius Secundus, [1250](https://gallica.bnf.fr/ark:/12148/btv1b550140045/), Fol. 22r, [1470](https://doi.org/10.3931/e-rara-74199), Lib. II).
 
->"But occasionally Pythagoras draws on the Tone theory of music [...] ", (Rackham, [1967](), p. 227 ff.).
+>"But occasionally Pythagoras draws on the Tone theory of music [...] ", (Rackham, [1967](https://archive.org/details/naturalhistory01plinuoft/), p. 227 ff.).
 
-Table 1. Astronomical parameters from the Speculum naturale (de Beauvais, [1264a](), [c](), [1476](), [1494](), [1964c]()). As Basis see the Historia Naturalis of Plinius Secundus ([1250](), [1455](), [1469](), [1470](), [1496]()) where he refers to *musica universalis* as concept that regards *proportions* in the movements of celestial bodies as a form of music, originating in *Pythagoreanism*.
+Table 1. Astronomical parameters from the *Speculum Naturale* (de Beauvais, [1264](https://digi.vatlib.it/view/MSS_Arch.Cap.S.Pietro.A.40), [1476](https://nbn-resolving.org/urn:nbn:de:hbz:061:1-592809), [1494](https://books.google.com/books?id=v9yKk_tdhusC), [1964](https://nbn-resolving.org/urn:nbn:de:hbz:061:1-20729)). As Basis see the Historia Naturalis of Plinius Secundus ([1250](https://gallica.bnf.fr/ark:/12148/btv1b550140045/), [1455](https://digi.vatlib.it/view/MSS_Vat.lat.1957),  [1470](https://doi.org/10.3931/e-rara-74199), [1496](https://doi.org/10.3931/e-rara-84393)) where he refers to *musica universalis* as concept that regards *proportions* in the movements of celestial bodies as a form of music, originating in *Pythagoreanism*.
 ~~~
 			tonus	cum	 miliaria	 cum
 
@@ -19,7 +19,7 @@ ad signiferum		1,5	7,0	 23 437,50 	 109 375,00
 
 ~~~
 
-Table 2. Comparative representation of the *astronomical* parameters from the *Speculum naturale* (de Beauvais, [1264a](), [c](), [1476](), [1494](), [1964c]()).
+Table 2. Comparative representation of the *astronomical* parameters from the *Nuremberg Chronicle* (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024); Schedel and Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), [1496](https://doi.org/10.3931/e-rara-69075), res. and Hadavas, [2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J)) with the parameters from the *Speculum Naturale* (de Beauvais, [1264](https://digi.vatlib.it/view/MSS_Arch.Cap.S.Pietro.A.40), [1476](https://nbn-resolving.org/urn:nbn:de:hbz:061:1-592809), [1494](https://books.google.com/books?id=v9yKk_tdhusC), [1964](https://nbn-resolving.org/urn:nbn:de:hbz:061:1-20729)).
 ~~~				
 distance		Nuremberg Chronicle 1493			 Spec. Nat.	
 			Latin		 ENHG		 English tr.	
@@ -201,29 +201,29 @@ ad signiferum		1,5	7,0	7	Iapetus		VIII
 
 ## References
 
-De Beauvais, V. (1476). *Speculum naturale*. Düsseldorf: Universitäts- und Landesbibliothek. [https://nbn-resolving.org/urn:nbn:de:hbz:061:1-592809]()
+De Beauvais, V. (1264). *Speculi naturalis pars II*. Arch. Cap. S. Pietro. A. 40. Vatican: Biblioteca Apostolica Vaticana. [https://digi.vatlib.it/view/MSS_Arch.Cap.S.Pietro.A.40](https://digi.vatlib.it/view/MSS_Arch.Cap.S.Pietro.A.40)
 
-———. (1494). *Speculum naturale*. Venetiis: Hermannus Liechtenstein. [https://books.google.com/books?id=v9yKk_tdhusC]()
+———. (1476). *Speculum naturale*. Düsseldorf: Universitäts- und Landesbibliothek. [https://nbn-resolving.org/urn:nbn:de:hbz:061:1-592809](https://nbn-resolving.org/urn:nbn:de:hbz:061:1-592809)
 
-———. (1964a). *Speculum historiale.Speculum quadruplex sive speculum maius*. Photomechan. Nachdr. [d. Ausg. Duaci 1624]. Düsseldorf: Universitäts- und Landesbibliothek. [https://nbn-resolving.org/urn:nbn:de:hbz:061:1-20729]()
+———. (1494). *Speculum naturale*. Venetiis: Hermannus Liechtenstein. [https://books.google.com/books?id=v9yKk_tdhusC](https://books.google.com/books?id=v9yKk_tdhusC)
 
-———. (1964b). *Speculum maius*. Graz: Akad. Druck- u. Verl.-Anst. [https://nbn-resolving.org/urn:nbn:de:hbz:061:1-20612]()
+———. (1964). *Speculum naturale. Speculum quadruplex sive speculum maius*. Photomechan. Nachdr. [d. Ausg. Duaci 1624]. Düsseldorf: Universitäts- und Landesbibliothek. [https://nbn-resolving.org/urn:nbn:de:hbz:061:1-20603]()
 
-———. (1964c). *Speculum naturale. Speculum quadruplex sive speculum maius*. Photomechan. Nachdr. [d. Ausg. Duaci 1624]. Düsseldorf: Universitäts- und Landesbibliothek. [https://nbn-resolving.org/urn:nbn:de:hbz:061:1-20603]()
+Hadavas, K. (2023). *First English edition of the Nuremberg chronicle : being the Liber chronicarum of Dr. Hartmann Schedel*. Edited by Hadavas, K. UW–Madison TEI edition. Madison, Wisconsin: University of Wisconsin–Madison Libraries. [https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J)
 
-Hadavas, K. (2023). *First English edition of the Nuremberg chronicle : being the Liber chronicarum of Dr. Hartmann Schedel*. Edited by Hadavas, K. UW–Madison TEI edition. Madison, Wisconsin: University of Wisconsin–Madison Libraries. [https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J]()
+Plinius Secundus, G. (1250). *Plinius Secundus Major, Historia Naturalis. Liber Trigesimus Septimus Manu Recentiore Suppletus Est*. Latin 6797. Paris: Bibliothèque nationale de France. [https://gallica.bnf.fr/ark:/12148/btv1b550140045/](https://gallica.bnf.fr/ark:/12148/btv1b550140045/)
 
-Plinius Secundus, G. (1250). *Plinius Secundus Major, Historia Naturalis. Liber Trigesimus Septimus Manu Recentiore Suppletus Est*. Latin 6797. Paris: Bibliothèque nationale de France. [https://gallica.bnf.fr/ark:/12148/btv1b550140045/]()
+———. (1455). *Naturalis historiae lib. I-XXXVII*. Vat. lat. 1957. Vatican: Biblioteca Apostolica Vaticana. [https://digi.vatlib.it/view/MSS_Vat.lat.1957](https://digi.vatlib.it/view/MSS_Vat.lat.1957)
 
-———. (1455). *Naturalis historiae lib. I-XXXVII*. Vat. lat. 1957. Vatican: Biblioteca Apostolica Vaticana. [https://digi.vatlib.it/view/MSS_Vat.lat.1957]()
+———. (1470). *Historia naturalis*. Impressum Rome: magistris Conrado Sweynheym & Arnoldo Panaratz. [https://doi.org/10.3931/e-rara-74199](https://doi.org/10.3931/e-rara-74199)
 
-———. (1470). *Historia naturalis*. Impressum Rome: magistris Conrado Sweynheym & Arnoldo Panaratz. [https://doi.org/10.3931/e-rara-74199]()
+———. (1496). *C. Plynius Secundus De naturali hystoria diligentissme castigatus*. Impressum Venetiis: per Bartolameum de Zanis. [https://doi.org/10.3931/e-rara-84393](https://doi.org/10.3931/e-rara-84393)
 
-———. (1496). *C. Plynius Secundus De naturali hystoria diligentissme castigatus*. Impressum Venetiis: per Bartolameum de Zanis. [https://doi.org/10.3931/e-rara-84393]()
+Rackham, H. (1967). *Pliny Natural History in Ten Volumes*. Vol. 1. Cambridge, Massachusetts: Harvard University Press. [https://archive.org/details/naturalhistory01plinuoft/](https://archive.org/details/naturalhistory01plinuoft/)
 
-Schedel, H. (1493). *Liber chronicarum cum figuris et ymagibus ab inicio mundi*. Nuremberge: Antonius Koberger. [https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024]()
+Schedel, H. (1493). *Liber chronicarum cum figuris et ymagibus ab inicio mundi*. Nuremberge: Antonius Koberger. [https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024)
 
 Schedel, H., & Alt, G. (tr.). (1493). *Buch der Chroniken und geschichten mit figure und pildnüssen von anbegin der welt bis auf diese unsere Zeit*. Nuremberge: Antonius Koberger.
-[https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218]()
+[https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218)
 
-———. (1496). *Das buch Der croniken unnd geschichten mit figuren und pildnussen von Anbeginn der welt bis auff diese unsere Zeyt*. Augsburg: Johann Schönsperger. [https://doi.org/10.3931/e-rara-69075]()
+———. (1496). *Das buch Der croniken unnd geschichten mit figuren und pildnussen von Anbeginn der welt bis auff diese unsere Zeyt*. Augsburg: Johann Schönsperger. [https://doi.org/10.3931/e-rara-69075](https://doi.org/10.3931/e-rara-69075)
