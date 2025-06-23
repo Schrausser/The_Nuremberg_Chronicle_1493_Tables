@@ -56,7 +56,7 @@ Engl. tr.
 orbits			natures (regions)
 
 Heaven of the Trinity	celestial	fiery				
-12					cristalline			prime mover	
+12			(ethereal)	cristalline			prime mover	
 							lower orbit
 11					firmament			Saturn
 10									Jupiter
