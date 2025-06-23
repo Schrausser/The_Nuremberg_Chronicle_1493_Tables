@@ -16,13 +16,12 @@ ad martem		1,0	4,5	 15 625,00 	 70 312,50
 ad iovem		0,5	5,0	 7 812,50 	 78 125,00 
 ad saturnum		0,5	5,5	 7 812,50 	 85 937,50 
 ad signiferum		1,5	7,0	 23 437,50 	 109 375,00
-
 ~~~
 
 Table 2. Comparative representation of the *astronomical* parameters from the *Nuremberg Chronicle* (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024); Schedel and Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), [1496](https://doi.org/10.3931/e-rara-69075), res. and Hadavas, [2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J)) with the parameters from the *Speculum Naturale* (de Beauvais, [1264](https://digi.vatlib.it/view/MSS_Arch.Cap.S.Pietro.A.40), [1476](https://nbn-resolving.org/urn:nbn:de:hbz:061:1-592809), [1494](https://books.google.com/books?id=v9yKk_tdhusC), [1964](https://nbn-resolving.org/urn:nbn:de:hbz:061:1-20729)).
 ~~~				
 distance		Nuremberg Chronicle 1493			 Spec. Nat.	
-			Latin		 ENHG		 English tr.	
+			Latin		 ENHG		 Eng. tr.	
 
 terram ad lunam	 	15 625,00 	 15 625,00 	 15 625,00 	 15 625,00 
 luna ad mercurium	7 812,50 	 7 813,00 	 7 813,00 	 7 812,50 
@@ -98,9 +97,9 @@ sum	 	 	 107 392 	 13 531 392 	 2 503 036,89 	 2 029 708,80 	 2 841 592,32 	 2 4
 diff	 	 	 1 983 	 	 249 858	 46 218,73 	 37 478,70 	 52 470,18 	 44 974,44        
 ~~~
 
-Table 5. kum.
+Table 4. Cumulative
 ~~~	
-		 	 km 	 	 km kum	
+		 	 km 	 	 km cum	
 Latin			
 terram ad lunam	 	 364 179,38 			3,6E+05
 luna ad mercurium	 182 089,69 	 546 269,06 	1,8E+05
@@ -122,7 +121,7 @@ zu saturnus	 	 159 003,63 	 1 956 802,79 	1,6E+05
 zum firmament	 	 546 234,10 	 2 503 036,89 	5,5E+05
 ~~~
 
-Table 6. diff.
+Table 5. diff.
 ~~~
 			km				diff		factor 1/x
 			Latin		 ENHG
@@ -170,7 +169,7 @@ ad signiferum		2,5E+06		3,6E+06		1,41	Iapetus (Saturn VIII)
 Table 7. ENHG, $\overline{rf}=1.04$, $r=0.991$, $n=6$, $det=98.2\\%$.
 ~~~
 					actual		
-			km		km		rf	Object
+			km		km		rf	object
 
 erd zu dem mond 	3,6E+05		3,8E+05		1,04	Earthmoon, Dione (Saturn lV)
 zu mercurio		5,5E+05		5,3E+05		0,96	Rhea (Saturn V)
@@ -184,7 +183,7 @@ zum firmament		2,5E+06		3,6E+06		1,42	Iapetus (Saturn VIII)
 
 Table 8.
 ~~~
-			tonus 	cum	rd	Object		Saturn	Jupiter
+			tonus 	cum	rd	object		Saturn	Jupiter
 
 terram ad lunam		1,0	1,0	1	Dione		IV	
 luna ad mercurium	0,5	1,5	2	Rhea		V	
