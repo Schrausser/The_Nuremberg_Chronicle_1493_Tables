@@ -4,7 +4,7 @@
 
 >" [...] do hat der glori wirdige got sein werck erfüllet vn[d] am sybende[n] tag von den wercken seiner hendt geruet.", (Schedel and Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), [1496](https://doi.org/10.3931/e-rara-69075), bl. Vv).
 
->" [...] the glorious God fulfilled his task; and on the seventh day he rested from his labors.", (Hadawas, [2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J), p. ).
+>" [...] the glorious God fulfilled his task; and on the seventh day he rested from his labors.", (Hadavas, [2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J), p. ).
 
 
 Table 1. Names of *angels* and *spheres* between the Roman and Greek *wind gods*; the *Anemoi*, sons of *Astraeus* and *Eos* (s. Neuser, [1982](https://books.google.com/books?id=T0gcAAAAMAAJ) or Miller et al., [2010](https://books.google.com/books?id=LCYlQwAACAAJ)).
