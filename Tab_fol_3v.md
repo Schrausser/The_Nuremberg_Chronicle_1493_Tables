@@ -4,7 +4,7 @@
 
 >"Nach de[m] firmament vermanet er uns von d[er] genzigkeit geleger vn[d] ordnu[n]g d[er] eleme[n]t kürtzlich durch versamlung d[er] wasser an ein stat vnd durch die zile de[m] meer fürgesteckt das es die erde[n] nit uberfiele.", (Schedel and Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), [1496](https://doi.org/10.3931/e-rara-69075), bl. IIIv).
 
->"After the creation of the firmament Moses calls our attention to the completeness, location, and order of the elements.", (Hadawas, [2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J), p. 5).
+>"After the creation of the firmament Moses calls our attention to the completeness, location, and order of the elements.", (Hadavas, [2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J), p. 5).
 
 Table 1. Names of the four *seas* ordered after the creation of the firmament (c.f. Ptolemæus, [1100](https://digi.vatlib.it/view/MSS_Urb.gr.82), [1482](https://doi.org/10.3931/e-rara-102078), fol. 88 ff.; Mela, [1477](https://catalog.lindahall.org/discovery/delivery/01LINDAHALL_INST:LHL/12104028240005961), fol. aiir, gir).
 ~~~
