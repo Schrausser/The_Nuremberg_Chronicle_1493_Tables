@@ -182,7 +182,7 @@ Abraam							Abraham								Abraham
 (no[n]) iupiter¹ (fecit)				(hat nit der) Iupiter¹ (gemacht)				Jupiter¹ (did not create all this)
 ~~~
 
-¹) Apparently the certain *Jupiter* who descended from *Eber*; Foresti mentions even an exact date, namely 2009 BC and writes here: "[…] *Is lysania ex heber filiis videlicet ierari originem duxit: qui cum esset nobilis genere ex Archadia athenas fuisse dicitur* […]" ([1492](), fol. 8v), "[…] *This Lysania was descended from the sons of the Ebers, namely Ierari, who, being of a noble family, is said to have been from Archadia, Athens*", see also Cherchie, " […] *the first Jupiter (in fact, a certain Lisania) was the first to give laws, civic institutions, and marriage to the Attics*." ([2018](), p. 255), c.f. Boccaccio ([1360](), [1487]()), Hyde ([1985]()), Bosco ([2024]()).  
+¹) Apparently the certain *Jupiter*, who is descended from *Eber*; Foresti mentions even an exact date, namely 2009 BC and writes here: "[…] *Is lysania ex heber filiis videlicet ierari originem duxit: qui cum esset nobilis genere ex Archadia athenas fuisse dicitur* […]" ([1492](), fol. 8v), "[…] *This Lysania was descended from the sons of the Ebers, namely Ierari, who, being of a noble family, is said to have been from Archadia, Athens*", see also Cherchie, " […] *the first Jupiter (in fact, a certain Lisania) was the first to give laws, civic institutions, and marriage to the Attics*." ([2018](), p. 255), c.f. Boccaccio ([1360](), [1487]()), Hyde ([1985]()), Bosco ([2024]()).  
 
 
 ## References
