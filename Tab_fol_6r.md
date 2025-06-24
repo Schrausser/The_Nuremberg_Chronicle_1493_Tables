@@ -6,7 +6,7 @@
 
 >"The entire corporeal creation of the world consists of two things, namely, the celestial (ethereal) and the elementary natures (regions)", (Hadavas, [2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J), p. 10).
 
-Table 1. The *celestial* and *elementary* orbits with the *planets* and *spheres*, c.f. Velho ([1568](http://catalogue.bnf.fr/ark:/12148/cb416166390), fol. 9r-10v), Petavius ([1630](), p. 261-262).
+Table 1. The *celestial* and *elementary* orbits with the *planets* and *spheres*, c.f. Velho ([1568](http://catalogue.bnf.fr/ark:/12148/cb416166390), fol. 9r-10v), Petavius ([1630](https://doi.org/10.3931/e-rara-2004), p. 261-262), s. `NC_tab_cmp`.
 ~~~										
 Latin
 orbes mundi		natura
@@ -81,7 +81,7 @@ Heaven of the Trinity	celestial	fiery
 
 >"Note also that the distance [...]", (Hadavas, [2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J), p. 10).
 
-Table 2. The *distances* between the *predicted* orbits and planets in *miles*.
+Table 2. The *distances* between the *predicted* orbits and planets in *miles*, c.f. the *Speculum Naturale* (de Beauvais, [1264](https://digi.vatlib.it/view/MSS_Arch.Cap.S.Pietro.A.40), [1476](https://nbn-resolving.org/urn:nbn:de:hbz:061:1-592809)) on the basis of the *Historia Naturalis* of Plinius Secundus ([1250](https://gallica.bnf.fr/ark:/12148/btv1b550140045/), [1470](https://doi.org/10.3931/e-rara-74199)), s. `NC_tab_cmp`.
 ~~~
 Latin			miliaria¹
 
@@ -127,7 +127,7 @@ Saturn to Stars	 	23 436
 
 >"In the celestial nature some have made three classifications: super-celestial, celestial, and sub-celestial.", (Hadavas, [2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J), p. 10).
 
-Table 3. The *celestial hierarchy* and the classification of the *angels*, see Dionysius ([1350](https://digital.bodleian.ox.ac.uk/objects/ee19a692-5066-4c84-95db-d93c4fc82b97/)), c.f  Ficinus ([1503](https://doi.org/10.3931/e-rara-9747)) or Corderius ([1644](https://books.google.com/books?id=SzyAVTu3RI0C)).
+Table 3. The *celestial hierarchy* and the classification of the *angels*, see Dionysius ([1350](https://digital.bodleian.ox.ac.uk/objects/ee19a692-5066-4c84-95db-d93c4fc82b97/)), c.f  Ficinus ([1503](https://doi.org/10.3931/e-rara-9747)) or Corderius ([1644](https://books.google.com/books?id=SzyAVTu3RI0C)), s. `NC_tab_cmp`.
 ~~~
 Latin
 supernatura
@@ -218,6 +218,8 @@ Dionysius. (1350). *De Caelesti Hierarchia*. MS Gr 2. Oxford, Magdalen College: 
 Ficinus, M. (1503). *Opera Dionysii Veteris Et Nove Translationis Etiam Novissime Ipsius Marsilii Ficini Cum Commentariis Hugonis, Alberti, Thome, Ambrosii Oratoris Linconiensis Et Vercellensis. Veteris Translationis. De Celesti Hierarchia* ... Straßburg: Husner. [https://doi.org/10.3931/e-rara-9747](https://doi.org/10.3931/e-rara-9747)
 
 Hadavas, K. (2023). *First English edition of the Nuremberg chronicle : being the Liber chronicarum of Dr. Hartmann Schedel*. Edited by Hadavas, K. UW–Madison TEI edition. Madison, Wisconsin: University of Wisconsin–Madison Libraries. [https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J)
+
+Petavius, D. (1630). *VRANOLOGION sive systema variorvm authorvm. qvi de sphaera, ac sideribvs, eorvmove motibvs Graece commentati sunt*. LVTETIAE PARISIORVM: Sumptibus Sebastiani Cramoisy, via Iacobaea, sub Ciconiis. M. DC. XXX. CVM PRIVILEGIO REGIS CHRISTIANISS. [https://doi.org/10.3931/e-rara-2004](https://doi.org/10.3931/e-rara-2004)
 
 Schedel, H. (1493). *Liber chronicarum cum figuris et ymagibus ab inicio mundi*. Nuremberge: Antonius Koberger. [https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024)
 
