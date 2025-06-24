@@ -6,7 +6,7 @@
 
 >"The entire corporeal creation of the world consists of two things, namely, the celestial (ethereal) and the elementary natures (regions)", (Hadavas, [2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J), p. 10).
 
-Table 1. The *celestial* and *elementary* orbits with the *planets* and *spheres*, c.f. Velho ([1568](http://catalogue.bnf.fr/ark:/12148/cb416166390), fol. 9r-10v), Petavius ([1630](https://doi.org/10.3931/e-rara-2004), p. 261-262), s. `NC_tab_cmp`.
+Table 1. The *celestial* and *elementary* orbits with the *planets* and *spheres*, c.f. Velho ([1568](http://catalogue.bnf.fr/ark:/12148/cb416166390), fol. 9r-10v), Petavius ([1630](https://doi.org/10.3931/e-rara-2004), p. 261-262, 266), s. `NC_tab_cmp`.
 ~~~										
 Latin
 orbes mundi		natura
