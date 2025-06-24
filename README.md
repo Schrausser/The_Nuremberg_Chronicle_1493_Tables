@@ -44,7 +44,7 @@ Primarily influenced by Conrad Celtis (1459-1476), Martin Behaim (1459-1507), Jo
 
 See also Haitz ([1899](https://books.google.com/books?id=bhdEtQEACAAJ)), Schnieper ([1950](https://doi.org/10.5169/SEALS-387655)), Sladeczek ([1965](https://doi.org/10.11588/diglit.37607)), Rücker ([1988](https://books.google.com/books?id=CiujnAEACAAJ)) or Green ([2003](https://books.google.com/books?id=tXC8HgAACAAJ)). Englisch translations, facsimile or translations are given by Hadavas ([2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J)),  Schedel ([2010](http://www.smithandpress.com/Our_Books.html)), Zellmann-Roher and Hadavas ([2011a](https://www.abebooks.com/9780983140726/Liber-Chronicarum-Translation-Volume-Nuremberg-0983140723/plp), [b](https://www.abebooks.com/9780983140719/Liber-Chronicarum-Translation-Volume-Nuremberg-0983140715/plp), [2012a](https://ocul-gue.alma.exlibrisgroup.com/discovery/fulldisplay?docid=alma991033686926707371&context=L&vid=01OCUL_GUE:GUELPH&search_scope=OCULDiscoveryNetwork&adaptor=Local%20Search%20Engine&tab=OCULDiscoveryNetwork&query=creator,equals,%20Zellmann-Rohrer,%20Michael,AND&mode=advanced&offset=0&lang=en), [b](https://www.gettextbooks.com/isbn/9780983140740/), res.).
 
-For a (full) raw transcripton of the *Early New High German* (ENHG) text see Wikisource contributors ([2024](https://de.wikisource.org/wiki/Kategorie:Schedelsche_Weltchronik)), for ENHG dictionaries see Goebel et al. ([1989](https://www.degruyter.com/serial/fnhdwb-b/html?lang=en#volumes)).
+For a (full) raw transcripton of the *Early New High German* (ENHG) text see Wikisource contributors ([2025](https://de.wikisource.org/wiki/Kategorie:Schedelsche_Weltchronik)), for ENHG dictionaries see Goebel et al. ([1989](https://www.degruyter.com/serial/fnhdwb-b/html?lang=en#volumes)).
 
 
 ## References
@@ -118,7 +118,7 @@ Walker, J. B. (1930). *The "Summa Historialis" of Saint Antonius, Archbishop of 
 
 White, K. (1992). Review of Vincent de Beauvais: Intentions et réceptions d’une oeuvre encyclopédique au Moyen Âge. Actes du XIVe Colloque de l’Institut d’études médiévales, organisé conjointement par l’Atelier Vincent de Beauvais (A.R.Te.M., Université de Nancy II) et l’Institut d’études médiévales (Université de Montréal) 27-30 avril 1988, by M. Paulmier-Foucart, S. Lusignan, & A. Nadeau. *The Catholic Historical Review 78* (3): 447–49. [http://www.jstor.org/stable/25023841](http://www.jstor.org/stable/25023841)
 
-Wikisource contributors. (2024). *Schedelsche Weltchronik.* Retrieved 2024 from de.wikisource.org. [https://de.wikisource.org/wiki/Kategorie:Schedelsche_Weltchronik](https://de.wikisource.org/wiki/Kategorie:Schedelsche_Weltchronik)
+Wikisource contributors. (2025). *Schedelsche Weltchronik.* Retrieved 2025 from de.wikisource.org. [https://de.wikisource.org/wiki/Kategorie:Schedelsche_Weltchronik](https://de.wikisource.org/wiki/Kategorie:Schedelsche_Weltchronik)
 
 Young, K. (1930). The Speculum Majus of Vincent of Beauvais. *The Yale University Library Gazette 5* (1): 1–13. [http://www.jstor.org/stable/40856730](http://www.jstor.org/stable/40856730)
 
