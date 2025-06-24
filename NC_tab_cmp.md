@@ -1,20 +1,20 @@
 # NC_tab_cmp.md
 
-Table 1. Comparison of the *celestial* and *elementary orbits* with the *planets* and *spheres*, the *natura*, described in fol. VIr and fol. Vv (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024)) as well as depicted in Velho ([1568](http://catalogue.bnf.fr/ark:/12148/cb416166390), fol. 9r-10v).
+Table 1. Comparison of the *celestial* and *elementary orbits* with the *planets* and *spheres*, the *natura*, described in fol. VIr and fol. Vv (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024)) as well as depicted in Velho ([1568](http://catalogue.bnf.fr/ark:/12148/cb416166390), fol. 9r-10v) and alternatively described in *de zonis*, Petavius ([1630](https://doi.org/10.3931/e-rara-2004), p. 266) 
 ~~~
-fol. VIr											fol. Vv			Velho
-orbes mundi		natura							
+fol. VIr											fol. Vv			Velho			Petavius
+orbes mundi		natura															zone
 
 celum trinitatis	celesti		empyreum									CELVM EMPIREVM
 XII					cristallinum			primu[m] mobile		Primum mobile		PRIMO MOBILE
 							inferior				Celum Cristallinum		
 												firma mentu[m]		FIRMAMENTO
-XI					firmamentu[m]			Saturnus		spera saturni		SATVRNO
-X									Iupiter			spera iouis		IVPITER
-VIIII									Mars			spera martus		MARS
+XI					firmamentu[m]			Saturnus		spera saturni		SATVRNO			Borealis
+X									Iupiter			spera iouis		IVPITER			Æstius
+VIIII									Mars			spera martus		MARS			Æquinoctialis
 VIII									Sol			spera solis		SOL
-VII									Venus			spera ueneris		VENVS
-VI									Mercurius		spera mercu [rum]	MERCVRIO
+VII									Venus			spera ueneris		VENVS			Hiemalis
+VI									Mercurius		spera mercu [rum]	MERCVRIO		Australis
 V									Luna			spera lune		LVNA
 IIII			elementari	ignis		supremu[m]	igneum			spera ignis		FOGO
 III							mediu[m]	olimpium				
@@ -76,6 +76,8 @@ De Billy, J. (1609). *Sancti Gregorii Nazianzeni, Cognomento theologi, opera*. L
 Dionysius. (1350). *De Caelesti Hierarchia*. MS Gr 2. Oxford, Magdalen College: Oxford Digital Library. https://digital.bodleian.ox.ac.uk/objects/ee19a692-5066-4c84-95db-d93c4fc82b97/.
 
 Ficinus, M. (1503). *Opera Dionysii Veteris Et Nove Translationis Etiam Novissime Ipsius Marsilii Ficini Cum Commentariis Hugonis, Alberti, Thome, Ambrosii Oratoris Linconiensis Et Vercellensis. Veteris Translationis. De Celesti Hierarchia* ... Straßburg: Husner. https://doi.org/10.3931/e-rara-9747.
+
+Petavius, D. (1630). *VRANOLOGION sive systema variorvm authorvm. qvi de sphaera, ac sideribvs, eorvmove motibvs Graece commentati sunt*. LVTETIAE PARISIORVM: Sumptibus Sebastiani Cramoisy, via Iacobaea, sub Ciconiis. M. DC. XXX. CVM PRIVILEGIO REGIS CHRISTIANISS. [https://doi.org/10.3931/e-rara-2004](https://doi.org/10.3931/e-rara-2004)
 
 Schedel, H. (1493). *Liber chronicarum cum figuris et ymagibus ab inicio mundi. Nuremberge*: Antonius Koberger. [https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024)
 
