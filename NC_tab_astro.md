@@ -4,7 +4,7 @@
 
 >"But occasionally Pythagoras draws on the Tone theory of music [...] ", (Rackham, [1967](https://archive.org/details/naturalhistory01plinuoft/), p. 227 ff.).
 
-Table 1. Astronomical parameters from the *Speculum Naturale* (de Beauvais, [1264](https://digi.vatlib.it/view/MSS_Arch.Cap.S.Pietro.A.40), [1476](https://nbn-resolving.org/urn:nbn:de:hbz:061:1-592809), [1494](https://books.google.com/books?id=v9yKk_tdhusC), [1964](https://nbn-resolving.org/urn:nbn:de:hbz:061:1-20729)). As Basis see the Historia Naturalis of Plinius Secundus ([1250](https://gallica.bnf.fr/ark:/12148/btv1b550140045/), [1455](https://digi.vatlib.it/view/MSS_Vat.lat.1957),  [1470](https://doi.org/10.3931/e-rara-74199), [1496](https://doi.org/10.3931/e-rara-84393)) where he refers to *musica universalis* as concept that regards *proportions* in the movements of celestial bodies as a form of music, originating in *Pythagoreanism*.
+Table 1. Astronomical parameters from the *Speculum Naturale* (de Beauvais, [1264](https://digi.vatlib.it/view/MSS_Arch.Cap.S.Pietro.A.40), [1476](https://nbn-resolving.org/urn:nbn:de:hbz:061:1-592809), [1494](https://books.google.com/books?id=v9yKk_tdhusC), [1964](https://nbn-resolving.org/urn:nbn:de:hbz:061:1-20729)). As Basis see the *Historia Naturalis* of Plinius Secundus ([1250](https://gallica.bnf.fr/ark:/12148/btv1b550140045/), [1455](https://digi.vatlib.it/view/MSS_Vat.lat.1957),  [1470](https://doi.org/10.3931/e-rara-74199), [1496](https://doi.org/10.3931/e-rara-84393)) where he refers to *musica universalis* as concept that regards *proportions* in the movements of celestial bodies as a form of music, originating in *Pythagoreanism*.
 ~~~
 			tonus	cum	 miliaria	 cum
 
@@ -63,10 +63,14 @@ ad saturnum		1002,50		1981,50		1961,50	 	85 937,50
 ad signiferum		1004,00		1983,00		1963,00	 	109 375,00
 ~~~
 
-Table 3. Km  (st=0.18498km).
+>"miliaria. hec sunt stadia .cxxvi.", (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024), fol. VIr).
+
+>where miles are 126 stades. 
+
+Table 3. Miliaria, myles, res. $mi$ in kilometers $km$ where $km=mi\cdot st_n\cdot 126$, with stades $st_0=0.18498km$, $st_1=0.150km$, $st_2=0.210km$ and $\overline{st}=\frac{st_1+st_2}{2}$.
 ~~~
-			miliaria	stadia		km 		km				AM			
-							st		st=0.150km	st=0.210km				
+			miliaria	stadia		km 						AM1,2			
+							st0		st1		st2				
 Latin
 terram ad lunam	 	 15 625 	 1 968 750 	 364 179,38 	 295 312,50 	 413 437,50 	 354 375,00 
 luna ad mercurium	 7 813 	 	 984 375 	 182 089,69 	 147 656,25 	 206 718,75 	 177 187,50 
