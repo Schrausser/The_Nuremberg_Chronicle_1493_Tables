@@ -2,6 +2,9 @@
 
 >"**M**Vndus est compages ex cælo, terráq;, & iis naturis coagmentata quæ vtroque continentur. Cœlum est id quod omnia, quæ sunt, præter seipsum complectitur.", (Petavius, ([1630](https://doi.org/10.3931/e-rara-2004), p. 261).
 
+>The world is a structure of heaven and earth, connected by the natures contained in both.
+The Universe is that what all things, except itself containing, are.
+
 Table 1. Comparison of the *celestial* and *elementary orbits* with the *planets* and *spheres*, the *natura*, described in fol. VIr and fol. Vv (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024)) as well as depicted in Velho ([1568](http://catalogue.bnf.fr/ark:/12148/cb416166390), fol. 9r-10v) and alternatively described in *de zonis*, Petavius ([1630](https://doi.org/10.3931/e-rara-2004), p. 266) 
 ~~~
 fol. VIr											fol. Vv			Velho			Petavius
@@ -30,6 +33,9 @@ I							medium		aereum
 
 >"De iis, quæ in sublimi cernuntur.
 EX aquis, que in terra sunt, exhalationes oriri dicuntur: quarū altera est humida, & vapida: altera sicca, & fumida.", (Petavius, [1630](https://doi.org/10.3931/e-rara-2004), p. 261).
+
+>About those things which are seen in the sublime.
+It is said that vapors arise from the waters contained in the earth - one of them is moist and hazy, the other is dry and smoky.
 
 Table 2. Comparison of the *celestial hierarchy* and the classification of the *angels* (Dionysius, [1350](https://digital.bodleian.ox.ac.uk/objects/ee19a692-5066-4c84-95db-d93c4fc82b97/)), the *supernatura*, described in fol. VIr and fol. Vv (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024)).
 ~~~
