@@ -10,10 +10,10 @@ Table 1. Comparison of the *celestial* and *elementary orbits* with the *planets
 fol. VIr											fol. Vv			Velho			Petavius (Aratus)	Vallemont (Ptolemæus)
 orbes mundi		natura															zone
 																					
-																					XII. CIEL¹
+celum trinitatis	celesti		empyreum									CELVM EMPIREVM					XII. CIEL¹
 XII					cristallinum			primu[m] mobile		Primum mobile		PRIMO MOBILE					Prémier Mobile, XI. CIEL
 							inferior				Celum Cristallinum							Cristallins, X. CIEL
-celum trinitatis	celesti		empyreum									CELVM EMPIREVM					Premier Mobile, IX. CIEL
+																					Premier Mobile, IX. CIEL
 												firma mentu[m]		FIRMAMENTO					Le Firmament (Premier Mobile), VIII. CIEL
 XI					firmamentu[m]			Saturnus		spera saturni		SATVRNO			Borealis		Saturn, VII. CIEL
 X									Iupiter			spera iouis		IVPITER			Æstius			Jupiter, VI. CIEL
@@ -64,19 +64,19 @@ subcelestem	in hominibus sanctis
 
 Table 3. Comparison of *celestial orbits* (*natura*) with the *celestial hierarchy* (*supernatura*) as described in fol. VIr (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024), fol. VIr).
 ~~~						
-orbes mundi		natura								supernatura			
+orbes mundi		natura									supernatura			
 
-celum trinitatis	celesti		empyreum					sup[er]celestem			
-XII					cristallinum		primu[m] mobile		celestem	in ordinibus angelicis		superiorem	seraphin
-								inferior										cherubin
-XI					firmamentu[m]		Saturnus										thronos
-X								Iupiter									media[m]	dominat[i]ones
-VIIII								Mars											principatus
-VIII								Sol											potestates
-VII								Venus									inferiorem	virtutes
-VI								Mercurius										archangelos
-V								Luna											angelos
-			elementari							subcelestem	in hominibus sanctis
+celum trinitatis	celesti		empyreum						sup[er]celestem			
+XII					cristallinum			primu[m] mobile		celestem	in ordinibus angelicis	superiorem	seraphin
+							inferior											cherubin
+XI					firmamentu[m]			Saturnus									thronos
+X									Iupiter								media[m]	dominat[i]ones
+VIIII									Mars										principatus
+VIII									Sol										potestates
+VII									Venus								inferiorem	virtutes
+VI									Mercurius									archangelos
+V									Luna										angelos
+			elementari								subcelestem	in hominibus sanctis
 ~~~
 
 ## References
