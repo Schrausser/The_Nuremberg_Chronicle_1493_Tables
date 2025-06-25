@@ -125,9 +125,9 @@ zu saturnus	 	 159 003,63 	 1 956 802,79 	1,6E+05
 zum firmament	 	 546 234,10 	 2 503 036,89 	5,5E+05
 ~~~
 
-Table 5. Distance differences $diff$ in $km$ between the Latin and ENHG version of the NC with ratio factors $rf=\frac{E}{L}$
+Table 5. Distance *differences* $diff$ in $km$ between the Latin $L$ and ENHG $E$ version of the NC with ratio factors $rf=\frac{E}{L}$
 ~~~
-			km				diff		factor 1/x
+			km				diff		rf
 			Latin		 ENHG
 
 terram ad lunam	 	364 179,38 	 364 179,38 	0,00		1,00
@@ -138,7 +138,7 @@ ad martem	 	364 179,38 	 364 179,38 	0,00		1,00
 ad iovem	 	182 078,03 	 159 003,63 	-23 074,41	0,87
 ad saturnum	 	182 078,03 	 159 003,63 	-23 074,41	0,87
 ad signiferum	 	546 234,10 	 546 234,10 	0,00		1,00
-sum0	 		2 549 255,63 	 2 549 022,55 	-233,07		1,00
+sum0	 		2 549 255,63 	 2 549 255,63 	0,00		1,00
 sum	 		2 525 854,92 	 2 503 036,89 	-22 818,02	7,79
 am	 		315 731,86 	 312 879,61 	-2 852,25	0,97
 				
