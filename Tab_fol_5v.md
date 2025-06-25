@@ -1,5 +1,7 @@
 # Tab_fol_5v.md
 
+## De sanctificatione septime diei
+
 >"Compleuit de[us] gl[or]iosus opus suu[m]: [et] requienit die septimo ab operib[us] manuum suaru[m]:", (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024), fol. Vv).
 
 >" [...] do hat der glori wirdige got sein werck erfüllet vn[d] am sybende[n] tag von den wercken seiner hendt geruet.", (Schedel and Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), [1496](https://doi.org/10.3931/e-rara-69075), bl. Vv).
