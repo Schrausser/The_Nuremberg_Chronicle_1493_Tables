@@ -1,9 +1,9 @@
 # NC_tab_cmp.md
 
->"**M**Vndus est compages ex cælo, terráq;, & iis naturis coagmentata quæ vtroque continentur. Cœlum est id quod omnia, quæ sunt, præter seipsum complectitur.", (Petavius, ([1630](https://doi.org/10.3931/e-rara-2004), p. 261).
+>"**M**Vndus est compages ex cælo, terráq;, & iis naturis coagmentata quæ vtroque continentur. Cœlum est id quod omnia, quæ sunt, præter [...] ", (Petavius, ([1630](https://doi.org/10.3931/e-rara-2004), p. 261).
 
 >The world is a structure of heaven and earth, connected by the natures contained in both.
-The Universe is that what all things, except itself containing, are.
+The Universe is that what all things, except [...], are.
 
 Table 1. Comparison of the *celestial* and *elementary orbits* with the *planets* and *spheres*, the *natura*, described in fol. VIr and fol. Vv (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024)) as well as depicted in Velho ([1568](http://catalogue.bnf.fr/ark:/12148/cb416166390), fol. 9r-10v) and alternatively described in *de zonis*, Petavius ([1630](https://doi.org/10.3931/e-rara-2004), p. 266), c.f. Flammarion ([1888](https://archive.org/details/McGillLibrary-125043-2586/page/n175/mode/2up), p. 163).
 ~~~
