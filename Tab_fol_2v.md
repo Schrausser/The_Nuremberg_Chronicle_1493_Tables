@@ -21,7 +21,7 @@ t	Latin			ENHG			Engl. tr.
 
 See in this context *De iis, quæ in sublimi cernuntur* and *De Mundo* in the presentation and translation of the *Phenomena of Aratus* by Petavius ​​([1630](https://doi.org/10.3931/e-rara-2004)):
 
->" [...] Ros est humor puriori allapsus ex æthere, [...] tenuissima substantiæ diffusio, suapte natura calida, & splendida: ac primigenia lux [...] Aër [...] communicatum aliunde calorem, ac lumen [...] ex æthere compactum [...] ", (Petavius, [1630](https://doi.org/10.3931/e-rara-2004), p. 261-262).
+>" [...] Ros est humor puriori allapsus ex æthere, [...] tenuissima substantiæ diffusio, suapte natura calida, & splendida: ac primigenia lux [...] Aër [...] communicatum aliunde calorem, ac lumen [...] ex æthere compactum [...] ", (Petavius, [1630](https://doi.org/10.3931/e-rara-2004), p. 261-262; s. Schrausser, [2024](https://doi.org/10.5281/ZENODO.10694826)).
 
 >Dew is pure moisture falling out from *the ether*, the thinnest substance diffusion, of natural warmth and radiance - *the original light*. Air shares warmth and condenses luminosity from the Ether.
 
@@ -53,3 +53,5 @@ Schedel, H., & Alt, G. (tr.). (1493). *Buch der Chroniken und geschichten mit fi
 [https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218)
 
 ———. (1496). *Das buch Der croniken unnd geschichten mit figuren und pildnussen von Anbeginn der welt bis auff diese unsere Zeyt*. Augsburg: Johann Schönsperger. [https://doi.org/10.3931/e-rara-69075](https://doi.org/10.3931/e-rara-69075) 
+
+Schrausser D. G. (2024). Uranologion Tables. *Zenodo Publications 2024 (2/22)*. [https://doi.org/10.5281/ZENODO.10694826](https://doi.org/10.5281/ZENODO.10694826)
