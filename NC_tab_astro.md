@@ -170,7 +170,7 @@ ad saturnum		2,0E+06
 ad signiferum		2,5E+06		3,6E+06		1,41	Iapetus (Saturn VIII)
 ~~~
 
-Table 7. ENHG, $\overline{rf}=1.04$, $r=0.991$, $n=6$, $det=98.2\\%$.
+Table 7. *Comparison* between distance values from the ENHG version $E$ of the *Nuremberg Chronicle* (Schedel and Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), [1496](https://doi.org/10.3931/e-rara-69075), res.) with *actual* astronomical distance values $a$ of the *planets* and *Jupiter* and *Saturn moons* (Williams, [2025]()), where ratio factor $rf=\frac{a}{E}$, $\overline{rf}=1.04$, $r=0.991$, $n=6$, $det=98.2\\%$.
 ~~~
 					actual		
 			km		km		rf	object
