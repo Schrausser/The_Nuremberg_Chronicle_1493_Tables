@@ -5,7 +5,7 @@
 >The world is a structure of heaven and earth, connected by the natures contained in both.
 The Universe is that what all things, except [...], are.
 
-Table 1. Comparison of the *celestial* and *elementary orbits* with the *planets* and *spheres*, the *natura*, described in fol. VIr and fol. Vv (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024)) as well as depicted in Velho ([1568](http://catalogue.bnf.fr/ark:/12148/cb416166390), fol. 9r-10v) and alternatively described in *de zonis*, Petavius ([1630](https://doi.org/10.3931/e-rara-2004), p. 266; s. Schrausser, [2024](https://doi.org/10.5281/ZENODO.10694826)), c.f. Flammarion ([1888](https://archive.org/details/McGillLibrary-125043-2586/page/n175/mode/2up), p. 163).
+Table 1. Comparison of the *celestial* and *elementary orbits* with the *planets* and *spheres*, the *natura*, described in fol. VIr and fol. Vv (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024)) as well as depicted in Velho ([1568](http://catalogue.bnf.fr/ark:/12148/cb416166390), fol. 9r-10v; s. Schrausser, [2024b](https://doi.org/10.5281/ZENODO.10689064)) and alternatively described in *de zonis*, Petavius ([1630](https://doi.org/10.3931/e-rara-2004), p. 266; s. Schrausser, [2024a](https://doi.org/10.5281/ZENODO.10694826)), c.f. Flammarion ([1888](https://archive.org/details/McGillLibrary-125043-2586/page/n175/mode/2up), p. 163).
 ~~~
 fol. VIr											fol. Vv			Velho			Petavius
 orbes mundi		natura															zone
@@ -87,6 +87,8 @@ Petavius, D. (1630). *VRANOLOGION sive systema variorvm authorvm. qvi de sphaer
 
 Schedel, H. (1493). *Liber chronicarum cum figuris et ymagibus ab inicio mundi. Nuremberge*: Antonius Koberger. [https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024)
 
-Schrausser D. G. (2024). Uranologion Tables. *Zenodo Publications 2024 (2/22)*. [https://doi.org/10.5281/ZENODO.10694826](https://doi.org/10.5281/ZENODO.10694826)
+Schrausser D. G. (2024a). Uranologion Tables. *Zenodo Publications 2024 (2/22)*. [https://doi.org/10.5281/ZENODO.10694826](https://doi.org/10.5281/ZENODO.10694826)
+
+———. (2024b). Velho’s Cosmographia Tables. *Zenodo Publications 2024 (2/21)*. [https://doi.org/10.5281/ZENODO.10689064](https://doi.org/10.5281/ZENODO.10689064)
 
 Velho, B. (1568). *Principio da verdadeira cosmographia ... per Bartholomeu Velho portugues/neste anno de 1568*. Paris: Bibliothèque nationale de France. [http://catalogue.bnf.fr/ark:/12148/cb416166390](http://catalogue.bnf.fr/ark:/12148/cb416166390)
