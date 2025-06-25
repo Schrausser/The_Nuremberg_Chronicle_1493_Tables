@@ -4,7 +4,7 @@
 
 >"But occasionally Pythagoras draws on the Tone theory of music [...] ", (Rackham, [1967](https://archive.org/details/naturalhistory01plinuoft/), p. 227 ff.).
 
-Table 1. Astronomical parameters from the *Speculum Naturale* (de Beauvais, [1264](https://digi.vatlib.it/view/MSS_Arch.Cap.S.Pietro.A.40), [1476](https://nbn-resolving.org/urn:nbn:de:hbz:061:1-592809), [1494](https://books.google.com/books?id=v9yKk_tdhusC), [1964](https://nbn-resolving.org/urn:nbn:de:hbz:061:1-20729)). As Basis see the *Historia Naturalis* of Plinius Secundus ([1250](https://gallica.bnf.fr/ark:/12148/btv1b550140045/), [1455](https://digi.vatlib.it/view/MSS_Vat.lat.1957),  [1470](https://doi.org/10.3931/e-rara-74199), [1496](https://doi.org/10.3931/e-rara-84393)) where he refers to *musica universalis* as concept that regards *proportions* in the movements of celestial bodies as a form of music, originating in *Pythagoreanism*.
+Table 1. Astronomical parameters from the *Speculum Naturale* (de Beauvais, [1264](https://digi.vatlib.it/view/MSS_Arch.Cap.S.Pietro.A.40), [1476](https://nbn-resolving.org/urn:nbn:de:hbz:061:1-592809), [1494](https://books.google.com/books?id=v9yKk_tdhusC), [1964](https://nbn-resolving.org/urn:nbn:de:hbz:061:1-20729)). As Basis see the *Historia Naturalis* of Plinius Secundus ([1250](https://gallica.bnf.fr/ark:/12148/btv1b550140045/), [1455](https://digi.vatlib.it/view/MSS_Vat.lat.1957),  [1470](https://doi.org/10.3931/e-rara-74199), [1496](https://doi.org/10.3931/e-rara-84393)) where he refers to *musica universalis* as concept that regards *proportions* in the movements of celestial bodies as a form of music, originating in *Pythagoreanism* (c.f.).
 ~~~
 			tonus	cum	 miliaria	 cum
 
@@ -185,7 +185,7 @@ zu saturnus		2,0E+06
 zum firmament		2,5E+06		3,6E+06		1,42	Iapetus (Saturn VIII)
 ~~~
 
-Table 8.
+Table 8. *Comparison* between distance values $tonus$  and rounded values $rd$ in tones from the *Speculum Naturale* (de Beauvais, [1264](https://digi.vatlib.it/view/MSS_Arch.Cap.S.Pietro.A.40), [1476](https://nbn-resolving.org/urn:nbn:de:hbz:061:1-592809)) with *Jupiter* and *Saturn moons* in ascending order (c.f. Williams, [2025]()).
 ~~~
 			tonus 	cum	rd	object		Saturn	Jupiter
 
