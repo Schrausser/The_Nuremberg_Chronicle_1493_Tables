@@ -101,9 +101,9 @@ sum	 	 	 107 392 	 13 531 392 	 2 503 036,89 	 2 029 708,80 	 2 841 592,32 	 2 4
 diff	 	 	 1 983 	 	 249 858	 46 218,73 	 37 478,70 	 52 470,18 	 44 974,44        
 ~~~
 
-Table 4. Cumulative
+Table 4. Distances $km$ and *cumulative* distances $km_{cum}$ in kilometers, where $km=mi\cdot 0.18498\cdot 126$.
 ~~~	
-		 	 km 	 	 km cum	
+		 	 km 	 	 km_cum	
 Latin			
 terram ad lunam	 	 364 179,38 			3,6E+05
 luna ad mercurium	 182 089,69 	 546 269,06 	1,8E+05
