@@ -155,7 +155,7 @@ sum	 		10 808 575,81 	 10 809 892,69 	1 316,87	8,01
 am	 		1 351 071,98 	 1 351 236,59 	164,61		1,00
 ~~~
 
-Table 6. *Comparison* between distance values from the Latin version $L$ of the *Nuremberg Chronicle* (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024)) with *actual* astronomical distance values $a$ of the *planets* and *Jupiter* and *Saturn moons* (Williams, [2025]()), where ratio factor $rf=\frac{a}{L}$, $\overline{rf}=1.04$, correlation with *objects* $r=0.993$, $n=6$, $det=98.5\\%$.
+Table 6. *Comparison* between distance values from the Latin version $L$ of the *Nuremberg Chronicle* (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024)) with *actual* astronomical distance values $a$ of the *planets* and *Jupiter* and *Saturn moons* (Williams, [2025](https://nssdc.gsfc.nasa.gov/planetary/planetfact.html)), where ratio factor $rf=\frac{a}{L}$, $\overline{rf}=1.04$, correlation with *objects* $r=0.993$, $n=6$, $det=98.5\\%$.
 ~~~
 					actual		
 			km		km		rf	object
@@ -170,7 +170,7 @@ ad saturnum		2,0E+06
 ad signiferum		2,5E+06		3,6E+06		1,41	Iapetus (Saturn VIII)
 ~~~
 
-Table 7. *Comparison* between distance values from the ENHG version $E$ of the *Nuremberg Chronicle* (Schedel and Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), [1496](https://doi.org/10.3931/e-rara-69075), res.) with *actual* astronomical distance values $a$ of the *planets* and *Jupiter* and *Saturn moons* (Williams, [2025]()), where ratio factor $rf=\frac{a}{E}$, $\overline{rf}=1.04$, $r=0.991$, $n=6$, $det=98.2\\%$.
+Table 7. *Comparison* between distance values from the ENHG version $E$ of the *Nuremberg Chronicle* (Schedel and Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), [1496](https://doi.org/10.3931/e-rara-69075), res.) with *actual* astronomical distance values $a$ of the *planets* and *Jupiter* and *Saturn moons* (Williams, [2025](https://nssdc.gsfc.nasa.gov/planetary/planetfact.html)), where ratio factor $rf=\frac{a}{E}$, $\overline{rf}=1.04$, $r=0.991$, $n=6$, $det=98.2\\%$.
 ~~~
 					actual		
 			km		km		rf	object
@@ -185,7 +185,7 @@ zu saturnus		2,0E+06
 zum firmament		2,5E+06		3,6E+06		1,42	Iapetus (Saturn VIII)
 ~~~
 
-Table 8. *Comparison* between distance values $tonus$  and rounded values $rd$ in tones from the *Speculum Naturale* (de Beauvais, [1264](https://digi.vatlib.it/view/MSS_Arch.Cap.S.Pietro.A.40), [1476](https://nbn-resolving.org/urn:nbn:de:hbz:061:1-592809)) with *Jupiter* and *Saturn moons* in ascending order (c.f. Williams, [2025]()).
+Table 8. *Comparison* between distance values $tonus$  and rounded values $rd$ in tones from the *Speculum Naturale* (de Beauvais, [1264](https://digi.vatlib.it/view/MSS_Arch.Cap.S.Pietro.A.40), [1476](https://nbn-resolving.org/urn:nbn:de:hbz:061:1-592809)) with *Jupiter* and *Saturn moons* in ascending order (c.f. Williams, [2025](https://nssdc.gsfc.nasa.gov/planetary/planetfact.html)).
 ~~~
 			tonus 	cum	rd	object		Saturn	Jupiter
 
@@ -237,3 +237,4 @@ Schedel, H., & Alt, G. (tr.). (1493). *Buch der Chroniken und geschichten mit fi
 
 Torrellas, G. M. (1999). Mathematik Und Harmonie. Über Den Vermuteten Pythagoreismus von Leibniz. *Studia Leibnitiana 31* (1): 34–54. [http://www.jstor.org/stable/40694499](http://www.jstor.org/stable/40694499)
 
+Williams, D. R. (2025). *Planetary Fact Sheets*. NASA Goddard Space Flight Center. [https://nssdc.gsfc.nasa.gov/planetary/planetfact.html](https://nssdc.gsfc.nasa.gov/planetary/planetfact.html) 
