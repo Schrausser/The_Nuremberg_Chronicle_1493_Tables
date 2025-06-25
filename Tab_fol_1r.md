@@ -13,7 +13,7 @@ Table 1. The two Accounts *A* and *B* of the creation of the world and man.
 Latin
 1	mu[n]du[m]		ingenitum				corruptibilem
 				incorruptibilem				arbitrati
-2	genus humanum		ab externo extisse			inicium
+2	genus humanum		ab eterno extisse			inicium
 				neq[ue] habuisse ortus principiu[m]	sortitos
 ENHG			
 1	werlt			vngeporn				geborn[n]
