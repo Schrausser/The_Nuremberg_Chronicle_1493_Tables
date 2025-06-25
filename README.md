@@ -44,7 +44,7 @@ Primarily influenced by Conrad Celtis (1459-1476), Martin Behaim (1459-1507), Jo
 
 See also Haitz ([1899](https://books.google.com/books?id=bhdEtQEACAAJ)), Schnieper ([1950](https://doi.org/10.5169/SEALS-387655)), Sladeczek ([1965](https://doi.org/10.11588/diglit.37607)), Rücker ([1988](https://books.google.com/books?id=CiujnAEACAAJ)) or Green ([2003](https://books.google.com/books?id=tXC8HgAACAAJ)). Englisch translations, facsimile or translations are given by Hadavas ([2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J)),  Schedel ([2010](http://www.smithandpress.com/Our_Books.html)), Zellmann-Roher and Hadavas ([2011a](https://www.abebooks.com/9780983140726/Liber-Chronicarum-Translation-Volume-Nuremberg-0983140723/plp), [b](https://www.abebooks.com/9780983140719/Liber-Chronicarum-Translation-Volume-Nuremberg-0983140715/plp), [2012a](https://ocul-gue.alma.exlibrisgroup.com/discovery/fulldisplay?docid=alma991033686926707371&context=L&vid=01OCUL_GUE:GUELPH&search_scope=OCULDiscoveryNetwork&adaptor=Local%20Search%20Engine&tab=OCULDiscoveryNetwork&query=creator,equals,%20Zellmann-Rohrer,%20Michael,AND&mode=advanced&offset=0&lang=en), [b](https://www.gettextbooks.com/isbn/9780983140740/), res.).
 
-For a (full) raw transcripton of the *Early New High German* (ENHG) text see Wikisource contributors ([2025](https://de.wikisource.org/wiki/Kategorie:Schedelsche_Weltchronik)), for ENHG dictionaries see Goebel et al. ([1989](https://www.degruyter.com/serial/fnhdwb-b/html?lang=en#volumes)). An annotated [transcription](https://github.com/Schrausser/The_Nuremberg_Chronicle_1493_Transcriptions) of the *Latin* text (fol. 1r to  VIIr) is given by Schrausser ([2024]()).
+For a (full) raw transcripton of the *Early New High German* (ENHG) text see Wikisource contributors ([2025](https://de.wikisource.org/wiki/Kategorie:Schedelsche_Weltchronik)), for ENHG dictionaries see Goebel et al. ([1989](https://www.degruyter.com/serial/fnhdwb-b/html?lang=en#volumes)). An annotated [transcription of the *Latin* text](https://github.com/Schrausser/The_Nuremberg_Chronicle_1493_Transcriptions) (fol. 1r to  VIIr) is given by Schrausser ([2024](https://doi.org/10.5281/zenodo.14515635)).
 
 
 ## References
@@ -105,6 +105,8 @@ Schedel, H., & Alt, G. (tr.). (1493). *Buch der Chroniken und geschichten mit fi
 ———. (1496). *Das buch Der croniken unnd geschichten mit figuren und pildnussen von Anbeginn der welt bis auff diese unsere Zeyt*. Augsburg: Johann Schönsperger. [https://doi.org/10.3931/e-rara-69075](https://doi.org/10.3931/e-rara-69075)
 
 Schnieper, X. (1950). Die Schedelsche Weltchronik: eine Einführung und Würdigung. In *Mitteilungsblatt Der Schweizerischen Bibliophilen-Gesellschaft*, 7:84–104. 3-4. Basel: Schweizerische Bibliophilen-Gesellschaft. [https://doi.org/10.5169/SEALS-387655](https://doi.org/10.5169/SEALS-387655)
+
+Schrausser, D. G. (2024). *Schrausser/The_Nuremberg_Chronicle_1493_Transcriptions*. Zenodo. [https://doi.org/10.5281/zenodo.14515635](https://doi.org/10.5281/zenodo.14515635)
 
 Sladeczek, L. (1965). *Albrecht Dürer und die Illustrationen zur Schedelchronik*. 1st ed. Vol. 342. Studien Zur Deutschen Kunstgeschichte. Baden-Baden/Strasbourg: Verlag Heitz GmbH. [https://doi.org/10.11588/diglit.37607](https://doi.org/10.11588/diglit.37607)
 
