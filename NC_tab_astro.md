@@ -125,7 +125,7 @@ zu saturnus	 	 159 003,63 	 1 956 802,79 	1,6E+05
 zum firmament	 	 546 234,10 	 2 503 036,89 	5,5E+05
 ~~~
 
-Table 5. diff.
+Table 5. Distance differences $diff$ in $km$ between the Latin and ENHG version of the NC with ratio factors $rf=\frac{E}{L}$
 ~~~
 			km				diff		factor 1/x
 			Latin		 ENHG
