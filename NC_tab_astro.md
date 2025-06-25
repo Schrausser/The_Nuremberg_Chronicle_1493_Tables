@@ -69,7 +69,7 @@ ad signiferum		1004,00		1983,00		1963,00	 	109 375,00
 
 Table 3. Miliaria, myles, res. $mi$ in kilometers $km$ where $km=mi\cdot st_n\cdot 126$, with stades $st_0=0.18498km$, $st_1=0.150km$, $st_2=0.210km$ and $\overline{st}=\frac{st_1+st_2}{2}$.
 ~~~
-			miliaria	stadia		km 						AM1,2			
+			miliaria	stadia		km 						AM			
 							st0		st1		st2				
 Latin
 terram ad lunam	 	 15 625 	 1 968 750 	 364 179,38 	 295 312,50 	 413 437,50 	 354 375,00 
