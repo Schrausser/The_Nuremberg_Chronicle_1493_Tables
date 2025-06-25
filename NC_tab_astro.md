@@ -4,7 +4,7 @@
 
 >"But occasionally Pythagoras draws on the Tone theory of music [...] ", (Rackham, [1967](https://archive.org/details/naturalhistory01plinuoft/), p. 227 ff.).
 
-Table 1. Astronomical parameters from the *Speculum Naturale* (de Beauvais, [1264](https://digi.vatlib.it/view/MSS_Arch.Cap.S.Pietro.A.40), [1476](https://nbn-resolving.org/urn:nbn:de:hbz:061:1-592809), [1494](https://books.google.com/books?id=v9yKk_tdhusC), [1964](https://nbn-resolving.org/urn:nbn:de:hbz:061:1-20729)). As Basis see the *Historia Naturalis* of Plinius Secundus ([1250](https://gallica.bnf.fr/ark:/12148/btv1b550140045/), [1455](https://digi.vatlib.it/view/MSS_Vat.lat.1957),  [1470](https://doi.org/10.3931/e-rara-74199), [1496](https://doi.org/10.3931/e-rara-84393)) where he refers to *musica universalis* as concept that regards *proportions* in the movements of celestial bodies as a form of music, originating in *Pythagoreanism* (c.f.).
+Table 1. Astronomical parameters from the *Speculum Naturale* (de Beauvais, [1264](https://digi.vatlib.it/view/MSS_Arch.Cap.S.Pietro.A.40), [1476](https://nbn-resolving.org/urn:nbn:de:hbz:061:1-592809), [1494](https://books.google.com/books?id=v9yKk_tdhusC), [1964](https://nbn-resolving.org/urn:nbn:de:hbz:061:1-20729)). As Basis see the *Historia Naturalis* of Plinius Secundus ([1250](https://gallica.bnf.fr/ark:/12148/btv1b550140045/), [1455](https://digi.vatlib.it/view/MSS_Vat.lat.1957),  [1470](https://doi.org/10.3931/e-rara-74199), [1496](https://doi.org/10.3931/e-rara-84393)) where he refers to *musica universalis* as concept that regards *proportions* in the movements of celestial bodies as a form of music, originating in *Pythagoreanism* (c.f. [Kircher](https://doi.org/10.3931/e-rara-26092), 1650; Torrellas, [1999](http://www.jstor.org/stable/40694499); Mathiesen, [2002](https://doi.org/10.1017/CHOL9780521623711); Hermann, [2004](https://books.google.com/books?id=KeYPAQAAIAAJ)).
 ~~~
 			tonus	cum	 miliaria	 cum
 
@@ -211,6 +211,13 @@ De Beauvais, V. (1264). *Speculi naturalis pars II*. Arch. Cap. S. Pietro. A. 40
 
 Hadavas, K. (2023). *First English edition of the Nuremberg chronicle : being the Liber chronicarum of Dr. Hartmann Schedel*. Edited by Hadavas, K. UW–Madison TEI edition. Madison, Wisconsin: University of Wisconsin–Madison Libraries. [https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J)
 
+Hermann, A. (2004). *To Think Like God: Pythagoras and Parmenides, the Origins of Philosophy*. Chicago: Parmenides Publishing. [https://books.google.com/books?id=KeYPAQAAIAAJ](https://books.google.com/books?id=KeYPAQAAIAAJ)
+
+Kircher, A. (1650). *Athanasii Kircheri Fuldensis e soc. Iesu presbyteri musurgia universalis, sive, Ars magna consoni et dissoni in X. libros digesta: qua universa sonorum doctrina, & philosophia, musicaeque tam theoricae, quam practicae scientia, summa varietate traditur; admirandae consoni, & dissoni in mundo, adeoque universa natura vires effectusque, uti nova, ita peregrina variorum speciminum exhibitione ad singulares usus, tum in omni poene facultate, tum potissimum in philologia, mathematica, physica, mechanica, medicina, politica, metaphysica, theologica, aperiuntur & demonstrantur*. Romae: ex typographia haeredum Francisci Corbelletti. [https://doi.org/10.3931/e-rara-26092](https://doi.org/10.3931/e-rara-26092)
+
+Mathiesen, T. (2002). *Greek Music Theory. In The Cambridge History of Western Music Theory*, edited by Christensen, T., 107–35. The Cambridge History of Music. Cambridge: University Press. [https://doi.org/10.1017/CHOL9780521623711](https://doi.org/10.1017/CHOL9780521623711)
+
+
 Plinius Secundus, G. (1250). *Plinius Secundus Major, Historia Naturalis. Liber Trigesimus Septimus Manu Recentiore Suppletus Est*. Latin 6797. Paris: Bibliothèque nationale de France. [https://gallica.bnf.fr/ark:/12148/btv1b550140045/](https://gallica.bnf.fr/ark:/12148/btv1b550140045/)
 
 ———. (1455). *Naturalis historiae lib. I-XXXVII*. Vat. lat. 1957. Vatican: Biblioteca Apostolica Vaticana. [https://digi.vatlib.it/view/MSS_Vat.lat.1957](https://digi.vatlib.it/view/MSS_Vat.lat.1957)
@@ -227,3 +234,6 @@ Schedel, H., & Alt, G. (tr.). (1493). *Buch der Chroniken und geschichten mit fi
 [https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218)
 
 ———. (1496). *Das buch Der croniken unnd geschichten mit figuren und pildnussen von Anbeginn der welt bis auff diese unsere Zeyt*. Augsburg: Johann Schönsperger. [https://doi.org/10.3931/e-rara-69075](https://doi.org/10.3931/e-rara-69075)
+
+Torrellas, G. M. (1999). Mathematik Und Harmonie. Über Den Vermuteten Pythagoreismus von Leibniz. *Studia Leibnitiana 31* (1): 34–54. [http://www.jstor.org/stable/40694499](http://www.jstor.org/stable/40694499)
+
