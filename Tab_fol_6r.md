@@ -1,5 +1,9 @@
 # Tab_fol_6r.md
 
+## Queda[m] circa spera[m] planetaru[m] et orbiu[m] declara[n]da.
+
+### Distinct[i]o orbitu[m] tam celestiu[m] q[uonia]m elementarium.
+
 >"COrporalis mundi machina tota consistit in duobus. scilicet in natura celesti: et in natura elementari.", (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024), fol. VIr).
 
 >"DAs ga[n]tz leiplich geschöpff der werlt steet in zwayen dinge[n]. Ne[m]lich in hi[m]lischer vnd in elementischer natur.", (Schedel and Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), [1496](https://doi.org/10.3931/e-rara-69075), bl. VIr).
@@ -121,6 +125,8 @@ Saturn to Stars	 	23 436
 ~~~
 ¹) "*miliaria. hec sunt stadia .cxxvi.*", *where miles are 126 stades*, (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024), fol. VIr). 
 
+### Distinctio celestium hierarchiarum.
+
 >"DE celesti vero natura triplicem quidam posuere distinct[i]onem. scilicet sup[er]naturalem. id est sup[er]celestem. celestem [et] subcelestem.", (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024), fol. VIr).
 
 >"ABer von der himlischen natur haben etlich dreierley underschid gesetzt als ein überhi[m]lische. ein himlische vn[d] ein undehi[m]lische.", (Schedel and Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), [1496](https://doi.org/10.3931/e-rara-69075), bl. VIr).
@@ -174,6 +180,8 @@ celestial	in angelic orders		upper		Seraphim
 								angels
 sub-celestial	holy persons (saints)
 ~~~
+
+### De tempore siue etatibus.
 
 >"MUndi etates accipiunt[ur] similitudinarie iuxta etates homis:", (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024), fol. VIr).
 
