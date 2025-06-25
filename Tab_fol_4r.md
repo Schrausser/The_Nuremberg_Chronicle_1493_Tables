@@ -1,5 +1,7 @@
 # Tab_fol_4r.md
 
+## De opera quarte diei.
+
 >" [...] posuit de[us] in firmame[n]to vt lucere[n]t in celo: [et] terra[m] illuminare[n]t sole[m] videlicet luna[m] [et] stellas: quib[us] ip[s]a sup[er]ior mundi p[ar]s ornat[ur]: vti terra ornat[ur] bis q[uae] in ea fiunt metallis: pla[n]tis: a[n]i[m]antib[us].", (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024), fol. IIIIr).
 
 >" [...] ding die got gesetzt hat in de[m] firmament zescheine[n] an de[m] himel. vn[d] zeerlewchte[n] d[er] erde[n]. als die sunne[n]. de[n] mo[n]d. vnd die stern. mit de[n] d[er] oberteil d[er] werlt geziert wirdt. wie die erden mit de[n] dinge[n] die in ir werde[n].", (Schedel and Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), [1496](https://doi.org/10.3931/e-rara-69075), bl. IIIIr).
