@@ -1,5 +1,7 @@
 # Tab_fol_1r.md
 
+## Epitoma operu[m] sex dieru[m] de mu[n]di fabrica Prologus 
+
 >" [...] a mu[n]di fabrica: ac prima hominu[m] generatione: duplex opinio fert[ur].", (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024), fol. Ir).
 
 >" [...] vo[n] geschopff der werlt. vnd vo[n] erster geburt der menschen zwayerlay wone ist.", (Schedel and Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), [1496](https://doi.org/10.3931/e-rara-69075), fo. .1.r).
