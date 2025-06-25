@@ -125,7 +125,7 @@ zu saturnus	 	 159 003,63 	 1 956 802,79 	1,6E+05
 zum firmament	 	 546 234,10 	 2 503 036,89 	5,5E+05
 ~~~
 
-Table 5. Distance *differences* $diff$ in $km$ between the Latin $L$ and ENHG $E$ version of the NC with ratio factors $rf=\frac{E}{L}$
+Table 5. Distance *differences* $diff$ in $km$ between the Latin $L$ and ENHG $E$ version of the *Nuremberg Chronicle* (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024); Schedel and Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), [1496](https://doi.org/10.3931/e-rara-69075), res.) with ratio factors $rf=\frac{E}{L}$
 ~~~
 			km				diff		rf
 			Latin		 ENHG
@@ -155,10 +155,10 @@ sum	 		10 808 575,81 	 10 809 892,69 	1 316,87	8,01
 am	 		1 351 071,98 	 1 351 236,59 	164,61		1,00
 ~~~
 
-Table 6. Latin, $\overline{rf}=1.04$, $r=0.993$, $n=6$, $det=98.5\\%$.
+Table 6. *Comparison* between distance values from the Latin version $L$ of the *Nuremberg Chronicle* (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024)) with *actual* astronomical distance values $a$ of the *planets* and *Jupiter* and *Saturn moons* (Williams, [2025]()), where ratio factor $rf=\frac{a}{L}$, $\overline{rf}=1.04$, correlation with *objects* $r=0.993$, $n=6$, $det=98.5\\%$.
 ~~~
 					actual		
-			km		km		rf	Object
+			km		km		rf	object
 
 terram ad lunam		3,6E+05		3,8E+05		1,04	Earthmoon, Dione (Saturn IV)
 ad mercurium		5,5E+05		5,3E+05		0,96	Rhea (Saturn V)
