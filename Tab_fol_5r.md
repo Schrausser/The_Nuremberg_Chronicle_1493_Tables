@@ -22,7 +22,7 @@ t	animalia	thier		animals			development				understanding
 
 >"Henceforth we will treat of man, the fourth world. [...], he now created a sensible and understanding likeness in his own image, a being that could not be more perfect. And he made him out of clay or a clod of earth, after which he was accordingly named. [...] ", (Hadavas, [2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J), p. 7).
 
-Citing Cicero's *De legibus liber primus* (c.f. Cicero and Cicero, [1496](https://doi.org/10.3931/e-rara-89116), p. aaiii). It should be *noted* here that the usual translation of the Latin *animal* as animal is somewhat misleading in this context, as the term *living being* would be a much more appropriate translation, especially since *the animal* is usually associated with *wild animal*, *that* would, however, be *bestia* in Latin[^1].
+Citing Cicero's *De legibus liber primus* (c.f. Cicero and Cicero, [1496](https://doi.org/10.3931/e-rara-89116), p. aaiii). It should be *noted* here that the usual translation of the Latin *animal* as animal is somewhat misleading in this context with *man*, as the term *living being* would be a much more appropriate translation, especially since *the animal* is usually associated with *wild animal*, *that* would, however, be *bestia* in Latin[^1].
 
 Table 2. Classification of the *four worlds* after the creation of man.
 ~~~
@@ -34,7 +34,7 @@ Table 2. Classification of the *four worlds* after the creation of man.
 4	de ho[m]i[n]e	von de[n] mensche[n]	of man
 ~~~
 
-[^1]: Deutsch: An dieser Stelle sei unbedingt daran erinnert, dass die übliche Übersetzung des lateinischen *animal* in *Tier* in diesem Zusammenhang irreführend oder gar unrichtig wäre. Die Bezeichnung *Lebewesen* stellt hier eine inhaltlich weitaus bessere Übersetzung dar, zumal *das Tier* üblicherweise mit *wildem Tier* gleichgesetzt wird, was im Lateinischen jedoch *bestia* wäre.
+[^1]: Deutsch: An dieser Stelle sei unbedingt daran erinnert, dass die übliche Übersetzung des lateinischen *animal* in *Tier* im Zusammenhang mit *Mensch* an dieser Stelle irreführend oder gar unrichtig wäre. Die Bezeichnung *Lebewesen* stellt hier inhaltlich eine wohl weitaus bessere Übersetzung dar, zumal *das Tier* üblicherweise mit *wildem Tier* gleichgesetzt wird, was im Lateinischen jedoch *bestia* wäre.
 
 ## References
 
