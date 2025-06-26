@@ -78,7 +78,7 @@ VI,VII	5200	5509	3964	3761	1	0	753		Lucas				Lucas			Luke			Luke the Evangelist	
 	6450	6759	5214	5011		1250		648	Gersonides			Gersonides		Gersonides		Levi ben Gershon 			1288	1344	
 	6500	6809	5264	5061		1300		700								
 ~~~
-¹) 						
+¹) septinge[n]ta.  				
 
 ## References
 
