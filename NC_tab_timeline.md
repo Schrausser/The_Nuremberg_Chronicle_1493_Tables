@@ -78,7 +78,7 @@ VI,VII	5200	5509	3964	3761	1	0	753		Lucas				Lucas			Luke		Ir	Luke the Evangelis
 	6450	6759	5214	5011		1250		648	Gersonides			Gersonides		Gersonides	Ir	Levi ben Gershon 			1288	1344	
 	6500	6809	5264	5061		1300		700								
 ~~~
-¹) *vt tra[n]stulit diu[us] Hiero. v[el] vt septinge[n]ta*, Schedel ([1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024), fol. IIr), .			
+¹) *vt tra[n]stulit diu[us] Hiero. v[el] vt septinge[n]ta*, Schedel ([1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024), fol. IIr), *either as the divine Jerome translated, or as (the)* ***seven hundred***.			
 
 ## References
 
