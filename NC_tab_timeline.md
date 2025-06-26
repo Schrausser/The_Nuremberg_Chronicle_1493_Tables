@@ -2,10 +2,10 @@
 
 Table 1. Timeline of the characters or authors mentioned from the *Nuremberg Chronicle* fol. 1r to fol. VIIr (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024); Schedel and Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), [1496](https://doi.org/10.3931/e-rara-69075), res. and Hadavas, [2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J)) by $age$, septuaginta $NC_{lxx}$, byzantine or roman calendar (*epoch kosmos*) $ε.Κ.$, hebrew calendar from the NC $NC_{AM}$, hebrew calendar (*Anno Mundi*) $AM$, before Christ $BC$, Anno Domini $AD$, Ab urbe condita $AVC$ and Anno Hegirae $AH$.
 ~~~
-age	NC lxx	ε.Κ.	NC AM	AM	BC	AD	AVC	AH	Latin			ENHG				Engl. tr.		actual name				from	to	
+age	NC lxx	ε.Κ.	NC AM	AM	BC	AD	AVC	AH	Latin				ENHG			Engl. tr.		actual name				from	to	
 
 ...II	3100	3409	1864	1661	2101											
-	3150	3459	1914	1711	2051				iupiter			Iupiter				Jupiter			Lisania, Jupiter I				21	c. BC
+	3150	3459	1914	1711	2051				iupiter				Iupiter			Jupiter			Lisania, Jupiter I				21	c. BC
 
 III	3200	3509	1964	1761	2001											
 	3250	3559	2014	1811	1951											
@@ -16,7 +16,7 @@ III	3200	3509	1964	1761	2001
 	3500	3809	2264	2061	1701											
 	3550	3859	2314	2111	1651											
 	3600	3909	2364	2161	1601											
-	3650	3959	2414	2211	1551				moyses			Moyses				Moses			Moses					16	15	c. BC
+	3650	3959	2414	2211	1551				moyses				Moyses			Moses			Moses					16	15	c. BC
 	3700	4009	2464	2261	1501											
 	3750	4059	2514	2311	1451											
 	3800	4109	2564	2361	1401											
@@ -28,7 +28,7 @@ III	3200	3509	1964	1761	2001
 	4100	4409	2864	2661	1101											
 
 IIII	4150	4459	2914	2711	1051											
-	4200	4509	2964	2761	1001				Salomon			Salomo[n]			Solomon			King Solomon the wise			970	931	BC
+	4200	4509	2964	2761	1001				Salomon				Salomo[n]		Solomon			King Solomon the wise			970	931	BC
 	4250	4559	3014	2811	951											
 	4300	4609	3064	2861	901											
 	4350	4659	3114	2911	851											
