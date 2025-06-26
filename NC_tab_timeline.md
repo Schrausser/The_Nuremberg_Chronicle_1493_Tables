@@ -1,6 +1,6 @@
 # NC_tab_timeline.md
 
-Table 1. Timeline of the characters or authors mentioned by *age*, *NC lxx*, byzantine or roman calendar (*epoch kosmos*), *ε.Κ.*, hebrew calendar from the NC *NC AM*, hebrew calendar *AM*, *BC*, *AD*, *AVC*, *AH*.
+Table 1. Timeline of the characters or authors mentioned by $age$, $NC_{lxx}$, byzantine or roman calendar (*epoch kosmos*) $ε.Κ.$, hebrew calendar from the NC $NC_{AM}$, hebrew calendar $AM$, $BC$, $AD$, $AVC$, $AH$.
 ~~~
 age	NC lxx	ε.Κ.	NC AM	AM	BC	AD	AVC	AH	Latin			ENHG				Engl. tr.		actual name				from	to	
 
