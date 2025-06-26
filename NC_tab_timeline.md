@@ -1,8 +1,8 @@
 # NC_tab_timeline.md
 
-Table 1. Timeline of the most important characters or authors mentioned from the *Nuremberg Chronicle* fol. 1r to fol. VIIr (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024); Schedel and Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), [1496](https://doi.org/10.3931/e-rara-69075), res. and Hadavas, [2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J)) by $age$, septuaginta $NC_{lxx}$, byzantine or roman calendar (*epoch kosmos*) $ε.Κ.$, hebrew calendar from the NC $NC_{AM}$, hebrew calendar (*Anno Mundi*) $AM$, before Christ $BC$, Anno Domini $AD$, Ab urbe condita $AVC$ and Anno Hegirae $AH$.
+Table 1. Timeline of the most important characters or authors mentioned in the *Nuremberg Chronicle* fol. 1r to fol. VIIr (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024); Schedel and Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), [1496](https://doi.org/10.3931/e-rara-69075), res. and Hadavas, [2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J)) by (1) $age$, (2) *year of the world* according to the interpretation by *the seventy* $NC_{lxx}$, year from the (3) *Byzantine* or *Roman* calendar (*epoch Kosmos*) $ε.K.$, (4) *Hebrew* calendar according to the *Nuremberg Chronicle* $NC_{AM}$, (5) *Hebrew* calendar (*Anno Mundi*) $AM$, (6) year *before Christ* $BC$, (7) the actual year *Anno Domini* $AD$, (8) the Ancient Roman *Ab urbe condita* $AVC$ and finally (9) the Islamic *Anno Hegirae* $AH$ with page of first mention $fol$ and dates.
 ~~~
-age	NC lxx	ε.Κ.	NC AM	AM	BC	AD	AVC	AH	Latin				ENHG			Engl. tr.	fol	actual name				from	to	
+age	NC_lxx	ε.Κ.	NC_AM	AM	BC	AD	AVC	AH	Latin				ENHG			Engl. tr.	fol	actual name				from	to	
 
 ...II	3100	3409	1864	1661	2101											
 	3150	3459	1914	1711	2051				iupiter				Iupiter			Jupiter		Ir	Lisania, Jupiter I				21	c. BC
@@ -78,7 +78,7 @@ VI,VII	5200	5509	3964	3761	1	0	753		Lucas				Lucas			Luke		Ir	Luke the Evangelis
 	6450	6759	5214	5011		1250		648	Gersonides			Gersonides		Gersonides	Ir	Levi ben Gershon 			1288	1344	
 	6500	6809	5264	5061		1300		700								
 ~~~
-¹) septinge[n]ta.  				
+¹) *vt tra[n]stulit diu[us] Hiero. v[el] vt septinge[n]ta*, Schedel ([1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024), fol. IIr), .			
 
 ## References
 
@@ -89,4 +89,3 @@ Schedel, H. (1493). *Liber chronicarum cum figuris et ymagibus ab inicio mundi*
 Schedel, H., & Alt, G. (tr.). (1493). *Buch der Chroniken und geschichten mit figure und pildnüssen von anbegin der welt bis auf diese unsere Zeit*. Nuremberge: Antonius Koberger. [https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218)
 
 ———. (1496). *Das buch Der croniken unnd geschichten mit figuren und pildnussen von Anbeginn der welt bis auff diese unsere Zeyt*. Augsburg: Johann Schönsperger. [https://doi.org/10.3931/e-rara-69075](https://doi.org/10.3931/e-rara-69075)
-
