@@ -1,6 +1,6 @@
 # NC_tab_timeline.md
 
-Table 1. Timeline of the characters or authors mentioned by $age$, $NC_{lxx}$, byzantine or roman calendar (*epoch kosmos*) $ε.Κ.$, hebrew calendar from the NC $NC_{AM}$, hebrew calendar $AM$, $BC$, $AD$, $AVC$, $AH$.
+Table 1. Timeline of the characters or authors mentioned from the *Nuremberg Chronicle* fol. 1r to fol. VIIr (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024); Schedel and Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), [1496](https://doi.org/10.3931/e-rara-69075), res. and Hadavas, [2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J)) by $age$, $NC_{lxx}$, byzantine or roman calendar (*epoch kosmos*) $ε.Κ.$, hebrew calendar from the NC $NC_{AM}$, hebrew calendar $AM$, $BC$, $AD$, $AVC$, $AH$.
 ~~~
 age	NC lxx	ε.Κ.	NC AM	AM	BC	AD	AVC	AH	Latin			ENHG				Engl. tr.		actual name				from	to	
 
@@ -81,6 +81,8 @@ VI,VII	5200	5509	3964	3761	1	0	753		Lucas				Lucas			Luke			Luke the Evangelist	
 ¹) septinge[n]ta.  				
 
 ## References
+
+Hadavas, K. (2023). *First English edition of the Nuremberg chronicle : being the Liber chronicarum of Dr. Hartmann Schedel*. Edited by Hadavas, K. UW–Madison TEI edition. Madison, Wisconsin: University of Wisconsin–Madison Libraries. [https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J)
 
 Schedel, H. (1493). *Liber chronicarum cum figuris et ymagibus ab inicio mundi*. Nuremberge: Antonius Koberger. [https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024)
 
