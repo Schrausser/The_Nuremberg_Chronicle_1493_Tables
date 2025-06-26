@@ -1,6 +1,6 @@
 # NC_tab_timeline.md
 
-Table 1. Timline of mentioned characters or authors
+Table 1. Timeline of the characters or authors mentioned by *age*, *NC lxx*, byzantine or roman calendar (*epoch kosmos*), *ε.Κ.*, hebrew calendar from the NC *NC AM*, hebrew calendar *AM*, *BC*, *AD*, *AVC*, *AH*.
 ~~~
 age	NC lxx	ε.Κ.	NC AM	AM	BC	AD	AVC	AH	Latin			ENHG				Engl. tr.		actual name				from	to	
 
@@ -77,9 +77,8 @@ VI,VII	5200	5509	3964	3761	1	0	753		Lucas				Lucas			Luke			Luke the Evangelist	
 	6400	6709	5164	4961		1200		597	Albertus			Albertus		Albertus		Albertus Magnus				1200	1280	
 	6450	6759	5214	5011		1250		648	Gersonides			Gersonides		Gersonides		Levi ben Gershon 			1288	1344	
 	6500	6809	5264	5061		1300		700								
-~~~																		
-¹) AM hebrew calendar.  
-²) ε.Κ. *epoch kosmos*, byzantine or roman calendar.
+~~~
+¹) 						
 
 ## References
 
