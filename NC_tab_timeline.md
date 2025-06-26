@@ -1,6 +1,6 @@
 # NC_tab_timeline.md
 
-Table 1. Timeline of the characters or authors mentioned from the *Nuremberg Chronicle* fol. 1r to fol. VIIr (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024); Schedel and Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), [1496](https://doi.org/10.3931/e-rara-69075), res. and Hadavas, [2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J)) by $age$, $NC_{lxx}$, byzantine or roman calendar (*epoch kosmos*) $ε.Κ.$, hebrew calendar from the NC $NC_{AM}$, hebrew calendar $AM$, $BC$, $AD$, $AVC$, $AH$.
+Table 1. Timeline of the characters or authors mentioned from the *Nuremberg Chronicle* fol. 1r to fol. VIIr (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024); Schedel and Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), [1496](https://doi.org/10.3931/e-rara-69075), res. and Hadavas, [2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J)) by $age$, septuaginta $NC_{lxx}$, byzantine or roman calendar (*epoch kosmos*) $ε.Κ.$, hebrew calendar from the NC $NC_{AM}$, hebrew calendar (*Anno Mundi*) $AM$, before Christ $BC$, Anno Domini $AD$, Ab urbe condita $AVC$ and Anno Hegirae $AH$.
 ~~~
 age	NC lxx	ε.Κ.	NC AM	AM	BC	AD	AVC	AH	Latin			ENHG				Engl. tr.		actual name				from	to	
 
