@@ -1,27 +1,46 @@
 # The Nuremberg Chronicle 1493: Tables
 
-Tables (`Tab_fol_1r` to `Tab_fol_6r`, `NC_tab_astro`, `NC_tab_cmp`, `NC_tab_timeline`, `NC_note01`, `NC_note02`) from the *Nuremberg Chronicle*, fol. 1r to  VIIr, s.  Tab. 1 (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024); Schedel and Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), [1496](https://doi.org/10.3931/e-rara-69075), res.):
+Tables (`Tab_fol_1r` to `Tab_fol_6r`, `NC_tab_astro`, `NC_tab_cmp`, `NC_tab_timeline`, `NC_note01`, `NC_note02`) from the *Nuremberg Chronicle*, fol. Ir to  VIIr, s.  Tab. 1 (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024); Schedel and Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), [1496](https://doi.org/10.3931/e-rara-69075), res.):
 
 >"Creatio re[rum] senario numero explicatur. Cuius partes, unu[m]: duo: tria sunt, que in trigonu[m] surga[n]t. In primo creatione[m]. In secundo [et] tercio dispositione[m]. In reliquis ornatum Moyses per opera sex die[rum] ostendit.", (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024), fol. IIr).
 
 >The creation of things is explained by numbers. Their parts are one, two, three, which form a triangle. In the first *creation*. In the second and third *arrangement*. In the rest *ornament*, as Moses shows through the works of six days.
 
-Table 1. Headings and contents of fol. 1 to fol. VII (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024)).
+Table 1. Headings and contents of fol. Ir to fol. VIIr (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024); Schedel and Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), [1496](https://doi.org/10.3931/e-rara-69075), res.).
 ~~~
-page			contenta
+page			content
 
-Foliu[m] 1	recto	Epitoma operu[m] sex dieru[m] de mu[n]di fabrica Prologus
-Folium   II	recto	"
+Foliu[m] I	recto	Epitoma operu[m] sex dieru[m] de mu[n]di fabrica Prologus
+fo. .1.			Ein kurtze bescherybung des wercks der sechs tag von dem geschöpff der werlt die vorrede.
+
+Folium II	recto	
+Blat II		
 		verso	De opere prime diei.
+			Vom werck des erste[n] tags
+
 Foliu[m] III	recto	De opere secunde diei.
+Blat III		Vom werck des andern tags
 		verso	De opere tercie diei.
+			Vom werck des dritten tags
+
 Foliu[m] IIII	recto	De opere quarte diei.
+Blat IIII		Vom werck des vierden tags
 		verso	De opere quinte diei.
+			Vom werck des funffte[n] tags
+
 Foliu[m] V	recto	De opere sexte diei.
+Blat V			Vom werck des sechten tags
 		verso	De sanctificatione septime diei
+			Von beheyligung des siebenden tags
+
 Foliu[m] VI	recto	Queda[m] circa spera[m] planetaru[m] et orbiu[m] declara[n]da.
+Blat VI		
 		verso	Prima etas mundi
-Folium   VII	recto	Etas prima mundi
+			Das erst alter.
+
+Foliu[m] VII	recto	Etas prima mundi
+Blat VII		der werlt
+
 ~~~
 
 >„ […] The Nuremberg Chronicle […] is one of the most important and most beautiful books of the incunabula era. Both the Latin version […] and the German version […] were printed in the offices of Anton Koberger who owned one of Europe's largest printing houses of the period. […] Following medieval traditions, the author divides the history of mankind into seven ages: the first age extended from the creation to the deluge; the second from the deluge to the birth of Abraham, the third to the kingdom of David; the fourth covered the period […] to the Babylonian Captivity; the fifth to the birth of Christ; the sixth […] from the birth of Christ to the present; and the seventh dealt with the arrival of the Antichrist and the Last Judgment.", (Bernstein, [2002](http://www.jstor.org/stable/1262133), p. 1422; c.f. Tab. 2). 
@@ -44,7 +63,7 @@ Primarily influenced by Conrad Celtis (1459-1476), Martin Behaim (1459-1507), Jo
 
 See also Haitz ([1899](https://books.google.com/books?id=bhdEtQEACAAJ)), Schnieper ([1950](https://doi.org/10.5169/SEALS-387655)), Sladeczek ([1965](https://doi.org/10.11588/diglit.37607)), Rücker ([1988](https://books.google.com/books?id=CiujnAEACAAJ)) or Green ([2003](https://books.google.com/books?id=tXC8HgAACAAJ)). Englisch translations, facsimile or translations are given by Hadavas ([2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J)),  Schedel ([2010](http://www.smithandpress.com/Our_Books.html)), Zellmann-Roher and Hadavas ([2011a](https://www.abebooks.com/9780983140726/Liber-Chronicarum-Translation-Volume-Nuremberg-0983140723/plp), [b](https://www.abebooks.com/9780983140719/Liber-Chronicarum-Translation-Volume-Nuremberg-0983140715/plp), [2012a](https://ocul-gue.alma.exlibrisgroup.com/discovery/fulldisplay?docid=alma991033686926707371&context=L&vid=01OCUL_GUE:GUELPH&search_scope=OCULDiscoveryNetwork&adaptor=Local%20Search%20Engine&tab=OCULDiscoveryNetwork&query=creator,equals,%20Zellmann-Rohrer,%20Michael,AND&mode=advanced&offset=0&lang=en), [b](https://www.gettextbooks.com/isbn/9780983140740/), res.).
 
-For a (full) raw transcripton of the *Early New High German* (ENHG) text see Wikisource contributors ([2025](https://de.wikisource.org/wiki/Kategorie:Schedelsche_Weltchronik)), for ENHG dictionaries see Goebel et al. ([1989](https://www.degruyter.com/serial/fnhdwb-b/html?lang=en#volumes)). An annotated [transcription of the *Latin* text](https://github.com/Schrausser/The_Nuremberg_Chronicle_1493_Transcriptions) (fol. 1r to  VIIr) is given by Schrausser ([2024](https://doi.org/10.5281/zenodo.14515634)).
+For a (full) raw transcripton of the *Early New High German* (ENHG) text see Wikisource contributors ([2025](https://de.wikisource.org/wiki/Kategorie:Schedelsche_Weltchronik)), for ENHG dictionaries see Goebel et al. ([1989](https://www.degruyter.com/serial/fnhdwb-b/html?lang=en#volumes)). An annotated [transcription of the *Latin* text](https://github.com/Schrausser/The_Nuremberg_Chronicle_1493_Transcriptions) (fol. Ir to  VIIr) is given by Schrausser ([2024](https://doi.org/10.5281/zenodo.14515634)).
 
 
 ## References
