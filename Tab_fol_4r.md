@@ -8,7 +8,7 @@
 
 >"God set in the firmament to shine in the heavens and to give light to the earth; as the sun, the moon and the stars with which the upper part of the world is adorned, just like the earth is adorned with the things that grow in it.", (Hadavas, [2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J), p. 5).
 
-Table 1.  The *kinds* of two apparent *functions*, (1) *motion* and (2) *light* of he heavenly corporeal bodies (see also Petavius, [1630](https://doi.org/10.3931/e-rara-2004), p. 261-262; Schrausser, [2024](https://doi.org/10.5281/zenodo.10691681), res.).
+Table 1.  The *kinds* of two apparent *functions*, (1) *motion* and (2) *light* of the heavenly corporeal bodies (see also Petavius, [1630](https://doi.org/10.3931/e-rara-2004), p. 261-262; Schrausser, [2024](https://doi.org/10.5281/zenodo.10691681), res.).
 ~~~
 		heavenly corporeal body					function	kind
 
