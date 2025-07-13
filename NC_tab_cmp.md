@@ -56,14 +56,14 @@ celestem	in ordinibus angelicis	superiorem	seraphin	Seraphin
 							archangelos	archa[n]gli			
 							angelos		Angeli				
 subcelestem	in hominibus sanctis									
-~~~										
+~~~									
 ¹) The Roman god of the *southeast* wind, *Apeliotes* in Greek. *Eurus*, the Greek god of the *rain-bringing east* wind, mostly excluded from the *Anemoi*, is the Roman *Vulturnus* or *Africanus*.    
 ²) The Roman god of the *south* wind, *Notus* in Greek.  
 ³) Boreas, the Greek god of the *north* wind, the Roman *Aquilo* or *Septentrio*, respectively.  
 ⁴) The Greek god of the *west* wind, the Roman *Favonius*.  
 
 Table 3. Comparison of *celestial orbits* (*natura*) with the *celestial hierarchy* (*supernatura*) as described in fol. VIr (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024), fol. VIr).
-~~~						
+~~~					
 orbes mundi		natura									supernatura			
 
 celum trinitatis	celesti		empyreum						sup[er]celestem			
