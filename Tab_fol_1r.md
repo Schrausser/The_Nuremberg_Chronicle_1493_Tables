@@ -35,7 +35,7 @@ Engl. tr.
 
 > "The ancients spoke of three kinds of worlds [...] ", (Hadavas, [2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J), p. 2).
 
-Table 2. The three or four, res. *kinds of worlds*" according to the ancients with short descriptions.
+Table 2. The three or four, res. *kinds of worlds* according to the ancients with short descriptions.
 ~~~				
 Latin		mundus	
 1		supremum		quem theologi angelicum: philosophi: autem intellectualem vocant¹	
