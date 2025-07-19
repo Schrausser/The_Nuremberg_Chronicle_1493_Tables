@@ -1,5 +1,9 @@
 # The Nuremberg Chronicle 1493: Tables
 
+>"Das bůch Der croniken unnd geschichten mit figuren und pildnussen von Anbeginn der welt bis auff diese unsere Zeyt", (Schedel and Alt, [1496](https://doi.org/10.3931/e-rara-69075), fol. Ir).
+
+>The book of chronicles and histories with characters and illustrations from the beginning of the world to this day
+
 Tables (`Tab_fol_1r` to `Tab_fol_6r`, `NC_tab_astro`, `NC_tab_cmp`, `NC_tab_timeline`, `NC_note01`, `NC_note02`) from the *Nuremberg Chronicle*, fol. Ir to  VIIr, s.  Tab. 1 (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024); Schedel and Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), [1496](https://doi.org/10.3931/e-rara-69075), res.):
 
 >"Creatio re[rum] senario numero explicatur. Cuius partes, unu[m]: duo: tria sunt, que in trigonu[m] surga[n]t. In primo creatione[m]. In secundo [et] tercio dispositione[m]. In reliquis ornatum Moyses per opera sex die[rum] ostendit.", (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024), fol. IIr).
