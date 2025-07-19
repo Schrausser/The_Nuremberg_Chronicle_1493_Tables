@@ -1,5 +1,11 @@
 # NC_tab_timeline.md
 
+>"Liber chronicarum cum figuris et ymagibus ab inicio mundi", (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024)).
+
+>"Das bůch Der croniken unnd geschichten mit figuren und pildnussen von Anbeginn der welt bis auff diese unsere Zeyt", (Schedel and Alt, [1496](https://doi.org/10.3931/e-rara-69075), fol. Ir).
+
+>The book of chronicles (and histories) with characters and illustrations from the beginning of the world (to this day)
+
 Table 1. Headings and contents of fol. Ir to fol. VIIr of the *Latin* version $Lat$ (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024)) and the *Early New High German* versions $ENHG$, $ENHG96$, respectively (Schedel and Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), [1496](https://doi.org/10.3931/e-rara-69075), res.) with the *English* translation (Hadavas, [2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J)).
 ~~~
 page			content
