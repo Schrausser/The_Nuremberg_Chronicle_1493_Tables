@@ -143,7 +143,7 @@ Schedel, H., & Alt, G. (tr.). (1493). *Buch der Chroniken und geschichten mit fi
 
 Schnieper, X. (1950). Die Schedelsche Weltchronik: eine Einführung und Würdigung. In *Mitteilungsblatt Der Schweizerischen Bibliophilen-Gesellschaft*, 7:84–104. 3-4. Basel: Schweizerische Bibliophilen-Gesellschaft. [https://doi.org/10.5169/SEALS-387655](https://doi.org/10.5169/SEALS-387655)
 
-Schrausser, D. G. (2024). *Schrausser/The_Nuremberg_Chronicle_1493_Transcriptions*. Zenodo. [https://doi.org/10.5281/zenodo.14515634](https://doi.org/10.5281/zenodo.14515634)
+Schrausser, D. G. (2024). *Schrausser/The_Nuremberg_Chronicle_1493_Transcriptions*. Zenodo. [https://doi.org/10.5281/zenodo.14515634](https://doi.org/10.5281/zenodo.14515634)
 
 Sladeczek, L. (1965). *Albrecht Dürer und die Illustrationen zur Schedelchronik*. 1st ed. Vol. 342. Studien Zur Deutschen Kunstgeschichte. Baden-Baden/Strasbourg: Verlag Heitz GmbH. [https://doi.org/10.11588/diglit.37607](https://doi.org/10.11588/diglit.37607)
 
