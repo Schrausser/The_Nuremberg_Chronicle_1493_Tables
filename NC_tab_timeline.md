@@ -1,6 +1,6 @@
 # NC_tab_timeline.md
 
-Table 1. Headings and contents of fol. Ir to fol. VIIr of the *Latin* version $Lat$ (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024)) and the *Early New High German* versions $ENHG$, $ENHG96$, respectively (Schedel and Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), [1496](https://doi.org/10.3931/e-rara-69075), res.).
+Table 1. Headings and contents of fol. Ir to fol. VIIr of the *Latin* version $Lat$ (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024)) and the *Early New High German* versions $ENHG$, $ENHG96$, respectively (Schedel and Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), [1496](https://doi.org/10.3931/e-rara-69075), res.) with the *English* translation (Hadavas, [2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J)).
 ~~~
 page			content
 
@@ -34,7 +34,6 @@ Blat VI		recto
 		verso	Das erst alter.
 Blat VII	recto	der werlt
 
-
 ENHG96
 Das erst Blat	recto	Das bůch Der croniken unnd geschichten mit figuren und pildnussen von Anbeginn der welt bis auff diese unsere Zeyt
 		verso	Ein kurtze beschreybung des wercks der sechsz tag vo[n] dem geschöpff d[er] welte die vorrede.
@@ -49,6 +48,21 @@ Das v. Blat	recto	Vom werck des .v. tags
 Das vi. Blat	recto	
 		verso	Das erst alter.
 Das vii. Blat	recto	der welt
+
+Engl. tr.		
+1	    	recto	A Brief Description of the Work of Six Days from the Creation of the World - The Preface
+	 	verso	
+2	 	recto	
+		verso	OF THE WORK OF THE FIRST DAY
+3		recto	OF THE WORK OF THE SECOND DAY
+	 	verso	OF THE WORK OF THE THIRD DAY
+4	 	recto	OF THE WORK OF THE FOURTH DAY
+	 	verso	THE WORK OF THE FIFTH DAY
+5	 	recto	OF THE WORK OF THE SIXTH DAY
+	 	verso	OF THE SANCTIFICATION OF THE SEVENTH DAY
+6		recto	CERTAIN THINGS THAT MUST BE DECLARED ABOUT THE SPHERES OF THE PLANETS AND THEIR ORBITS
+		verso	The First Age of the World
+7		recto	
 ~~~
 
 Table 2. Comparison between the headings and contents of fol. Ir to fol. VIIr of the *Latin* version $Lat$ (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024)) and the *Early New High German* versions $ENHG$, $ENHG96$, respectively (Schedel and Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), [1496](https://doi.org/10.3931/e-rara-69075), res.).
