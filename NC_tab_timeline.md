@@ -1,6 +1,77 @@
 # NC_tab_timeline.md
 
-Table 1. Timeline of the most important characters or authors mentioned in the *Nuremberg Chronicle* fol. 1r to fol. VIIr (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024); Schedel and Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), [1496](https://doi.org/10.3931/e-rara-69075), res. and Hadavas, [2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J)) by (1) $age$, (2) *year of the world* according to the interpretation by *the seventy* $NC_{lxx}$, year from the (3) *Byzantine* or *Roman* calendar (*epoch Kosmos*) $ε.K.$, (4) *Hebrew* calendar according to the *Nuremberg Chronicle* $NC_{AM}$, (5) *Hebrew* calendar (*Anno Mundi*) $AM$, (6) year *before Christ* $BC$, (7) the actual year *Anno Domini* $AD$, (8) the Ancient Roman *Ab urbe condita* $AVC$ and finally (9) the Islamic *Anno Hegirae* $AH$ with page of first mention $fol$ and dates.
+Table 1. Headings and contents of fol. Ir to fol. VIIr of the *Latin* version $Lat$ (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024)) and the *Early New High German* versions $ENHG$, $ENHG96$, respectively (Schedel and Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), [1496](https://doi.org/10.3931/e-rara-69075), res.).
+~~~
+page			content
+
+Lat
+Foliu[m] I	recto	Epitoma operu[m] sex dieru[m] de mu[n]di fabrica Prologus
+		verso	
+Folium II	recto	
+		verso	De opere prime diei.
+Foliu[m] III	recto	De opere secunde diei.
+		verso	De opere tercie diei.
+Foliu[m] IIII	recto	De opere quarte diei.
+		verso	De opere quinte diei.
+Foliu[m] V	recto	De opere sexte diei.
+		verso	De sanctificatione septime diei
+Foliu[m] VI	recto	Queda[m] circa spera[m] planetaru[m] et orbiu[m] declara[n]da.
+		verso	Prima etas mundi
+Foliu[m] VII	recto	Etas prima mundi
+
+ENHG
+fo. .1.		recto	Ein kurtze beschreybung des wercks der sechs tag von dem geschöpff der werlt die vorrede.
+		verso	
+Blat II		recto	
+		verso	Vom werck des erste[n] tags
+Blat III	recto	Vom werck des andern tags
+		verso	Vom werck des dritten tags
+Blat IIII	recto	Vom werck des vierden tags
+		verso	Vom werck des funffte[n] tags
+Blat V		recto	Vom werck des sechten tags
+		verso	Von beheyligung des siebenden tags
+Blat VI		recto	
+		verso	Das erst alter.
+Blat VII	recto	der werlt
+
+
+ENHG96
+Das erst Blat	recto	Das bůch Der croniken unnd geschichten mit figuren und pildnussen von Anbeginn der welt bis auff diese unsere Zeyt
+		verso	Ein kurtze beschreybung des wercks der sechsz tag vo[n] dem geschöpff d[er] welte die vorrede.
+Das ander Blat	recto	
+		verso	
+Das drit Blat	recto	
+		verso	Vo[m] werck des erste[n] tags vo[m] werck des andern ta.
+Das vierdt Blat	recto	vo[m] werck des dritte[n] tags
+		verso	Vom werck des vierden tages
+Das v. Blat	recto	Vom werck des .v. tags
+		verso	Von beheyligung des siebenden tags
+Das vi. Blat	recto	
+		verso	Das erst alter.
+Das vii. Blat	recto	der welt
+~~~
+
+Table 2. Comparison between the headings and contents of fol. Ir to fol. VIIr of the *Latin* version $Lat$ (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024)) and the *Early New High German* versions $ENHG$, $ENHG96$, respectively (Schedel and Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), [1496](https://doi.org/10.3931/e-rara-69075), res.).
+~~~
+fol		content		
+		Lat					ENHG							ENHG96
+
+1	recto	Epitoma [...] Prologus			Ein kurtze beschreybung [...] der werlt die vorrede.	Das bůch Der croniken [...] bis auff diese unsere Zeyt
+	verso													Ein kurtze beschreybung [...] d[er] welte die vorrede.
+2	recto			
+	verso	De opere prime diei.			Vom werck des erste[n] tags	
+3	recto	De opere secunde diei.			Vom werck des andern tags	
+	verso	De opere tercie diei.			Vom werck des dritten tags				Vo[m] werck des erste[n] tags vo[m] werck des andern ta.
+4	recto	De opere quarte diei.			Vom werck des vierden tags				vo[m] werck des dritte[n] tags
+	verso	De opere quinte diei.			Vom werck des funffte[n] tags				Vom werck des vierden tages
+5	recto	De opere sexte diei.			Vom werck des sechten tags				Vom werck des .v. tags
+	verso	De sanctificatione septime diei		Von beheyligung des siebenden tags			Von beheyligung des siebenden tags
+6	recto	Queda[m] circa [...] declara[n]da.		
+	verso	Prima etas mundi			Das erst alter.						Das erst alter.
+7	recto	Etas prima mundi			der werlt						der welt
+~~~
+
+Table 3. Timeline of the most important characters or authors mentioned in the *Nuremberg Chronicle* fol. 1r to fol. VIIr (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024); Schedel and Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), [1496](https://doi.org/10.3931/e-rara-69075), res. and Hadavas, [2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J)) by (1) $age$, (2) *year of the world* according to the interpretation by *the seventy* $NC_{lxx}$, year from the (3) *Byzantine* or *Roman* calendar (*epoch Kosmos*) $ε.K.$, (4) *Hebrew* calendar according to the *Nuremberg Chronicle* $NC_{AM}$, (5) *Hebrew* calendar (*Anno Mundi*) $AM$, (6) year *before Christ* $BC$, (7) the actual year *Anno Domini* $AD$, (8) the Ancient Roman *Ab urbe condita* $AVC$ and finally (9) the Islamic *Anno Hegirae* $AH$ with page of first mention $fol$ and dates.
 ~~~
 age	NC_lxx	ε.Κ.	NC_AM	AM	BC	AD	AVC	AH	Latin				ENHG			Engl. tr.	fol	actual name				from	to	
 
@@ -78,7 +149,7 @@ VI,VII	5200	5509	3964	3761	1	0	753		Lucas				Lucas			Luke		Ir	Luke the Evangelis
 	6450	6759	5214	5011		1250		648	Gersonides			Gersonides		Gersonides	Ir	Levi ben Gershon 			1288	1344	
 	6500	6809	5264	5061		1300		700								
 ~~~
-¹) "*vt tra[n]stulit diu[us] Hiero. v[el] vt septinge[n]ta*", Schedel ([1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024), fol. IIr), *either as the divine Jerome translated, or as (the)* ***seven hundred***.			
+¹) *vt tra[n]stulit diu[us] Hiero. v[el] vt septinge[n]ta*, Schedel ([1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024), fol. IIr), *either as the divine Jerome translated, or as (the)* ***seven hundred***.			
 
 ## References
 
@@ -88,4 +159,4 @@ Schedel, H. (1493). *Liber chronicarum cum figuris et ymagibus ab inicio mundi*
 
 Schedel, H., & Alt, G. (tr.). (1493). *Buch der Chroniken und geschichten mit figure und pildnüssen von anbegin der welt bis auf diese unsere Zeit*. Nuremberge: Antonius Koberger. [https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218)
 
-———. (1496). *Das buch Der croniken unnd geschichten mit figuren und pildnussen von Anbeginn der welt bis auff diese unsere Zeyt*. Augsburg: Johann Schönsperger. [https://doi.org/10.3931/e-rara-69075](https://doi.org/10.3931/e-rara-69075)
+———. (1496). *Das buch Der croniken unnd geschichten mit figuren und pildnussen von Anbeginn der welt bis auff diese unsere Zeyt*. Augsburg: Johann Schönsperger. [https://doi.org/10.3931/e-rara-69075](https://doi.org/10.3931/e-rara-69075) 
