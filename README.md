@@ -12,35 +12,49 @@ page			content
 
 Foliu[m] I	recto	Epitoma operu[m] sex dieru[m] de mu[n]di fabrica Prologus
 fo. .1.			Ein kurtze beschreybung des wercks der sechs tag von dem geschöpff der werlt die vorrede.
+Das erst Blat		Das bůch Der croniken unnd geschichten mit figuren und pildnussen von Anbeginn der welt bis auff diese unsere Zeyt
+		verso	
+		
+			Ein kurtze beschreybung des wercks der sechsz tag vo[n] dem geschöpff d[er] welte die vorrede.
 
 Folium II	recto	
 Blat II		
+Das ander Blat		
 		verso	De opere prime diei.
 			Vom werck des erste[n] tags
+		
 
 Foliu[m] III	recto	De opere secunde diei.
 Blat III		Vom werck des andern tags
+Das drit Blat		
 		verso	De opere tercie diei.
 			Vom werck des dritten tags
+			Vo[m] werck des erste[n] tags vo[m] werck des andern ta.
 
 Foliu[m] IIII	recto	De opere quarte diei.
 Blat IIII		Vom werck des vierden tags
+Das vierdt Blat		vo[m] werck des dritte[n] tags
 		verso	De opere quinte diei.
 			Vom werck des funffte[n] tags
+			Vom werck des vierden tages
 
 Foliu[m] V	recto	De opere sexte diei.
 Blat V			Vom werck des sechten tags
+Das v. Blat		Vom werck des .v. tags
 		verso	De sanctificatione septime diei
+			Von beheyligung des siebenden tags
 			Von beheyligung des siebenden tags
 
 Foliu[m] VI	recto	Queda[m] circa spera[m] planetaru[m] et orbiu[m] declara[n]da.
 Blat VI		
+Das vi. Blat		
 		verso	Prima etas mundi
+			Das erst alter.
 			Das erst alter.
 
 Foliu[m] VII	recto	Etas prima mundi
 Blat VII		der werlt
-
+Das vii. Blat		der welt
 ~~~
 
 >„ […] The Nuremberg Chronicle […] is one of the most important and most beautiful books of the incunabula era. Both the Latin version […] and the German version […] were printed in the offices of Anton Koberger who owned one of Europe's largest printing houses of the period. […] Following medieval traditions, the author divides the history of mankind into seven ages: the first age extended from the creation to the deluge; the second from the deluge to the birth of Abraham, the third to the kingdom of David; the fourth covered the period […] to the Babylonian Captivity; the fifth to the birth of Christ; the sixth […] from the birth of Christ to the present; and the seventh dealt with the arrival of the Antichrist and the Last Judgment.", (Bernstein, [2002](http://www.jstor.org/stable/1262133), p. 1422; c.f. Tab. 2). 
