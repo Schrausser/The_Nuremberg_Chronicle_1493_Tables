@@ -11,7 +11,7 @@ Table 1. Headings and contents of fol. Ir to fol. VIIr (Schedel, [1493](https://
 page			content
 
 Foliu[m] I	recto	Epitoma operu[m] sex dieru[m] de mu[n]di fabrica Prologus
-fo. .1.			Ein kurtze bescherybung des wercks der sechs tag von dem geschöpff der werlt die vorrede.
+fo. .1.			Ein kurtze beschreybung des wercks der sechs tag von dem geschöpff der werlt die vorrede.
 
 Folium II	recto	
 Blat II		
