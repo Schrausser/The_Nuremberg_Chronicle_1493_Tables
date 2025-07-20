@@ -1,6 +1,6 @@
 # Tab_fol_1v.md
 
-Table 1. Heading inscription on the first woodcut (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024), fol. Iv; Schedel and Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), [1496](https://doi.org/10.3931/e-rara-69075), fo. .1.v).
+Table 1. Heading inscription on the first woodcut (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024), fol. Iv; Schedel and Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), fo. .1.v, [1496](https://doi.org/10.3931/e-rara-69075), fol. 2v).
 ~~~
 			  su[n]t ip[s]e ma[n]dau[it] [et]  
 								Ps[alm] 32¹
@@ -21,4 +21,4 @@ Schedel, H., & Alt, G. (tr.). (1493). *Buch der Chroniken und geschichten mit fi
 
 ———. (1496). *Das buch Der croniken unnd geschichten mit figuren und pildnussen von Anbeginn der welt bis auff diese unsere Zeyt*. Augsburg: Johann Schönsperger. [https://doi.org/10.3931/e-rara-69075](https://doi.org/10.3931/e-rara-69075)
 
-Ulrich, J. C., & Holzhalb, J. R. (1756). *Biblia, das ist, die ganze Heilige Schrift Alten und Neuen Testaments, aus den Grundsprachen treulich wol verteutschet*. Zürich: bey Conrad Orell und Comp. [https://doi.org/10.3931/e-rara-65699](https://doi.org/10.3931/e-rara-65699) 
+Ulrich, J. C., & Holzhalb, J. R. (1756). *Biblia, das ist, die ganze Heilige Schrift Alten und Neuen Testaments, aus den Grundsprachen treulich wol verteutschet*. Zürich: bey Conrad Orell und Comp. [https://doi.org/10.3931/e-rara-65699](https://doi.org/10.3931/e-rara-65699)

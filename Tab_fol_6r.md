@@ -6,7 +6,7 @@
 
 >"COrporalis mundi machina tota consistit in duobus. scilicet in natura celesti: et in natura elementari.", (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024), fol. VIr).
 
->"DAs ga[n]tz leiplich geschöpff der werlt steet in zwayen dinge[n]. Ne[m]lich in hi[m]lischer vnd in elementischer natur.", (Schedel and Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), [1496](https://doi.org/10.3931/e-rara-69075), bl. VIr).
+>"DAs ga[n]tz leiplich geschöpff der werlt steet in zwayen dinge[n]. Ne[m]lich in hi[m]lischer vnd in elementischer natur.", (Schedel and Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), bl. VIr, [1496](https://doi.org/10.3931/e-rara-69075), fol. 6r).
 
 >"The entire corporeal creation of the world consists of two things, namely, the celestial (ethereal) and the elementary natures (regions)", (Hadavas, [2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J), p. 10).
 
@@ -81,7 +81,7 @@ Heaven of the Trinity	celestial	fiery
 
 >"Distantia predictorum orbium et planetarum hec est.", (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024), fol. VIr).
 
->"Mercke auch von gelegenheit der vorgenante[n] umbkrais vn[d] planeten", (Schedel and Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), [1496](https://doi.org/10.3931/e-rara-69075), bl. VIr).
+>"Mercke auch von gelegenheit der vorgenante[n] umbkrais vn[d] planeten", (Schedel and Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), bl. VIr, [1496](https://doi.org/10.3931/e-rara-69075), fol. 6r).
 
 >"Note also that the distance [...]", (Hadavas, [2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J), p. 10).
 
@@ -129,7 +129,7 @@ Saturn to Stars	 	23 436
 
 >"DE celesti vero natura triplicem quidam posuere distinct[i]onem. scilicet sup[er]naturalem. id est sup[er]celestem. celestem [et] subcelestem.", (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024), fol. VIr).
 
->"ABer von der himlischen natur haben etlich dreierley underschid gesetzt als ein überhi[m]lische. ein himlische vn[d] ein undehi[m]lische.", (Schedel and Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), [1496](https://doi.org/10.3931/e-rara-69075), bl. VIr).
+>"ABer von der himlischen natur haben etlich dreierley underschid gesetzt als ein überhi[m]lische. ein himlische vn[d] ein undehi[m]lische.", (Schedel and Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), bl. VIr, [1496](https://doi.org/10.3931/e-rara-69075), fol. 6r).
 
 >"In the celestial nature some have made three classifications: super-celestial, celestial, and sub-celestial.", (Hadavas, [2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J), p. 10).
 
@@ -185,7 +185,7 @@ sub-celestial	holy persons (saints)
 
 >"MUndi etates accipiunt[ur] similitudinarie iuxta etates homis:", (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024), fol. VIr).
 
->"DEr werlt alter werde[n] in gleichnus weisgenommen nach d[er] mensche[n] alter.", (Schedel and Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), [1496](https://doi.org/10.3931/e-rara-69075), bl. VIr).
+>"DEr werlt alter werde[n] in gleichnus weisgenommen nach d[er] mensche[n] alter.", (Schedel and Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), bl. VIr, [1496](https://doi.org/10.3931/e-rara-69075), fol. 6v).
 
 >"The Ages of the World are analogous to the ages of man.", (Hadavas, [2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J), p. 10).
 
