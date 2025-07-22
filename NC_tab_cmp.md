@@ -1,6 +1,6 @@
 # NC_tab_cmp.md
 
->"**M**Vndus est compages ex cælo, terráq;, & iis naturis coagmentata quæ vtroque continentur. Cœlum est id quod omnia, quæ sunt, præter [...] ", (Petavius, ([1630](https://doi.org/10.3931/e-rara-2004), p. 261).
+>"**M**Vndus est compages ex cælo, terráq;, & iis naturis coagmentata quæ vtroque continentur. Cœlum est id quod omnia, quæ sunt, præter [...] ", (Petavius, [1630](https://doi.org/10.3931/e-rara-2004), p. 261).
 
 >The world is a structure of heaven and earth, connected by the natures contained in both.
 The Universe is that what all things, except [...], are.
