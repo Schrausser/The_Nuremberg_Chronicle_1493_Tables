@@ -1,3 +1,5 @@
+
+![figure.\label{LXX interpretes}](LXX_fol_lxxviir.jpg)
 # The Nuremberg Chronicle 1493: Tables
 
 >"Das bůch Der croniken unnd geschichten mit figuren und pildnussen von Anbeginn der welt bis auff diese unsere Zeyt", (Schedel and Alt, [1496](https://doi.org/10.3931/e-rara-69075), fol. Ir).
