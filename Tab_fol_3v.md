@@ -18,7 +18,7 @@ hircanum	hircanisch	Hyrcanian	Caspian Sea²
 adriacum	adriatisch	Adriatic	Adriatic Sea, Ionian Sea³ 
 Euxinum		euxinisch	Euxine		Black Sea⁴
 ~~~
-¹) Indicum[!] Mare  
+¹) Indicum(!) Mare  
 ²) Hyrcanian Ocean  
 ³) Mare Adriaticum  
 ⁴) Póntos Áxeinos

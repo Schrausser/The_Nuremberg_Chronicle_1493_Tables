@@ -123,7 +123,7 @@ Jupiter to Saturn	6 832
 Saturn to Stars	 	23 436 
 	 		108 375 
 ~~~
-¹) "*miliaria. hec sunt stadia .cxxvi.*", *where miles are 126 stades*, (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024), fol. VIr). 
+¹) "miliaria. hec sunt stadia .cxxvi.", where miles are 126 stades, (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024), fol. VIr). 
 
 ### Distinctio celestium hierarchiarum.
 
