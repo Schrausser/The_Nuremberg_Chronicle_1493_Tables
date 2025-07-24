@@ -31,7 +31,7 @@ I							medium		aereum
 					terre							spera aque		
 					aque							terrA									La Terre
 ~~~
-¹) "[...] les Théologiens placent [...] un XII. CIEL, qui est immobile, & qui pour cet efet est nommé dans l'Apocalypse: Civitas in quadro posita, Cap.XXI..16. une Ville batie en quarré: [...] pour désigner sa fermeté & son état de consistence éternelle. [...] Pseaume XXXV.", (de Vallemont, [1707](https://www.digitale-sammlungen.de/de/view/bsb10061168?page=5), p. 54), [...] the Theologians place [...] a XII. HEAVEN, which is immobile, & which for this effect is named in the Apocalypse: Civitas in quadro posita, Cap.XXI..16. a City built in a square: [...] to designate its firmness & its state of eternal consistency. [...] Psalm XXXV.
+¹) " [...] les Théologiens placent [...] un XII. CIEL, qui est immobile, & qui pour cet efet est nommé dans l'Apocalypse: Civitas in quadro posita, Cap.XXI..16. une Ville batie en quarré: [...] pour désigner sa fermeté & son état de consistence éternelle. [...] Pseaume XXXV.", (de Vallemont, [1707](https://www.digitale-sammlungen.de/de/view/bsb10061168?page=5), p. 54), [...] the Theologians place [...] a XII. HEAVEN, which is immobile, & which for this effect is named in the Apocalypse: Civitas in quadro posita, Cap.XXI..16. a City built in a square: [...] to designate its firmness & its state of eternal consistency. [...] Psalm XXXV.
 
 >" [...] iis, quæ in sublimi cernuntur.
 EX aquis, que in terra sunt, exhalationes oriri dicuntur: quarū altera est humida, & vapida: altera sicca, & fumida.", (Petavius, [1630](https://doi.org/10.3931/e-rara-2004), p. 261).
