@@ -3,7 +3,7 @@
 Table 1. Distance values for *tone, pt, vel, act* ($10^3km$).
 ~~~
 				y=dist 10³km		
-Object		x=tone		ptolemy		velho		akt
+Object		x=tone		ptolemy		velho		act
 
 Moon		1,0		306,144		344,093		384,400
 Mercury		1,5		733,470		895,538		57909,000
@@ -28,7 +28,7 @@ exp	a	1,23		1,17		1,24
 	b	137,49		174,01		1681,27
 
 	r	0,98		0,97		0,83
-	det%	96,27		94,69		68,84
+	det%	96,27|		94,69|		68,84
 
 quad	a	10487,75	9886,76		136737,33
 	b	-47225,73	-44394,35	-648748,50
@@ -58,7 +58,7 @@ pt	1,0	306,144		-14630,95	470,00		8503,79		-260,78		-14937,09	163,86		8197,65		-
 	4,5	32145,120	57393,24	34715,20	45102,91	37156,44	25248,12	2570,08		12957,79	5011,32		1,785		1,080		1,403		0,156
 	5,0	73372,551	67682,41	64185,46	71306,85	67329,67	-5690,14	-9187,09	-2065,70	-6042,88	0,922		0,875		0,972		-0,082
 	5,5	108591,830	77971,58	118673,49	102754,67	110623,32	-30620,25	10081,66	-5837,16	2031,49		0,718		1,093		0,946		0,019
-AM																				-6,288		1,070		3,948		0,042
+AM																				-6,288		1,070|		3,948		0,042
 SD																				17,204		0,332		9,843		1,198
 
 velho	1,0	344,093		-13497,68	537,35		8311,36		-270,46		-13841,77	193,26		7967,26		-614,55		-39,227		1,562		24,154		-1,786
@@ -68,7 +68,7 @@ velho	1,0	344,093		-13497,68	537,35		8311,36		-270,46		-13841,77	193,26		7967,26
 	4,5	34430,550	54837,32	33842,11	43251,28	35470,52	20406,77	-588,44		8820,73		1039,97		1,593		0,983		1,256		0,030
 	5,0	65894,813	64599,47	60782,34	68016,22	64121,97	-1295,35	-5112,47	2121,40		-1772,85	0,980		0,922		1,032		-0,027
 	5,5	104737,880	74361,61	109168,53	97724,53	105429,10	-30376,27	4430,65		-7013,35	691,22		0,710		1,042		0,933		0,007
-AM																				-4,796		1,083		3,667		0,033
+AM																				-4,796		1,083|		3,667		0,033
 SD																				14,288		0,385		8,444		1,115
 
 act	1,0	384,400		-144245,31	5807,64		157381,16	-37573,24	-144629,71	5423,24		156996,76	-37957,64	-375,248	15,108		409,420		-98,745
@@ -82,12 +82,12 @@ AM																				-52,465		2,918		59,065		-13,991
 SD																				131,781		5,008		143,034		34,604
 ~~~
 
->"MAius quo scitur q[ue] terra s[ecundu]m sensum qua[n]tu[m] ad spaciu[m] q[uo]d peruenit a centro totius ad orbe[m] stellaru[m] fixaru[m] sit sicut punctum: est q[ue] magnitudines quantitatum stellaru[m]: [et] intervallor[um] que inter eas existunt: videntur in omnibus plagis celi vbicu[m]q[ue] terraru[m] in eadem bora equales [et] similes. que[m]admodum inuenimus considerationes que sunt in diuersis climatibus non diuersas neq[ue] in aliquo decipientes.", (Ptolemæus, 1515, fol. 4r).
+>"MAius quo scitur q[ue] terra s[ecundu]m sensum qua[n]tu[m] ad spaciu[m] q[uo]d peruenit a centro totius ad orbe[m] stellaru[m] fixaru[m] sit sicut punctum: est q[ue] magnitudines quantitatum stellaru[m]: [et] intervallor[um] que inter eas existunt: videntur in omnibus plagis celi vbicu[m]q[ue] terraru[m] in eadem bora equales [et] similes. que[m]admodum inuenimus considerationes que sunt in diuersis climatibus non diuersas neq[ue] in aliquo decipientes.", (Ptolemæus, [1515](), fol. 4r).
 
->" […] the earth has […] the ratio of a point to the distance of […] the fixed stars. A strong indication of this is the fact that the sizes and distances of the stars […] appear equal and the same from all parts of the earth everywhere, [...] ", (Toomer, 1984, p. 43).
+>" […] the earth has […] the ratio of a point to the distance of […] the fixed stars. A strong indication of this is the fact that the sizes and distances of the stars […] appear equal and the same from all parts of the earth everywhere, [...] ", (Toomer, [1984](), p. 43).
 
->„PUnctus est cuius p[ar]s no[n] est.“, (Ratdolt, 1482, fol. 2r). 
+>„PUnctus est cuius p[ar]s no[n] est.“, (Ratdolt, [1482](), fol. 2r). 
 
->A point is what has no part, *A dimensionless or virtual, only logically existing geometric object having no properties except location*.
+>A point is what has no part, *a dimensionless or virtual, only logically existing geometric object having no properties except location*.
 
 ## References
