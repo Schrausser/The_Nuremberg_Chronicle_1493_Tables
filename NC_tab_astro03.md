@@ -130,7 +130,7 @@ AM					1,031|
 SD					0,110
 ~~~
 
-Figure 1. $Tone=y=3,32\cdot \sin(-0.0000056\cdot x+10,71)+4,38$.
+Figure 1. Trigonometric regression $tone=y=3,32\cdot \sin(-0.0000056\cdot x+10,71)+4,38$.
 
 ![figure.\label{figa0301}](figa0301.jpg)
 

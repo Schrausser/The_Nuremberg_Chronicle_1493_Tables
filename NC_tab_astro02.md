@@ -85,9 +85,9 @@ Figure 1. The distances of *Solar System* objects $y$ are $98.88\\%$ *exponentia
 
 ![figure.\label{figa0201}](figa0201.jpg)
 
->" [...] Sed Pythagoras interdum ex musica r[ati]one appellat Tonum [...] Ita. vii. Tonos effici. qua[m] Diapason harmoniam uocant. hoc est uniuersitatem co[n]centus [...] ", (Plinius Secundus, [1250](), fol. 22r).
+>" [...] Ita. vii. Tonos effici. qua[m] Diapason harmoniam uocant. hoc est uniuersitatem co[n]centus [...] ", (Plinius Secundus, [1250](), fol. 22r).
 
->"XX. But occasionally Pythagoras draws on the Tone theory of music [...] the seven tones thus producing the so-called diapason, i.e. a universal harmony […] ", (Rackham, [1967](), p. 227 ff.).
+>" [...] the seven tones thus producing the so-called diapason, i.e. a universal harmony […] ", (Rackham, [1967](), p. 227 ff.).
 
 
 Table 4. Distance values for *tone* (cum, rounded), *Saturn moons* IV-VIII and *Jupiter moons* II,IV ($10^3km$).
