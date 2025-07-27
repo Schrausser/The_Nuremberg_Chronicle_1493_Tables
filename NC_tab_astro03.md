@@ -1,6 +1,6 @@
 # NC_tab_astro03.md
 
-Table 1. *Distance* values for *Solar System* objects in *tones* (s. Plinius Secundus [1250](https://gallica.bnf.fr/ark:/12148/btv1b550140045/); de Beauvais, [1264](https://digi.vatlib.it/view/MSS_Arch.Cap.S.Pietro.A.40)), and the models of Velho *VL* (Velho, [1568](http://catalogue.bnf.fr/ark:/12148/cb416166390)), Ptolemy *PT* (Goldstein, [1967](https://doi.org/10.2307/1006040)) and the actual model *AS* Williams, [2025](https://nssdc.gsfc.nasa.gov/planetary/planetfact.html)). 
+Table 1. *Distance* values for *Solar System* objects in *tones* (s. Plinius Secundus [1250](https://gallica.bnf.fr/ark:/12148/btv1b550140045/); de Beauvais, [1264](https://digi.vatlib.it/view/MSS_Arch.Cap.S.Pietro.A.40)), and the models of Velho *VL* (Velho, [1568](http://catalogue.bnf.fr/ark:/12148/cb416166390)), Ptolemy *PT* (Goldstein, [1967](https://doi.org/10.2307/1006040)) and the actual model *AS* Williams, [2025](https://nssdc.gsfc.nasa.gov/planetary/planetfact.html)), $n=7$. 
 ~~~
 				y=dist 10³km		
 Object		x=tone		PT		VL		AS
@@ -46,12 +46,12 @@ cub	a	3072,65		3008,57		68346,22
 	det%	99,34		99,86		98,18
 ~~~
 
-Table 3. *Predicted distance* values ($y'$, $10^3km$) ​​by regression *type*.
+Table 3. *Predicted distance* values ($y'$, $10^3km$) ​​by regression *type*,  $n=7$.
 ~~~
 				y' reg								diff								ratio			
 	x=tone	y=dist		lin		exp		quad		cub		lin		exp		quad		cub		lin		exp		quad		cub
 
-PT1,0	306,144		-14630,95	470,00		8503,79		-260,78		-14937,09	163,86		8197,65		-566,93		-47,791		1,535		27,777		-1,852
+PT	1,0	306,144		-14630,95	470,00		8503,79		-260,78		-14937,09	163,86		8197,65		-566,93		-47,791		1,535		27,777		-1,852
 	1,5	733,470		-4341,78	869,00		-1999,38	2594,99		-5075,25	135,53		-2732,85	1861,52		-5,920		1,185		-2,726		2,538
 	2,0	3970,305	5947,39		1606,70		-7258,69	2439,81		1977,09		-2363,61	-11228,99	-1530,50	1,498		0,405		-1,828		-0,385
 	3,5	7717,380	36814,90	10155,13	8426,65		6953,34		29097,52	2437,75		709,27		-764,04		4,770		1,316		1,092		-0,099
@@ -82,23 +82,23 @@ AM																				-52,465		2,918		59,065		-13,991
 SD																				131,781		5,008		143,034		34,604
 ~~~
 
-Table 4. 
+Table 4. *Distance* values for *Solar System* objects in *tones* (s. Plinius Secundus [1250](https://gallica.bnf.fr/ark:/12148/btv1b550140045/); de Beauvais, [1264](https://digi.vatlib.it/view/MSS_Arch.Cap.S.Pietro.A.40)), and the models of Velho *VL* (Velho, [1568](http://catalogue.bnf.fr/ark:/12148/cb416166390)), Ptolemy *PT* (Goldstein, [1967](https://doi.org/10.2307/1006040)) and the actual model *AS* Williams, [2025](https://nssdc.gsfc.nasa.gov/planetary/planetfact.html)), $n=8$.
 ~~~
-			x=dist 10³km		
-Object		y=tone	PT		VL		AS
+				x=dist 10³km		
+Object		y=tone		PT		VL		AS
 
-Moon		1,0	306,144		344,093		384,400
-Mercury		1,5	733,470		895,538		57909,000
-Venus		2,0	3970,305	4974,750	108210,000
-Earth		3,5	7717,380	6627,225	149598,000
-Mars		4,5	32145,120	34430,550	227956,000
-Jupiter		5,0	73372,551	65894,813	778479,000
-Saturn		5,5	108591,830	104737,880	1432041,000
-Uranus¹		7,0	127560,000	212 577,75	2867043,000
+Moon		1,0		306,144		344,093		384,400
+Mercury		1,5		733,470		895,538		57909,000
+Venus		2,0		3970,305	4974,750	108210,000
+Earth		3,5		7717,380	6627,225	149598,000
+Mars		4,5		32145,120	34430,550	227956,000
+Jupiter		5,0		73372,551	65894,813	778479,000
+Saturn		5,5		108591,830	104737,880	1432041,000
+Uranus¹		7,0		127560,000	212 577,75	2867043,000
 ~~~
 ¹) PT, *stars of first magnitude*; VL, *firmamento*.
 
-Table 5. *Trigonometric* regression coeff. of *Solar System* $x$ distances with *tone*.
+Table 5. *Trigonometric* regression coeff. of *Solar System* $x$ distances with *tone*, $n=8$
 ~~~
 Reg		PT		VL		AS
 
@@ -108,21 +108,21 @@ trig	a	n.		n.		3,32
 	d					4,38
 ~~~
 
-Table 6. *Predicted distance* values ($y'$, $10^3km$) ​​from *trigonometric* regression.
+Table 6. *Predicted distance* values ($y'$, $10^3km$) ​​from *trigonometric* regression, $n=8$.
 ~~~
 			y' reg		
-	x=dist	y=tone	trig	diff	ratio
+	x=dist		y=tone	trig	diff	ratio
 
-AS	384,4	1,0	1,2	0,20	1,200
-	57909	1,5	1,7	0,16	1,105
-	108210	2,0	2,3	0,29	1,143
-	149598	3,5	2,9	-0,57	0,837
-	227956	4,5	4,3	-0,18	0,961
-	778479	5,0	4,7	-0,30	0,940
-	1432041	5,5	5,7	0,16	1,029
-	2867043	7,0	7,2	0,25	1,036
-AM					1,031|
-SD					0,110
+AS	384,4		1,0	1,2	0,20	1,200
+	57909		1,5	1,7	0,16	1,105
+	108210		2,0	2,3	0,29	1,143
+	149598		3,5	2,9	-0,57	0,837
+	227956		4,5	4,3	-0,18	0,961
+	778479		5,0	4,7	-0,30	0,940
+	1432041		5,5	5,7	0,16	1,029
+	2867043		7,0	7,2	0,25	1,036
+AM						1,031|
+SD						0,110
 ~~~
 
 Figure 1. *Trigonometric* regression of actual *Solar System* $x$ distances with *tones*, where $tone=y=3,32\cdot \sin(-0.0000056\cdot x+10,71)+4,38$.
