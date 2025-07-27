@@ -1,5 +1,7 @@
 # NC_tab_astro02.md
 
+>"As the eyes, said I, seem formed for studying astronomy, so do the ears seem formed for harmonious motions: and these seem to be twin sciences to one another, as also the Pythagoreans say.", (Davis et al., [1901](), p. 252).
+
 Table 1. Distances of Solar System objects from the Sun in semimajor axis $10^3 km$ and Galactical objects¹ from the core in approx. light years $ly$, $10^{12} km$, with ratios in comparison.
 ~~~
 Solar System		Galaxy*								
@@ -77,6 +79,89 @@ ly	 	108 210 	16 439 	 	4 550,27 	15 716,48 	-11888,23	-722,02		0,277		0,956
 	 	1 986 747 	1 432 041 	1 444 462,867 	 1 403 654,08 	12421,87	-28386,92	1,009		0,980
 	AM													1,005|		1,031
 	SD													0,105		0,229
+~~~
+
+
+Table 4. Distance values for tone (cum, rounded), Saturn moons IV-VIII and Jupiter moons II,IV ($10^3km$).
+~~~
+			tone							
+dist			step	cum	int	Moon		Sat	Jup	dist 10³km
+
+terram ad lunam		1,0	1,0	1	Dione		IV		377,40
+luna ad mercurium	0,5	1,5	2	Rhea		V		527,04
+ad venerem		0,5	2,0	2	Europa			II	671,1
+ad solem		1,5	3,5	4	Titan		VI		1221,87
+ad martem		1,0	4,5	5	Hyperion	VII		1500,93
+ad iovem		0,5	5,0	5	Callisto		IV	1882,7
+ad saturnum		0,5	5,5	6					
+ad signiferum		1,5	7,0	7	Iapetus		VIII		3560,85
+~~~
+
+Table 5. Regression coefficients (a-e), correlation $r$ and determination coefficient $det\\%$ for linear- ($y=a\cdot x+b$), exponential- ($y=b*e^{a\cdot x}$), cubic- ($y=a\cdot x^3+b\cdot x^2+c\cdot x+d$) and quartic regression (y=ax⁴+bx³+cx²+dx+e) of (1) Saturn moons IV-VIII ($y$, $10^3km$) by tone_a and tone_b ($x$, $n=5$) and (2) Saturn moons IV-VIII and Jupiter moons II,IV ($y$, $10^3km$) by tone_c ($x$, $n=7$).
+~~~
+Tone		lin		exp		cub		quart
+
+tone_a	a	501,527		0,372		18,241		12,799
+	b	-468,185	256,710		-125,274	-175,767
+	c	-		-		495,935		848,323
+	d	-		-		-40,372		-1356,949
+	e	-		-		-		1048,993
+
+	r	0,938		0,998		-		-
+	r²	0,881		0,995		0,996		1,000
+	det%	88,068		99,510		99,591		100,000
+
+tone_b	a	509,205		0,365		21,055		7,410
+	b	-344,601	294,110		-184,171	-89,818
+	c	-		-		808,159		367,348
+	d	-		-		-296,293	-252,665
+	e	-		-		-		345,124
+
+	r	0,967		0,994		-		-
+	r²	0,936		0,987		0,999		1,000
+	det%	93,572		98,734		99,914		100,000
+
+tone_c	a	492,276		0,361		13,523		1,597
+	b	-331,267	303,109		-94,615		-10,845
+	c	-		-		518,878		29,254
+	d	-		-		-73,814		276,800
+	e	-		-		-		75,973
+
+	r	0,965		0,994		-		-
+	r²	0,932		0,987		0,998		0,999
+	det%	93,171		98,713		99,842		99,850
+~~~
+
+Table 6. Predicted distance values ($y'$, $10^3km$) ​​by regression type (linear, $y=a\cdot x+b$; exponential, $y=b\cdot e^{a\cdot x}$; cubic, $y=a\cdot x^3+b\cdot x^2+c\cdot x+d$; quartic, $y=a\cdot x^4+b\cdot x^3+c\cdot x^2+d\cdot x+e$) to tone (a, b, c) $x$.
+~~~
+				y', reg					diff					ratio			
+Tone	x	y=dist		lin	exp	cub	quart		lin	exp	cub	quart		lin	exp	cub	quart
+
+tone_a	1	377,40		33,34	372,39	348,53	377,39		-344,06	-5,01	-28,87	-0,01		0,088	0,987	0,924	1,000
+	2	527,04		534,87	540,20	596,33	527,01		7,83	13,16	69,29	-0,03		1,015	1,025	1,131	1,000
+	4	1221,87		1537,92	1136,77	1106,41	1221,83		316,05	-85,10	-115,46	-0,04		1,259	0,930	0,906	1,000
+	5	1500,93		2039,45	1649,04	1587,58	1500,99		538,52	148,11	86,65	0,06		1,359	1,099	1,058	1,000
+	7	3560,85		3042,50	3470,13	3549,41	3561,71		-518,35	-90,72	-11,44	0,86		0,854	0,975	0,997	1,000
+	AM													0,915	1,003	1,003	1,000
+	SD													0,450	0,057	0,084	0,000
+
+tone_b	1	377,40		164,60	423,67	348,75	377,40		-212,80	46,27	-28,65	0,00		0,436	1,123	0,924	1,000
+	1,5	527,04		419,21	508,49	572,62	527,04		-107,83	-18,55	45,58	0,00		0,795	0,965	1,086	1,000
+	3,5	1221,87		1437,62	1055,17	1178,90	1221,83		215,75	-166,70	-42,97	-0,04		1,177	0,864	0,965	1,000
+	4,5	1500,93		1946,82	1519,98	1529,60	1500,83		445,89	19,05	28,67	-0,10		1,297	1,013	1,019	1,000
+	7	3560,85		3219,83	3785,58	3558,31	3560,36		-341,02	224,73	-2,54	-0,49		0,904	1,063	0,999	1,000
+	AM													0,922	1,005	0,999	1,000
+	SD													0,303	0,088	0,054	0,000
+
+tone_c	1	377,40		161,01	435,02	363,97	372,78		-216,39	57,62	-13,43	-4,62		0,427	1,153	0,964	0,988
+	1,5	527,04		407,15	521,15	537,26	528,48		-119,89	-5,89	10,22	1,44		0,773	0,989	1,019	1,003
+	2	671,1		653,28	624,34	693,67	685,38		-17,82	-46,76	22,57	14,28		0,973	0,930	1,034	1,021
+	3,5	1221,87		1391,70	1073,46	1163,05	1177,80		169,83	-148,41	-58,82	-44,07		1,139	0,879	0,952	0,964
+	4,5	1500,93		1883,97	1540,62	1577,52	1580,59		383,04	39,69	76,59	79,66		1,255	1,026	1,051	1,053
+	5	1882,7		2130,11	1845,66	1845,65	1833,82		247,41	-37,04	-37,05	-48,88		1,131	0,980	0,980	0,974
+	7	3560,85		3114,66	3801,66	3560,78	3561,58		-446,19	240,81	-0,07	0,73		0,875	1,068	1,000	1,000
+	AM													0,939	1,004	1,000	1,000
+	SD													0,260	0,083	0,034	0,028
 ~~~
 
 ## References
