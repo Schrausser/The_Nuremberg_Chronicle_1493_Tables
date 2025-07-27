@@ -14,7 +14,7 @@ Jupiter		5,0		73372,551	65894,813	778479,000
 Saturn		5,5		108591,830	104737,880	1432041,000
 ~~~
 
-Table 2. Linear- ($y=a\cdot x+b$), exponential- ($y=b\cdot e^{a\cdot x}$), quadratic- ($y=a\cdot x^2+b\cdot x+c$) and cubic regression ($y=a\cdot x^3+b\cdot x^2+c\cdot x+d$) for Solar System dist. $y$ ($10^3km$) by tone $x$, $n=7$.
+Table 2. Linear- ($y=a\cdot x+b$), exponential- ($y=b\cdot e^{a\cdot x}$), quadratic- ($y=a\cdot x^2+b\cdot x+c$) and cubic regression ($y=a\cdot x^3+b\cdot x^2+c\cdot x+d$) for *Solar System* dist. $y$ ($10^3km$) with *tone* $x$, $n=7$.
 ~~~
 Reg		ptolemy		velho		act
 
@@ -46,7 +46,7 @@ cub	a	3072,65		3008,57		68346,22
 	det%	99,34		99,86		98,18
 ~~~
 
-Table 3. Predicted distance values ($y'$, $10^3km$) ​​by regression type.
+Table 3. *Predicted distance* values ($y'$, $10^3km$) ​​by regression *type*.
 ~~~
 				y' reg								diff								ratio			
 	x=tone	y=dist		lin		exp		quad		cub		lin		exp		quad		cub		lin		exp		quad		cub
@@ -130,7 +130,7 @@ AM					1,031|
 SD					0,110
 ~~~
 
-Figure 1. Trigonometric regression $tone=y=3,32\cdot \sin(-0.0000056\cdot x+10,71)+4,38$.
+Figure 1. *Trigonometric* regression of actual *Solar System* $x$ distances with *tones*, where $tone=y=3,32\cdot \sin(-0.0000056\cdot x+10,71)+4,38$.
 
 ![figure.\label{figa0301}](figa0301.jpg)
 
