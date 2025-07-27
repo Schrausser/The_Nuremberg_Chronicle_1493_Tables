@@ -2,7 +2,7 @@
 
 >"As the eyes, said I, seem formed for studying astronomy, so do the ears seem formed for harmonious motions: and these seem to be twin sciences to one another, as also the Pythagoreans say; and we too [...] agree with them [...]", (Book VII, chap. XII of Plato's Republic, the Allegory of the Cave, Davis et al., [1901](), p. 252).
 
-Table 1. Distances of Solar System objects from the Sun in semimajor axis $10^3 km$ and Galactical objects¹ from the core in approx. light years $ly$, $10^{12} km$, with ratios in comparison.
+Table 1. Distances of *Solar System* objects from the Sun in semimajor axis $10^3 km$ and *Galactical objects*¹ from the core in approx. light years $ly$, $10^{12} km$, with ratios in comparison.
 ~~~
 Solar System		Galaxy*								
 dist. from		dist. from		ly					
@@ -37,7 +37,7 @@ ly	a	78777,790	1,255E-05	-1,118E-07	3,899E-05
 	det%	98,88|		98,88|		99,99		99,21
 ~~~
 
-Table 3. Predicted distance values ($y'$, $ly$, $10^{12}km$, $10^3km$) ​​by regression type (logarithmic, $y=a\cdot\log(x)+b$; exponential $y=b\cdot e^{a\cdot x}$; quadratic, $y=a\cdot x^2+b\cdot x+c$).
+Table 3. *Predicted distance* values ($y'$, $ly$, $10^{12}km$, $10^3km$) ​​by regression type (logarithmic, $y=a\cdot\log(x)+b$; exponential $y=b\cdot e^{a\cdot x}$; quadratic, $y=a\cdot x^2+b\cdot x+c$).
 ~~~
 						y', reg				diff				ratio	
 		x=solsys	y=gal		log		quad		log		quad		log		quad
@@ -81,7 +81,7 @@ ly	 	108 210 	16 439 	 	4 550,27 	15 716,48 	-11888,23	-722,02		0,277		0,956
 	SD													0,105		0,229
 ~~~
 
-Figure 1. The distances of Solar System objects $y$ are $98.88\\%$ exponentially predictable from the distances of the Galactical objects $x$, $solsyst=y=103493,58\cdot e^{0,00001\cdot x}$.
+Figure 1. The distances of *Solar System* objects $y$ are $98.88\\%$ *exponentially* predictable from the distances of the *Galactical* objects $x$, $solsyst=y=103493,58\cdot e^{0,00001\cdot x}$.
 
 ![figure.\label{figa0201}](figa0201.jpg)
 
@@ -90,7 +90,7 @@ Figure 1. The distances of Solar System objects $y$ are $98.88\\%$ exponentially
 >"XX. But occasionally Pythagoras draws on the Tone theory of music [...] the seven tones thus producing the so-called diapason, i.e. a universal harmony […] ", (Rackham, [1967](), p. 227 ff.).
 
 
-Table 4. Distance values for tone (cum, rounded), Saturn moons IV-VIII and Jupiter moons II,IV ($10^3km$).
+Table 4. Distance values for *tone* (cum, rounded), *Saturn moons* IV-VIII and *Jupiter moons* II,IV ($10^3km$).
 ~~~
 			tone							
 dist			step	cum	int	Moon		Sat	Jup	dist 10³km
@@ -105,7 +105,7 @@ ad saturnum		0,5	5,5	6
 ad signiferum		1,5	7,0	7	Iapetus		VIII		3560,85
 ~~~
 
-Table 5. Regression coefficients (a-e), correlation $r$ and determination coefficient $det\\%$ for linear- ($y=a\cdot x+b$), exponential- ($y=b\cdot e^{a\cdot x}$), cubic- ($y=a\cdot x^3+b\cdot x^2+c\cdot x+d$) and quartic regression ($y=a\cdot x^4+b\cdot x^3+c\cdot x^2+d\cdot x+e$) of (1) Saturn moons IV-VIII ($y$, $10^3km$) by tone_a and tone_b ($x$, $n=5$) and (2) Saturn moons IV-VIII and Jupiter moons II,IV ($y$, $10^3km$) by tone_c ($x$, $n=7$).
+Table 5. Regression coefficients (a-e), correlation $r$ and determination coefficient $det\\%$ for linear- ($y=a\cdot x+b$), exponential- ($y=b\cdot e^{a\cdot x}$), cubic- ($y=a\cdot x^3+b\cdot x^2+c\cdot x+d$) and quartic regression ($y=a\cdot x^4+b\cdot x^3+c\cdot x^2+d\cdot x+e$) of (1) *Saturn moons* IV-VIII ($y$, $10^3km$) by *tone_a* and *tone_b* ($x$, $n=5$) and (2) *Saturn moons* IV-VIII and *Jupiter moons* II,IV ($y$, $10^3km$) by *tone_c* ($x$, $n=7$).
 ~~~
 Tone		lin		exp		cub		quart
 
@@ -140,7 +140,7 @@ tone_c	a	492,276		0,361		13,523		1,597
 	det%	93,171		98,713|		99,842		99,850
 ~~~
 
-Table 6. Predicted distance values ($y'$, $10^3km$) ​​by regression type (linear, $y=a\cdot x+b$; exponential, $y=b\cdot e^{a\cdot x}$; cubic, $y=a\cdot x^3+b\cdot x^2+c\cdot x+d$; quartic, $y=a\cdot x^4+b\cdot x^3+c\cdot x^2+d\cdot x+e$) to tone (a, b, c) $x$.
+Table 6. *Predicted distance* values ($y'$, $10^3km$) ​​by regression type (linear, $y=a\cdot x+b$; exponential, $y=b\cdot e^{a\cdot x}$; cubic, $y=a\cdot x^3+b\cdot x^2+c\cdot x+d$; quartic, $y=a\cdot x^4+b\cdot x^3+c\cdot x^2+d\cdot x+e$) to tone (a, b, c) $x$.
 ~~~
 				y', reg					diff					ratio			
 Tone	x	y=dist		lin	exp	cub	quart		lin	exp	cub	quart		lin	exp	cub	quart
@@ -172,26 +172,8 @@ tone_c	1	377,40		161,01	435,02	363,97	372,78		-216,39	57,62	-13,43	-4,62		0,427	
 	SD													0,260	0,083	0,034	0,028
 ~~~
 
-Figure 2. The distances of (1) Saturn moons IV-VIII  $y$ are $99.51\\%$ and $98.73\\%$ exponentially predictable from the tones $x$ and the distances of Saturn moons IV-VIII and (2) Jupiter moons II,IV $y$ are $98.71\\%$ exponentially predictable from the tones $x$.
+Figure 2. The distances of (1) *Saturn moons* IV-VIII  $y$ are $99.51\\%$ and $98.73\\%$ *exponentially* predictable from the *tones* $x$ and the distances of *Saturn moons* IV-VIII and (2) *Jupiter moons* II,IV $y$ are $98.71\\%$ *exponentially* predictable from the *tones* $x$.
 
 ![figure.\label{figa0202}](figa0202.jpg)
 
 ## References
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
