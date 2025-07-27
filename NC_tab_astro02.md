@@ -4,7 +4,7 @@
 
 Table 1. Distances of *Solar System* objects (s. Williams, [2025b](https://nssdc.gsfc.nasa.gov/planetary/factsheet/)) from the Sun in semimajor axis $10^3 km$ and *Galactical objects*¹ from the core (s. Strasbourg astronomical Data Center, [2025](cdsweb.u-strasbg.fr/Simbad.html)) in approx. light years $ly$, $10^{12} km$, with ratios in comparison.
 ~~~
-Solar System		Galaxy*								
+Solar System		Galaxy								
 dist. from		dist. from		ly					
 Sun	10³km		Core	M	NGC	min	max	AM		10¹²km		ratio	1/ratio
 
