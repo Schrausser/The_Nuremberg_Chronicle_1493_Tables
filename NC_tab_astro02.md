@@ -85,7 +85,7 @@ Figure 1. The distances of *Solar System* objects $y$ are $98.88\\%$ *exponentia
 
 ![figure.\label{figa0201}](figa0201.jpg)
 
->" [...] Ita. vii. Tonos effici. qua[m] Diapason harmoniam uocant. hoc est uniuersitatem co[n]centus [...] ", (Plinius Secundus, [1250](https://gallica.bnf.fr/ark:/12148/btv1b550140045/)), fol. 22r).
+>" [...] Ita. vii. Tonos effici. qua[m] Diapason harmoniam uocant. hoc est uniuersitatem co[n]centus [...] ", (Plinius Secundus, [1250](https://gallica.bnf.fr/ark:/12148/btv1b550140045/), fol. 22r).
 
 >" [...] the seven tones thus producing the so-called diapason, i.e. a universal harmony […] ", (Rackham, [1967](https://archive.org/details/naturalhistory01plinuoft/), p. 227 ff.).
 
