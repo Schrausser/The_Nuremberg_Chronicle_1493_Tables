@@ -1,8 +1,8 @@
 # NC_tab_astro02.md
 
->"As the eyes, said I, seem formed for studying astronomy, so do the ears seem formed for harmonious motions: and these seem to be twin sciences to one another, as also the Pythagoreans say; and we too [...] agree with them [...]", (Book VII, chap. XII of Plato's Republic, the Allegory of the Cave, Davis et al., [1901](), p. 252).
+>"As the eyes, said I, seem formed for studying astronomy, so do the ears seem formed for harmonious motions: and these seem to be twin sciences to one another, as also the Pythagoreans say; and we too [...] agree with them [...]", (Book VII, chap. XII of Plato's Republic, the Allegory of the Cave, Davis et al., [1901](https://archive.org/details/republicstatesma00plat_0/), p. 252).
 
-Table 1. Distances of *Solar System* objects from the Sun in semimajor axis $10^3 km$ and *Galactical objects*¹ from the core in approx. light years $ly$, $10^{12} km$, with ratios in comparison.
+Table 1. Distances of *Solar System* objects (s. Williams, [2025b](https://nssdc.gsfc.nasa.gov/planetary/factsheet/)) from the Sun in semimajor axis $10^3 km$ and *Galactical objects*¹ from the core (s. Strasbourg astronomical Data Center, [2025](cdsweb.u-strasbg.fr/Simbad.html)) in approx. light years $ly$, $10^{12} km$, with ratios in comparison.
 ~~~
 Solar System		Galaxy*								
 dist. from		dist. from		ly					
@@ -85,12 +85,12 @@ Figure 1. The distances of *Solar System* objects $y$ are $98.88\\%$ *exponentia
 
 ![figure.\label{figa0201}](figa0201.jpg)
 
->" [...] Ita. vii. Tonos effici. qua[m] Diapason harmoniam uocant. hoc est uniuersitatem co[n]centus [...] ", (Plinius Secundus, [1250](), fol. 22r).
+>" [...] Ita. vii. Tonos effici. qua[m] Diapason harmoniam uocant. hoc est uniuersitatem co[n]centus [...] ", (Plinius Secundus, [1250](https://gallica.bnf.fr/ark:/12148/btv1b550140045/)), fol. 22r).
 
->" [...] the seven tones thus producing the so-called diapason, i.e. a universal harmony […] ", (Rackham, [1967](), p. 227 ff.).
+>" [...] the seven tones thus producing the so-called diapason, i.e. a universal harmony […] ", (Rackham, [1967](https://archive.org/details/naturalhistory01plinuoft/), p. 227 ff.).
 
 
-Table 4. Distance values for *tone* (cum, rounded), *Saturn moons* IV-VIII and *Jupiter moons* II,IV ($10^3km$).
+Table 4. Distance values for *tone* (cum, rounded), *Saturn moons* IV-VIII and *Jupiter moons* II,IV ($10^3km$; c.f. Williams, [2025a](https://nssdc.gsfc.nasa.gov/planetary/factsheet/joviansatfact.html), [c](https://nssdc.gsfc.nasa.gov/planetary/factsheet/saturniansatfact.html)).
 ~~~
 			tone							
 dist			step	cum	int	Moon		Sat	Jup	dist 10³km
@@ -177,3 +177,38 @@ Figure 2. The distances of (1) *Saturn moons* IV-VIII  $y$ are $99.51\\%$ and $9
 ![figure.\label{figa0202}](figa0202.jpg)
 
 ## References
+
+Davis, H., Burges, G., & Rooker, G. Z. (1901). *The Republic: The Statesman of Plato*. London & New York: M. Walter Dunne. [https://archive.org/details/republicstatesma00plat_0/](https://archive.org/details/republicstatesma00plat_0/)
+
+Plinius Secundus, G. (1250). *Plinius Secundus Major, Historia Naturalis. Liber Trigesimus Septimus Manu Recentiore Suppletus Est*. Latin 6797. Paris: Bibliothèque nationale de France. [https://gallica.bnf.fr/ark:/12148/btv1b550140045/](https://gallica.bnf.fr/ark:/12148/btv1b550140045/)
+
+Rackham, H. (1967). *Pliny Natural History in Ten Volumes*. Vol. 1. Cambridge, Massachusetts: Harvard University Press. [https://archive.org/details/naturalhistory01plinuoft/](https://archive.org/details/naturalhistory01plinuoft/)
+
+Strasbourg astronomical Data Center. (2025). *SIMBAD, Set of Identifications, Measurements and Bibliography for Astronomical Data*. CDS. STRASBOURG, France. [cdsweb.u-strasbg.fr/Simbad.html](http://cdsweb.u-strasbg.fr/Simbad.html)
+
+Williams, D. R. (2025a). *Jovian Satellite Fact Sheet*. NASA Goddard Space Flight Center. [https://nssdc.gsfc.nasa.gov/planetary/factsheet/joviansatfact.html](https://nssdc.gsfc.nasa.gov/planetary/factsheet/joviansatfact.html)
+
+———. (2025b). *Planetary Fact Sheet*. NASA Goddard Space Flight Center.
+[https://nssdc.gsfc.nasa.gov/planetary/factsheet/](https://nssdc.gsfc.nasa.gov/planetary/factsheet/)
+
+———. (2025c). *Saturnian Satellite Fact Sheet*. NASA Goddard Space Flight Center. [https://nssdc.gsfc.nasa.gov/planetary/factsheet/saturniansatfact.html](https://nssdc.gsfc.nasa.gov/planetary/factsheet/saturniansatfact.html)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
