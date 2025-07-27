@@ -130,6 +130,11 @@ AM					1,031|
 SD					0,110
 ~~~
 
+Figure 1. $Tone=y=3,32\cdot \sin(-0.0000056\cdot x+10,71)+4,38$.
+
+![figure.\label{figa0301}](figa0301.jpg)
+
+
 >"MAius quo scitur q[ue] terra s[ecundu]m sensum qua[n]tu[m] ad spaciu[m] q[uo]d peruenit a centro totius ad orbe[m] stellaru[m] fixaru[m] sit sicut punctum: est q[ue] magnitudines quantitatum stellaru[m]: [et] intervallor[um] que inter eas existunt: videntur in omnibus plagis celi vbicu[m]q[ue] terraru[m] in eadem bora equales [et] similes. que[m]admodum inuenimus considerationes que sunt in diuersis climatibus non diuersas neq[ue] in aliquo decipientes.", (Ptolemæus, [1515](), fol. 4r).
 
 >" […] the earth has […] the ratio of a point to the distance of […] the fixed stars. A strong indication of this is the fact that the sizes and distances of the stars […] appear equal and the same from all parts of the earth everywhere, [...] ", (Toomer, [1984](), p. 43).
