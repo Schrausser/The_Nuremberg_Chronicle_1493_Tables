@@ -82,6 +82,54 @@ AM																				-52,465		2,918		59,065		-13,991
 SD																				131,781		5,008		143,034		34,604
 ~~~
 
+Table 4. 
+~~~
+			x=dist 10³km		
+Object		y=tone	ptolemy		velho		act
+
+Moon		1,0	306,144		344,093		384,400
+Mercury		1,5	733,470		895,538		57909,000
+Venus		2,0	3970,305	4974,750	108210,000
+Earth		3,5	7717,380	6627,225	149598,000
+Mars		4,5	32145,120	34430,550	227956,000
+Jupiter		5,0	73372,551	65894,813	778479,000
+Saturn		5,5	108591,830	104737,880	1432041,000
+Uranus¹		7,0	127560,000	212 577,75	2867043,000
+~~~
+¹) Pt, stars of first magnitude; vel, firmamento.
+
+Table 5.
+~~~
+Reg		ptolemy		velho		act
+
+trig	a	n.		n.		3,32
+	b					-5,56178E-06
+	c					10,71
+	d					4,38
+
+lin	a			
+	b			
+	r			
+	det%			
+~~~
+
+Table 6.
+~~~
+			y' reg		
+	x=dist	y=tone	trig	diff	ratio
+
+act	384,4	1,0	1,2	0,20	1,200
+	57909	1,5	1,7	0,16	1,105
+	108210	2,0	2,3	0,29	1,143
+	149598	3,5	2,9	-0,57	0,837
+	227956	4,5	4,3	-0,18	0,961
+	778479	5,0	4,7	-0,30	0,940
+	1432041	5,5	5,7	0,16	1,029
+	2867043	7,0	7,2	0,25	1,036
+AM					1,031|
+SD					0,110
+~~~
+
 >"MAius quo scitur q[ue] terra s[ecundu]m sensum qua[n]tu[m] ad spaciu[m] q[uo]d peruenit a centro totius ad orbe[m] stellaru[m] fixaru[m] sit sicut punctum: est q[ue] magnitudines quantitatum stellaru[m]: [et] intervallor[um] que inter eas existunt: videntur in omnibus plagis celi vbicu[m]q[ue] terraru[m] in eadem bora equales [et] similes. que[m]admodum inuenimus considerationes que sunt in diuersis climatibus non diuersas neq[ue] in aliquo decipientes.", (Ptolemæus, [1515](), fol. 4r).
 
 >" […] the earth has […] the ratio of a point to the distance of […] the fixed stars. A strong indication of this is the fact that the sizes and distances of the stars […] appear equal and the same from all parts of the earth everywhere, [...] ", (Toomer, [1984](), p. 43).
