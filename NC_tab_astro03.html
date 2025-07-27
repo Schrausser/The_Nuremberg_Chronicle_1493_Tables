@@ -17,7 +17,7 @@ a:visited {color: #78909c;}
 img {max-width: 50%;}
 </style>
 <h1 id="nc_tab_astro03md">NC_tab_astro03.md</h1>
-<p>Table 1. <em>Distance</em> values for <em>Solar System</em> objects in <em>tones</em> (s. Plinius Secundus, <a href="https://gallica.bnf.fr/ark:/12148/btv1b550140045/">1250</a>; de Beauvais, <a href="https://digi.vatlib.it/view/MSS_Arch.Cap.S.Pietro.A.40">1264</a>) and the models of Velho <em>VL</em> (Velho, <a href="http://catalogue.bnf.fr/ark:/12148/cb416166390">1568</a>), Ptolemy <em>PT</em> (Goldstein, <a href="https://doi.org/10.2307/1006040">1967</a>) and the actual model <em>AS</em> Williams, <a href="https://nssdc.gsfc.nasa.gov/planetary/planetfact.html">2025</a>), $n=7$.</p>
+<p>Table 1. <em>Distance</em> values for <em>Solar System</em> objects in <em>tones</em> (s. Plinius Secundus, <a href="https://gallica.bnf.fr/ark:/12148/btv1b550140045/">1250</a>; de Beauvais, <a href="https://digi.vatlib.it/view/MSS_Arch.Cap.S.Pietro.A.40">1264</a>) and the models of Velho <em>VL</em> (Velho, <a href="http://catalogue.bnf.fr/ark:/12148/cb416166390">1568</a>), Ptolemy <em>PT</em> (Goldstein, <a href="https://doi.org/10.2307/1006040">1967</a>) and the actual model <em>AS</em> Williams, <a href="https://nssdc.gsfc.nasa.gov/planetary/planetfact.html">2025</a>), <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mi>n</mi><mo>=</mo><mn>7</mn></math>.</p>
 <pre><code>				y=dist 10³km		
 Object		x=tone		PT		VL		AS
 
@@ -29,7 +29,7 @@ Mars		4,5		32145,120	34430,550	227956,000
 Jupiter		5,0		73372,551	65894,813	778479,000
 Saturn		5,5		108591,830	104737,880	1432041,000
 </code></pre>
-<p>Table 2. Linear- ($y=a\cdot x+b$), exponential- ($y=b\cdot e^{a\cdot x}$), quadratic- ($y=a\cdot x^2+b\cdot x+c$) and cubic regression ($y=a\cdot x^3+b\cdot x^2+c\cdot x+d$) for <em>Solar System</em> dist. $y$ ($10^3km$) with <em>tone</em> $x$, $n=7$.</p>
+<p>Table 2. Linear- (<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mi>y</mi><mo>=</mo><mi>a</mi><mo>&middot;</mo><mi>x</mi><mo>+</mo><mi>b</mi></math>), exponential- (<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mi>y</mi><mo>=</mo><mi>b</mi><mo>&middot;</mo><msup><mo>e</mo><mrow data-mjx-texclass="ORD"><mi>a</mi><mo>&middot;</mo><mi>x</mi></mrow></msup></math>), quadratic- (<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mi>y</mi><mo>=</mo><mi>a</mi><mo>&middot;</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mi>b</mi><mo>&middot;</mo><mi>x</mi><mo>+</mo><mi>c</mi></math>) and cubic regression (<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mi>y</mi><mo>=</mo><mi>a</mi><mo>&middot;</mo><msup><mi>x</mi><mn>3</mn></msup><mo>+</mo><mi>b</mi><mo>&middot;</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mi>c</mi><mo>&middot;</mo><mi>x</mi><mo>+</mo><mi>d</mi></math>) for <em>Solar System</em> dist. <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mi>y</mi></math> (<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><msup><mn>10</mn><mn>3</mn></msup><mi>k</mi><mi>m</mi></math>) with <em>tone</em> <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mi>x</mi></math>, <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mi>n</mi><mo>=</mo><mn>7</mn></math>.</p>
 <pre><code>Reg		PT		VL		AS
 
 lin	a	20578,34	19524,29	235268,41
@@ -59,7 +59,7 @@ cub	a	3072,65		3008,57		68346,22
 	r²	0,99		1,00		0,98
 	det%	99,34		99,86		98,18
 </code></pre>
-<p>Table 3. <em>Predicted distance</em> values ($y'$, $10^3km$) ​​by regression <em>type</em>,  $n=7$.</p>
+<p>Table 3. <em>Predicted distance</em> values (<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><msup><mi>y</mi><mo data-mjx-alternate="1">′</mo></msup></math>, <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><msup><mn>10</mn><mn>3</mn></msup><mi>k</mi><mi>m</mi></math>) ​​by regression <em>type</em>,  <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mi>n</mi><mo>=</mo><mn>7</mn></math>.</p>
 <pre><code>				y' reg								diff								ratio			
 	x=tone	y=dist		lin		exp		quad		cub		lin		exp		quad		cub		lin		exp		quad		cub
 
@@ -93,7 +93,7 @@ AS	1,0	384,400		-144245,31	5807,64		157381,16	-37573,24	-144629,71	5423,24		1569
 AM																				-52,465		2,918		59,065		-13,991
 SD																				131,781		5,008		143,034		34,604
 </code></pre>
-<p>Table 4. <em>Distance</em> values for <em>Solar System</em> objects in <em>tones</em> (s. Plinius Secundus <a href="https://gallica.bnf.fr/ark:/12148/btv1b550140045/">1250</a>; de Beauvais, <a href="https://digi.vatlib.it/view/MSS_Arch.Cap.S.Pietro.A.40">1264</a>), and the models of Velho <em>VL</em> (Velho, <a href="http://catalogue.bnf.fr/ark:/12148/cb416166390">1568</a>), Ptolemy <em>PT</em> (Goldstein, <a href="https://doi.org/10.2307/1006040">1967</a>) and the actual model <em>AS</em> Williams, <a href="https://nssdc.gsfc.nasa.gov/planetary/planetfact.html">2025</a>), $n=8$.</p>
+<p>Table 4. <em>Distance</em> values for <em>Solar System</em> objects in <em>tones</em> (s. Plinius Secundus <a href="https://gallica.bnf.fr/ark:/12148/btv1b550140045/">1250</a>; de Beauvais, <a href="https://digi.vatlib.it/view/MSS_Arch.Cap.S.Pietro.A.40">1264</a>), and the models of Velho <em>VL</em> (Velho, <a href="http://catalogue.bnf.fr/ark:/12148/cb416166390">1568</a>), Ptolemy <em>PT</em> (Goldstein, <a href="https://doi.org/10.2307/1006040">1967</a>) and the actual model <em>AS</em> Williams, <a href="https://nssdc.gsfc.nasa.gov/planetary/planetfact.html">2025</a>), <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mi>n</mi><mo>=</mo><mn>8</mn></math>.</p>
 <pre><code>				x=dist 10³km		
 Object		y=tone		PT		VL		AS
 
@@ -107,7 +107,7 @@ Saturn		5,5		108591,830	104737,880	1432041,000
 Uranus¹		7,0		127560,000	212 577,75	2867043,000
 </code></pre>
 <p>¹) PT, <em>stars of first magnitude</em>; VL, <em>firmamento</em>.</p>
-<p>Table 5. <em>Trigonometric</em> regression coeff. of <em>Solar System</em> distances $x$ with <em>tone</em> $y$, $n=8$</p>
+<p>Table 5. <em>Trigonometric</em> regression coeff. of <em>Solar System</em> distances <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mi>x</mi></math> with <em>tone</em> <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mi>y</mi></math>, <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mi>n</mi><mo>=</mo><mn>8</mn></math></p>
 <pre><code>Reg		PT		VL		AS
 
 trig	a	n.		n.		3,32
@@ -115,7 +115,7 @@ trig	a	n.		n.		3,32
 	c					10,71
 	d					4,38
 </code></pre>
-<p>Table 6. <em>Predicted distance</em> values ($y'$, $10^3km$) ​​from <em>trigonometric</em> regression, $n=8$.</p>
+<p>Table 6. <em>Predicted distance</em> values (<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><msup><mi>y</mi><mo data-mjx-alternate="1">′</mo></msup></math>, <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><msup><mn>10</mn><mn>3</mn></msup><mi>k</mi><mi>m</mi></math>) ​​from <em>trigonometric</em> regression, <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mi>n</mi><mo>=</mo><mn>8</mn></math>.</p>
 <pre><code>				y' reg		
 	x=dist	y=tone		trig	diff	ratio
 
@@ -130,7 +130,7 @@ AS	384,4	1,0		1,2	0,20	1,200
 AM						1,031|
 SD						0,110
 </code></pre>
-<p>Figure 1. <em>Trigonometric</em> regression of actual <em>Solar System</em> distances $x$ with <em>tones</em>, where $tone=y=3,32\cdot \sin(-0.0000056\cdot x+10,71)+4,38$.</p>
+<p>Figure 1. <em>Trigonometric</em> regression of actual <em>Solar System</em> distances <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mi>x</mi></math> with <em>tones</em>, where <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><mi>t</mi><mi>o</mi><mi>n</mi><mi>e</mi><mo>=</mo><mi>y</mi><mo>=</mo><mn>3.32</mn><mo>&middot;</mo><mo>sin</mo><mo data-mjx-texclass="NONE">⁡</mo><mo stretchy="false">(</mo><mo>&minus;</mo><mn>0.0000056</mn><mo>&middot;</mo><mi>x</mi><mo>+</mo><mn>10.71</mn><mo stretchy="false">)</mo><mo>+</mo><mn>4.38</mn></math>.</p>
 <p><img src="figa0301.jpg" alt="figure.\label{figa0301}" /></p>
 <blockquote>
 <p>&quot;MAius quo scitur q[ue] terra s[ecundu]m sensum qua[n]tu[m] ad spaciu[m] q[uo]d peruenit a centro totius ad orbe[m] stellaru[m] fixaru[m] sit sicut punctum: est q[ue] magnitudines quantitatum stellaru[m]: [et] intervallor[um] que inter eas existunt: videntur in omnibus plagis celi vbicu[m]q[ue] terraru[m] in eadem bora equales [et] similes. que[m]admodum inuenimus considerationes que sunt in diuersis climatibus non diuersas neq[ue] in aliquo decipientes.&quot;, (Ptolemæus, <a href="https://doi.org/10.3931/e-rara-206">1515</a>, fol. 4r).</p>
