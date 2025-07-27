@@ -172,4 +172,26 @@ tone_c	1	377,40		161,01	435,02	363,97	372,78		-216,39	57,62	-13,43	-4,62		0,427	
 	SD													0,260	0,083	0,034	0,028
 ~~~
 
+Figure 2. The distances of (1) Saturn moons IV-VIII  $y$ are $99.51\\%$ and $98.73\\%$ exponentially predictable from the tones $x$ and the distances of Saturn moons IV-VIII and (2) Jupiter moons II,IV $y$ are $98.71\\%$ exponentially predictable from the tones $x$.
+
+![figure.\label{figa0202}](figa0202.jpg)
+
 ## References
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
