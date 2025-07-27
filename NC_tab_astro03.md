@@ -1,6 +1,6 @@
 # NC_tab_astro03.md
 
-Table 1. *Distance* values for *Solar System* objects in *tones* (s. Plinius Secundus [1250](https://gallica.bnf.fr/ark:/12148/btv1b550140045/); de Beauvais, [1264](https://digi.vatlib.it/view/MSS_Arch.Cap.S.Pietro.A.40)), and the models of Velho *VL* (Velho, [1568](http://catalogue.bnf.fr/ark:/12148/cb416166390)), Ptolemy *PT* (Goldstein, [1967](https://doi.org/10.2307/1006040)) and the actual model *AS* Williams, [2025](https://nssdc.gsfc.nasa.gov/planetary/planetfact.html)), $n=7$. 
+Table 1. *Distance* values for *Solar System* objects in *tones* (s. Plinius Secundus, [1250](https://gallica.bnf.fr/ark:/12148/btv1b550140045/); de Beauvais, [1264](https://digi.vatlib.it/view/MSS_Arch.Cap.S.Pietro.A.40)), and the models of Velho *VL* (Velho, [1568](http://catalogue.bnf.fr/ark:/12148/cb416166390)), Ptolemy *PT* (Goldstein, [1967](https://doi.org/10.2307/1006040)) and the actual model *AS* Williams, [2025](https://nssdc.gsfc.nasa.gov/planetary/planetfact.html)), $n=7$. 
 ~~~
 				y=dist 10³km		
 Object		x=tone		PT		VL		AS
