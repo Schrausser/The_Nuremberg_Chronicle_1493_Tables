@@ -81,7 +81,8 @@ ly	 	108 210 	16 439 	 	4 550,27 	15 716,48 	-11888,23	-722,02		0,277		0,956
 	SD													0,105		0,229
 ~~~
 
-Figure 1. The distances of Solar System objects $y$ are $98.88\\%$ exponentially predictable from the distances of the Galactical objects $x$, $solsyst=y=103493,58\cdot e^{0,00001}$
+Figure 1. The distances of Solar System objects $y$ are $98.88\\%$ exponentially predictable from the distances of the Galactical objects $x$, $solsyst=y=103493,58\cdot e^{0,00001}$.
+
 ![figure.\label{figa0201}](figa0201.jpg)
 
 >" [...] Sed Pythagoras interdum ex musica r[ati]one appellat Tonum [...] Ita. vii. Tonos effici. qua[m] Diapason harmoniam uocant. hoc est uniuersitatem co[n]centus [...] ", (Plinius Secundus, [1250](), fol. 22r).
