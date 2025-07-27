@@ -1,6 +1,6 @@
 # NC_tab_astro02.md
 
->"As the eyes, said I, seem formed for studying astronomy, so do the ears seem formed for harmonious motions: and these seem to be twin sciences to one another, as also the Pythagoreans say; and we too [...] agree with them [...]", (Book VII, chap. XII of Plato's Republic, the Allegory of the Cave, Davis et al., [1901](https://archive.org/details/republicstatesma00plat_0/), p. 252).
+>"As the eyes, said I, seem formed for studying astronomy, so do the ears seem formed for harmonious motions: and these seem to be twin sciences to one another, as also the Pythagoreans say; and we too [...] agree with them [...]", (Book VII, chap. XII of *Plato's Republic, the Allegory of the Cave*, Davis et al., [1901](https://archive.org/details/republicstatesma00plat_0/), p. 252).
 
 Table 1. Distances of *Solar System* objects (s. Williams, [2025b](https://nssdc.gsfc.nasa.gov/planetary/factsheet/)) from the Sun in semimajor axis $10^3 km$ and *Galactical objects*¹ from the core (s. Strasbourg astronomical Data Center, [2025](cdsweb.u-strasbg.fr/Simbad.html)) in approx. light years $ly$, $10^{12} km$, with ratios in comparison.
 ~~~
