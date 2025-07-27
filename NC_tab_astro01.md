@@ -1,4 +1,4 @@
-# NC_tab_astro.md
+# NC_tab_astro01.md
 
 >"Sed Pythagoras interdum ex musica r[ati]one appellat Tonum:", (Plinius Secundus, [1250](https://gallica.bnf.fr/ark:/12148/btv1b550140045/), Fol. 22r, [1470](https://doi.org/10.3931/e-rara-74199), Lib. II).
 
