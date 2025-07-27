@@ -98,7 +98,7 @@ Uranus¹		7,0		127560,000	212 577,75	2867043,000
 ~~~
 ¹) PT, *stars of first magnitude*; VL, *firmamento*.
 
-Table 5. *Trigonometric* regression coeff. of *Solar System* $x$ distances with *tone*, $n=8$
+Table 5. *Trigonometric* regression coeff. of *Solar System* distances $x$ with *tone* $y$, $n=8$
 ~~~
 Reg		PT		VL		AS
 
@@ -110,22 +110,22 @@ trig	a	n.		n.		3,32
 
 Table 6. *Predicted distance* values ($y'$, $10^3km$) ​​from *trigonometric* regression, $n=8$.
 ~~~
-			y' reg		
-	x=dist		y=tone	trig	diff	ratio
+				y' reg		
+	x=dist	y=tone		trig	diff	ratio
 
-AS	384,4		1,0	1,2	0,20	1,200
-	57909		1,5	1,7	0,16	1,105
-	108210		2,0	2,3	0,29	1,143
-	149598		3,5	2,9	-0,57	0,837
-	227956		4,5	4,3	-0,18	0,961
-	778479		5,0	4,7	-0,30	0,940
-	1432041		5,5	5,7	0,16	1,029
-	2867043		7,0	7,2	0,25	1,036
+AS	384,4	1,0		1,2	0,20	1,200
+	57909	1,5		1,7	0,16	1,105
+	108210	2,0		2,3	0,29	1,143
+	149598	3,5		2,9	-0,57	0,837
+	227956	4,5		4,3	-0,18	0,961
+	778479	5,0		4,7	-0,30	0,940
+	1432041	5,5		5,7	0,16	1,029
+	2867043	7,0		7,2	0,25	1,036
 AM						1,031|
 SD						0,110
 ~~~
 
-Figure 1. *Trigonometric* regression of actual *Solar System* $x$ distances with *tones*, where $tone=y=3,32\cdot \sin(-0.0000056\cdot x+10,71)+4,38$.
+Figure 1. *Trigonometric* regression of actual *Solar System* distances $x$ with *tones*, where $tone=y=3,32\cdot \sin(-0.0000056\cdot x+10,71)+4,38$.
 
 ![figure.\label{figa0301}](figa0301.jpg)
 
@@ -156,21 +156,3 @@ Velho, B. (1568). *Principio da verdadeira cosmographia ... per Bartholomeu Velh
 
 Williams, D. R. (2025). *Planetary Fact Sheet*. NASA Goddard Space Flight Center.
 [https://nssdc.gsfc.nasa.gov/planetary/factsheet/](https://nssdc.gsfc.nasa.gov/planetary/factsheet/)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
