@@ -104,7 +104,7 @@ ad saturnum		0,5	5,5	6
 ad signiferum		1,5	7,0	7	Iapetus		VIII		3560,85
 ~~~
 
-Table 5. Regression coefficients (a-e), correlation $r$ and determination coefficient $det\\%$ for linear- ($y=a\cdot x+b$), exponential- ($y=b\cdot e^{a\cdot x}$), cubic- ($y=a\cdot x^3+b\cdot x^2+c\cdot x+d$) and quartic regression (y=ax⁴+bx³+cx²+dx+e) of (1) Saturn moons IV-VIII ($y$, $10^3km$) by tone_a and tone_b ($x$, $n=5$) and (2) Saturn moons IV-VIII and Jupiter moons II,IV ($y$, $10^3km$) by tone_c ($x$, $n=7$).
+Table 5. Regression coefficients (a-e), correlation $r$ and determination coefficient $det\\%$ for linear- ($y=a\cdot x+b$), exponential- ($y=b\cdot e^{a\cdot x}$), cubic- ($y=a\cdot x^3+b\cdot x^2+c\cdot x+d$) and quartic regression ($y=a\cdot x^4+b\cdot x^3+c\cdot x^2+d\cdot x+e$) of (1) Saturn moons IV-VIII ($y$, $10^3km$) by tone_a and tone_b ($x$, $n=5$) and (2) Saturn moons IV-VIII and Jupiter moons II,IV ($y$, $10^3km$) by tone_c ($x$, $n=7$).
 ~~~
 Tone		lin		exp		cub		quart
 
