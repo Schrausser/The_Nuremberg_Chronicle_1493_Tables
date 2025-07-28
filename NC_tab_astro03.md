@@ -82,7 +82,7 @@ AM																				-52,465		2,918		59,065		-13,991
 SD																				131,781		5,008		143,034		34,604
 ~~~
 
-Table 4. *Distance* values for *Solar System* objects in *tones* (s. Plinius Secundus [1250](https://gallica.bnf.fr/ark:/12148/btv1b550140045/); de Beauvais, [1264](https://digi.vatlib.it/view/MSS_Arch.Cap.S.Pietro.A.40)), and the models of Velho *VL* (Velho, [1568](http://catalogue.bnf.fr/ark:/12148/cb416166390)), Ptolemy *PT* (Goldstein, [1967](https://doi.org/10.2307/1006040)) and the actual model *AS* Williams, [2025](https://nssdc.gsfc.nasa.gov/planetary/planetfact.html)), $n=8$.
+Table 4. *Distance* values for *Solar System* objects in *tones* (s. Plinius Secundus [1250](https://gallica.bnf.fr/ark:/12148/btv1b550140045/); de Beauvais, [1264](https://digi.vatlib.it/view/MSS_Arch.Cap.S.Pietro.A.40)), and the models of Velho *VL* (Velho, [1568](http://catalogue.bnf.fr/ark:/12148/cb416166390)), Ptolemy *PT* (Goldstein, [1967](https://doi.org/10.2307/1006040)) and the actual model *AS* (Williams, [2025](https://nssdc.gsfc.nasa.gov/planetary/planetfact.html)), $n=8$.
 ~~~
 				x=dist 10³km		
 Object		y=tone		PT		VL		AS
