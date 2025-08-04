@@ -4,7 +4,7 @@
 
 >"But occasionally Pythagoras draws on the Tone theory of music [...] ", (Rackham, [1967](https://archive.org/details/naturalhistory01plinuoft/), p. 227 ff.).
 
-Table 1. Astronomical parameters in *tones* and *miles, miliaria* from the *Speculum Naturale* (de Beauvais, [1264](https://digi.vatlib.it/view/MSS_Arch.Cap.S.Pietro.A.40), [1476](https://nbn-resolving.org/urn:nbn:de:hbz:061:1-592809), [1494](https://books.google.com/books?id=v9yKk_tdhusC), [1964](https://nbn-resolving.org/urn:nbn:de:hbz:061:1-20729)). As Basis see the *Historia Naturalis* of Plinius Secundus ([1250](https://gallica.bnf.fr/ark:/12148/btv1b550140045/), [1455](https://digi.vatlib.it/view/MSS_Vat.lat.1957),  [1470](https://doi.org/10.3931/e-rara-74199), [1496](https://doi.org/10.3931/e-rara-84393)) where he refers to *musica universalis* as concept that regards *proportions* in the movements of celestial bodies as a form of music, originating in *Pythagoreanism* (c.f. Kircher, [1650](https://doi.org/10.3931/e-rara-26092); Torrellas, [1999](http://www.jstor.org/stable/40694499); Mathiesen, [2002](https://doi.org/10.1017/CHOL9780521623711); Hermann, [2004](https://books.google.com/books?id=KeYPAQAAIAAJ)).
+Table 1. Astronomical parameters in *tones* (s. Fig. 1) and *miles, miliaria* from the *Speculum Naturale* (de Beauvais, [1264](https://digi.vatlib.it/view/MSS_Arch.Cap.S.Pietro.A.40), [1476](https://nbn-resolving.org/urn:nbn:de:hbz:061:1-592809), [1494](https://books.google.com/books?id=v9yKk_tdhusC), [1964](https://nbn-resolving.org/urn:nbn:de:hbz:061:1-20729)). As Basis see the *Historia Naturalis* of Plinius Secundus ([1250](https://gallica.bnf.fr/ark:/12148/btv1b550140045/), [1455](https://digi.vatlib.it/view/MSS_Vat.lat.1957),  [1470](https://doi.org/10.3931/e-rara-74199), [1496](https://doi.org/10.3931/e-rara-84393)) where he refers to *musica universalis* as concept that regards *proportions* in the movements of celestial bodies as a form of music, originating in *Pythagoreanism* (c.f. Kircher, [1650](https://doi.org/10.3931/e-rara-26092); Torrellas, [1999](http://www.jstor.org/stable/40694499); Mathiesen, [2002](https://doi.org/10.1017/CHOL9780521623711); Hermann, [2004](https://books.google.com/books?id=KeYPAQAAIAAJ)).
 ~~~
 			tonus	cum	 miliaria	 cum
 
@@ -185,7 +185,7 @@ zu saturnus		2,0E+06
 zum firmament		2,5E+06		3,6E+06		1,42	Iapetus (Saturn VIII)
 ~~~
 
-Table 8. *Comparison* between distance values $tonus$  and rounded values $rd$ in tones from the *Speculum Naturale* (de Beauvais, [1264](https://digi.vatlib.it/view/MSS_Arch.Cap.S.Pietro.A.40), [1476](https://nbn-resolving.org/urn:nbn:de:hbz:061:1-592809)) with *Jupiter* and *Saturn moons* in ascending order (c.f. Williams, [2025a](https://nssdc.gsfc.nasa.gov/planetary/factsheet/joviansatfact.html), [b](https://nssdc.gsfc.nasa.gov/planetary/factsheet/saturniansatfact.html)).
+Table 8. *Comparison* between distance values $tonus$ and rounded values $rd$ in tones from the *Speculum Naturale* (de Beauvais, [1264](https://digi.vatlib.it/view/MSS_Arch.Cap.S.Pietro.A.40), [1476](https://nbn-resolving.org/urn:nbn:de:hbz:061:1-592809)) with *Jupiter* and *Saturn moons* in ascending order (c.f. Williams, [2025a](https://nssdc.gsfc.nasa.gov/planetary/factsheet/joviansatfact.html), [b](https://nssdc.gsfc.nasa.gov/planetary/factsheet/saturniansatfact.html)).
 ~~~
 			tonus 	cum	rd	object		Saturn	Jupiter
 
@@ -199,6 +199,8 @@ ad iovem		0,5	5,0	5	Callisto		IV
 ad saturnum		0,5	5,5	6			
 ad signiferum		1,5	7,0	7	Iapetus		VIII
 ~~~
+
+Figure 1. Animated schematic representation of the illustrations from the *Nuremberg Chronicle*, fol. IIv to IIIIr (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024)), where a *white circle* indicates *one tone*, a *white circle* together with a *red circle* indicates *half a tone*.
 
 ![figure.\label{mov1}](mov1.gif)
 
