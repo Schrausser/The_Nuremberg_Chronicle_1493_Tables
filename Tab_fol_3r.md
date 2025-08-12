@@ -2,9 +2,9 @@
 
 ## De opera secunde diei.
 
->" Fecit e[ni]m deus firmamentum rotundum mobile cetera sensibilia continens.", (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024), fol. IIIr).
+>"Fecit e[ni]m deus firmamentum rotundum mobile cetera sensibilia continens.", (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024), fol. IIIr).
 
->" Got hat das firmament gescheibelt. beweglich. andere empfintliche dig begreiffende gemacht.", (Schedel and Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), bl. IIIr, [1496](https://doi.org/10.3931/e-rara-69075), fol. 3v).
+>"Got hat das firmament gescheibelt. beweglich. andere empfintliche dig begreiffende gemacht.", (Schedel and Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), bl. IIIr, [1496](https://doi.org/10.3931/e-rara-69075), fol. 3v).
 
 >"God divided the firmament and made it movable; and he made other sensitive things comprehensible.", (Hadavas, [2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J), p. 4).
 
