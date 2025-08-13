@@ -45,7 +45,7 @@ See further in this context Plinius ([1250](https://gallica.bnf.fr/ark:/12148/bt
 
 Hadavas, K. (2023). *First English edition of the Nuremberg chronicle : being the Liber chronicarum of Dr. Hartmann Schedel*. Edited by Hadavas, K. UW–Madison TEI edition. Madison, Wisconsin: University of Wisconsin–Madison Libraries. [https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J)
 
-McCartney E. S. (1930). Greek and Roman Weather Lore of Winds. *The Classical Weekly 24* (2), 11–16. [http://www.jstor.org/stable/4389493](http://www.jstor.org/stable/4389493)
+McCartney,,, E. S. (1930). Greek and Roman Weather Lore of Winds. *The Classical Weekly 24* (2), 11–16. [http://www.jstor.org/stable/4389493](http://www.jstor.org/stable/4389493)
 
 Miller, F. P., Vandome, A. F., & McBrewster, J. (2010). *Anemoi: Greek Mythology, Wind God, Cardinal Direction, Season, Wing, Aeolus, Horse, Odysseus, Odyssey, Astraeus, Eos, Dawn, Attic Calendar, Hesiod, Ancient Greece, Theogony, Roman Mythology*, Riga: Omniscriptum Publishing Group. [https://books.google.com/books?id=LCYlQwAACAAJ](https://books.google.com/books?id=LCYlQwAACAAJ)
 
@@ -55,7 +55,7 @@ Neuser, K. (1982). *Anemoi: Studien zur Darstellung der Winde und Windgottheiten
 
 Plinius Secundus, G. (1250). *Plinius Secundus Major, Historia naturalis. Liber trigesimus septimus manu recentiore suppletus est (Latin 6797)*. Paris: Bibliothèque nationale de France.  [https://gallica.bnf.fr/ark:/12148/btv1b550140045/](https://gallica.bnf.fr/ark:/12148/btv1b550140045/)
 
-Plinius Secundus, G. (1470). *Historia naturalis*. Impressum Rome: magistris Conrado Sweynheym & Arnoldo Panaratz. [https://doi.org/10.3931/e-rara-74199](https://doi.org/10.3931/e-rara-74199)
+———. (1470). *Historia naturalis*. Impressum Rome: magistris Conrado Sweynheym & Arnoldo Panaratz. [https://doi.org/10.3931/e-rara-74199](https://doi.org/10.3931/e-rara-74199)
 
 Rackham, H. (1967). Pliny Natural History In Ten Volumes. Cambridge, Massachusetts: Harvard University Press. [https://archive.org/details/naturalhistory01plinuoft/](https://archive.org/details/naturalhistory01plinuoft/)
 
