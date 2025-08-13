@@ -6,7 +6,7 @@ A clear description is given of the *nature* and *origin* of evil:
 
 >"Er hat in anfa[n]g die engel, aller creatur die erste[n] gemacht [...] doch ist in etliche[n] die einpildung göttliches sta[m]mens nit blibe[n], sunder sie sind aus aigner verkerung vo[m] gůtten zum ubel getretten vn[d] zu **teüfeln** worde[n].", (Schedel and Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), [1496](https://doi.org/10.3931/e-rara-69075), bl. IIr).
 
->"Of all beings he first created the angels [...] but some of them did not retain the conception of their divine origin, and through their own errors deserted good for evil, and became **devils**.", (Hadavas, [2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J), p. ).
+>"Of all beings he first created the angels [...] but some of them did not retain the conception of their divine origin, and through their own errors deserted good for evil, and became **devils**.", (Hadavas, [2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J), p. 3).
 
 And further:
 
@@ -14,7 +14,7 @@ And further:
 
 >"Der luft hat [...] drey underschied [...] aber in dem mitteln underschid [...] ist kelt und tunckelheit darinn sollen wonen die **teüfel** die in diesen tunckeln luft verstössen sind. Daselbst werde[n] auch ungestümigkeit als donerschleg hagel schne vnd der gleich.", (Schedel and Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), [1496](https://doi.org/10.3931/e-rara-69075), bl. VIr).
 
->"The air [...] has three distinct parts [...] But the middle part [...] is cold and dark, and therein are said to reside the **devils**, who have been banished to this dark atmosphere. Therein are also to be found such elemental disturbances as thunderclaps, hail, snow and the like.", (Hadavas, [2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J), p. ).
+>"The air [...] has three distinct parts [...] But the middle part [...] is cold and dark, and therein are said to reside the **devils**, who have been banished to this dark atmosphere. Therein are also to be found such elemental disturbances as thunderclaps, hail, snow and the like.", (Hadavas, [2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J), p. 10).
 
 Finally:
 
@@ -22,7 +22,7 @@ Finally:
 
 >" [...] in de[n] englischen orden [...] Die mittel ierarchey helt herschengel fürstengel gewaltengel [...] die dritten zwinge[n] der **teüfel** macht [...] der herr [...] wird [...] gehalte[n] als das hail.", (Schedel and Alt, [1493](), [1496](https://doi.org/10.3931/e-rara-69075), bl. VIr).
 
->"The celestial consists of the angelic orders [..]  The middle hierarchy embraces the Dominations, Principalities and Powers [...] the third restrain the powers of the **Devil** [...] the Lord [...] is considered as the salvation.", (Hadavas, [2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J), p. ).
+>"The celestial consists of the angelic orders [..]  The middle hierarchy embraces the Dominations, Principalities and Powers [...] the third restrain the powers of the **Devil** [...] the Lord [...] is considered as the salvation.", (Hadavas, [2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J), p. 10).
 
 For the *Epicurus paradox* as the incompatibility of evil with an omniscient omnipotent and benevolent God see e.g. Walker ([1982](http://www.jstor.org/stable/43247256)) or Burns ([1988](http://www.jstor.org/stable/40015076)), further de Witt ([1932](http://www.jstor.org/stable/283212), [1954](http://www.jstor.org/stable/10.5749/j.cttts81p)), Wasserstein ([1978](http://www.jstor.org/stable/4476074)) or Inwood ([1981](http://www.jstor.org/stable/270296)).
 
