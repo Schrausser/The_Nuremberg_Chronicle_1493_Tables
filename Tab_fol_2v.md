@@ -27,7 +27,7 @@ See in this context *De iis, quæ in sublimi cernuntur* and *De Mundo* in the pr
 
 >Dew is pure moisture falling out from *the ether*, the thinnest substance diffusion, of natural warmth and radiance - *the original light*. Air shares warmth and condenses luminosity from the Ether.
 
-Table 2. Creation of the four cardinal directions
+Table 2. Creation of the four cardinal directions.
 ~~~
 Latin			ENHG		Engl. tr .
 
