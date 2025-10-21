@@ -120,7 +120,7 @@ Mela, P. (1477). *[O]rbis situm dicere aggredior impeditu[m] opus & facundiae mi
 
 ———. (1518). *Pomponii Melae Hispani Libri De Sitv orbis tres, adiectis Ioachimi Vadiani Heluetii in eosdem Scholiis ...: Cum indice summatim omnia complectẽte*. Impressvs Est Pomponivs Viennæ Pannoniæ: Expensis Lvcae Alantse Civis Et Bibliopolæ Viennensis, PER Ioannem Singrenivm EX Oeting Baioariæ. [https://doi.org/10.3931/e-rara-70186](https://doi.org/10.3931/e-rara-70186)
 
-Neugebauer, O. (1959). Ptolemy’s Geography, Book VII, Chapters 6 and 7. *Isis, 50*(1), 22–29. [http://www.jstor.org/stable/226535](http://www.jstor.org/stable/226535)
+Neugebauer, O. (1959). Ptolemy’s Geography, Book VII, Chapters 6 and 7. *Isis, 50*(1), 22–9. [http://www.jstor.org/stable/226535](http://www.jstor.org/stable/226535)
 
 Platina, B. (1481). *Vitae Pontificum*. Nuremberge: Antonius Koberger. [https://archive.org/details/vitaepontificum00plat](https://archive.org/details/vitaepontificum00plat)
 
