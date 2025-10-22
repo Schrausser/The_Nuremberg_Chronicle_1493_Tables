@@ -4,7 +4,7 @@
 
 >" [...] posuit de[us] in firmame[n]to vt lucere[n]t in celo: [et] terra[m] illuminare[n]t sole[m] videlicet luna[m] [et] stellas: quib[us] ip[s]a sup[er]ior mundi p[ar]s ornat[ur]: vti terra ornat[ur] bis q[uae] in ea fiunt metallis: pla[n]tis: a[n]i[m]antib[us].", (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024), fol. IIIIr).
 
->" [...] ding die got gesetzt hat in de[m] firmament zescheine[n] an de[m] himel. vn[d] zeerlewchte[n] d[er] erde[n]. als die sunne[n]. de[n] mo[n]d. vnd die stern. mit de[n] d[er] oberteil d[er] werlt geziert wirdt. wie die erden mit de[n] dinge[n] die in ir werde[n].", (Schedel and Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), bl. IIIIr, [1496](https://doi.org/10.3931/e-rara-69075), fol. 4v).
+>" [...] ding die got gesetzt hat in de[m] firmament zescheine[n] an de[m] himel. vn[d] zeerlewchte[n] d[er] erde[n]. als die sunne[n]. de[n] mo[n]d. vnd die stern. mit de[n] d[er] oberteil d[er] werlt geziert wirdt. wie die erden mit de[n] dinge[n] die in ir werde[n].", (Schedel & Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), bl. IIIIr, [1496](https://doi.org/10.3931/e-rara-69075), fol. 4v).
 
 >"God set in the firmament to shine in the heavens and to give light to the earth; as the sun, the moon and the stars with which the upper part of the world is adorned, just like the earth is adorned with the things that grow in it.", (Hadavas, [2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J), p. 5).
 
@@ -37,9 +37,8 @@ Petavius, D. (1630). VRANOLOGION sive systema variorvm authorvm. qvi de sphaera,
 
 Schedel, H. (1493). *Liber chronicarum cum figuris et ymagibus ab inicio mundi*. Nuremberge: Antonius Koberger. [https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024)
 
-Schedel, H., & Alt, G. (tr.). (1493). *Buch der Chroniken und geschichten mit figure und pildnüssen von anbegin der welt bis auf diese unsere Zeit*. Nuremberge: Antonius Koberger.
-[https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218)
+Schedel, H., & Alt, G. (tr.). (1493). *Buch der Chroniken und geschichten mit figure und pildnüssen von anbegin der welt bis auf diese unsere Zeit*. Nuremberge: Antonius Koberger. [https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218)
 
 ———. (1496). *Das buch Der croniken unnd geschichten mit figuren und pildnussen von Anbeginn der welt bis auff diese unsere Zeyt*. Augsburg: Johann Schönsperger. [https://doi.org/10.3931/e-rara-69075](https://doi.org/10.3931/e-rara-69075)
 
-Schrausser, D. G. (2024). Schrausser/Uranologion-Tables: 1.0. Zenodo. [https://doi.org/10.5281/zenodo.10691681](https://doi.org/10.5281/zenodo.10691681)
+Schrausser, D. G. (2024). Schrausser/Uranologion-Tables: 1.0. Zenodo. [https://doi.org/10.5281/zenodo.10691681](https://doi.org/10.5281/zenodo.10691681)

@@ -6,7 +6,7 @@
 
 >"COrporalis mundi machina tota consistit in duobus. scilicet in natura celesti: et in natura elementari.", (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024), fol. VIr).
 
->"DAs ga[n]tz leiplich geschöpff der werlt steet in zwayen dinge[n]. Ne[m]lich in hi[m]lischer vnd in elementischer natur.", (Schedel and Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), bl. VIr, [1496](https://doi.org/10.3931/e-rara-69075), fol. 6r).
+>"DAs ga[n]tz leiplich geschöpff der werlt steet in zwayen dinge[n]. Ne[m]lich in hi[m]lischer vnd in elementischer natur.", (Schedel & Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), bl. VIr, [1496](https://doi.org/10.3931/e-rara-69075), fol. 6r).
 
 >"The entire corporeal creation of the world consists of two things, namely, the celestial (ethereal) and the elementary natures (regions)", (Hadavas, [2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J), p. 10).
 
@@ -81,7 +81,7 @@ Heaven of the Trinity	celestial	fiery
 
 >"Distantia predictorum orbium et planetarum hec est.", (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024), fol. VIr).
 
->"Mercke auch von gelegenheit der vorgenante[n] umbkrais vn[d] planeten", (Schedel and Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), bl. VIr, [1496](https://doi.org/10.3931/e-rara-69075), fol. 6r).
+>"Mercke auch von gelegenheit der vorgenante[n] umbkrais vn[d] planeten", (Schedel & Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), bl. VIr, [1496](https://doi.org/10.3931/e-rara-69075), fol. 6r).
 
 >"Note also that the distance [...]", (Hadavas, [2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J), p. 10).
 
@@ -129,7 +129,7 @@ Saturn to Stars	 	23 436
 
 >"DE celesti vero natura triplicem quidam posuere distinct[i]onem. scilicet sup[er]naturalem. id est sup[er]celestem. celestem [et] subcelestem.", (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024), fol. VIr).
 
->"ABer von der himlischen natur haben etlich dreierley underschid gesetzt als ein überhi[m]lische. ein himlische vn[d] ein undehi[m]lische.", (Schedel and Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), bl. VIr, [1496](https://doi.org/10.3931/e-rara-69075), fol. 6r).
+>"ABer von der himlischen natur haben etlich dreierley underschid gesetzt als ein überhi[m]lische. ein himlische vn[d] ein undehi[m]lische.", (Schedel & Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), bl. VIr, [1496](https://doi.org/10.3931/e-rara-69075), fol. 6r).
 
 >"In the celestial nature some have made three classifications: super-celestial, celestial, and sub-celestial.", (Hadavas, [2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J), p. 10).
 
@@ -185,7 +185,7 @@ sub-celestial	holy persons (saints)
 
 >"MUndi etates accipiunt[ur] similitudinarie iuxta etates homis:", (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024), fol. VIr).
 
->"DEr werlt alter werde[n] in gleichnus weisgenommen nach d[er] mensche[n] alter.", (Schedel and Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), bl. VIr, [1496](https://doi.org/10.3931/e-rara-69075), fol. 6v).
+>"DEr werlt alter werde[n] in gleichnus weisgenommen nach d[er] mensche[n] alter.", (Schedel & Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), bl. VIr, [1496](https://doi.org/10.3931/e-rara-69075), fol. 6v).
 
 >"The Ages of the World are analogous to the ages of man.", (Hadavas, [2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J), p. 10).
 
@@ -218,12 +218,11 @@ VI	80			decrepita		das verlebt		the spent age
 
 ## References
 
-Corderius, B. (1644). *Sancti Dionysii Areopagitae Operum Omnium Quae Extant, Et Commentariorum Quibus Illustrantur* ... Lutetiae Parisorum: Apud Laurentium Cottereau.
-[https://books.google.com/books?id=SzyAVTu3RI0C](https://books.google.com/books?id=SzyAVTu3RI0C)
+Corderius, B. (1644). *Sancti Dionysii Areopagitae Operum Omnium Quae Extant, Et Commentariorum Quibus Illustrantur* ... Lutetiae Parisorum: Apud Laurentium Cottereau. [https://books.google.com/books?id=SzyAVTu3RI0C](https://books.google.com/books?id=SzyAVTu3RI0C)
 
 De Beauvais, V. (1264). *Speculi naturalis pars II*. Arch. Cap. S. Pietro. A. 40. Vatican: Biblioteca Apostolica Vaticana. [https://digi.vatlib.it/view/MSS_Arch.Cap.S.Pietro.A.40](https://digi.vatlib.it/view/MSS_Arch.Cap.S.Pietro.A.40)
 
-———. (1476). *Speculum naturale*. Düsseldorf: Universitäts- und Landesbibliothek. [https://nbn-resolving.org/urn:nbn:de:hbz:061:1-592809](https://nbn-resolving.org/urn:nbn:de:hbz:061:1-592809)
+———. (1476). *Speculum naturale*. Düsseldorf: Universitäts- und Landesbibliothek. [https://nbn-resolving.org/urn:nbn:de:hbz:061:1-592809](https://nbn-resolving.org/urn:nbn:de:hbz:061:1-592809)
 
 Dionysius. (1350). *De Caelesti Hierarchia*. MS Gr 2. Oxford, Magdalen College: Oxford Digital Library. [https://digital.bodleian.ox.ac.uk/objects/ee19a692-5066-4c84-95db-d93c4fc82b97/](https://digital.bodleian.ox.ac.uk/objects/ee19a692-5066-4c84-95db-d93c4fc82b97/)
 
@@ -231,16 +230,15 @@ Ficinus, M. (1503). *Opera Dionysii Veteris Et Nove Translationis Etiam Novissim
 
 Hadavas, K. (2023). *First English edition of the Nuremberg chronicle : being the Liber chronicarum of Dr. Hartmann Schedel*. Edited by Hadavas, K. UW–Madison TEI edition. Madison, Wisconsin: University of Wisconsin–Madison Libraries. [https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J)
 
-Petavius, D. (1630). *VRANOLOGION sive systema variorvm authorvm. qvi de sphaera, ac sideribvs, eorvmove motibvs Graece commentati sunt*. LVTETIAE PARISIORVM: Sumptibus Sebastiani Cramoisy, via Iacobaea, sub Ciconiis. M. DC. XXX. CVM PRIVILEGIO REGIS CHRISTIANISS. [https://doi.org/10.3931/e-rara-2004](https://doi.org/10.3931/e-rara-2004)
+Petavius, D. (1630). *VRANOLOGION sive systema variorvm authorvm. qvi de sphaera, ac sideribvs, eorvmove motibvs Graece commentati sunt*. LVTETIAE PARISIORVM: Sumptibus Sebastiani Cramoisy, via Iacobaea, sub Ciconiis. M. DC. XXX. CVM PRIVILEGIO REGIS CHRISTIANISS. [https://doi.org/10.3931/e-rara-2004](https://doi.org/10.3931/e-rara-2004)
 
-Plinius Secundus, G. (1250). *Plinius Secundus Major, Historia Naturalis. Liber Trigesimus Septimus Manu Recentiore Suppletus Est*. Latin 6797. Paris: Bibliothèque nationale de France. [https://gallica.bnf.fr/ark:/12148/btv1b550140045/](https://gallica.bnf.fr/ark:/12148/btv1b550140045/)
+Plinius Secundus, G. (1250). *Plinius Secundus Major, Historia Naturalis. Liber Trigesimus Septimus Manu Recentiore Suppletus Est*. Latin 6797. Paris: Bibliothèque nationale de France. [https://gallica.bnf.fr/ark:/12148/btv1b550140045/](https://gallica.bnf.fr/ark:/12148/btv1b550140045/)
 
-———. (1470). *Historia naturalis*. Impressum Rome: magistris Conrado Sweynheym & Arnoldo Panaratz. [https://doi.org/10.3931/e-rara-74199](https://doi.org/10.3931/e-rara-74199)
+———. (1470). *Historia naturalis*. Impressum Rome: magistris Conrado Sweynheym & Arnoldo Panaratz. [https://doi.org/10.3931/e-rara-74199](https://doi.org/10.3931/e-rara-74199)
 
 Schedel, H. (1493). *Liber chronicarum cum figuris et ymagibus ab inicio mundi*. Nuremberge: Antonius Koberger. [https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024)
 
-Schedel, H., & Alt, G. (tr.). (1493). *Buch der Chroniken und geschichten mit figure und pildnüssen von anbegin der welt bis auf diese unsere Zeit*. Nuremberge: Antonius Koberger.
-[https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218)
+Schedel, H., & Alt, G. (tr.). (1493). *Buch der Chroniken und geschichten mit figure und pildnüssen von anbegin der welt bis auf diese unsere Zeit*. Nuremberge: Antonius Koberger. [https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218)
 
 ———. (1496). *Das buch Der croniken unnd geschichten mit figuren und pildnussen von Anbeginn der welt bis auff diese unsere Zeyt*. Augsburg: Johann Schönsperger. [https://doi.org/10.3931/e-rara-69075](https://doi.org/10.3931/e-rara-69075) 
 

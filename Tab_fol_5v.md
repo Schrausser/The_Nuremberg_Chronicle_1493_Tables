@@ -4,7 +4,7 @@
 
 >"Compleuit de[us] gl[or]iosus opus suu[m]: [et] requienit die septimo ab operib[us] manuum suaru[m]:", (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024), fol. Vv).
 
->" [...] do hat der glori wirdige got sein werck erfüllet vn[d] am sybende[n] tag von den wercken seiner hendt geruet.", (Schedel and Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), bl. Vv, [1496](https://doi.org/10.3931/e-rara-69075), fol. 5v).
+>" [...] do hat der glori wirdige got sein werck erfüllet vn[d] am sybende[n] tag von den wercken seiner hendt geruet.", (Schedel & Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), bl. Vv, [1496](https://doi.org/10.3931/e-rara-69075), fol. 5v).
 
 >" [...] the glorious God fulfilled his task; and on the seventh day he rested from his labors.", (Hadavas, [2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J), p. 8).
 
@@ -45,11 +45,11 @@ See further in this context Plinius ([1250](https://gallica.bnf.fr/ark:/12148/bt
 
 Hadavas, K. (2023). *First English edition of the Nuremberg chronicle : being the Liber chronicarum of Dr. Hartmann Schedel*. Edited by Hadavas, K. UW–Madison TEI edition. Madison, Wisconsin: University of Wisconsin–Madison Libraries. [https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J)
 
-McCartney,,, E. S. (1930). Greek and Roman Weather Lore of Winds. *The Classical Weekly 24* (2), 11–16. [http://www.jstor.org/stable/4389493](http://www.jstor.org/stable/4389493)
+McCartney, E. S. (1930). Greek and Roman Weather Lore of Winds. *The Classical Weekly, 24*(2), 11–6. [http://www.jstor.org/stable/4389493](http://www.jstor.org/stable/4389493)
 
 Miller, F. P., Vandome, A. F., & McBrewster, J. (2010). *Anemoi: Greek Mythology, Wind God, Cardinal Direction, Season, Wing, Aeolus, Horse, Odysseus, Odyssey, Astraeus, Eos, Dawn, Attic Calendar, Hesiod, Ancient Greece, Theogony, Roman Mythology*, Riga: Omniscriptum Publishing Group. [https://books.google.com/books?id=LCYlQwAACAAJ](https://books.google.com/books?id=LCYlQwAACAAJ)
 
-Moraux, P. (1981). Anecdota Graeca Minora II: Über die Winde. *Zeitschrift Für Papyrologie Und Epigraphik 41*, 43–58. [http://www.jstor.org/stable/20185993](http://www.jstor.org/stable/20185993)
+Moraux, P. (1981). Anecdota Graeca Minora II: Über die Winde. *Zeitschrift Für Papyrologie Und Epigraphik, 41*, 43–58. [http://www.jstor.org/stable/20185993](http://www.jstor.org/stable/20185993)
 
 Neuser, K. (1982). *Anemoi: Studien zur Darstellung der Winde und Windgottheiten in der Antike*. Rom: G. Bretschneider. [https://books.google.com/books?id=T0gcAAAAMAAJ](https://books.google.com/books?id=T0gcAAAAMAAJ)
 
@@ -61,11 +61,10 @@ Rackham, H. (1967). Pliny Natural History In Ten Volumes. Cambridge, Massachuset
 
 Schedel, H. (1493). *Liber chronicarum cum figuris et ymagibus ab inicio mundi*. Nuremberge: Antonius Koberger. [https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024)
 
-Schedel, H., & Alt, G. (tr.). (1493). *Buch der Chroniken und geschichten mit figure und pildnüssen von anbegin der welt bis auf diese unsere Zeit*. Nuremberge: Antonius Koberger.
-[https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218)
+Schedel, H., & Alt, G. (tr.). (1493). *Buch der Chroniken und geschichten mit figure und pildnüssen von anbegin der welt bis auf diese unsere Zeit*. Nuremberge: Antonius Koberger. [https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218)
 
 ———. (1496). *Das buch Der croniken unnd geschichten mit figuren und pildnussen von Anbeginn der welt bis auff diese unsere Zeyt*. Augsburg: Johann Schönsperger. [https://doi.org/10.3931/e-rara-69075](https://doi.org/10.3931/e-rara-69075)
 
-Thompson, D. W. (1918). The Greek Winds. *The Classical Review 32* (3/4), 49–56.  [http://www.jstor.org/stable/697189](http://www.jstor.org/stable/697189)
+Thompson, D. W. (1918). The Greek Winds. *The Classical Review, 32*(3/4), 49–56.  [http://www.jstor.org/stable/697189](http://www.jstor.org/stable/697189)
 
-von Raumer, K. (1837). Die Windrose der Griechen und Römer. *Rheinisches Museum Für Philologie 5*, 497–521. [http://www.jstor.org/stable/41247444](http://www.jstor.org/stable/41247444) 
+von Raumer, K. (1837). Die Windrose der Griechen und Römer. *Rheinisches Museum Für Philologie, 5*, 497–521. [http://www.jstor.org/stable/41247444](http://www.jstor.org/stable/41247444) 

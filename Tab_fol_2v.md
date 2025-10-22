@@ -4,7 +4,7 @@
 
 >"Gl[or]iosus e[ni]m de[us]. q[ui] e[st] vera lux. luce[m]q[ue] dilige[n]s. o[mn]ia in luce facie[n]s.", (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024), fol. IIv).
 
->" [...] dan[n] d[er] glori wirdig got (der das war liecht ist) vnd das liecht liebett hat alle ding im liecht machende. das geschöpff der werlt am liecht gar recht angefange[n].", (Schedel and Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), bl. IIv, [1496](https://doi.org/10.3931/e-rara-69075), fol. 3v).
+>" [...] dan[n] d[er] glori wirdig got (der das war liecht ist) vnd das liecht liebett hat alle ding im liecht machende. das geschöpff der werlt am liecht gar recht angefange[n].", (Schedel & Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), bl. IIv, [1496](https://doi.org/10.3931/e-rara-69075), fol. 3v).
 
 >" [...] for the glorious God, who is the true light, and who loves the light and made all light-giving things, very fitly began the creation with light.", (Hadavas, [2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J), p. 4).
 
@@ -45,9 +45,8 @@ Petavius, D. (1630). VRANOLOGION sive systema variorvm authorvm. qvi de sphaera,
 
 Schedel, H. (1493). *Liber chronicarum cum figuris et ymagibus ab inicio mundi*. Nuremberge: Antonius Koberger. [https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024)
 
-Schedel, H., & Alt, G. (tr.). (1493). *Buch der Chroniken und geschichten mit figure und pildnüssen von anbegin der welt bis auf diese unsere Zeit*. Nuremberge: Antonius Koberger.
-[https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218)
+Schedel, H., & Alt, G. (tr.). (1493). *Buch der Chroniken und geschichten mit figure und pildnüssen von anbegin der welt bis auf diese unsere Zeit*. Nuremberge: Antonius Koberger. [https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218)
 
 ———. (1496). *Das buch Der croniken unnd geschichten mit figuren und pildnussen von Anbeginn der welt bis auff diese unsere Zeyt*. Augsburg: Johann Schönsperger. [https://doi.org/10.3931/e-rara-69075](https://doi.org/10.3931/e-rara-69075) 
 
-Schrausser, D. G. (2024). Uranologion Tables. *Zenodo Publications 2024 (2/22)*. [https://doi.org/10.5281/ZENODO.10694826](https://doi.org/10.5281/ZENODO.10694826)
+Schrausser, D. G. (2024). Uranologion Tables. *Zenodo Publications 2024 (2/22)*. [https://doi.org/10.5281/ZENODO.10694826](https://doi.org/10.5281/ZENODO.10694826)
