@@ -4,7 +4,7 @@
 
 >" [...] a mu[n]di fabrica: ac prima hominu[m] generatione: duplex opinio fert[ur].", (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024), fol. Ir).
 
->" [...] vo[n] geschopff der werlt. vnd vo[n] erster geburt der menschen zwayerlay wone ist.", (Schedel and Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), fo. .1.r, [1496](https://doi.org/10.3931/e-rara-69075), fol. 1v).
+>" [...] vo[n] geschopff der werlt. vnd vo[n] erster geburt der menschen zwayerlay wone ist.", (Schedel & Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), fo. .1.r, [1496](https://doi.org/10.3931/e-rara-69075), fol. 1v).
 
 >" [...] of the creation of the world and [...] of the birth of man [...] two different accounts exist [...] ", (Hadavas, [2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J), p. 2).
 
@@ -31,7 +31,7 @@ Engl. tr.
 
 > "Tres mundos figurat antiquitas [...] ", (Schedel, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), fol. Ir).
 
-> "Die alte[n] habe[n] von dreyerlay werlt gesagt [...] ", (Schedel and Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), fo. .1.r, [1496](https://doi.org/10.3931/e-rara-69075), fol. 2r).
+> "Die alte[n] habe[n] von dreyerlay werlt gesagt [...] ", (Schedel & Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), fo. .1.r, [1496](https://doi.org/10.3931/e-rara-69075), fol. 2r).
 
 > "The ancients spoke of three kinds of worlds [...] ", (Hadavas, [2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J), p. 2).
 
@@ -115,7 +115,7 @@ Engl. tr.
 
 >"De his quatuor mundis moyses sufficienter differuit [...] ", (Schedel, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), fol. Ir).
 
->"Vo[n] dise[n] dreye[n] werlte[n] hat moyses genugsa[m]lich gesagt [...]", (Schedel and Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), fo. .1.r, [1496](https://doi.org/10.3931/e-rara-69075), fol. 2r).
+>"Vo[n] dise[n] dreye[n] werlte[n] hat moyses genugsa[m]lich gesagt [...]", (Schedel & Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), fo. .1.r, [1496](https://doi.org/10.3931/e-rara-69075), fol. 2r).
 
 >"And all this according to Moses [...]", (Hadavas, [2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J), p. 2).
 
@@ -189,21 +189,20 @@ Abraam							Abraham								Abraham
 
 ## References
 
-Boccaccio, G. (1360). *Genealogiae deorum gentilium libri XV*. Pal. lat. 938. Vatican: Biblioteca Apostolica Vaticana. [https://digi.vatlib.it/view/MSS_Pal.lat.938](https://digi.vatlib.it/view/MSS_Pal.lat.938)
+Boccaccio, G. (1360). *Genealogiae deorum gentilium libri XV*. Pal. lat. 938. Vatican: Biblioteca Apostolica Vaticana. [https://digi.vatlib.it/view/MSS_Pal.lat.938](https://digi.vatlib.it/view/MSS_Pal.lat.938)
 
-———. (1487). *Genealogia Deorum Gentilium*. Vincentiae: Sym. de Gabis. [https://books.google.com/books?id=ZooTnQEACAAJ](https://books.google.com/books?id=ZooTnQEACAAJ)
+———. (1487). *Genealogia Deorum Gentilium*. Vincentiae: Sym. de Gabis. [https://books.google.com/books?id=ZooTnQEACAAJ](https://books.google.com/books?id=ZooTnQEACAAJ)
 
-Cherchi, P. (2018). The Inventors of Things in Boccaccio’s de Genealogia Deorum Gentilium. In *The Unity of Knowledge in the Pre-Modern World*, edited by Candido, I., 244–69. Berlin, Boston: De Gruyter. [https://doi.org/10.1515/9783110419306-013](https://doi.org/10.1515/9783110419306-013)
+Cherchi, P. (2018). The Inventors of Things in Boccaccio’s de Genealogia Deorum Gentilium. In *The Unity of Knowledge in the Pre-Modern World*, edited by Candido, I., 244–69. Berlin, Boston: De Gruyter. [https://doi.org/10.1515/9783110419306-013](https://doi.org/10.1515/9783110419306-013)
 
 Foresti, G. F. (1492). *Supplementum Chronicarum*. Novariensis: Bernardinus Rizus. [https://books.google.com/books?id=ei9TruMbYCkC&printsec=frontcover](https://books.google.com/books?id=ei9TruMbYCkC&printsec=frontcover)
 
 Hadavas, K. (2023). *First English edition of the Nuremberg chronicle : being the Liber chronicarum of Dr. Hartmann Schedel*. Edited by Hadavas, K. UW–Madison TEI edition. Madison, Wisconsin: University of Wisconsin–Madison Libraries. [https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J)
 
-Hyde, T. (1985). Boccaccio: The Genealogies of Myth. *PMLA 100* (5): 737–45. [http://www.jstor.org/stable/462094](http://www.jstor.org/stable/462094)
+Hyde, T. (1985). Boccaccio: The Genealogies of Myth. *PMLA, 100*(5), 737–45. [http://www.jstor.org/stable/462094](http://www.jstor.org/stable/462094)
 
 Schedel, H. (1493). *Liber chronicarum cum figuris et ymagibus ab inicio mundi*. Nuremberge: Antonius Koberger. [https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024)
 
-Schedel, H., & Alt, G. (tr.). (1493). *Buch der Chroniken und geschichten mit figure und pildnüssen von anbegin der welt bis auf diese unsere Zeit*. Nuremberge: Antonius Koberger.
-[https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218)
+Schedel, H., & Alt, G. (tr.). (1493). *Buch der Chroniken und geschichten mit figure und pildnüssen von anbegin der welt bis auf diese unsere Zeit*. Nuremberge: Antonius Koberger. [https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218)
 
 ———. (1496). *Das buch Der croniken unnd geschichten mit figuren und pildnussen von Anbeginn der welt bis auff diese unsere Zeyt*. Augsburg: Johann Schönsperger. [https://doi.org/10.3931/e-rara-69075](https://doi.org/10.3931/e-rara-69075)

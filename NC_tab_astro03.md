@@ -140,7 +140,7 @@ Figure 1. *Trigonometric* regression of actual *Solar System* distances $x$ with
 
 ## References
 
-Goldstein, B. R. (1967). The Arabic Version of Ptolemy’s Planetary Hypotheses. *Transactions of the American Philosophical Society, 57*(4), 3-55. [https://doi.org/10.2307/1006040](https://doi.org/10.2307/1006040)
+Goldstein, B. R. (1967). The Arabic Version of Ptolemy’s Planetary Hypotheses. *Transactions of the American Philosophical Society, 57*(4), 3–55. [https://doi.org/10.2307/1006040](https://doi.org/10.2307/1006040)
 
 De Beauvais, V. (1264). *Speculi naturalis pars II*. Arch. Cap. S. Pietro. A. 40. Vatican: Biblioteca Apostolica Vaticana. [https://digi.vatlib.it/view/MSS_Arch.Cap.S.Pietro.A.40](https://digi.vatlib.it/view/MSS_Arch.Cap.S.Pietro.A.40)
 

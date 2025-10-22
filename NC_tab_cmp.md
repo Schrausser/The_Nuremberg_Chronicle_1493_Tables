@@ -87,12 +87,12 @@ Dionysius. (1350). *De Caelesti Hierarchia*. MS Gr 2. Oxford, Magdalen College: 
 
 Flammarion, C. (1888). *L’atmosphère Métérologie Populaire : Ouvrage Contenant Quinze Planches Tirées En Chromotypographie, Deux Cartes En Couleur Et Trois Cent Sept Figures Insérées Dans Le Texte*. Paris: Librairie Hachette et cie. [https://archive.org/details/McGillLibrary-125043-2586/page/n175/mode/2up](https://archive.org/details/McGillLibrary-125043-2586/page/n175/mode/2up)
 
-Petavius, D. (1630). *VRANOLOGION sive systema variorvm authorvm. qvi de sphaera, ac sideribvs, eorvmove motibvs Graece commentati sunt*. LVTETIAE PARISIORVM: Sumptibus Sebastiani Cramoisy, via Iacobaea, sub Ciconiis. M. DC. XXX. CVM PRIVILEGIO REGIS CHRISTIANISS. [https://doi.org/10.3931/e-rara-2004](https://doi.org/10.3931/e-rara-2004)
+Petavius, D. (1630). *VRANOLOGION sive systema variorvm authorvm. qvi de sphaera, ac sideribvs, eorvmove motibvs Graece commentati sunt*. LVTETIAE PARISIORVM: Sumptibus Sebastiani Cramoisy, via Iacobaea, sub Ciconiis. M. DC. XXX. CVM PRIVILEGIO REGIS CHRISTIANISS. [https://doi.org/10.3931/e-rara-2004](https://doi.org/10.3931/e-rara-2004)
 
-Schedel, H. (1493). *Liber chronicarum cum figuris et ymagibus ab inicio mundi. Nuremberge*: Antonius Koberger. [https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024)
+Schedel, H. (1493). *Liber chronicarum cum figuris et ymagibus ab inicio mundi. Nuremberge*: Antonius Koberger. [https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024)
 
-Schrausser D. G. (2024a). Uranologion Tables. *Zenodo Publications 2024 (2/22)*. [https://doi.org/10.5281/ZENODO.10694826](https://doi.org/10.5281/ZENODO.10694826)
+Schrausser D. G. (2024a). Uranologion Tables. *Zenodo Publications 2024 (2/22)*. [https://doi.org/10.5281/ZENODO.10694826](https://doi.org/10.5281/ZENODO.10694826)
 
-———. (2024b). Velho’s Cosmographia Tables. *Zenodo Publications 2024 (2/21)*. [https://doi.org/10.5281/ZENODO.10689064](https://doi.org/10.5281/ZENODO.10689064)
+———. (2024b). Velho’s Cosmographia Tables. *Zenodo Publications 2024 (2/21)*. [https://doi.org/10.5281/ZENODO.10689064](https://doi.org/10.5281/ZENODO.10689064)
 
 Velho, B. (1568). *Principio da verdadeira cosmographia ... per Bartholomeu Velho portugues/neste anno de 1568*. Paris: Bibliothèque nationale de France. [http://catalogue.bnf.fr/ark:/12148/cb416166390](http://catalogue.bnf.fr/ark:/12148/cb416166390)

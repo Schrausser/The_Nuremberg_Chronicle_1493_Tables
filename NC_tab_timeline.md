@@ -2,11 +2,11 @@
 
 >"Liber chronicarum cum figuris et ymagibus ab inicio mundi", (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024)).
 
->"Das bůch Der croniken unnd geschichten mit figuren und pildnussen von Anbeginn der welt bis auff diese unsere Zeyt", (Schedel and Alt, [1496](https://doi.org/10.3931/e-rara-69075), fol. Ir).
+>"Das bůch Der croniken unnd geschichten mit figuren und pildnussen von Anbeginn der welt bis auff diese unsere Zeyt", (Schedel & Alt, [1496](https://doi.org/10.3931/e-rara-69075), fol. Ir).
 
 >The book of chronicles (and histories) with characters and illustrations from the beginning of the world (to this day)
 
-Table 1. Headings and contents of fol. Ir to fol. VIIr of the *Latin* version $Lat$ (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024)) and the *Early New High German* versions $ENHG$, $ENHG96$, respectively (Schedel and Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), [1496](https://doi.org/10.3931/e-rara-69075), res.) with the *English* translation (Hadavas, [2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J)).
+Table 1. Headings and contents of fol. Ir to fol. VIIr of the *Latin* version $Lat$ (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024)) and the *Early New High German* versions $ENHG$, $ENHG96$, respectively (Schedel & Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), [1496](https://doi.org/10.3931/e-rara-69075), res.) with the *English* translation (Hadavas, [2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J)).
 ~~~
 page			content
 
@@ -71,7 +71,7 @@ Engl. tr.
 7		recto	
 ~~~
 
-Table 2. Comparison between the headings and contents of fol. Ir to fol. VIIr of the *Latin* version $Lat$ (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024)) and the *Early New High German* versions $ENHG$, $ENHG96$, respectively (Schedel and Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), [1496](https://doi.org/10.3931/e-rara-69075), res.).
+Table 2. Comparison between the headings and contents of fol. Ir to fol. VIIr of the *Latin* version $Lat$ (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024)) and the *Early New High German* versions $ENHG$, $ENHG96$, respectively (Schedel & Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), [1496](https://doi.org/10.3931/e-rara-69075), res.).
 ~~~
 fol		content		
 		Lat					ENHG							ENHG96
@@ -91,7 +91,7 @@ fol		content
 7	recto	Etas prima mundi			der werlt						der welt
 ~~~
 
-Table 3. Timeline of the most important characters or authors mentioned in the *Nuremberg Chronicle* fol. 1r to fol. VIIr (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024); Schedel and Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), [1496](https://doi.org/10.3931/e-rara-69075), res. and Hadavas, [2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J)) by (1) $age$, (2) *year of the world* according to the interpretation by *the seventy* $NC_{lxx}$, year from the (3) *Byzantine* or *Roman* calendar (*epoch Kosmos*) $ε.K.$, (4) *Hebrew* calendar according to the *Nuremberg Chronicle* $NC_{AM}$, (5) *Hebrew* calendar (*Anno Mundi*) $AM$, (6) year *before Christ* $BC$, (7) the actual year *Anno Domini* $AD$, (8) the Ancient Roman *Ab urbe condita* $AVC$ and finally (9) the Islamic *Anno Hegirae* $AH$ with page of first mention $fol$ and dates.
+Table 3. Timeline of the most important characters or authors mentioned in the *Nuremberg Chronicle* fol. 1r to fol. VIIr (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024); Schedel & Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), [1496](https://doi.org/10.3931/e-rara-69075), res. and Hadavas, [2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J)) by (1) $age$, (2) *year of the world* according to the interpretation by *the seventy* $NC_{lxx}$, year from the (3) *Byzantine* or *Roman* calendar (*epoch Kosmos*) $ε.K.$, (4) *Hebrew* calendar according to the *Nuremberg Chronicle* $NC_{AM}$, (5) *Hebrew* calendar (*Anno Mundi*) $AM$, (6) year *before Christ* $BC$, (7) the actual year *Anno Domini* $AD$, (8) the Ancient Roman *Ab urbe condita* $AVC$ and finally (9) the Islamic *Anno Hegirae* $AH$ with page of first mention $fol$ and dates.
 ~~~
 age	NC_lxx	ε.Κ.	NC_AM	AM	BC	AD	AVC	AH	Latin				ENHG			Engl. tr.	fol	actual name				from	to	
 
@@ -175,8 +175,8 @@ VI,VII	5200	5509	3964	3761	1	0	753		Lucas				Lucas			Luke		Ir	Luke the Evangelis
 
 Hadavas, K. (2023). *First English edition of the Nuremberg chronicle : being the Liber chronicarum of Dr. Hartmann Schedel*. Edited by Hadavas, K. UW–Madison TEI edition. Madison, Wisconsin: University of Wisconsin–Madison Libraries. [https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J)
 
-Schedel, H. (1493). *Liber chronicarum cum figuris et ymagibus ab inicio mundi*. Nuremberge: Antonius Koberger. [https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024)
+Schedel, H. (1493). *Liber chronicarum cum figuris et ymagibus ab inicio mundi*. Nuremberge: Antonius Koberger. [https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024)
 
-Schedel, H., & Alt, G. (tr.). (1493). *Buch der Chroniken und geschichten mit figure und pildnüssen von anbegin der welt bis auf diese unsere Zeit*. Nuremberge: Antonius Koberger. [https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218)
+Schedel, H., & Alt, G. (tr.). (1493). *Buch der Chroniken und geschichten mit figure und pildnüssen von anbegin der welt bis auf diese unsere Zeit*. Nuremberge: Antonius Koberger. [https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218)
 
-———. (1496). *Das buch Der croniken unnd geschichten mit figuren und pildnussen von Anbeginn der welt bis auff diese unsere Zeyt*. Augsburg: Johann Schönsperger. [https://doi.org/10.3931/e-rara-69075](https://doi.org/10.3931/e-rara-69075) 
+———. (1496). *Das buch Der croniken unnd geschichten mit figuren und pildnussen von Anbeginn der welt bis auff diese unsere Zeyt*. Augsburg: Johann Schönsperger. [https://doi.org/10.3931/e-rara-69075](https://doi.org/10.3931/e-rara-69075) 

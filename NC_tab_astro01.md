@@ -18,7 +18,7 @@ ad saturnum		0,5	5,5	 7 812,50 	 85 937,50
 ad signiferum		1,5	7,0	 23 437,50 	 109 375,00
 ~~~
 
-Table 2. Comparative representation of the *astronomical* parameters from the *Nuremberg Chronicle* (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024); Schedel and Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), [1496](https://doi.org/10.3931/e-rara-69075), res. and Hadavas, [2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J)) with the parameters from the *Speculum Naturale* (de Beauvais, [1264](https://digi.vatlib.it/view/MSS_Arch.Cap.S.Pietro.A.40), [1476](https://nbn-resolving.org/urn:nbn:de:hbz:061:1-592809), [1494](https://books.google.com/books?id=v9yKk_tdhusC), [1964](https://nbn-resolving.org/urn:nbn:de:hbz:061:1-20729)).
+Table 2. Comparative representation of the *astronomical* parameters from the *Nuremberg Chronicle* (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024); Schedel & Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), [1496](https://doi.org/10.3931/e-rara-69075), res. and Hadavas, [2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J)) with the parameters from the *Speculum Naturale* (de Beauvais, [1264](https://digi.vatlib.it/view/MSS_Arch.Cap.S.Pietro.A.40), [1476](https://nbn-resolving.org/urn:nbn:de:hbz:061:1-592809), [1494](https://books.google.com/books?id=v9yKk_tdhusC), [1964](https://nbn-resolving.org/urn:nbn:de:hbz:061:1-20729)).
 ~~~				
 distance		Nuremberg Chronicle 1493			 Spec. Nat.	
 			Latin		 ENHG		 Eng. tr.	
@@ -125,7 +125,7 @@ zu saturnus	 	 159 003,63 	 1 956 802,79 	1,6E+05
 zum firmament	 	 546 234,10 	 2 503 036,89 	5,5E+05
 ~~~
 
-Table 5. Distance *differences* $diff$ in $km$ between the Latin $L$ and ENHG $E$ version of the *Nuremberg Chronicle* (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024); Schedel and Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), [1496](https://doi.org/10.3931/e-rara-69075), res.) with ratio factors $rf=\frac{E}{L}$.
+Table 5. Distance *differences* $diff$ in $km$ between the Latin $L$ and ENHG $E$ version of the *Nuremberg Chronicle* (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024); Schedel & Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), [1496](https://doi.org/10.3931/e-rara-69075), res.) with ratio factors $rf=\frac{E}{L}$.
 ~~~
 			km				diff		rf
 			Latin		 ENHG
@@ -170,7 +170,7 @@ ad saturnum		2,0E+06
 ad signiferum		2,5E+06		3,6E+06		1,41	Iapetus (Saturn VIII)
 ~~~
 
-Table 7. *Comparison* between distance values from the ENHG version $E$ of the *Nuremberg Chronicle* (Schedel and Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), [1496](https://doi.org/10.3931/e-rara-69075), res.) with *actual* astronomical distance values $a$ of *Jupiter* and *Saturn moons* (Williams, [2025a](https://nssdc.gsfc.nasa.gov/planetary/factsheet/joviansatfact.html), [b](https://nssdc.gsfc.nasa.gov/planetary/factsheet/saturniansatfact.html)), where ratio factor $rf=\frac{a}{E}$, $\overline{rf}=1.04$, $r=0.991$, $n=6$, $det=98.2\\%$.
+Table 7. *Comparison* between distance values from the ENHG version $E$ of the *Nuremberg Chronicle* (Schedel & Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), [1496](https://doi.org/10.3931/e-rara-69075), res.) with *actual* astronomical distance values $a$ of *Jupiter* and *Saturn moons* (Williams, [2025a](https://nssdc.gsfc.nasa.gov/planetary/factsheet/joviansatfact.html), [b](https://nssdc.gsfc.nasa.gov/planetary/factsheet/saturniansatfact.html)), where ratio factor $rf=\frac{a}{E}$, $\overline{rf}=1.04$, $r=0.991$, $n=6$, $det=98.2\\%$.
 ~~~
 					actual		
 			km		km		rf	object
@@ -208,13 +208,13 @@ Figure 1. Animated schematic representation of the illustrations from the *Nurem
 
 De Beauvais, V. (1264). *Speculi naturalis pars II*. Arch. Cap. S. Pietro. A. 40. Vatican: Biblioteca Apostolica Vaticana. [https://digi.vatlib.it/view/MSS_Arch.Cap.S.Pietro.A.40](https://digi.vatlib.it/view/MSS_Arch.Cap.S.Pietro.A.40)
 
-———. (1476). *Speculum naturale*. Düsseldorf: Universitäts- und Landesbibliothek. [https://nbn-resolving.org/urn:nbn:de:hbz:061:1-592809](https://nbn-resolving.org/urn:nbn:de:hbz:061:1-592809)
+———. (1476). *Speculum naturale*. Düsseldorf: Universitäts- und Landesbibliothek. [https://nbn-resolving.org/urn:nbn:de:hbz:061:1-592809](https://nbn-resolving.org/urn:nbn:de:hbz:061:1-592809)
 
-———. (1494). *Speculum naturale*. Venetiis: Hermannus Liechtenstein. [https://books.google.com/books?id=v9yKk_tdhusC](https://books.google.com/books?id=v9yKk_tdhusC)
+———. (1494). *Speculum naturale*. Venetiis: Hermannus Liechtenstein. [https://books.google.com/books?id=v9yKk_tdhusC](https://books.google.com/books?id=v9yKk_tdhusC)
 
-———. (1964). *Speculum naturale. Speculum quadruplex sive speculum maius*. Photomechan. Nachdr. [d. Ausg. Duaci 1624]. Düsseldorf: Universitäts- und Landesbibliothek. [https://nbn-resolving.org/urn:nbn:de:hbz:061:1-20603]()
+———. (1964). *Speculum naturale. Speculum quadruplex sive speculum maius*. Photomechan. Nachdr. [d. Ausg. Duaci 1624]. Düsseldorf: Universitäts- und Landesbibliothek. [https://nbn-resolving.org/urn:nbn:de:hbz:061:1-20603]()
 
-Hadavas, K. (2023). *First English edition of the Nuremberg chronicle : being the Liber chronicarum of Dr. Hartmann Schedel*. Edited by Hadavas, K. UW–Madison TEI edition. Madison, Wisconsin: University of Wisconsin–Madison Libraries. [https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J)
+Hadavas, K. (2023). *First English edition of the Nuremberg chronicle : being the Liber chronicarum of Dr. Hartmann Schedel*. Edited by Hadavas, K. UW–Madison TEI edition. Madison, Wisconsin: University of Wisconsin–Madison Libraries. [https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J)
 
 Hermann, A. (2004). *To Think Like God: Pythagoras and Parmenides, the Origins of Philosophy*. Chicago: Parmenides Publishing. [https://books.google.com/books?id=KeYPAQAAIAAJ](https://books.google.com/books?id=KeYPAQAAIAAJ)
 
@@ -223,25 +223,24 @@ Kircher, A. (1650). *Athanasii Kircheri Fuldensis e soc. Iesu presbyteri musurgi
 Mathiesen, T. (2002). *Greek Music Theory. In The Cambridge History of Western Music Theory*, edited by Christensen, T., 107–35. The Cambridge History of Music. Cambridge: University Press. [https://doi.org/10.1017/CHOL9780521623711](https://doi.org/10.1017/CHOL9780521623711)
 
 
-Plinius Secundus, G. (1250). *Plinius Secundus Major, Historia Naturalis. Liber Trigesimus Septimus Manu Recentiore Suppletus Est*. Latin 6797. Paris: Bibliothèque nationale de France. [https://gallica.bnf.fr/ark:/12148/btv1b550140045/](https://gallica.bnf.fr/ark:/12148/btv1b550140045/)
+Plinius Secundus, G. (1250). *Plinius Secundus Major, Historia Naturalis. Liber Trigesimus Septimus Manu Recentiore Suppletus Est*. Latin 6797. Paris: Bibliothèque nationale de France. [https://gallica.bnf.fr/ark:/12148/btv1b550140045/](https://gallica.bnf.fr/ark:/12148/btv1b550140045/)
 
-———. (1455). *Naturalis historiae lib. I-XXXVII*. Vat. lat. 1957. Vatican: Biblioteca Apostolica Vaticana. [https://digi.vatlib.it/view/MSS_Vat.lat.1957](https://digi.vatlib.it/view/MSS_Vat.lat.1957)
+———. (1455). *Naturalis historiae lib. I-XXXVII*. Vat. lat. 1957. Vatican: Biblioteca Apostolica Vaticana. [https://digi.vatlib.it/view/MSS_Vat.lat.1957](https://digi.vatlib.it/view/MSS_Vat.lat.1957)
 
-———. (1470). *Historia naturalis*. Impressum Rome: magistris Conrado Sweynheym & Arnoldo Panaratz. [https://doi.org/10.3931/e-rara-74199](https://doi.org/10.3931/e-rara-74199)
+———. (1470). *Historia naturalis*. Impressum Rome: magistris Conrado Sweynheym & Arnoldo Panaratz. [https://doi.org/10.3931/e-rara-74199](https://doi.org/10.3931/e-rara-74199)
 
-———. (1496). *C. Plynius Secundus De naturali hystoria diligentissme castigatus*. Impressum Venetiis: per Bartolameum de Zanis. [https://doi.org/10.3931/e-rara-84393](https://doi.org/10.3931/e-rara-84393)
+———. (1496). *C. Plynius Secundus De naturali hystoria diligentissme castigatus*. Impressum Venetiis: per Bartolameum de Zanis. [https://doi.org/10.3931/e-rara-84393](https://doi.org/10.3931/e-rara-84393)
 
-Rackham, H. (1967). *Pliny Natural History in Ten Volumes*. Vol. 1. Cambridge, Massachusetts: Harvard University Press. [https://archive.org/details/naturalhistory01plinuoft/](https://archive.org/details/naturalhistory01plinuoft/)
+Rackham, H. (1967). *Pliny Natural History in Ten Volumes*. Vol. 1. Cambridge, Massachusetts: Harvard University Press. [https://archive.org/details/naturalhistory01plinuoft/](https://archive.org/details/naturalhistory01plinuoft/)
 
 Schedel, H. (1493). *Liber chronicarum cum figuris et ymagibus ab inicio mundi*. Nuremberge: Antonius Koberger. [https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024)
 
-Schedel, H., & Alt, G. (tr.). (1493). *Buch der Chroniken und geschichten mit figure und pildnüssen von anbegin der welt bis auf diese unsere Zeit*. Nuremberge: Antonius Koberger.
-[https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218)
+Schedel, H., & Alt, G. (tr.). (1493). *Buch der Chroniken und geschichten mit figure und pildnüssen von anbegin der welt bis auf diese unsere Zeit*. Nuremberge: Antonius Koberger. [https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218)
 
 ———. (1496). *Das buch Der croniken unnd geschichten mit figuren und pildnussen von Anbeginn der welt bis auff diese unsere Zeyt*. Augsburg: Johann Schönsperger. [https://doi.org/10.3931/e-rara-69075](https://doi.org/10.3931/e-rara-69075)
 
-Torrellas, G. M. (1999). Mathematik Und Harmonie. Über Den Vermuteten Pythagoreismus von Leibniz. *Studia Leibnitiana 31* (1): 34–54. [http://www.jstor.org/stable/40694499](http://www.jstor.org/stable/40694499)
+Torrellas, G. M. (1999). Mathematik Und Harmonie. Über Den Vermuteten Pythagoreismus von Leibniz. *Studia Leibnitiana, 31*(1), 34–54. [http://www.jstor.org/stable/40694499](http://www.jstor.org/stable/40694499)
 
-Williams, D. R. (2025a). *Jovian Satellite Fact Sheet*. NASA Goddard Space Flight Center. [https://nssdc.gsfc.nasa.gov/planetary/factsheet/joviansatfact.html](https://nssdc.gsfc.nasa.gov/planetary/factsheet/joviansatfact.html)
+Williams, D. R. (2025a). *Jovian Satellite Fact Sheet*. NASA Goddard Space Flight Center. [https://nssdc.gsfc.nasa.gov/planetary/factsheet/joviansatfact.html](https://nssdc.gsfc.nasa.gov/planetary/factsheet/joviansatfact.html)
 
-———. (2025b). *Saturnian Satellite Fact Sheet*. NASA Goddard Space Flight Center. [https://nssdc.gsfc.nasa.gov/planetary/factsheet/saturniansatfact.html](https://nssdc.gsfc.nasa.gov/planetary/factsheet/saturniansatfact.html)
+———. (2025b). *Saturnian Satellite Fact Sheet*. NASA Goddard Space Flight Center. [https://nssdc.gsfc.nasa.gov/planetary/factsheet/saturniansatfact.html](https://nssdc.gsfc.nasa.gov/planetary/factsheet/saturniansatfact.html)

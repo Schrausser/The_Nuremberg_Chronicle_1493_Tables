@@ -107,7 +107,7 @@ ad signiferum		1,5	7,0	7	Iapetus		VIII		3560,85
 
 Table 5. Regression coefficients (a-e), correlation $r$ and determination coefficient $det\\%$ for linear- ($y=a\cdot x+b$), exponential- ($y=b\cdot e^{a\cdot x}$), cubic- ($y=a\cdot x^3+b\cdot x^2+c\cdot x+d$) and quartic regression ($y=a\cdot x^4+b\cdot x^3+c\cdot x^2+d\cdot x+e$) of (1) *Saturn moons* IV-VIII ($y$, $10^3km$) with *tone_a* and *tone_b* ($x$, $n=5$) and (2) *Saturn moons* IV-VIII and *Jupiter moons* II,IV ($y$, $10^3km$) with *tone_c* ($x$, $n=7$).
 ~~~
-Tone		lin		exp		cub		quart
+tone		lin		exp		cub		quart
 
 tone_a	a	501,527		0,372		18,241		12,799
 	b	-468,185	256,710		-125,274	-175,767
@@ -180,18 +180,17 @@ Figure 2. The distances of (1) *Saturn moons* IV-VIII  $y$ are $99.51\\%$ and $9
 
 Davis, H., Burges, G., & Rooker, G. Z. (1901). *The Republic: The Statesman of Plato*. London & New York: M. Walter Dunne. [https://archive.org/details/republicstatesma00plat_0/](https://archive.org/details/republicstatesma00plat_0/)
 
-Plinius Secundus, G. (1250). *Plinius Secundus Major, Historia Naturalis. Liber Trigesimus Septimus Manu Recentiore Suppletus Est*. Latin 6797. Paris: Bibliothèque nationale de France. [https://gallica.bnf.fr/ark:/12148/btv1b550140045/](https://gallica.bnf.fr/ark:/12148/btv1b550140045/)
+Plinius Secundus, G. (1250). *Plinius Secundus Major, Historia Naturalis. Liber Trigesimus Septimus Manu Recentiore Suppletus Est*. Latin 6797. Paris: Bibliothèque nationale de France. [https://gallica.bnf.fr/ark:/12148/btv1b550140045/](https://gallica.bnf.fr/ark:/12148/btv1b550140045/)
 
-Rackham, H. (1967). *Pliny Natural History in Ten Volumes*. Vol. 1. Cambridge, Massachusetts: Harvard University Press. [https://archive.org/details/naturalhistory01plinuoft/](https://archive.org/details/naturalhistory01plinuoft/)
+Rackham, H. (1967). *Pliny Natural History in Ten Volumes*. Vol. 1. Cambridge, Massachusetts: Harvard University Press. [https://archive.org/details/naturalhistory01plinuoft/](https://archive.org/details/naturalhistory01plinuoft/)
 
 Strasbourg astronomical Data Center. (2025). *SIMBAD, Set of Identifications, Measurements and Bibliography for Astronomical Data*. CDS. STRASBOURG, France. [cdsweb.u-strasbg.fr/Simbad.html](http://cdsweb.u-strasbg.fr/Simbad.html)
 
-Williams, D. R. (2025a). *Jovian Satellite Fact Sheet*. NASA Goddard Space Flight Center. [https://nssdc.gsfc.nasa.gov/planetary/factsheet/joviansatfact.html](https://nssdc.gsfc.nasa.gov/planetary/factsheet/joviansatfact.html)
+Williams, D. R. (2025a). *Jovian Satellite Fact Sheet*. NASA Goddard Space Flight Center. [https://nssdc.gsfc.nasa.gov/planetary/factsheet/joviansatfact.html](https://nssdc.gsfc.nasa.gov/planetary/factsheet/joviansatfact.html)
 
-———. (2025b). *Planetary Fact Sheet*. NASA Goddard Space Flight Center.
-[https://nssdc.gsfc.nasa.gov/planetary/factsheet/](https://nssdc.gsfc.nasa.gov/planetary/factsheet/)
+———. (2025b). *Planetary Fact Sheet*. NASA Goddard Space Flight Center. [https://nssdc.gsfc.nasa.gov/planetary/factsheet/](https://nssdc.gsfc.nasa.gov/planetary/factsheet/)
 
-———. (2025c). *Saturnian Satellite Fact Sheet*. NASA Goddard Space Flight Center. [https://nssdc.gsfc.nasa.gov/planetary/factsheet/saturniansatfact.html](https://nssdc.gsfc.nasa.gov/planetary/factsheet/saturniansatfact.html)
+———. (2025c). *Saturnian Satellite Fact Sheet*. NASA Goddard Space Flight Center. [https://nssdc.gsfc.nasa.gov/planetary/factsheet/saturniansatfact.html](https://nssdc.gsfc.nasa.gov/planetary/factsheet/saturniansatfact.html)
 
 
 
