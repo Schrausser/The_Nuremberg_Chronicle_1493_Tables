@@ -12,71 +12,71 @@ Tables (`Tab_fol_1r` to `Tab_fol_6r`, `NC_tab_astro01` to `NC_tab_astro03`, `NC_
 
 >The creation of things is explained by numbers. Their parts are one, two, three, which form a triangle. In the first *creation*. In the second and third *arrangement*. In the rest *ornament*, as Moses shows through the works of six days.
 
-Table 1. Headings and contents of fol. Ir to fol. VIIr (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024); Schedel & Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), [1496](https://doi.org/10.3931/e-rara-69075), res.).
+**Table 1**. Headings and contents of fol. Ir to fol. VIIr (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024); Schedel & Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), [1496](https://doi.org/10.3931/e-rara-69075), res.).
 ~~~
-page			content
+page					contents
 
-Foliu[m] I	recto	Epitoma operu[m] sex dieru[m] de mu[n]di fabrica Prologus
-fo. .1.			Ein kurtze beschreybung des wercks der sechs tag von dem geschöpff der werlt die vorrede.
-Das erst Blat		Das bůch Der croniken unnd geschichten mit figuren und pildnussen von Anbeginn der welt bis auff diese unsere Zeyt
-		verso	
+Foliu[m] I		recto	Epitoma operu[m] sex dieru[m] de mu[n]di fabrica Prologus
+fo. .1.					Ein kurtze beschreybung des wercks der sechs tag von dem geschöpff der werlt die vorrede.
+Das erst Blat			Das bůch Der croniken unnd geschichten mit figuren und pildnussen von Anbeginn der welt bis auff diese unsere Zeyt
+				verso	
 		
-			Ein kurtze beschreybung des wercks der sechsz tag vo[n] dem geschöpff d[er] welte die vorrede.
+						Ein kurtze beschreybung des wercks der sechsz tag vo[n] dem geschöpff d[er] welte die vorrede.
 
-Folium II	recto	
+Folium II		recto	
 Blat II		
 Das ander Blat		
-		verso	De opere prime diei.
-			Vom werck des erste[n] tags
+				verso	De opere prime diei.
+						Vom werck des erste[n] tags
 		
 
 Foliu[m] III	recto	De opere secunde diei.
-Blat III		Vom werck des andern tags
+Blat III				Vom werck des andern tags
 Das drit Blat		
-		verso	De opere tercie diei.
-			Vom werck des dritten tags
-			Vo[m] werck des erste[n] tags vo[m] werck des andern ta.
+				verso	De opere tercie diei.
+						Vom werck des dritten tags
+						Vo[m] werck des erste[n] tags vo[m] werck des andern ta.
 
 Foliu[m] IIII	recto	De opere quarte diei.
-Blat IIII		Vom werck des vierden tags
-Das vierdt Blat		vo[m] werck des dritte[n] tags
-		verso	De opere quinte diei.
-			Vom werck des funffte[n] tags
-			Vom werck des vierden tages
+Blat IIII				Vom werck des vierden tags
+Das vierdt Blat			vo[m] werck des dritte[n] tags
+				verso	De opere quinte diei.
+						Vom werck des funffte[n] tags
+						Vom werck des vierden tages
 
-Foliu[m] V	recto	De opere sexte diei.
-Blat V			Vom werck des sechten tags
-Das v. Blat		Vom werck des .v. tags
-		verso	De sanctificatione septime diei
-			Von beheyligung des siebenden tags
-			Von beheyligung des siebenden tags
+Foliu[m] V		recto	De opere sexte diei.
+Blat V					Vom werck des sechten tags
+Das v. Blat				Vom werck des .v. tags
+				verso	De sanctificatione septime diei
+						Von beheyligung des siebenden tags
+						Von beheyligung des siebenden tags
 
-Foliu[m] VI	recto	Queda[m] circa spera[m] planetaru[m] et orbiu[m] declara[n]da.
+Foliu[m] VI		recto	Queda[m] circa spera[m] planetaru[m] et orbiu[m] declara[n]da.
 Blat VI		
 Das vi. Blat		
-		verso	Prima etas mundi
-			Das erst alter.
-			Das erst alter.
+				verso	Prima etas mundi
+						Das erst alter.
+						Das erst alter.
 
 Foliu[m] VII	recto	Etas prima mundi
-Blat VII		der werlt
-Das vii. Blat		der welt
+Blat VII				der werlt
+Das vii. Blat			der welt
 ~~~
 
 >„ […] The Nuremberg Chronicle […] is one of the most important and most beautiful books of the incunabula era. Both the Latin version […] and the German version […] were printed in the offices of Anton Koberger who owned one of Europe's largest printing houses of the period. […] Following medieval traditions, the author divides the history of mankind into seven ages: the first age extended from the creation to the deluge; the second from the deluge to the birth of Abraham, the third to the kingdom of David; the fourth covered the period […] to the Babylonian Captivity; the fifth to the birth of Christ; the sixth […] from the birth of Christ to the present; and the seventh dealt with the arrival of the Antichrist and the Last Judgment.", (Bernstein, [2002](http://www.jstor.org/stable/1262133), p. 1422; c.f. Tab. 2). 
 
-Table 2. Etates mu[n]di (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024), fol. VIr).		
+**Table 2**. Etates mu[n]di (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024), fol. VIr).		
 ~~~
-		AM		BC				
-age		hebr	lxx	hebr	lxx	Etas	
+			AM				BC				
+age			hebr	lxx		hebr	lxx		Etas	
 
-I		1656	2242	2309	2959	ad diluuiu[m]	
-II		1948	3184	2017	2017	ad natiuitatem abrahe	
-III		2889	4124	1076	1077	ad iniciu[m] regni Dauid	
-IIII		3373	4609	592	592	ad transmigrat[i]o[n]em babilonis	
-V		3963	5199	2	2	ad benedicta[m] nativitatem [christ]i
-VI, VII						ad finem mundi, quiescentium
-VIII						resurgentium
+I			1656	2242	2309	2959	ad diluuiu[m]	
+II			1948	3184	2017	2017	ad natiuitatem abrahe	
+III			2889	4124	1076	1077	ad iniciu[m] regni Dauid	
+IIII		3373	4609	592		592		ad transmigrat[i]o[n]em babilonis	
+V			3963	5199	2		2		ad benedicta[m] nativitatem [christ]i
+VI, VII										ad finem mundi, quiescentium
+VIII										resurgentium
 ~~~
 
 Primarily influenced by Conrad Celtis (1459-1476), Martin Behaim (1459-1507), Johannes Müller (Regiomontanus, 1436-1476) and Johannes Werner (1468-1522), is the text mainly based on the *Supplementum Chronicarum* (Foresti, [1492](https://books.google.com/books?id=ei9TruMbYCkC&printsec=frontcover)), as well as on the *Speculum Naturale* (De Beauvais, [1264a](https://digi.vatlib.it/view/MSS_Arch.Cap.S.Pietro.A.40)) based on the *Historia Naturalis* of Plinius Secundus   ([1250](https://gallica.bnf.fr/ark:/12148/btv1b550140045/), [1455](https://digi.vatlib.it/view/MSS_Vat.lat.1957)) and *Speculum Historiale* (De Beauvais, [1264b](https://digi.vatlib.it/view/MSS_Vat.lat.1965)) from the *Speculum Maius* (Ferguson, [1886](http://www.jstor.org/stable/43914698); Young, [1930](http://www.jstor.org/stable/40856730); De Beauvais, [1964](https://nbn-resolving.org/urn:nbn:de:hbz:061:1-20612); White, [1992](http://www.jstor.org/stable/25023841); Albrecht, [2000](https://doi.org/10.1007/978-94-015-9389-2_3)), further on the *Vitæ Pontificum* (Platina, [1481](https://archive.org/details/vitaepontificum00plat)), the *Summa Historialis* (c.f. Walker, [1930](https://books.google.com/books?id=FzPaNwAACAAJ)), on works by *Biondo* (e.g. [1484](https://books.google.com/books?id=MT3JwgEACAAJ), [2005](https://books.google.com/books?id=kttXsdZlUPQC), res.) as well as on geographical and cosmographic works by *Ptolemæus* ([1100](https://digi.vatlib.it/view/MSS_Urb.gr.82), [1482](https://doi.org/10.3931/e-rara-102078); Tudeer, [1917](https://doi.org/10.2307/625456); Neugebauer, [1959](http://www.jstor.org/stable/226535); Talbert, [2002](http://www.jstor.org/stable/3662452)), *Strabo* ([1469](https://doi.org/10.3931/e-rara-87965); Manutius & Asulanus, [1516](https://collections.thulb.uni-jena.de/receive/HisBest_cbu_00003336)) and *Mela* ([1477](https://catalog.lindahall.org/discovery/delivery/01LINDAHALL_INST:LHL/12104028240005961), [1518](https://doi.org/10.3931/e-rara-70186)).
