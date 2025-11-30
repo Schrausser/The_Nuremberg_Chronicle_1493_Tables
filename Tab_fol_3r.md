@@ -8,14 +8,14 @@
 
 >"God divided the firmament and made it movable; and he made other sensitive things comprehensible.", (Hadavas, [2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J), p. 4).
 
-Table 1. Spheres after the *division* of the firmament *compared* to the *classification* of fol. VIr.
+**Table 1**. Spheres after the *division* of the firmament *compared* to the *classification* of fol. VIr.
 ~~~
-sphere	fol. VIr		Latin					ENHG							Engl. tr.
+sphere	fol. VIr			Latin									ENHG												Engl. tr.
 
-10¹	celum trinitatis	celum fixum manens [et] quietum		gerüig himel						stationery and at rest
-9²	XII			qui ratione non sensu dep[re]hensus	mit vernunft vn[d] nit mit entpfindung erraicht		reached by reason alone and not by perception
-8				inerrantem				die unirrende[n]					the unerring one
-1-7	V-XI			septem planetas	speras 			d[er] sibe[n] planete[n]				spheres of the seven planets
+10¹		celum trinitatis	celum fixum manens [et] quietum			gerüig himel										stationery and at rest
+9²		XII					qui ratione non sensu dep[re]hensus		mit vernunft vn[d] nit mit entpfindung erraicht		reached by reason alone and not by perception
+8							inerrantem								die unirrende[n]									the unerring one
+1-7		V-XI				septem planetas	speras 					d[er] sibe[n] planete[n]							spheres of the seven planets
 ~~~
 ¹) "Isaac the Wise [...] holds that the tenth heaven was identified by Ezekiel through the zaphirum, in the similitude of a throne.", (Hadavas, [2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J), p. 4).  
 ²) "primusq[ue] est inter corpora que mouentur", "die erst undter den beweglichen leiplichen dingen", "the first among movable corporeal things", (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024), fol. IIv; Schedel & Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), [1496](https://doi.org/10.3931/e-rara-69075), bl. IIIr; Hadavas, [2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J), p. 4., res.).
