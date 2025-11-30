@@ -8,17 +8,17 @@
 
 >" [...] for the glorious God, who is the true light, and who loves the light and made all light-giving things, very fitly began the creation with light.", (Hadavas, [2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J), p. 4).
 
-Table 1. Timeline of the *creation*.
+**Table 1**. Timeline of the *creation*.
 ~~~
-t	Latin			ENHG			Engl. tr.
+t	Latin					ENHG				Engl. tr.
 
 1	materia[m] informe[m]	unförmlich materie	shapeless matter
-2	Angelos			die engel		the angels
-3	Celu[m]			die himel		the heavens
-4	Luce[m]			das liecht		the light
-5	terra[m]		die erden		the earth
-6	aqua[m]			das wasser		(water)
-7	aerem			den luft		(air)
+2	Angelos					die engel			the angels
+3	Celu[m]					die himel			the heavens
+4	Luce[m]					das liecht			the light
+5	terra[m]				die erden			the earth
+6	aqua[m]					das wasser			(water)
+7	aerem					den luft			(air)
 ~~~
 
 See in this context *De iis, quæ in sublimi cernuntur* and *De Mundo* in the presentation and translation of the *Phenomena of Aratus* by Petavius ​​([1630](https://doi.org/10.3931/e-rara-2004)):
@@ -27,14 +27,14 @@ See in this context *De iis, quæ in sublimi cernuntur* and *De Mundo* in the pr
 
 >Dew is pure moisture falling out from *the ether*, the thinnest substance diffusion, of natural warmth and radiance - *the original light*. Air shares warmth and condenses luminosity from the Ether.
 
-Table 2. Creation of the four cardinal directions.
+**Table 2**. Creation of the four cardinal directions.
 ~~~
-Latin			ENHG		Engl. tr .
+Latin				ENHG			Engl. tr .
 
-orientem		auffgang	East (Aufgang, or rise)
-occidentem		nidergang	West (Niedergang, decline)
-meridie[m]		mittag		South (Mittag, noon)
-septe[m]trione[m]	mitternacht	North (Mitternacht, midnight)
+orientem			auffgang		East (Aufgang, or rise)
+occidentem			nidergang		West (Niedergang, decline)
+meridie[m]			mittag			South (Mittag, noon)
+septe[m]trione[m]	mitternacht		North (Mitternacht, midnight)
 ~~~
 
 ## References
