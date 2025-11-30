@@ -9,9 +9,9 @@
 >" [...] the glorious God fulfilled his task; and on the seventh day he rested from his labors.", (Hadavas, [2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J), p. 8).
 
 
-Table 1. Names of *angels* and *spheres* between the Roman and Greek *wind gods*; the *Anemoi*, sons of *Astraeus* and *Eos* (s. Neuser, [1982](https://books.google.com/books?id=T0gcAAAAMAAJ) or Miller et al., [2010](https://books.google.com/books?id=LCYlQwAACAAJ)).
+**Table 1**. Names of *angels* and *spheres* between the Roman and Greek *wind gods*; the *Anemoi*, sons of *Astraeus* and *Eos* (s. Neuser, [1982](https://books.google.com/books?id=T0gcAAAAMAAJ) or Miller et al., [2010](https://books.google.com/books?id=LCYlQwAACAAJ)).
 ~~~
-Subsolanus¹						Auster²
+Subsolanus¹										Auster²
 		
 Seraphin		
 Cherubin		
@@ -19,20 +19,20 @@ Throni
 d[omi]nationes		
 principat[us]		
 :		
-			terrA	
-			spera aque	
-			spera aeris	
-			spera ignis	
-			spera lune	
-P[o]t[est]ates		spera mercu [rum]	
-u[ir]tutes		spera ueneris	
-archa[n]gli		spera solis	
-Angeli			spera martus	
-			spera iouis	
-			spera saturni	
-Aparcias³		firma mentu[m]			Zephyrus⁴
-			Celum Cristallinum	
-			Primum mobile	
+						terrA	
+						spera aque	
+						spera aeris	
+						spera ignis	
+						spera lune	
+P[o]t[est]ates			spera mercu [rum]	
+u[ir]tutes				spera ueneris	
+archa[n]gli				spera solis	
+Angeli					spera martus	
+						spera iouis	
+						spera saturni	
+Aparcias³				firma mentu[m]			Zephyrus⁴
+						Celum Cristallinum	
+						Primum mobile	
 ~~~
 ¹) The Roman god of the *southeast* wind, *Apeliotes* in Greek. *Eurus*, the Greek god of the *rain-bringing east* wind, mostly excluded from the *Anemoi*, is the Roman *Vulturnus* or *Africanus*.    
 ²) The Roman god of the *south* wind, *Notus* in Greek.  
