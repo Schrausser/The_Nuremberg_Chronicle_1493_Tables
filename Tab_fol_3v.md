@@ -8,15 +8,15 @@
 
 >"After the creation of the firmament Moses calls our attention to the completeness, location, and order of the elements.", (Hadavas, [2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J), p. 5).
 
-Table 1. Names of the four *seas* ordered after the creation of the firmament (c.f. Ptolemæus, [1100](https://digi.vatlib.it/view/MSS_Urb.gr.82), [1482](https://doi.org/10.3931/e-rara-102078), fol. 88 ff.; Mela, [1477](https://catalog.lindahall.org/discovery/delivery/01LINDAHALL_INST:LHL/12104028240005961), fol. aiir, gir).
+**Table 1**. Names of the four *seas* ordered after the creation of the firmament (c.f. Ptolemæus, [1100](https://digi.vatlib.it/view/MSS_Urb.gr.82), [1482](https://doi.org/10.3931/e-rara-102078), fol. 88 ff.; Mela, [1477](https://catalog.lindahall.org/discovery/delivery/01LINDAHALL_INST:LHL/12104028240005961), fol. aiir, gir).
 ~~~
-Latin		ENHG		Engl. tr.	
-mare		meer		sea	
+Latin			ENHG			Engl. tr.	
+mare			meer			sea	
 
-indicum		iüdisch		Hebrew		Indian Ocean¹
-hircanum	hircanisch	Hyrcanian	Caspian Sea²
-adriacum	adriatisch	Adriatic	Adriatic Sea, Ionian Sea³ 
-Euxinum		euxinisch	Euxine		Black Sea⁴
+indicum			iüdisch			Hebrew			Indian Ocean¹
+hircanum		hircanisch		Hyrcanian		Caspian Sea²
+adriacum		adriatisch		Adriatic		Adriatic Sea, Ionian Sea³ 
+Euxinum			euxinisch		Euxine			Black Sea⁴
 ~~~
 ¹) Indicum(!) Mare  
 ²) Hyrcanian Ocean  
