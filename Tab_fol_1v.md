@@ -1,10 +1,10 @@
 # Tab_fol_1v.md
 
-Table 1. Heading inscription on the first woodcut (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024), fol. Iv; Schedel & Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), fo. .1.v, [1496](https://doi.org/10.3931/e-rara-69075), fol. 2v).
+**Table 1**. Heading inscription on the first woodcut (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024), fol. Iv; Schedel & Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), fo. .1.v, [1496](https://doi.org/10.3931/e-rara-69075), fol. 2v).
 ~~~
-			  su[n]t ip[s]e ma[n]dau[it] [et]  
-								Ps[alm] 32¹
-Ipse dixit et f[ac]ta					 creata su[n]t  
+						su[n]t ip[s]e ma[n]dau[it] [et]  
+																Ps[alm] 32¹
+Ipse dixit et f[ac]ta									creata su[n]t  
 ~~~
 ¹) according to the Greek (*Septuagint*) count, otherwise (*Hebrew, Masoretic*) Psalm 33, see e.g. Jiménez de Cisneros ([1517](https://doi.org/10.3931/e-rara-46695), fol. BVv), Ulrich and Holzhalb ([1756](https://doi.org/10.3931/e-rara-65699), Das Buch der Psalmen, p. 47), Christian Standard Bible ([2017](https://www.biblegateway.com/passage/?search=Psalm%2033&version=CSB)).  
 
