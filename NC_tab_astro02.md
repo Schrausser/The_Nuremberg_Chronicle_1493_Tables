@@ -2,42 +2,42 @@
 
 >"As the eyes, said I, seem formed for studying astronomy, so do the ears seem formed for harmonious motions: and these seem to be twin sciences to one another, as also the Pythagoreans say; and we too [...] agree with them [...]", (Book VII, chap. XII of *Plato's Republic, the Allegory of the Cave*, Davis et al., [1901](https://archive.org/details/republicstatesma00plat_0/), p. 252).
 
-Table 1. Distances of *Solar System* objects (s. Williams, [2025b](https://nssdc.gsfc.nasa.gov/planetary/factsheet/)) from the Sun in semimajor axis $10^3 km$ and *Galactical objects*¹ from the core (s. Strasbourg astronomical Data Center, [2025](cdsweb.u-strasbg.fr/Simbad.html)) in approx. light years $ly$, $10^{12} km$, with ratios in comparison.
+**Table 1**. Distances of *Solar System* objects (s. Williams, [2025b](https://nssdc.gsfc.nasa.gov/planetary/factsheet/)) from the Sun in semimajor axis $10^3 km$ and *Galactical objects*¹ from the core (s. Strasbourg astronomical Data Center, [2025](cdsweb.u-strasbg.fr/Simbad.html)) in approx. light years $ly$, $10^{12} km$, with ratios in comparison.
 ~~~
-Solar System		Galaxy								
-dist. from		dist. from		ly					
-Sun	10³km		Core	M	NGC	min	max	AM		10¹²km		ratio	1/ratio
+1 Solar System				2 Galaxy								
+dist. from					dist. from			ly					
+Sun			10³km			Core	M	NGC		min		max		AM			10¹²km		ratio	1/ratio
 
-Venus	 108 210 	LSSC	24				 16 439 	155 520 	1,44	0,70
-Earth	 149 598 	Sun			25 881 26 996 	 26 439 	250 127 	1,67	0,60
-Mars	 227 956 	SagDEG	54	6715			 50 000 	473 035 	2,08	0,48
-Jupiter	 778 479 	LMC					 163 000 	1 542 094 	1,98	0,50
-Saturn	 1 432 041 	SMC		292			 210 000 	1 986 747 	1,39	0,72
+Venus		108 210 		LSSC	24				 			16 439 		155 520 	1,44	0,70
+Earth		149 598 		Sun					25 881 26 996 	26 439 		250 127 	1,67	0,60
+Mars		227 956 		SagDEG	54	6715			 		50 000 		473 035 	2,08	0,48
+Jupiter		778 479 		LMC					 				163 000 	1 542 094 	1,98	0,50
+Saturn		1 432 041 		SMC			292			 			210 000 	1 986 747 	1,39	0,72
 
-AM	 539 257 						 93 175 	881 505 	1,71	0,60
-SD	 507 707 						 78 396 	741 684 	0,28	0,10
+AM	 		539 257 						 					93 175 		881 505 	1,71	0,60
+SD	 		507 707 						 					78 396 		741 684 	0,28	0,10
 ~~~
 ¹) Small Sagittarius Star Cloud (LSSC, M24, IC4615), Sagittarius Dwarf Spheroidal Galaxy (SagDEG, M54, NGC6715), Large Magellanic Cloud (LMC), Small Magellanic Cloud (SMC, NGC292).
 
-Table 2. Regr. *gal* ($ly$, $10^{12}km$) with *solsyst* ($10^3km$), $n=5$.
+**Table 2**. Regr. *gal* ($ly$, $10^{12}km$) with *solsyst* ($10^3km$), $n=5$.
 ~~~
-		log		exp		quad	
-gal		y=gal		y=solsys	y=gal		y=solsys
+				log				exp				quad	
+gal				y=gal			y=solsys		y=gal			y=solsys
 
-ly	a	78777,790	1,255E-05	-1,118E-07	3,899E-05
-	b	-908628,398	103493,582	0,319		-2,371
-	c	-		-		-17482,841	182019,183
+ly		a		78777,790		1,255E-05		-1,118E-07		3,899E-05
+		b		-908628,398		103493,582		0,319			-2,371
+		c		-		-		-17482,841		182019,183
 
-10¹²km	a	745292,906	1,327E-06	-1,057E-06	4,356E-07
-	b	-8596258,952	103493,550	3,017		-0,251
-	c	-		-		-165399,557	182019,197
+10¹²km	a		745292,906		1,327E-06		-1,057E-06		4,356E-07
+		b		-8596258,952	103493,550		3,017			-0,251
+		c		-				-				-165399,557		182019,197
 
-	r	0,994		0,994		-		-
-	r²	0,989		0,989		1,000		0,992
-	det%	98,88|		98,88|		99,99		99,21
+		r		0,994			0,994			-				-
+		r²		0,989			0,989			1,000			0,992
+		det%	98,88|			98,88|			99,99			99,21
 ~~~
 
-Table 3. *Predicted distance* values ($y'$, $ly$, $10^{12}km$, $10^3km$) ​​by regression type (logarithmic, $y=a\cdot\log(x)+b$; exponential $y=b\cdot e^{a\cdot x}$; quadratic, $y=a\cdot x^2+b\cdot x+c$).
+**Table 3**. *Predicted distance* values ($y'$, $ly$, $10^{12}km$, $10^3km$) ​​by regression type (logarithmic, $y=a\cdot\log(x)+b$; exponential $y=b\cdot e^{a\cdot x}$; quadratic, $y=a\cdot x^2+b\cdot x+c$).
 ~~~
 						y', reg				diff				ratio	
 		x=solsys	y=gal		log		quad		log		quad		log		quad
@@ -81,7 +81,7 @@ ly	 	108 210 	16 439 	 	4 550,27 	15 716,48 	-11888,23	-722,02		0,277		0,956
 	SD													0,105		0,229
 ~~~
 
-Figure 1. The distances of *Solar System* objects $y$ are $98.88\\%$ *exponentially* predictable from the distances of the *Galactical* objects $x$, $solsyst=y=103493,58\cdot e^{0,00001\cdot x}$.
+**Figure 1**. The distances of *Solar System* objects $y$ are $98.88\\%$ *exponentially* predictable from the distances of the *Galactical* objects $x$, $solsyst=y=103493,58\cdot e^{0,00001\cdot x}$.
 
 ![figure.\label{figa0201}](figa0201.jpg)
 
@@ -90,22 +90,22 @@ Figure 1. The distances of *Solar System* objects $y$ are $98.88\\%$ *exponentia
 >" [...] the seven tones thus producing the so-called diapason, i.e. a universal harmony […] ", (Rackham, [1967](https://archive.org/details/naturalhistory01plinuoft/), p. 227 ff.).
 
 
-Table 4. Distance values for *tone* (cum, rounded), *Saturn moons* IV-VIII and *Jupiter moons* II,IV ($10^3km$; c.f. Williams, [2025a](https://nssdc.gsfc.nasa.gov/planetary/factsheet/joviansatfact.html), [c](https://nssdc.gsfc.nasa.gov/planetary/factsheet/saturniansatfact.html)).
+**Table 4**. Distance values for *tone* (cum, rounded), *Saturn moons* IV-VIII and *Jupiter moons* II,IV ($10^3km$; c.f. Williams, [2025a](https://nssdc.gsfc.nasa.gov/planetary/factsheet/joviansatfact.html), [c](https://nssdc.gsfc.nasa.gov/planetary/factsheet/saturniansatfact.html)).
 ~~~
-			tone							
-dist			step	cum	int	Moon		Sat	Jup	dist 10³km
+					tone							
+dist				step	cum		int		Moon		Sat		Jup		dist 10³km
 
-terram ad lunam		1,0	1,0	1	Dione		IV		377,40
-luna ad mercurium	0,5	1,5	2	Rhea		V		527,04
-ad venerem		0,5	2,0	2	Europa			II	671,1
-ad solem		1,5	3,5	4	Titan		VI		1221,87
-ad martem		1,0	4,5	5	Hyperion	VII		1500,93
-ad iovem		0,5	5,0	5	Callisto		IV	1882,7
-ad saturnum		0,5	5,5	6					
-ad signiferum		1,5	7,0	7	Iapetus		VIII		3560,85
+terram ad lunam		1,0		1,0		1		Dione		IV				377,40
+luna ad mercurium	0,5		1,5		2		Rhea		V				527,04
+ad venerem			0,5		2,0		2		Europa				II		671,1
+ad solem			1,5		3,5		4		Titan		VI				1221,87
+ad martem			1,0		4,5		5		Hyperion	VII				1500,93
+ad iovem			0,5		5,0		5		Callisto			IV		1882,7
+ad saturnum			0,5		5,5		6					
+ad signiferum		1,5		7,0		7		Iapetus		VIII			3560,85
 ~~~
 
-Table 5. Regression coefficients (a-e), correlation $r$ and determination coefficient $det\\%$ for linear- ($y=a\cdot x+b$), exponential- ($y=b\cdot e^{a\cdot x}$), cubic- ($y=a\cdot x^3+b\cdot x^2+c\cdot x+d$) and quartic regression ($y=a\cdot x^4+b\cdot x^3+c\cdot x^2+d\cdot x+e$) of (1) *Saturn moons* IV-VIII ($y$, $10^3km$) with *tone_a* and *tone_b* ($x$, $n=5$) and (2) *Saturn moons* IV-VIII and *Jupiter moons* II,IV ($y$, $10^3km$) with *tone_c* ($x$, $n=7$).
+**Table 5**. Regression coefficients (a-e), correlation $r$ and determination coefficient $det\\%$ for linear- ($y=a\cdot x+b$), exponential- ($y=b\cdot e^{a\cdot x}$), cubic- ($y=a\cdot x^3+b\cdot x^2+c\cdot x+d$) and quartic regression ($y=a\cdot x^4+b\cdot x^3+c\cdot x^2+d\cdot x+e$) of (1) *Saturn moons* IV-VIII ($y$, $10^3km$) with *tone_a* and *tone_b* ($x$, $n=5$) and (2) *Saturn moons* IV-VIII and *Jupiter moons* II,IV ($y$, $10^3km$) with *tone_c* ($x$, $n=7$).
 ~~~
 tone		lin		exp		cub		quart
 
@@ -140,7 +140,7 @@ tone_c	a	492,276		0,361		13,523		1,597
 	det%	93,171		98,713|		99,842		99,850
 ~~~
 
-Table 6. *Predicted distance* values ($y'$, $10^3km$) ​​by regression type (linear, $y=a\cdot x+b$; exponential, $y=b\cdot e^{a\cdot x}$; cubic, $y=a\cdot x^3+b\cdot x^2+c\cdot x+d$; quartic, $y=a\cdot x^4+b\cdot x^3+c\cdot x^2+d\cdot x+e$) to tone (a, b, c) $x$.
+**Table 6**. *Predicted distance* values ($y'$, $10^3km$) ​​by regression type (linear, $y=a\cdot x+b$; exponential, $y=b\cdot e^{a\cdot x}$; cubic, $y=a\cdot x^3+b\cdot x^2+c\cdot x+d$; quartic, $y=a\cdot x^4+b\cdot x^3+c\cdot x^2+d\cdot x+e$) to tone (a, b, c) $x$.
 ~~~
 				y', reg					diff					ratio			
 Tone	x	y=dist		lin	exp	cub	quart		lin	exp	cub	quart		lin	exp	cub	quart
@@ -172,7 +172,7 @@ tone_c	1	377,40		161,01	435,02	363,97	372,78		-216,39	57,62	-13,43	-4,62		0,427	
 	SD													0,260	0,083	0,034	0,028
 ~~~
 
-Figure 2. The distances of (1) *Saturn moons* IV-VIII  $y$ are $99.51\\%$ and $98.73\\%$ *exponentially* predictable from the *tones* $x$ and the distances of *Saturn moons* IV-VIII and (2) *Jupiter moons* II,IV $y$ are $98.71\\%$ *exponentially* predictable from the *tones* $x$.
+**Figure 2**. The distances of (1) *Saturn moons* IV-VIII  $y$ are $99.51\\%$ and $98.73\\%$ *exponentially* predictable from the *tones* $x$ and the distances of *Saturn moons* IV-VIII and (2) *Jupiter moons* II,IV $y$ are $98.71\\%$ *exponentially* predictable from the *tones* $x$.
 
 ![figure.\label{figa0202}](figa0202.jpg)
 
