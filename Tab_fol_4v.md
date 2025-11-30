@@ -8,13 +8,13 @@
 
 >"God adorned the air and the water, the air with fowl and the water with swimming creatures;", (Hadavas, [2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J), p. 7).
 
-Table 1. The three *classes of creatures*, according to *Moses* and *Thimeo* (Timaeus of Locri in Plato, [1588](https://doi.org/10.3931/e-rara-24349), p. 457 ff.).
+**Table 1**. The three *classes of creatures*, according to *Moses* and *Thimeo* (Timaeus of Locri in Plato, [1588](https://doi.org/10.3931/e-rara-24349), p. 457 ff.).
 ~~~
-	Latin			ENHG			Engl. tr.
+		Latin				ENHG				Engl. tr.
 
-1	volatilia		in dez lufft		air
-2	aquis dege[n]tia	in wassern		water
-3	terrestria		auff der erden		land
+1		volatilia			in dez lufft		air
+2		aquis dege[n]tia	in wassern			water
+3		terrestria			auff der erden		land
 ~~~
 
 ## References
