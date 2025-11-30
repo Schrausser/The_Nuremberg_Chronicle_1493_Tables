@@ -107,37 +107,37 @@ ad signiferum		1,5		7,0		7		Iapetus		VIII			3560,85
 
 **Table 5**. Regression coefficients (a-e), correlation $r$ and determination coefficient $det\\%$ for linear- ($y=a\cdot x+b$), exponential- ($y=b\cdot e^{a\cdot x}$), cubic- ($y=a\cdot x^3+b\cdot x^2+c\cdot x+d$) and quartic regression ($y=a\cdot x^4+b\cdot x^3+c\cdot x^2+d\cdot x+e$) of (1) *Saturn moons* IV-VIII ($y$, $10^3km$) with *tone_a* and *tone_b* ($x$, $n=5$) and (2) *Saturn moons* IV-VIII and *Jupiter moons* II,IV ($y$, $10^3km$) with *tone_c* ($x$, $n=7$).
 ~~~
-tone		lin		exp		cub		quart
+tone			lin			exp			cub			quart
 
-tone_a	a	501,527		0,372		18,241		12,799
-	b	-468,185	256,710		-125,274	-175,767
-	c	-		-		495,935		848,323
-	d	-		-		-40,372		-1356,949
-	e	-		-		-		1048,993
+tone_a	a		501,527		0,372		18,241		12,799
+		b		-468,185	256,710		-125,274	-175,767
+		c		-			-			495,935		848,323
+		d		-			-			-40,372		-1356,949
+		e		-			-			-			1048,993
 
-	r	0,938		0,998		-		-
-	r²	0,881		0,995		0,996		1,000
-	det%	88,068		99,510|		99,591		100,000
+		r		0,938		0,998		-		-
+		r²		0,881		0,995		0,996		1,000
+		det%	88,068		99,510|		99,591		100,000
 
-tone_b	a	509,205		0,365		21,055		7,410
-	b	-344,601	294,110		-184,171	-89,818
-	c	-		-		808,159		367,348
-	d	-		-		-296,293	-252,665
-	e	-		-		-		345,124
+tone_b	a		509,205		0,365		21,055		7,410
+		b		-344,601	294,110		-184,171	-89,818
+		c		-			-			808,159		367,348
+		d		-			-			-296,293	-252,665
+		e		-			-			-			345,124
 
-	r	0,967		0,994		-		-
-	r²	0,936		0,987		0,999		1,000
-	det%	93,572		98,734|		99,914		100,000
+		r		0,967		0,994		-			-
+		r²		0,936		0,987		0,999		1,000
+		det%	93,572		98,734|		99,914		100,000
 
-tone_c	a	492,276		0,361		13,523		1,597
-	b	-331,267	303,109		-94,615		-10,845
-	c	-		-		518,878		29,254
-	d	-		-		-73,814		276,800
-	e	-		-		-		75,973
+tone_c	a		492,276		0,361		13,523		1,597
+		b		-331,267	303,109		-94,615		-10,845
+		c		-			-			518,878		29,254
+		d		-			-			-73,814		276,800
+		e		-			-			-			75,973
 
-	r	0,965		0,994		-		-
-	r²	0,932		0,987		0,998		0,999
-	det%	93,171		98,713|		99,842		99,850
+		r		0,965		0,994		-			-
+		r²		0,932		0,987		0,998		0,999
+		det%	93,171		98,713|		99,842		99,850
 ~~~
 
 **Table 6**. *Predicted distance* values ($y'$, $10^3km$) ​​by regression type (linear, $y=a\cdot x+b$; exponential, $y=b\cdot e^{a\cdot x}$; cubic, $y=a\cdot x^3+b\cdot x^2+c\cdot x+d$; quartic, $y=a\cdot x^4+b\cdot x^3+c\cdot x^2+d\cdot x+e$) to tone (a, b, c) $x$.
