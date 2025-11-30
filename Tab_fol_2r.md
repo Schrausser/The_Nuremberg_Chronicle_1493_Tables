@@ -6,22 +6,22 @@
 
 >" [...] first made of heaven a throne for himself as Creator, and raised it on high; and thereafter he established the earth and subordinated it to heaven.", (Hadavas, [2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J), p. 3).
 
-Table 1. The 3 *errors* of *Plato*, *Aristotle* and *Epicurus*, that result from Moses' statements of a *creation*, according to Schedel ([1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024), fol. IIr).
+**Table 1**. The 3 *errors* of *Plato*, *Aristotle* and *Epicurus*, that result from Moses' statements of a *creation*, according to Schedel ([1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024), fol. IIr).
 ~~~
-error	Plato etc.						Moses
+error	Plato etc.												Moses
 
-1	world was made of [...] Yle				God created the world without [...] material
-2	God [...] creatures [...], have existed for all time	Of all beings he first created the angels, and these out of nothing
-3	God [...] Yle, have existed for all time		the Spirit of the Lord [...] moved over the waters [...] who orders all things done
+1		world was made of [...] Yle								God created the world without [...] material
+2		God [...] creatures [...], have existed for all time	Of all beings he first created the angels, and these out of nothing
+3		God [...] Yle, have existed for all time				the Spirit of the Lord [...] moved over the waters [...] who orders all things done
 ~~~
 
-Table 2. The work of divine perfection, expressed in the figure *six* (*days*), whose component *parts* are 1, 2, and 3.
+**Table 2**. The work of divine perfection, expressed in the figure *six* (*days*), whose component *parts* are 1, 2, and 3.
 ~~~
-parts 	days		Latin			ENHG			Engl. tr.
+parts 	days		Latin				ENHG					Engl. tr.
 
-1	1		creatione[m]		beschöpfung		creation
-2	2,3		dispositione[m]		ordnung oder schickung	order
-3	4,5,6		ornatum			zierung			adornment
+1		1			creatione[m]		beschöpfung				creation
+2		2,3			dispositione[m]		ordnung oder schickung	order
+3		4,5,6		ornatum				zierung					adornment
 ~~~
 
 ## References
