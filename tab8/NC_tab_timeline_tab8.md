@@ -1,0 +1,182 @@
+# NC_tab_timeline.md
+
+>"Liber chronicarum cum figuris et ymagibus ab inicio mundi", (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024)).
+
+>"Das bůch Der croniken unnd geschichten mit figuren und pildnussen von Anbeginn der welt bis auff diese unsere Zeyt", (Schedel & Alt, [1496](https://doi.org/10.3931/e-rara-69075), fol. Ir).
+
+>The book of chronicles (and histories) with characters and illustrations from the beginning of the world (to this day)
+
+**Table 1**. Headings and contents of fol. Ir to fol. VIIr of the *Latin* version $Lat$ (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024)) and the *Early New High German* versions $ENHG$, $ENHG96$, respectively (Schedel & Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), [1496](https://doi.org/10.3931/e-rara-69075), res.) with the *English* translation (Hadavas, [2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J)).
+~~~
+page			contents
+
+Lat
+Foliu[m] I	recto	Epitoma operu[m] sex dieru[m] de mu[n]di fabrica Prologus
+		verso	
+Folium II	recto	
+		verso	De opere prime diei.
+Foliu[m] III	recto	De opere secunde diei.
+		verso	De opere tercie diei.
+Foliu[m] IIII	recto	De opere quarte diei.
+		verso	De opere quinte diei.
+Foliu[m] V	recto	De opere sexte diei.
+		verso	De sanctificatione septime diei
+Foliu[m] VI	recto	Queda[m] circa spera[m] planetaru[m] et orbiu[m] declara[n]da.
+		verso	Prima etas mundi
+Foliu[m] VII	recto	Etas prima mundi
+
+ENHG
+fo. .1.		recto	Ein kurtze beschreybung des wercks der sechs tag von dem geschöpff der werlt die vorrede.
+		verso	
+Blat II		recto	
+		verso	Vom werck des erste[n] tags
+Blat III	recto	Vom werck des andern tags
+		verso	Vom werck des dritten tags
+Blat IIII	recto	Vom werck des vierden tags
+		verso	Vom werck des funffte[n] tags
+Blat V		recto	Vom werck des sechten tags
+		verso	Von beheyligung des siebenden tags
+Blat VI		recto	
+		verso	Das erst alter.
+Blat VII	recto	der werlt
+
+ENHG96
+Das erst Blat	recto	Das bůch Der croniken unnd geschichten mit figuren und pildnussen von Anbeginn der welt bis auff diese unsere Zeyt
+		verso	Ein kurtze beschreybung des wercks der sechsz tag vo[n] dem geschöpff d[er] welte die vorrede.
+Das ander Blat	recto	
+		verso	
+Das drit Blat	recto	
+		verso	Vo[m] werck des erste[n] tags vo[m] werck des andern ta.
+Das vierdt Blat	recto	vo[m] werck des dritte[n] tags
+		verso	Vom werck des vierden tages
+Das v. Blat	recto	Vom werck des .v. tags
+		verso	Von beheyligung des siebenden tags
+Das vi. Blat	recto	
+		verso	Das erst alter.
+Das vii. Blat	recto	der welt
+
+Engl. tr.		
+1	    	recto	A Brief Description of the Work of Six Days from the Creation of the World - The Preface
+	 	verso	
+2	 	recto	
+		verso	OF THE WORK OF THE FIRST DAY
+3		recto	OF THE WORK OF THE SECOND DAY
+	 	verso	OF THE WORK OF THE THIRD DAY
+4	 	recto	OF THE WORK OF THE FOURTH DAY
+	 	verso	THE WORK OF THE FIFTH DAY
+5	 	recto	OF THE WORK OF THE SIXTH DAY
+	 	verso	OF THE SANCTIFICATION OF THE SEVENTH DAY
+6		recto	CERTAIN THINGS THAT MUST BE DECLARED ABOUT THE SPHERES OF THE PLANETS AND THEIR ORBITS
+		verso	The First Age of the World
+7		recto	
+~~~
+
+**Table 2**. Comparison between the headings and contents of fol. Ir to fol. VIIr of the *Latin* version $Lat$ (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024)) and the *Early New High German* versions $ENHG$, $ENHG96$, respectively (Schedel & Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), [1496](https://doi.org/10.3931/e-rara-69075), res.).
+~~~
+fol		contents		
+		Lat					ENHG							ENHG96
+
+1	recto	Epitoma [...] Prologus			Ein kurtze beschreybung [...] der werlt die vorrede.	Das bůch Der croniken [...] bis auff diese unsere Zeyt
+	verso													Ein kurtze beschreybung [...] d[er] welte die vorrede.
+2	recto			
+	verso	De opere prime diei.			Vom werck des erste[n] tags	
+3	recto	De opere secunde diei.			Vom werck des andern tags	
+	verso	De opere tercie diei.			Vom werck des dritten tags				Vo[m] werck des erste[n] tags vo[m] werck des andern ta.
+4	recto	De opere quarte diei.			Vom werck des vierden tags				vo[m] werck des dritte[n] tags
+	verso	De opere quinte diei.			Vom werck des funffte[n] tags				Vom werck des vierden tages
+5	recto	De opere sexte diei.			Vom werck des sechten tags				Vom werck des .v. tags
+	verso	De sanctificatione septime diei		Von beheyligung des siebenden tags			Von beheyligung des siebenden tags
+6	recto	Queda[m] circa [...] declara[n]da.		
+	verso	Prima etas mundi			Das erst alter.						Das erst alter.
+7	recto	Etas prima mundi			der werlt						der welt
+~~~
+
+**Table 3**. Timeline of the most important characters or authors mentioned in the *Nuremberg Chronicle* fol. 1r to fol. VIIr (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024); Schedel & Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), [1496](https://doi.org/10.3931/e-rara-69075), res. and Hadavas, [2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J)) by (1) $age$, (2) *year of the world* according to the interpretation by *the seventy* $NC_{lxx}$, year from the (3) *Byzantine* or *Roman* calendar (*epoch Kosmos*) $ε.K.$, (4) *Hebrew* calendar according to the *Nuremberg Chronicle* $NC_{AM}$, (5) *Hebrew* calendar (*Anno Mundi*) $AM$, (6) year *before Christ* $BC$, (7) the actual year *Anno Domini* $AD$, (8) the Ancient Roman *Ab urbe condita* $AVC$ and finally (9) the Islamic *Anno Hegirae* $AH$ with page of first mention $fol$ and dates.
+~~~
+age	NC_lxx	ε.Κ.	NC_AM	AM	BC	AD	AVC	AH	Latin				ENHG			Engl. tr.	fol	actual name				from	to	
+
+...II	3100	3409	1864	1661	2101											
+	3150	3459	1914	1711	2051				iupiter				Iupiter			Jupiter		Ir	Lisania, Jupiter I				21	c. BC
+
+III	3200	3509	1964	1761	2001											
+	3250	3559	2014	1811	1951											
+	3300	3609	2064	1861	1901											
+	3350	3659	2114	1911	1851											
+	3400	3709	2164	1961	1801											
+	3450	3759	2214	2011	1751											
+	3500	3809	2264	2061	1701											
+	3550	3859	2314	2111	1651											
+	3600	3909	2364	2161	1601											
+	3650	3959	2414	2211	1551				moyses				Moyses			Moses		Ir	Moses					16	15	c. BC
+	3700	4009	2464	2261	1501											
+	3750	4059	2514	2311	1451											
+	3800	4109	2564	2361	1401											
+	3850	4159	2614	2411	1351											
+	3900	4209	2664	2461	1301											
+	3950	4259	2714	2511	1251											
+	4000	4309	2764	2561	1201											
+	4050	4359	2814	2611	1151											
+	4100	4409	2864	2661	1101											
+
+IIII	4150	4459	2914	2711	1051											
+	4200	4509	2964	2761	1001				Salomon				Salomo[n]		Solomon		Ir	King Solomon the wise			970	931	BC
+	4250	4559	3014	2811	951											
+	4300	4609	3064	2861	901											
+	4350	4659	3114	2911	851											
+	4400	4709	3164	2961	801											
+	4450	4759	3214	3011	751		3									
+	4500	4809	3264	3061	701		53									
+	4550	4859	3314	3111	651		103		Ezechiele			Ezechiele		Ezekiel		IIIr	Ezekiel					622	570	BC
+	4600	4909	3364	3161	601		153		Pythagoras			Pitagoras		Pythagoras	Ir	Pythagoras of Samos			570	495	BC
+
+V	4650	4959	3414	3211	551		203									
+	4700	5009	3464	3261	501		253		Euripides Tragicus		euripides tragicus	Euripides	Ir	Euripides				480	406	BC
+	4750	5059	3514	3311	451		303		Plato				Plato			Plato		IIr	Plato					428/423	348	BC
+	4800	5109	3564	3361	401		353		Arestotiles			Arestotiles		Aristotle	IIr	Aristotle				384	322	BC
+	4850	5159	3614	3411	351		403		epicur				Epicur			Epicurus	IIr	Epicurus				341	270	BC
+	4900	5209	3664	3461	301		453									
+	4950	5259	3714	3511	251		503		septuaginta interpretes¹	Die lxx Ausleger	the Seventy	IIr	The Translation of the Seventy		3	2	c. BC
+	5000	5309	3764	3561	201		553									
+	5050	5359	3814	3611	151		603		Cicero				Cicero			Cicero		Vv	Marcus Tullius Cicero 			106	43	BC
+	5100	5409	3864	3661	101		653		Strabo				Strabo			Strabo		Ir	Strabo					64/63	24	BC/AD
+	5150	5459	3914	3711	51		703		Ouidius				Ouidius			Ovid		IIr	Publius Ovidius Naso			43	18	BC/AD
+
+VI,VII	5200	5509	3964	3761	1	0	753		Lucas				Lucas			Luke		Ir	Luke the Evangelist			1/16	84/100	AD
+	5250	5559	4014	3811		50	803									
+	5300	5609	4064	3861		100	853									
+	5350	5659	4114	3911		150	903		Origenes			Origenes		Origen		Ir	Origen of Alexandria			185	253	AD
+	5400	5709	4164	3961		200	953		Plotinus			Plotinus		Plotinus	IIIIv	Plotinus				204	270	AD
+	5450	5759	4214	4011		250	1003									
+	5500	5809	4264	4061		300	1053		Hieronymus			Ieronimus		Jerome		Ir	Saint Jerome				342/347	420	AD
+	5550	5859	4314	4111		350	1103									
+	5600	5909	4364	4161		400	1153		Remigius			Remigius		Remigius	Ir	Saint Remigius				437	533	AD
+	5650	5959	4414	4211		450	1203									
+	5700	6009	4464	4261		500										
+	5750	6059	4514	4311		550			Dionisio			Dionisio		Dionisio	VIr	(Pseudo) Dionysius the Areopagite	5	6	c. AD
+	5800	6109	4564	4361		600			Egidius				Egidius			Aegidius	Ir	Saint Giles				650	710	AD
+	5850	6159	4614	4411		650		30	Beda				Beda			Bede		Ir	Saint Bede				672/673	735	AD
+	5900	6209	4664	4461		700		81								
+	5950	6259	4714	4511		750		133								
+	6000	6309	4764	4561		800		184								
+	6050	6359	4814	4611		850		236								
+	6100	6409	4864	4661		900		288								
+	6150	6459	4914	4711		950		339								
+	6200	6509	4964	4761		1000		391								
+	6250	6559	5014	4811		1050		442	Abraam				Abraham			Abraham		Ir	Abraham Bar Ḥiyya (Savasorda)		1070	1145	
+	6300	6609	5064	4861		1100		494								
+	6350	6659	5114	4911		1150		545								
+	6400	6709	5164	4961		1200		597	Albertus			Albertus		Albertus	Ir	Albertus Magnus				1200	1280	
+	6450	6759	5214	5011		1250		648	Gersonides			Gersonides		Gersonides	Ir	Levi ben Gershon 			1288	1344	
+	6500	6809	5264	5061		1300		700								
+~~~
+¹) "vt tra[n]stulit diu[us] Hiero. v[el] vt septinge[n]ta", Schedel ([1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024), fol. IIr), either as the divine Jerome translated, or as (the) *seven hundred*.			
+
+## References
+
+Hadavas, K. (2023). *First English edition of the Nuremberg chronicle : being the Liber chronicarum of Dr. Hartmann Schedel*. Edited by Hadavas, K. UW–Madison TEI edition. Madison, Wisconsin: University of Wisconsin–Madison Libraries. [https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J)
+
+Schedel, H. (1493). *Liber chronicarum cum figuris et ymagibus ab inicio mundi*. Nuremberge: Antonius Koberger. [https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024)
+
+Schedel, H., & Alt, G. (tr.). (1493). *Buch der Chroniken und geschichten mit figure und pildnüssen von anbegin der welt bis auf diese unsere Zeit*. Nuremberge: Antonius Koberger. [https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218)
+
+———. (1496). *Das buch Der croniken unnd geschichten mit figuren und pildnussen von Anbeginn der welt bis auff diese unsere Zeyt*. Augsburg: Johann Schönsperger. [https://doi.org/10.3931/e-rara-69075](https://doi.org/10.3931/e-rara-69075) 
