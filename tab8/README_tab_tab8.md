@@ -14,7 +14,7 @@ Tables (`Tab_fol_1r` to `Tab_fol_6r`, `NC_tab_astro01` to `NC_tab_astro03`, `NC_
 
 Table 1. Headings and contents of fol. Ir to fol. VIIr (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024); Schedel & Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), [1496](https://doi.org/10.3931/e-rara-69075), res.).
 ~~~
-page			content
+page			contents
 
 Foliu[m] I	recto	Epitoma operu[m] sex dieru[m] de mu[n]di fabrica Prologus
 fo. .1.			Ein kurtze beschreybung des wercks der sechs tag von dem geschöpff der werlt die vorrede.
