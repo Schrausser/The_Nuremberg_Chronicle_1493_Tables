@@ -26,8 +26,6 @@ Thus, a *group* is an ordered pair $(G,∗)$ consisting of a *set* $G$ ($\mathbb
 
 The *holomorph* $Hol(G)$ of *group* $G$ is that *group* which contains both (1) $G$ itself and its *automorphism group* (2) $Aut(G)$, the *mapping* between two structures of a mathematical object[^2] onto itself[^3] (cf. Burnside, [1897](https://archive.org/details/in.ernet.dli.2015.168629/mode/1up)).
 
----
-
 [^1]: from ὅλος (holos) *whole* and μορφή (morphē) *form*.  
 [^2]: *Isomorphism* from ἴσος (ísos) *equal* and μορφή (morphḗ) *form*, a *mapping* between two mathematical structures by which parts of one structure are *bijectively* (invertibly uniquely) *mapped* to equivalent parts of another structure.  
 [^3]: *Automorphism* from αὐτός (autos) *self* and μορφή (morphē) *form*, an *isomorphism* of a mathematical object *onto itself*.  
