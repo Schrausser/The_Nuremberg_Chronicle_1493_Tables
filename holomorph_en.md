@@ -20,7 +20,7 @@ A *set* $G$ of elements, together with a *operation* $*$, which assigns a third 
 
 For example, the *set* $G$ of integers $\mathbb Z$ $\\\{...,-2,-1,0,1,2,...\\\}$ (c.f. Euler, [1771](https://doi.org/10.3931/e-rara-9093)) with *addition* as the *operation* $∗$. For two integers $a$ and $b$, the sum $a+b$ is again an integer $c$, where the *inverse* element of $a$ is denoted as $−a$.
 
-Thus, a *group* is an ordered pair $(G,∗)$ consisting of a *set* $G$ ($\mathbb Z$) and an inner binary *operation* $∗$ (the *addition*) on $G$ (cf. Burnside, [1897](https://archive.org/details/in.ernet.dli.2015.168629/mode/1up)).
+Thus, a *group* is an ordered pair $(G,∗)$ consisting of a *set* $G$ ($\mathbb Z$) and an inner binary *operation* $∗$ (the *addition*) on $G$ (c.f. Burnside, [1897](https://archive.org/details/in.ernet.dli.2015.168629/mode/1up)).
 
 ### 2.2. Holomorph:
 
