@@ -28,7 +28,7 @@ Somit ist eine *Gruppe* ein geordnetes Paar $(G,∗)$, bestehend aus einer *Meng
 Der *Holomorph* $Hol(G)$ von *Gruppe* $G$, ist jene *Gruppe*, welche sowohl (1) $G$ selbst, als auch ihre *Automorphismengruppe* (2) $Aut(G)$, die *Abbildung* zwischen zwei Strukturen eines mathematischen Objekts[^2] auf sich selbst[^3], enthält (vgl. Miller, [1908](https://doi.org/10.1007/BF01450918); Grinshpon, [2008](https://doi.org/10.1007/s10958-008-9178-0)).
 
 [^1]: von ὅλος (holos) *ganz* und μορφή (morphē) *Form*.  
-[^2]: *Isomorphismus* von ἴσος (ísos) *gleich* und μορφή (morphḗ) *Form*, eine *Abbildung* zwischen zwei mathematischen Strukturen, durch welche Teile einer Struktur auf *bedeutungsgleiche* Teile einer anderen Struktur *bijektiv* (umkehrbar eindeutig) *abgebildet* werden.  
+[^2]: *Isomorphismus* von ἴσος (ísos) *gleich* und μορφή (morphē) *Form*, eine *Abbildung* zwischen zwei mathematischen Strukturen, durch welche Teile einer Struktur auf *bedeutungsgleiche* Teile einer anderen Struktur *bijektiv* (umkehrbar eindeutig) *abgebildet* werden.  
 [^3]: *Automorphismus* von αὐτός (autos) *selbst* und μορφή (morphē) *Form*, ein *Isomorphismus* eines mathematischen Objekts *auf sich selbst*.
 
 <br>
