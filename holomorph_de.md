@@ -27,10 +27,6 @@ Somit ist eine *Gruppe* ein geordnetes Paar $(G,∗)$, bestehend aus einer *Meng
 
 Der *Holomorph* $Hol(G)$ von *Gruppe* $G$, ist jene *Gruppe*, welche sowohl (1) $G$ selbst, als auch ihre *Automorphismengruppe* (2) $Aut(G)$, die *Abbildung* zwischen zwei Strukturen eines mathematischen Objekts[^2] auf sich selbst[^3], enthält (vgl. Miller, [1908](https://doi.org/10.1007/BF01450918); Grinshpon, [2008](https://doi.org/10.1007/s10958-008-9178-0)).
 
-<br>
-
----
-
 [^1]: von ὅλος (holos) *ganz* und μορφή (morphē) *Form*.  
 [^2]: *Isomorphismus* von ἴσος (ísos) *gleich* und μορφή (morphḗ) *Form*, eine *Abbildung* zwischen zwei mathematischen Strukturen, durch welche Teile einer Struktur auf *bedeutungsgleiche* Teile einer anderen Struktur *bijektiv* (umkehrbar eindeutig) *abgebildet* werden.  
 [^3]: *Automorphismus* von αὐτός (autos) *selbst* und μορφή (morphē) *Form*, ein *Isomorphismus* eines mathematischen Objekts *auf sich selbst*.
@@ -43,45 +39,45 @@ Abel, N. H., & Galois, É. (1889). *Abhandlungen über die Algebraische Auflösu
 
 Ahlfors, L. V., & et al. (1953). *Contributions to the Theory of Riemann Surfaces. (AM-30)*. Princeton University Press. [www.jstor.org/stable/j.ctt1b9x21c](http://www.jstor.org/stable/j.ctt1b9x21c)
 
-Atsuji, A. (1999). A Casorati–Weierstrass Theorem for Holomorphic Maps and Invariant σ-Fields of Homomorphic Diffusions. *Bulletin Des Sciences Mathématiques, 123*(5), 371–83. DOI:  [10.1016/S0007-4497(99)00108-6](https://doi.org/10.1016/S0007-4497(99)00108-6)
+Atsuji, A. (1999). A Casorati–Weierstrass Theorem for Holomorphic Maps and Invariant σ-Fields of Homomorphic Diffusions. *Bulletin Des Sciences Mathématiques, 123*(5), 371–83. DOI: [10.1016/S0007-4497(99)00108-6](https://doi.org/10.1016/S0007-4497(99)00108-6)
 
-Bonneau, P., & Mazzilli, E. (2026). La formule de Cauchy dans les algèbres. *Bulletin Des Sciences Mathématiques, 206*, 103761. DOI:  [10.1016/j.bulsci.2025.103761](https://doi.org/10.1016/j.bulsci.2025.103761)
+Bonneau, P., & Mazzilli, E. (2026). La formule de Cauchy dans les algèbres. *Bulletin Des Sciences Mathématiques, 206*, 103761. DOI: [10.1016/j.bulsci.2025.103761](https://doi.org/10.1016/j.bulsci.2025.103761)
 
 Burnside, W. (1897). *Theory of Groups of Finite Order*. Cambridge: At the University Press. [archive.org/details/in.ernet.dli.2015.168629](https://archive.org/details/in.ernet.dli.2015.168629/mode/1up)
 
 Cauchy, A. L. (1825). *Mémoire sur les intégrales définies, prises entre des limites imaginaires*. Paris: CHEZ DE BURE FRÈRES, LIBRAIRES DU ROI ET DE LA BIBLIOTHÈQUE DU ROI, Rue Serpente, no 7. [archive.org/details/mmoiresurlesin00cauc](https://archive.org/details/mmoiresurlesin00cauc/page/n4/mode/1up)
 
-Euler, L. (1771). *Vollständige Anleitung zur Algebra*. St. Petersburg: bei der kayserlichen Akademie der Wissenschaften. DOI:  [10.3931/e-rara-9093](https://doi.org/10.3931/e-rara-9093)
+Euler, L. (1771). *Vollständige Anleitung zur Algebra*. St. Petersburg: bei der kayserlichen Akademie der Wissenschaften. DOI: [10.3931/e-rara-9093](https://doi.org/10.3931/e-rara-9093)
 
 Galois, É. (1829). Analyse Algébrique. Démonstration d’un Théorème Sur Les Fractions Continues Périodiques. *Annales de Mathématiques Pures Et Appliquées, 19*, 294–301. [www.numdam.org/item/AMPA_1828-1829__19__294_0/](https://www.numdam.org/item/AMPA_1828-1829__19__294_0/)
 
-Grinshpon, I. E. (2008). Normal Subgroups of Holomorphs of Abelian Groups and Almost Holomorphic Isomorphism. *Journal of Mathematical Sciences, 154*(3), 284–89. DOI:  [10.1007/s10958-008-9178-0](https://doi.org/10.1007/s10958-008-9178-0)
+Grinshpon, I. E. (2008). Normal Subgroups of Holomorphs of Abelian Groups and Almost Holomorphic Isomorphism. *Journal of Mathematical Sciences, 154*(3), 284–89. DOI: [10.1007/s10958-008-9178-0](https://doi.org/10.1007/s10958-008-9178-0)
 
 Klein, F. C. (1882). *Ueber Riemann’s Theorie der Algebraischen Functionen und ihrer Integrale. Eine Ergänzung der Gewöhnlichen Darstellungen*. Leipzig: B. G. Teubner. [archive.org/details/ueberriemannsthe00kleirich](https://archive.org/details/ueberriemannsthe00kleirich/page/n1/mode/1up)
 
-Levy, B., Petitjean, S., Ray, N., & Maillot, J. (2002). Least Squares Conformal Maps for Automatic Texture Atlas Generation. *ACM Transactions on Graphics - TOG, 21*(July), 362–71. DOI:  [10.1145/566570.566590](https://doi.org/10.1145/566570.566590)
+Levy, B., Petitjean, S., Ray, N., & Maillot, J. (2002). Least Squares Conformal Maps for Automatic Texture Atlas Generation. *ACM Transactions on Graphics - TOG, 21*(July), 362–71. DOI: [10.1145/566570.566590](https://doi.org/10.1145/566570.566590)
 
 Lie, M. S. (1890). Über die Grundlagen der Geometrie. *Berichte Abh. Kgl. Sächs. Ges. Wiss. Leipzig, Math.-Naturwiss. Klasse, 42*. [archiv.saw-leipzig.de/saw-archive/publikationen](https://archiv.saw-leipzig.de/saw-archive/publikationen-quellen/publikationen/berichte-ueber-die-verhandlungen-der-koeniglich-saechsischen-gesellschaft-der-wissenschaften-zu-leipzig-mathematisch-physische-klasse-bd-1/berichte-ueber-die-verhandlungen-der-koeniglich-saechsischen-gesellschaft-der-wissenschaften-zu-leipzig-mathematisch-physische-klasse-bd-42/sophus-lie-ueber-die-grundlagen-der-geometrie-erste-abhandlung)
 
-Miller, G. A. (1908). On the Multiple Holomorphs of a Group. *Mathematische Annalen, 66*(1), 133–42. DOI:  [10.1007/BF01450918](https://doi.org/10.1007/BF01450918)
+Miller, G. A. (1908). On the Multiple Holomorphs of a Group. *Mathematische Annalen, 66*(1), 133–42. DOI: [10.1007/BF01450918](https://doi.org/10.1007/BF01450918)
 
-Remmert, R. (1991). Fundamental Theorems about Holomorphic Functions. In *Theory of Complex Functions*, 227–63. New York, NY: Springer. DOI:  [10.1007/978-1-4612-0939-3_1](https://doi.org/10.1007/978-1-4612-0939-3_1)
+Remmert, R. (1991). Fundamental Theorems about Holomorphic Functions. In *Theory of Complex Functions*, 227–63. New York, NY: Springer. DOI: [10.1007/978-1-4612-0939-3_1](https://doi.org/10.1007/978-1-4612-0939-3_1)
 
 Remmert, R., & Schumacher, G. (2002a). Fundamentalsätze über holomorphe Funktionen. In *Funktionentheorie 1*, 203–34. Berlin, Heidelberg: Springer. DOI: [10.1007/978-3-642-56281-5_10](https://doi.org/10.1007/978-3-642-56281-5_10)
 
-———. (2002b). Holomorphie Und Winkeltreue. Biholomorphe Abbildungen. In *Funktionentheorie 1*, 65–80. Berlin, Heidelberg: Springer. DOI:  [10.1007/978-3-642-56281-5_4](https://doi.org/10.1007/978-3-642-56281-5_4)
+———. (2002b). Holomorphie Und Winkeltreue. Biholomorphe Abbildungen. In *Funktionentheorie 1*, 65–80. Berlin, Heidelberg: Springer. DOI: [10.1007/978-3-642-56281-5_4](https://doi.org/10.1007/978-3-642-56281-5_4)
 
 Riemann, B. (1851). *Grundlagen für eine allgemeine Theorie der Functionen einer veränderlichen complexen Grösse*. Göttingen: Universitaets Buchdruckerei. [www.digitale-sammlungen.de/de/view/bsb10977332](https://www.digitale-sammlungen.de/de/view/bsb10977332?page=3)
 
 ———. (1894). B. Bernhard Riemann’s Dissertation (1851). *Jahresbericht Der Deutschen Mathematiker-Vereinigung, 3*, 256–65. [eudml.org/doc/144444](http://eudml.org/doc/144444)
 
-Robinson, D. J. S. (1996). *A Course in the Theory of Groups*. New York, NY: Springer. DOI:  [10.1007/978-1-4419-8594-1](https://doi.org/10.1007/978-1-4419-8594-1)
+Robinson, D. J. S. (1996). *A Course in the Theory of Groups*. New York, NY: Springer. DOI: [10.1007/978-1-4419-8594-1](https://doi.org/10.1007/978-1-4419-8594-1)
 
-Specht, S. W. (1956). *Gruppentheorie*. Berlin, Heidelberg: Springer. DOI:  [10.1007/978-3-642-94667-7](https://doi.org/10.1007/978-3-642-94667-7)
+Specht, S. W. (1956). *Gruppentheorie*. Berlin, Heidelberg: Springer. DOI: [10.1007/978-3-642-94667-7](https://doi.org/10.1007/978-3-642-94667-7)
 
-Ullrich, P., ed. (1988). Weierstrassscher Produktsatz. In *Einleitung in Die Theorie Der Analytischen Funktionen*, 147–52. Wiesbaden: Vieweg+Teubner Verlag. DOI:  [10.1007/978-3-663-06846-4_19](https://doi.org/10.1007/978-3-663-06846-4_19)
+Ullrich, P., ed. (1988). Weierstrassscher Produktsatz. In *Einleitung in Die Theorie Der Analytischen Funktionen*, 147–52. Wiesbaden: Vieweg+Teubner Verlag. DOI: [10.1007/978-3-663-06846-4_19](https://doi.org/10.1007/978-3-663-06846-4_19)
 
-———. (2005). Chapter 34 - Bernhard Riemann, Thesis on the Theory of Functions of a Complex Variable (1851). In *Landmark Writings in Western Mathematics 1640-1940*, edited by Grattan-Guinness, I., Cooke, R., Leo Corry, L., Crépel, P., & Guicciardini, N., 448–59. Amsterdam: Elsevier Science. DOI:  [10.1016/B978-044450871-3/50115-7](https://doi.org/10.1016/B978-044450871-3/50115-7)
+———. (2005). Chapter 34 - Bernhard Riemann, Thesis on the Theory of Functions of a Complex Variable (1851). In *Landmark Writings in Western Mathematics 1640-1940*, edited by Grattan-Guinness, I., Cooke, R., Leo Corry, L., Crépel, P., & Guicciardini, N., 448–59. Amsterdam: Elsevier Science. DOI: [10.1016/B978-044450871-3/50115-7](https://doi.org/10.1016/B978-044450871-3/50115-7)
 
 Weierstraß, C. (1854). Zur Theorie der Abelschen Functionen. *Journal für die reine und angewandte Mathematik, 47*, 289–306. [eudml.org/doc/147563](http://eudml.org/doc/147563)
 
