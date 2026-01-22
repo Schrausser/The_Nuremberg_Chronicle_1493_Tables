@@ -10,8 +10,6 @@ Hylomorphism, as a theory about *material objects*, was first explained by ***Ar
 
 It was in the Middle Ages that *hylomorphism* became the dominant view, with scholastics of the time developing elaborate *hylomorphic* theories to explain the *world*, using the concept of ***matter*** and ***form*** to represent and explain various *theological* doctrines (c.f. Skrzypek, [2017](https://doi.org/10.1111/phib.12104), p. 360; Koslicki [2008](https://philpapers.org/rec/KOSTSO-2); Manning [2013](http://www.jstor.org/stable/43291297); Carter [2019](https://doi.org/10.1017/9781108646321.001); Simpson, [2023](https://doi.org/10.1017/9781009026475)).
 
----
-
 [^1]: In *Phaedo* (102d-103a), it is described how a *person* remains the same *individual* despite changes, like a continuing object (*matter*) that assumes different properties (*forms*).  
 [^2]: In *Timaeus*, the creator god orders or configures pre-cosmic *matter* with *forms* and numbers.  
 [^3]: The division of reality in *Philebus* (23c-e) with the *unlimited* (*matter*) and the *limiting* (*form*).  
