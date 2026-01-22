@@ -12,7 +12,6 @@ Als Theorie zu *materiellen Objekte* wurde *Hylomorphismus* erstmals von ***Aris
 
 Es war im Mittelalter, dass der *Hylomorphismus* zur dominierenden Ansicht wurde, wobei damalige Scholastiker aufwendige *hylomorphe* Theorien zur *Welterklärung* entwickelten und dabei das Konzept von ***Materie*** und ***Form*** nutzten, um verschiedene *theologische* Lehren darzustellen und zu erklären (vgl. Skrzypek, [2017](https://doi.org/10.1111/phib.12104), S. 360; Koslicki [2008](https://philpapers.org/rec/KOSTSO-2); Manning [2013](http://www.jstor.org/stable/43291297); Carter [2019](https://doi.org/10.1017/9781108646321.001); Simpson, [2023](https://doi.org/10.1017/9781009026475)).
 
----
 
 [^1]: In *Phaidon* (102d-103a) wird beschrieben, wie eine *Person* trotz Veränderungen dasselbe *Individuum* bleibt, gleich einem fortbestehendes Objekt (*Materie*), das unterschiedliche Eigenschaften (*Formen*) annimmt.  
 [^2]: In *Timaios* ordnet bzw. konfiguriert der Schöpfergott die vorkosmische *Materie* mit *Formen* und Zahlen.  
