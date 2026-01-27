@@ -1,5 +1,7 @@
 # NC_note03.md
 
+<br>
+
 ## Council of Chalcedon, 4th Ecumenical Council (451 AD / 1204 AUC):
 
 Convened by the Roman Emperor *Marcian* (c. 392–457) in the East, 4 months after the victory of *Valentinian III* (419–455) over *Attila* in the West[^1], it is considered the largest of the early church councils (c.f. Walz, [1952](http://www.jstor.org/stable/44624137); Barnes, [2008](http://www.jstor.org/stable/20482571); Price & Whitby, [2009](http://www.jstor.org/stable/j.ctt5vjnmz); Pawl, [2022](https://www.saet.ac.uk/Christianity/ConciliarChristology)) and had the primary purpose of resolving the debates about the *nature* of Jesus Christ[^2] (c.f. Mateiescu, [2023](https://doi.org/10.1111/moth.12871)), from which the ***Chalcedonian Definition*** subsequently emerged (c.f. Rees, [1931](http://www.jstor.org/stable/1507708); Pittenger, [1952](https://doi.org/10.1111/j.1758-6623.1952.tb01500.x); DelCogliano, [2022](https://doi.org/10.1017/9781009057103.004)):
