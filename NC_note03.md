@@ -12,8 +12,6 @@ Furthermore, the decree granted the See of *Constantinople* patriarchal status w
 
 <br>
 
----
-
 [^1]: In the Battle of the *Catalaunian Plains* (also known as the *Battle of Troyes*) in the area between Orléans, Troyes and Reims on 20. 6. 451, the Roman-Visigothic army defeated the Huns and Ostrogoths under *Attila* (c. 406-453) and forced them to *retreat from Gaul* (c.f.  Kelly, [2014](https://doi.org/10.1017/CCO9781139128964.016)).
 
 [^2]: Especially regarding the *distinction* from ***Monophysitism***, the doctrine that Jesus Christ has only *one* divine nature (c.f. Neal, [2011](https://doi.org/10.1002/9780470670606.wbecc0927)).
@@ -44,8 +42,6 @@ Dies führte jedoch als Konsequenz zu einem *großen Schisma*, zumal die Ergebni
 Das Dekret gewährte darüberhinaus dem Stuhl von *Konstantinopel patriarchalen* Status mit *gleichen* Privilegien gegenüber dem Stuhl von *Rom* (vgl. Goffart, [1981](http://www.jstor.org/stable/1857439); Pelikan, [1982](http://www.jstor.org/stable/20024804); Delanty, [1995](https://doi.org/10.1057/9780230379657_2); Haldon, [2005](https://doi.org/10.1057/9780230273955_4); Venning, [2006](https://doi.org/10.1057/9780230505865_3)).
 
 <br>
-
----
 
 [^9]: In der Schlacht auf den *katalaunischen Feldern* (auch Schlacht von *Troyes*) im Gebiet zwischen Orléans, Troyes und Reims am 20. 6. 451, in welcher das römisch-westgotische Heer die Hunnen sowie Ostgoten unter *Attila* (c. 406 - 453) besiegte und zum *Rückzug aus Gallien* zwang (vgl.  Kelly, [2014](https://doi.org/10.1017/CCO9781139128964.016)).
 
