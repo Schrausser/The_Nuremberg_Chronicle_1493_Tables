@@ -6,7 +6,7 @@ Convened by the Roman Emperor *Marcian* (c. 392–457) in the East, 4 months aft
 
 The adoption of the *doctrine of two natures* (***dyophysitism***)[^3] (c.f. Russell, [2010](https://doi.org/10.1017/S0022046910000977)), which states that Jesus Christ exists in *two natures*[^4] (*divine* and *human*), in *one person*, the so-called *Hypostatic Union*[^5] (c.f. Sikora, [1970](https://doi.org/10.1007/978-94-011-9576-8_5); Davis, [1983](https://doi.org/10.1007/978-1-349-06352-9_9)) and thus the confirmation of the Tome[^6] of Pope *Leo I.* (c. 391 - 461)[^7] (c.f. Uhalde, [2009](http://www.jstor.org/stable/27745668)).
 
-However, this led as a consequence to a *great schism*, since the results were recognized by the (1) *Roman Catholic*, (2) *Orthodox* and (3) most *Protestant and Anglican* churches, but were rejected by *several* Oriental communities[^8] (c.f. Vööbus, [1973](http://www.jstor.org/stable/3165043)), leading to their *separation* from the state church.
+However, this led to a *great schism* as a consequence, since the results were recognized by the (1) *Roman Catholic*, (2) *Orthodox* and (3) most *Protestant and Anglican* churches, but were rejected by *several* Oriental communities[^8] (c.f. Vööbus, [1973](http://www.jstor.org/stable/3165043)), leading to their *separation* from the state church.
 
 Furthermore, the decree granted the See of *Constantinople* patriarchal status with *equal* privileges compared to the See of *Rome* (c.f. Goffart, [1981](http://www.jstor.org/stable/1857439); Pelikan, [1982](http://www.jstor.org/stable/20024804); Delanty, [1995](https://doi.org/10.1057/9780230379657_2); Haldon, [2005](https://doi.org/10.1057/9780230273955_4); Venning, [2006](https://doi.org/10.1057/9780230505865_3)).
 
