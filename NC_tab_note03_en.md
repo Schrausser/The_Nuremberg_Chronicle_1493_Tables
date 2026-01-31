@@ -2,16 +2,16 @@
 
 **Table 1**. The *seven ecumenical councils* of the *ancient Church* (325-787) with their (1) *initiators* from the *West* or *East Roman Empire*, res., (2) *popes*, most significant parallel occurring political and/or religious *events* as well as corresponding *rulers* in *Persia* (3) and (4) *China* with corresponding *religious affiliations*.												
 ~~~
-								Roman Emperor											Persia		
-N	Council of		AUC	AD	AH	diff	West			East			Pope		Event				Sasanian King⁶	Caliph⁷			Chinese Emperor
+														Roman Emperor																		Persia		
+N	Council of			AUC		AD		AH		diff	West				East				Pope			Event						Sasanian King⁶	Caliph⁷				Chinese Emperor
 
-1	Nicäa I			1078	325	-305		Constantine I¹‘²				Sylvester I²	Edict of Milan¹¹		Shapur II				Ming of Jin⁸
-2	Constantinople I	1134	381	-247	56	Theodosius I³					Damasus I²	Division of the empire¹²	Ardashir II				Xiaowu of Jin⁸
-3	Ephesos			1184	431	-196	50	Valentinian III²	Theodosius II³		Celestine I²	Vulgate¹³			Bahram V				Wen of Song⁸‘⁹‘¹⁰
-4	Chalcedon		1204	451	-175	20	Valentinian III 	Marcian⁴		Leo I⁴		Attila¹⁴			Yazdegerd II				Wen of Song
-5	Constantinople II	1306	553	-91	102				Justinian I⁴		Vigilius⁴	Restauratio imperii¹⁵		Khosrow I				Yuan of Liang⁸
-6	Constantinople III	1433	680	61	127				Constantine IV⁴		Agatho⁵		Hijrah¹⁶					Yazid I			Gaozong of Tang⁸‘⁹
-7	Nicäa II		1540	787	171	107				Constantine VI⁴		Adrian I⁵	Translatio imperii¹⁷				Harun al-Rashid		Dezong of Tang⁹‘¹⁰
+1	Nicäa I				1078	325		-305			Constantine I¹‘²						Sylvester I²	Edict of Milan¹¹			Shapur II							Ming of Jin⁸
+2	Constantinople I	1134	381		-247	56		Theodosius I³							Damasus I²		Division of the empire¹²	Ardashir II							Xiaowu of Jin⁸
+3	Ephesos				1184	431		-196	50		Valentinian III²	Theodosius II³		Celestine I²	Vulgate¹³					Bahram V							Wen of Song⁸‘⁹‘¹⁰
+4	Chalcedon			1204	451		-175	20		Valentinian III 	Marcian⁴			Leo I⁴			Attila¹⁴					Yazdegerd II						Wen of Song
+5	Constantinople II	1306	553		-91		102							Justinian I⁴		Vigilius⁴		Restauratio imperii¹⁵		Khosrow I							Yuan of Liang⁸
+6	Constantinople III	1433	680		61		127							Constantine IV⁴		Agatho⁵			Hijrah¹⁶									Yazid I				Gaozong of Tang⁸‘⁹
+7	Nicäa II			1540	787		171		107							Constantine VI⁴		Adrian I⁵		Translatio imperii¹⁷						Harun al-Rashid		Dezong of Tang⁹‘¹⁰
 ~~~
 
 ¹) Ancient Roman religion.  
