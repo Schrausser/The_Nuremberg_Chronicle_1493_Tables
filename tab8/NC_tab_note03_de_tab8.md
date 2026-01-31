@@ -85,7 +85,7 @@ n	Konzil von		AUC	AD	AH	diff	West			Ost			Papst			Ereignis			Sassanidenher.⁷		
 	1479	726	108						
 	1489	736	118						
 	1499	746	129						
-	1509	756	139															Abbasid	
+	1509	756	139													Abbasid	
 	1519	766	149							Hadrian I.⁶			
 	1529	776	160						
 7	1539	786	170				Konstantin VI.⁴				
