@@ -37,58 +37,59 @@ n	Konzil von			AUC		AD		AH		diff	West				Ost					Papst			Ereignis					Sassaniden
 **Tabelle 2**. Die *sieben ökumenischen Konzilien* (Ö.K.) der *alten Kirche* (325-787) mit ihren (1) *Initiatoren* aus dem *Weströmischen* bzw. *Oströmischen Reich*, (2) *Päpsten*, sowie den zeitlich entsprechenden *Herrschern* in *Persien* (3) und (4) *Dynastien* in *China* mit entsprechenden *Religionszugehörigkeiten*.									
 
 ~~~									
-				Römischer Kaiser			Persien		
-Ö.K.	AUC	AD	AH	West	Ost	Papst	Sassanidenher.⁷	Kalifat⁸	Chin. Dynastie⁹
-	1059	306		Konstantin I.¹'²					W. Jin
-1	1069	316				Silvester I.²	Shapur II.		
-	1079	326							E. Jin
-	1089	336							
-	1099	346							
-	1109	356							
-	1119	366				Damasus I.²			
-2	1129	376							
-	1139	386		Theodosius I.³	Arcadius³				
-	1149	396		Honorius³					
-	1159	406			Theodisius II.³				
-	1169	416							
-3	1179	426		Valentinian III.²		Coelestin I.²	Bahram V.		Song
-	1189	436							
-4	1199	446				Leo I.⁴	Yazdegerd II.		
-	1209	456			Markian⁴				
-	1219	466			Leo I.⁴				
-	1229	476							
-	1239	486							Qi
-	1249	496			Anastasius I.⁵				
-	1259	506							Liang
-	1269	516							
-	1279	526			Justin I.⁴				
-	1289	536			Justinian I.⁴		Khosrow I.		
-5	1299	546				Vigilius⁴			
-	1309	556							
-	1319	566							N. Zhou
-	1329	576							Sui
-	1339	586							
-	1349	596							
-	1359	606			Phocas⁴				
-	1369	616			Heraclius⁴				
-	1379	626	5					(Mohammed)	Tang
-	1389	636	15					Rashidun	
-	1399	646	26						
-	1409	656	36						
-	1419	666	46					Umayyad	
-6	1429	676	57		Konstantin IV.⁴	⁶			
-	1439	686	67						
-	1449	696	77						
-	1459	706	88						Wu Zhou
-	1469	716	98						Tang
-	1479	726	108						
-	1489	736	118						
-	1499	746	129						
-	1509	756	139					Abbasid	
-	1519	766	149			Hadrian I.⁶			
-	1529	776	160						
-7	1539	786	170		Konstantin VI.⁴				
-	1549	796	180						
+								Römischer Kaiser											Persien		
+Ö.K.	AUC		AD		AH		West				Ost					Papst				Sassanidenher.⁷		Kalifat⁸		Chin. Dynastie⁹
+
+		1059	306				Konstantin I.¹'²																				W. Jin
+1		1069	316														Silvester I.²		Shapur II.		
+		1079	326																												E. Jin
+		1089	336							
+		1099	346							
+		1109	356							
+		1119	366														Damasus I.²			
+2		1129	376							
+		1139	386				Theodosius I.³		Arcadius³				
+		1149	396				Honorius³					
+		1159	406									Theodisius II.³				
+		1169	416							
+3		1179	426				Valentinian III.²						Coelestin I.²		Bahram V.							Song
+		1189	436							
+4		1199	446														Leo I.⁴				Yazdegerd II.		
+		1209	456									Markian⁴				
+		1219	466									Leo I.⁴				
+		1229	476							
+		1239	486																												Qi
+		1249	496									Anastasius I.⁵				
+		1259	506																												Liang
+		1269	516							
+		1279	526									Justin I.⁴				
+		1289	536									Justinian I.⁴							Khosrow I.		
+5		1299	546														Vigilius⁴			
+		1309	556							
+		1319	566																												N. Zhou
+		1329	576																												Sui
+		1339	586							
+		1349	596							
+		1359	606									Phocas⁴				
+		1369	616									Heraclius⁴				
+		1379	626		5																						(Mohammed)		Tang
+		1389	636		15																						Rashidun	
+		1399	646		26						
+		1409	656		36						
+		1419	666		46																						Umayyad	
+6		1429	676		57							Konstantin IV.⁴	⁶			
+		1439	686		67						
+		1449	696		77						
+		1459	706		88																										Wu Zhou
+		1469	716		98																										Tang
+		1479	726		108						
+		1489	736		118						
+		1499	746		129						
+		1509	756		139																						Abbasid	
+		1519	766		149												Hadrian I.⁶			
+		1529	776		160						
+7		1539	786		170							Konstantin VI.⁴				
+		1549	796		180						
 
 ~~~
 ¹) Antike römische Religion.  
