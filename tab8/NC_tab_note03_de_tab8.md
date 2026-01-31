@@ -3,16 +3,16 @@
 **Tabelle 1**. Die *sieben ökumenischen Konzilien* der *alten Kirche* (325-787) mit ihren (1) *Initiatoren* aus dem *Weströmischen* bzw. *Oströmischen Reich*, (2) *Päpsten*, den bedeutsamsten parallel aufgetretenen politischen und/oder religiösen *Ereignissen* sowie den zeitlich entsprechenden *Herrschern* in *Persien* (3) und (4) *China* mit entsprechenden *Religionszugehörigkeiten*.												
 									
 ~~~
-														Römischer Kaiser																	Persien								Chinesischer
-n	Konzil von			AUC		AD		AH		diff	West				Ost					Papst			Ereignis					Sassanidenher.⁷	Kalif⁸				Kaiser
+								Römischer Kaiser											Persien						Chinesischer
+n	Konzil von		AUC	AD	AH	diff	West			Ost			Papst			Ereignis			Sassanidenher.⁷		Kalif⁸			Kaiser
 
-1	Nicäa (1.)			1078	325		-305			Konstantin I.¹'²						Silvester I.²	Mailänder Vereinbarung¹¹	Shapur II.							Ming von Jin⁸
-2	Konstantinopel (1.)	1134	381		-247	56		Theodosius I.³							Damasus I.²		Reichsteilung¹²				Ardashir II.						Xiaowu von Jin⁸
-3	Ephesos				1184	431		-196	50		Valentinian III.²	Theodosius II.³		Coelestin I.²	Vulgata¹³					Bahram V.							Wen von Song⁸'⁹'¹⁰
-4	Chalcedon			1204	451		-175	20		Valentinian III.	Markian⁴			Leo I.⁴			Attila¹⁴					Yazdegerd II.						Wen von Song
-5	Konstantinopel (2.)	1306	553		-91		102							Justinian I.⁴		Vigilius⁴		Restauratio imperii¹⁵		Khosrow I.							Yuan von Liang⁸
-6	Konstantinopel (3.)	1433	680		61		127							Konstantin IV.⁴		Agatho⁵			Hedschra¹⁶									Yazid I.			Gaozong von Tang⁸'⁹
-7	Nicäa (2.)			1540	787		171		107							Konstantin VI.⁴		Hadrian I.⁵		Translatio imperii¹⁷						Harun al-Rashid		Dezong von Tang⁹'¹⁰
+1	Nicäa (1.)		1078	325	-305		Konstantin I.¹'²				Silvester I.²		Mailänder Vereinbarung¹¹	Shapur II.					Ming von Jin⁸
+2	Konstantinopel (1.)	1134	381	-247	56	Theodosius I.³					Damasus I.²		Reichsteilung¹²			Ardashir II.					Xiaowu von Jin⁸
+3	Ephesos			1184	431	-196	50	Valentinian III.²	Theodosius II.³		Coelestin I.²		Vulgata¹³			Bahram V.					Wen von Song⁸'⁹'¹⁰
+4	Chalcedon		1204	451	-175	20	Valentinian III.	Markian⁴		Leo I.⁴			Attila¹⁴			Yazdegerd II.					Wen von Song
+5	Konstantinopel (2.)	1306	553	-91	102				Justinian I.⁴		Vigilius⁴		Restauratio imperii¹⁵		Khosrow I.					Yuan von Liang⁸
+6	Konstantinopel (3.)	1433	680	61	127				Konstantin IV.⁴		Agatho⁵			Hedschra¹⁶						Yazid I.		Gaozong von Tang⁸'⁹
+7	Nicäa (2.)		1540	787	171	107				Konstantin VI.⁴		Hadrian I.⁵		Translatio imperii¹⁷					Harun al-Rashid		Dezong von Tang⁹'¹⁰
 ~~~
 
 ¹) Antike römische Religion.  
