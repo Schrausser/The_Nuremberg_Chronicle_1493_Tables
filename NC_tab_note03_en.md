@@ -47,7 +47,7 @@ e.c.	AUC		AD		AH		West				East				Pope				Sasanian King⁷		Caliphate⁸			Chine
 2		1129	376							
 		1139	386				Theodosius I³		Arcadius³				
 		1149	396				Honorius³					
-		1159	406									Theodisius II³				
+		1159	406									Theodosius II³				
 		1169	416							
 3		1179	426				Valentinian III²						Celestine I²		Bahram V								Song
 		1189	436							
