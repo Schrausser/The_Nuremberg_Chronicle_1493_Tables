@@ -2,10 +2,10 @@
 
 **Table 1**. The timeline of the evolutionary development of the universe *Evol* of 13.8 billion years is (in reverse) projected onto the timeline of 7500 years from the creation story *Creat*, *E>C*, where $y_{total}=\frac{Evol}{10^6}$. What you immediately notice is, that this results in an interval $y_{7500}=\frac{y_{total}}{10^6}$ of approx. 6 days for the remaining 7500 years, with $days=(y_{7500}\cdot365.25)+1$. Thus as, in terms of numerical values and in reverse, the evolutionary line $y_{total}$ could now be considered the historical timeline *Creat*, the remaining timeline *days* considered the timeframe of creation *0*.
 ~~~
-								E>C		
-Evol				Creat		y(total)	y(7500)		days
+					E>C		
+Evol			Creat		y(total)	y(7500)		days
 
-13 800 000 000 		0	 		13 800 		0,014		6,0
+13 800 000 000 		0	 	13 800 		0,014		6,0
 12 880 000 000 	 	500 	 	12 880 		0,013		5,7
 11 960 000 000 		1 000 	 	11 960 		0,012		5,4
 11 040 000 000 	 	1 500 	 	11 040 		0,011		5,0
@@ -20,12 +20,12 @@ Evol				Creat		y(total)	y(7500)		days
 2 760 000 000 	 	6 000 	 	2 760 		0,003		2,0
 1 840 000 000 	 	6 500 	 	1 840 		0,002		1,7
 920 000 000 	 	7 000 	 	920 		0,001		1,3
-0	 				7 500 		0			0			1,0
+0	 		7 500 		0		0		1,0
 ~~~
 
 **Table 2**. Comparison.
 ~~~
-E>C			Creat
+E>C		Creat
 
 13800	
 11960		1
@@ -34,15 +34,15 @@ E>C			Creat
 6440		4
 4600		5
 2760		6
-920			:
-:			:
-6,0			500
-5,1			1500
-4,7			2500
-4,0			3500
-3,4			4500
-2,7			5500
-2,0			6500
-1,3			7500
+920		:
+:		:
+6,0		500
+5,1		1500
+4,7		2500
+4,0		3500
+3,4		4500
+2,7		5500
+2,0		6500
+1,3		7500
 ~~~
 
