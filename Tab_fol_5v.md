@@ -11,7 +11,7 @@
 
 **Table 1**. Names of *angels* and *spheres* between the Roman and Greek *wind gods*; the *Anemoi*, sons of *Astraeus* and *Eos* (s. Neuser, [1982](https://books.google.com/books?id=T0gcAAAAMAAJ) or Miller et al., [2010](https://books.google.com/books?id=LCYlQwAACAAJ)).
 ~~~
-Subsolanus¹										Auster²
+Subsolanus¹, S-E									Auster², S
 		
 Seraphin		
 Cherubin		
@@ -30,7 +30,7 @@ archa[n]gli				spera solis
 Angeli					spera martus	
 						spera iouis	
 						spera saturni	
-Aparcias³				firma mentu[m]			Zephyrus⁴
+Aparcias³, N				firma mentu[m]			Zephyrus⁴, W
 						Celum Cristallinum	
 						Primum mobile	
 ~~~
