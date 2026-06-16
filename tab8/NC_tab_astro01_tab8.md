@@ -187,16 +187,16 @@ zum firmament		2,5E+06		3,6E+06		1,42	Iapetus (Saturn VIII)
 
 **Table 8**. *Comparison* between distance values $tonus$ and rounded values $rd$ in tones from the *Speculum Naturale* (de Beauvais, [1264](https://digi.vatlib.it/view/MSS_Arch.Cap.S.Pietro.A.40), [1476](https://nbn-resolving.org/urn:nbn:de:hbz:061:1-592809)) with *Jupiter* and *Saturn moons* in ascending order (c.f. Williams, [2025a](https://nssdc.gsfc.nasa.gov/planetary/factsheet/joviansatfact.html), [b](https://nssdc.gsfc.nasa.gov/planetary/factsheet/saturniansatfact.html)).
 ~~~
-			tonus 	cum	rd	object		Saturn	Jupiter
+			tonus 	cum	rd	object		Saturn	Jupiter		day of creation
 
-terram ad lunam		1,0	1,0	1	Dione		IV	
-luna ad mercurium	0,5	1,5	2	Rhea		V	
-ad venerem		0,5	2,0	2	Europa			II
-ad solem		1,5	3,5	4	Titan		VI	
+terram ad lunam		1,0	1,0	1	Dione		IV			1
+luna ad mercurium	0,5	1,5	2	Rhea		V			2
+ad venerem		0,5	2,0	2	Europa			II		3
+ad solem		1,5	3,5	4	Titan		VI			4
 
-ad martem		1,0	4,5	5	Hyperion	VII	
-ad iovem		0,5	5,0	5	Callisto		IV
-ad saturnum		0,5	5,5	6			
+ad martem		1,0	4,5	5	Hyperion	VII			5
+ad iovem		0,5	5,0	5	Callisto		IV		6
+ad saturnum		0,5	5,5	6						(7)
 ad signiferum		1,5	7,0	7	Iapetus		VIII
 ~~~
 
