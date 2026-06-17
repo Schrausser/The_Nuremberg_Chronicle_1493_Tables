@@ -187,17 +187,17 @@ zum firmament			2,5E+06		3,6E+06		1,42	Iapetus (Saturn VIII)
 
 **Table 8**. *Comparison* between distance values $tonus$ and rounded values $rd$ in tones from the *Speculum Naturale* (de Beauvais, [1264](https://digi.vatlib.it/view/MSS_Arch.Cap.S.Pietro.A.40), [1476](https://nbn-resolving.org/urn:nbn:de:hbz:061:1-592809)) with *Jupiter* and *Saturn moons* in ascending order (c.f. Williams, [2025a](https://nssdc.gsfc.nasa.gov/planetary/factsheet/joviansatfact.html), [b](https://nssdc.gsfc.nasa.gov/planetary/factsheet/saturniansatfact.html)).
 ~~~
-						tonus 	cum		rd		object		Saturn		Jupiter		day of creation
+						tonus 	cum		rd		object					Saturn		Jupiter		day of creation
 
-terram ad lunam			1		1		1		Dione		IV						1
-luna ad mercurium		½		1½		2		Rhea		V						2
-ad venerem				½		2		2		Europa					II			3
-ad solem				1½		3½		4		Titan		VI						4
+terram ad lunam			1		1		1		Dione		Διώνη		IV						1
+luna ad mercurium		½		1½		2		Rhea		Ῥέᾱ			V						2
+ad venerem				½		2		2		Europa		Ευρώπη					II			3
+ad solem				1½		3½		4		Titan		Τῑτάν		VI						4
 
-ad martem				1		4½		5		Hyperion	VII						5
-ad iovem				½		5		5		Callisto				IV			6
-ad saturnum				½		5½		6											(7)
-ad signiferum			1½		7		7		Iapetus		VIII
+ad martem				1		4½		5		Hyperion	Ὑπερίων		VII						5
+ad iovem				½		5		5		Callisto	Καλλιστώ				IV			6
+ad saturnum				½		5½		6														(7)
+ad signiferum			1½		7		7		Iapetus		Ἰαπετός		VIII
 ~~~
 
 **Figure 1**. Animated schematic representation of the illustrations from the *Nuremberg Chronicle*, fol. IIv to IIIIr (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024)), where a *white circle* indicates *one tone*, a *white circle* together with a *red circle* indicates *half a tone*.
