@@ -189,15 +189,15 @@ zum firmament		2,5E+06		3,6E+06		1,42	Iapetus (Saturn VIII)
 ~~~
 			tonus 	cum	rd	object		Saturn	Jupiter		day of creation
 
-terram ad lunam		1,0	1,0	1	Dione		IV			1
-luna ad mercurium	0,5	1,5	2	Rhea		V			2
-ad venerem		0,5	2,0	2	Europa			II		3
-ad solem		1,5	3,5	4	Titan		VI			4
+terram ad lunam		1	1	1	Dione		Διώνη	IV			1
+luna ad mercurium	½	1½	2	Rhea	Ῥέᾱ		V			2
+ad venerem		½	2	2	Europa		Ευρώπη		II		3
+ad solem		1½	3½	4	Titan	Τῑτάν		VI			4
 
-ad martem		1,0	4,5	5	Hyperion	VII			5
-ad iovem		0,5	5,0	5	Callisto		IV		6
-ad saturnum		0,5	5,5	6						(7)
-ad signiferum		1,5	7,0	7	Iapetus		VIII
+ad martem		1	4½	5	Hyperion	Ὑπερίων	VII			5
+ad iovem		½	5	5	Callisto	Καλλιστώ		IV		6
+ad saturnum		½	5½	6						(7)
+ad signiferum		1½	7	7	Iapetus	Ἰαπετός		VIII
 ~~~
 
 **Figure 1**. Animated schematic representation of the illustrations from the *Nuremberg Chronicle*, fol. IIv to IIIIr (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024)), where a *white circle* indicates *one tone*, a *white circle* together with a *red circle* indicates *half a tone*.
