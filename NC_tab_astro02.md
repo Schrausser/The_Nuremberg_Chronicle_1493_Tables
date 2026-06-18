@@ -8,7 +8,7 @@
 dist. from					dist. from			ly					
 Sun			10³km			Core	M	NGC		min		max		AM			10¹²km		ratio	1/ratio
 
-Venus		108 210 		LSSC	24				 			16 439 		155 520 	1,44	0,70
+Venus		108 210 		    	24				 			16 439 		155 520 	1,44	0,70
 Earth		149 598 		Sun					25 881 26 996 	26 439 		250 127 	1,67	0,60
 Mars		227 956 		SagDEG	54	6715			 		50 000 		473 035 	2,08	0,48
 Jupiter		778 479 		LMC					 				163 000 	1 542 094 	1,98	0,50
@@ -17,7 +17,7 @@ Saturn		1 432 041 		SMC			292			 			210 000 	1 986 747 	1,39	0,72
 AM	 		539 257 						 					93 175 		881 505 	1,71	0,60
 SD	 		507 707 						 					78 396 		741 684 	0,28	0,10
 ~~~
-¹) Small Sagittarius Star Cloud (LSSC, M24, IC4615), Sagittarius Dwarf Spheroidal Galaxy (SagDEG, M54, NGC6715), Large Magellanic Cloud (LMC), Small Magellanic Cloud (SMC, NGC292).
+¹) Small Sagittarius Star Cloud (M24, IC4615), Sagittarius Dwarf Spheroidal Galaxy (SagDEG, M54, NGC6715), Large Magellanic Cloud (LMC), Small Magellanic Cloud (SMC, NGC292).
 
 **Table 2**. Regr. *gal* ($ly$, $10^{12}km$) with *solsyst* ($10^3km$), $n=5$.
 ~~~
