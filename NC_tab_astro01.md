@@ -212,7 +212,7 @@ De Beauvais, V. (1264). *Speculi naturalis pars II*. Arch. Cap. S. Pietro. A. 40
 
 ———. (1494). *Speculum naturale*. Venetiis: Hermannus Liechtenstein. [https://books.google.com/books?id=v9yKk_tdhusC](https://books.google.com/books?id=v9yKk_tdhusC)
 
-———. (1964). *Speculum naturale. Speculum quadruplex sive speculum maius*. Photomechan. Nachdr. [d. Ausg. Duaci 1624]. Düsseldorf: Universitäts- und Landesbibliothek. [https://nbn-resolving.org/urn:nbn:de:hbz:061:1-20603]()
+———. (1964). *Speculum naturale. Speculum quadruplex sive speculum maius*. Photomechan. Nachdr. [d. Ausg. Duaci 1624]. Düsseldorf: Universitäts- und Landesbibliothek. [https://nbn-resolving.org/urn:nbn:de:hbz:061:1-20603](https://nbn-resolving.org/urn:nbn:de:hbz:061:1-20603)
 
 Hadavas, K. (2023). *First English edition of the Nuremberg chronicle : being the Liber chronicarum of Dr. Hartmann Schedel*. Edited by Hadavas, K. UW–Madison TEI edition. Madison, Wisconsin: University of Wisconsin–Madison Libraries. [https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J)
 
