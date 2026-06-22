@@ -2,7 +2,7 @@
 
 >" [...] [et] stellas: quib[us] ip[s]a sup[er]ior mundi p[ar]s ornat[ur] [...] ", (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024), fol. IIIIr).
 
-> [...] and stars with which the upper part of the world itself is adorned.
+> [...] and stars with which the upper part of the world *itself* is adorned.
 
 **Table 1**. Moons of the solar system with corresponding names, distances and diameters.
 ~~~
