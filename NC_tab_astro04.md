@@ -2,26 +2,27 @@
 
 >" [...] [et] stellas: quib[us] ip[s]a sup[er]ior mundi p[ar]s ornat[ur] [...] ", (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024), fol. IIIIr).
 
->and stars with which the upper part of the world itself is adorned.
+> [...] and stars with which the upper part of the world itself is adorned.
 
 **Table 1**. Moons of the solar system with corresponding names, distances and diameters.
 ~~~
-		Earth				Mars						Jupiter					Saturn						Uranus¹				Neptune			
-10⁵km		Name	dist	d		Name		dist	d			Name		dist	d		Name		dist	d			Name	dist	d		Name		dist	d
+		Earth					Mars								Jupiter											Saturn											Uranus¹								Neptune			
+10⁵km	Name	dist	d		Name				dist	d		Name						dist	d			Name						dist	d			Name			dist	d			Name					dist	d
 
-						I, Phobos	Φόβος	9376	26																					
-						II, Deimos	Δεῖμος	23463,2	16														XV, Puck	86004	162					
-1																							V, Miranda	129390	474		VIII, Proteus	Πρωτεύς	117647	428
-																	I, Mimas	Μίμας	188551	405			I, Ariel	190900	1159					
-2																	II, Enceladus	Ἐγκέλαδος	241846	508			II, Umbriel	266000	1169					
-																	III, Tethys	Τηθύς	299381	1066										
-3																	IV, Dione	Διώνη	377396	1124							I, Triton	Τρίτων	354759	2707
-		I, Luna	384399	3476,2																										
-4												I, Io	Ἰώ	421700	3643								III, Titania	435910	1578					
+								I, Phobos	Φόβος	9376	26																					
+								II, Deimos	Δεῖμος	23463	16																										XV, Puck		86004	162					
+1																																									V, Miranda		129390	474			VIII, Proteus	Πρωτεύς	117647	428
+																													I, Mimas		Μίμας		188551	405			I, Ariel		190900	1159					
+2																													II, Enceladus	Ἐγκέλαδος	241846	508			II, Umbriel		266000	1169					
+																													III, Tethys		Τηθύς		299381	1066										
+3																													IV, Dione		Διώνη		377396	1124											I, Triton		Τρίτων	354759	2707
+		I, Luna	384399	3476																										
+4																	I, Io			Ἰώ			421700	3643														III, Titania	435910	1578					
 																														
-5																	V, Rhea	Ῥέᾱ	527040	1528			IV, Oberon	583520	1523					
+5																													V, Rhea			Ῥέᾱ			527040	1528
+																																									IV, Oberon		583520	1523					
 																														
-6												II, Europa	Ευρώπη	670900	3122															
+6																	II, Europa		Ευρώπη		670900	3122															
 																														
 7																														
 																														
@@ -29,9 +30,9 @@
 																														
 9																														
 																														
-10												III, Ganymed	Γανυμήδης	1070400	5262															
+10																	III, Ganymed	Lανυμήδης	1070400	5262															
 																														
-11																	VI, Titan	Τῑτάν	1221870	5150										
+11																													VI, Titan		Τῑτάν		1221870	5150										
 																														
 12																														
 																														
@@ -39,19 +40,19 @@
 																														
 14																														
 																														
-15																	VII, Hyperion	Ὑπερίων	1481500	236										
+15																													VII, Hyperion	Ὑπερίων		1481500	236										
 																														
 16																														
 																														
 17																														
 																														
-18												IV, Callisto	Καλλιστώ	1882700	4821															
+18																	IV, Callisto	Καλλιστώ	1882700	4821															
 																														
 19																														
 																														
 :																														
 																														
-30																	VIII, Iapetus	Ἰαπετός	3560820	1492										
+30																	VIII, Iapetus	Ἰαπετός		3560820	1492										
 																														
 																														
 
