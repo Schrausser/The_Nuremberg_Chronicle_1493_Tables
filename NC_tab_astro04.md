@@ -134,7 +134,7 @@ ad solem
 ad martem			1		4½		5⁶			4×5⁶+5⁷/10		70 312,5	2 880 000 000	3,7		Uranus¹		Οὐρανός		VII	
 ad iovem											
 ad saturnum											
-ad signiferum		1½		7		5⁶+5⁷/10		2×(3×5⁶+5⁷/10)	109 375,0	4 515 000 000	5,8		Neptune		(Ποσειδῶν)	VIII												
+ad signiferum		1½		7		5⁶+5⁷/10		2×(3×5⁶+5⁷/10)	109 375,0	4 515 000 000	5,8		Neptune		(Ποσειδῶν)	VIII
 ~~~			
 ¹) Cælus.
 
