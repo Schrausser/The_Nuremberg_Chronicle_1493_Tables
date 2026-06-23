@@ -105,7 +105,7 @@ ad iovem		½	5	5⁷/10		5⁷			78 125,0	354 759		4,1	Triton		Τρίτων				I
 ad saturnum		½	5½	5⁷/10		5⁷+5⁷/10			85 937,5	435 910		5,1	Titania				III	
 ad signiferum		1½	7	5⁶+5⁷/10		2×(3×5⁶+5⁷/10)		109 375,0	583 520		6,8	Oberon				IV	
 											
-																															Saturn		Jupiter
+																			Saturn		Jupiter
 terram ad lunam		1	1	5⁶		5⁶			15 625,0	377 396			Dione		Διώνη		IV	
 ad mercurium		½	1½	5⁶/2		5⁶+5⁶/2			23 437,5	527 040		1,4	Rhea		Ῥέᾱ		V	
 ad venerem		½	2	5⁶/2		2×5⁶			31 250,0	670 900		1,8	Europa		Ευρώπη				II
@@ -115,7 +115,7 @@ ad iovem		½	5	5⁷/10		5⁷			78 125,0	1 882 700	5,0	Callisto	Καλλιστώ	
 ad saturnum											
 ad signiferum		1½	7	5⁶+5⁷/10		2×(3×5⁶+5⁷/10)		109 375,0	3 560 820	9,4	Iapetus		Ἰαπετός		VIII	
 											
-																															α	
+																			α	
 terram ad lunam		1	1	5⁶		5⁶			15 625,0	59 000 000		Mercury		(Ἑρμῆς)		I	
 ad mercurium		½	1½	5⁶/2		5⁶+5⁶/2			23 437,5	108 000 000	1,8	Venus		(Ἀφροδίτη)	II	
 ad venerem		½	2	5⁶/2		2×5⁶			31 250,0	150 000 000	2,5	Earth		(γῆ)		III	
@@ -125,7 +125,7 @@ ad iovem
 ad saturnum		½	5½	5⁷/10		5⁷+5⁷/10			85 937,5	416 000 000	7,1	Ceres		(Δημήτηρ)			(V)
 ad signiferum											
 											
-																															α	
+																			α	
 terram ad lunam		1	1	5⁶		5⁶			15 625,0	780 000 000		Jupiter		(Ζεύς)		V	
 ad mercurium											
 ad venerem		½	2	5⁶/2		2×5⁶			31 250,0	1 437 000 000	1,8	Saturn		(Χρόνος)	VI	
