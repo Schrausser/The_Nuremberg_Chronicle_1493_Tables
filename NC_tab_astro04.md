@@ -94,47 +94,47 @@ det %											99,87|		99,86		99,86		99,85
 
 **Table 3**. *Comparison* between distance values in tones $tone$, cumulative values $cum$ and calculated $miles$, where one *tone* equals $m=5^6$ *miles*, with the moons and planets of the *Solar System* in ascending order. Empirical ratios $rt$ were calculated according to $rt=\frac{x_n}{x_1}$, relativized on the initial value, taking into account that $x_1$, however, has differently accurate adjustments.
 ~~~						
-		tone		calc								
-	step	cum	step	cum	miles	actual km	rt	object		Uranus¹	Neptune
+					tone			calc								
+					step	cum		step		cum				miles		actual km		rt		object					Uranus¹		Neptune
 
-terram ad lunam	1	1	5⁶	5⁶	15 625,0	86 004		Puck		XV	
-ad mercurium	½	1½	5⁶/2	5⁶+5⁶/2	23 437,5	117 647	1,4	Proteus	Πρωτεύς		VIII
-ad venerem	½	2	5⁶/2	2×5⁶	31 250,0	129 390	1,5	Miranda		V	
-ad solem	1½	3½	5⁶+5⁶/2	3×5⁶+5⁶/2	54 687,5	190 900	2,2	Ariel		I	
-ad martem	1	4½	5⁶	4×5⁶+5⁷/10	70 312,5	266 000	3,1	Umbriel		II	
-ad iovem	½	5	5⁷/10	5⁷	78 125,0	354 759	4,1	Triton	Τρίτων		I
-ad saturnum	½	5½	5⁷/10	5⁷+5⁷/10	85 937,5	435 910	5,1	Titania		III	
-ad signiferum	1½	7	5⁶+5⁷/10	2×(3×5⁶+5⁷/10)	109 375,0	583 520	6,8	Oberon		IV	
+terram ad lunam		1		1		5⁶			5⁶				15 625,0	86 004					Puck					XV	
+ad mercurium		½		1½		5⁶/2		5⁶+5⁶/2			23 437,5	117 647			1,4		Proteus		Πρωτεύς					VIII
+ad venerem			½		2		5⁶/2		2×5⁶			31 250,0	129 390			1,5		Miranda					V	
+ad solem			1½		3½		5⁶+5⁶/2		3×5⁶+5⁶/2		54 687,5	190 900			2,2		Ariel					I	
+ad martem			1		4½		5⁶			4×5⁶+5⁷/10		70 312,5	266 000			3,1		Umbriel					II	
+ad iovem			½		5		5⁷/10		5⁷				78 125,0	354 759			4,1		Triton		Τρίτων					I
+ad saturnum			½		5½		5⁷/10		5⁷+5⁷/10			85 937,5	435 910			5,1		Titania					III	
+ad signiferum		1½		7		5⁶+5⁷/10		2×(3×5⁶+5⁷/10)	109 375,0	583 520			6,8		Oberon					IV	
 											
 										Saturn	Jupiter
-terram ad lunam	1	1	5⁶	5⁶	15 625,0	377 396		Dione	Διώνη	IV	
-ad mercurium	½	1½	5⁶/2	5⁶+5⁶/2	23 437,5	527 040	1,4	Rhea	Ῥέᾱ	V	
-ad venerem	½	2	5⁶/2	2×5⁶	31 250,0	670 900	1,8	Europa	Ευρώπη		II
-ad solem	1½	3½	5⁶+5⁶/2	3×5⁶+5⁶/2	54 687,5	1 221 870	3,2	Titan	Τῑτάν	VI	
-ad martem	1	4½	5⁶	4×5⁶+5⁷/10	70 312,5	1 481 500	3,9	Hyperion	Ὑπερίων	VII	
-ad iovem	½	5	5⁷/10	5⁷	78 125,0	1 882 700	5,0	Callisto	Καλλιστώ		IV
+terram ad lunam		1		1		5⁶			5⁶				15 625,0	377 396					Dione	Διώνη	IV	
+ad mercurium		½		1½		5⁶/2		5⁶+5⁶/2			23 437,5	527 040			1,4		Rhea	Ῥέᾱ	V	
+ad venerem			½		2		5⁶/2		2×5⁶			31 250,0	670 900			1,8		Europa	Ευρώπη		II
+ad solem			1½		3½		5⁶+5⁶/2		3×5⁶+5⁶/2		54 687,5	1 221 870		3,2		Titan	Τῑτάν	VI	
+ad martem			1		4½		5⁶			4×5⁶+5⁷/10		70 312,5	1 481 500		3,9		Hyperion	Ὑπερίων	VII	
+ad iovem			½		5		5⁷/10		5⁷				78 125,0	1 882 700		5,0		Callisto	Καλλιστώ		IV
 ad saturnum											
-ad signiferum	1½	7	5⁶+5⁷/10	2×(3×5⁶+5⁷/10)	109 375,0	3 560 820	9,4	Iapetus	Ἰαπετός	VIII	
+ad signiferum		1½		7		5⁶+5⁷/10		2×(3×5⁶+5⁷/10)	109 375,0	3 560 820		9,4		Iapetus	Ἰαπετός	VIII	
 											
 										α	
-terram ad lunam	1	1	5⁶	5⁶	15 625,0	59 000 000		Merkur	(Ἑρμῆς)	I	
-ad mercurium	½	1½	5⁶/2	5⁶+5⁶/2	23 437,5	108 000 000	1,8	Venus	(Ἀφροδίτη)	II	
-ad venerem	½	2	5⁶/2	2×5⁶	31 250,0	150 000 000	2,5	Earth	(γῆ)	III	
-ad solem	1½	3½	5⁶+5⁶/2	3×5⁶+5⁶/2	54 687,5	229 000 000	3,9	Mars	(Ἄρης)	IV	
+terram ad lunam		1		1		5⁶			5⁶				15 625,0	59 000 000				Merkur	(Ἑρμῆς)	I	
+ad mercurium		½		1½		5⁶/2		5⁶+5⁶/2			23 437,5	108 000 000		1,8		Venus	(Ἀφροδίτη)	II	
+ad venerem			½		2		5⁶/2		2×5⁶			31 250,0	150 000 000		2,5		Earth	(γῆ)	III	
+ad solem			1½		3½		5⁶+5⁶/2		3×5⁶+5⁶/2		54 687,5	229 000 000		3,9		Mars	(Ἄρης)	IV	
 ad martem											
 ad iovem											
-ad saturnum	½	5½	5⁷/10	5⁷+5⁷/10	85 937,5	416 000 000	7,1	Ceres	(Δημήτηρ)		(V)
+ad saturnum			½		5½		5⁷/10		5⁷+5⁷/10			85 937,5	416 000 000		7,1		Ceres	(Δημήτηρ)		(V)
 ad signiferum											
 											
 										α	
-terram ad lunam	1	1	5⁶	5⁶	15 625,0	780 000 000		Jupiter	(Ζεύς)	V	
+terram ad lunam		1		1		5⁶			5⁶				15 625,0	780 000 000				Jupiter	(Ζεύς)	V	
 ad mercurium											
-ad venerem	½	2	5⁶/2	2×5⁶	31 250,0	1 437 000 000	1,8	Saturn	(Χρόνος)	VI	
+ad venerem			½		2		5⁶/2		2×5⁶			31 250,0	1 437 000 000	1,8		Saturn	(Χρόνος)	VI	
 ad solem											
-ad martem	1	4½	5⁶	4×5⁶+5⁷/10	70 312,5	2 880 000 000	3,7	Uranus¹	Οὐρανός	VII	
+ad martem			1		4½		5⁶			4×5⁶+5⁷/10		70 312,5	2 880 000 000	3,7		Uranus¹	Οὐρανός	VII	
 ad iovem											
 ad saturnum											
-ad signiferum	1½	7	5⁶+5⁷/10	2×(3×5⁶+5⁷/10)	109 375,0	4 515 000 000	5,8	Neptune	(Ποσειδῶν)	VIII	
+ad signiferum		1½		7		5⁶+5⁷/10		2×(3×5⁶+5⁷/10)	109 375,0	4 515 000 000	5,8		Neptune	(Ποσειδῶν)	VIII	
 											
 
 ~~~			
