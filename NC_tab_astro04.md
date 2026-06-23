@@ -4,7 +4,7 @@
 
 > [...] and stars with which the upper part of the world *itself* is adorned.
 
-**Table 1**. Moons of the solar system with corresponding names, distances and diameters.
+**Table 1**. Moons of the *Solar System* with corresponding names, distances and diameters.
 ~~~
 		Earth					Mars								Jupiter											Saturn											Uranus¹								Neptune			
 10⁵km	Name	dist	d		Name				dist	d		Name						dist	d			Name						dist	d			Name			dist	d			Name					dist	d
@@ -55,7 +55,7 @@
 30																	VIII, Iapetus	Ἰαπετός		3560820	1492		
 ~~~
 
-**Table 2**. Distances $act km$ of the moons $U/N$, $S/J$ and planets $in$, $out$ of the solar system in correlation with the distances $km$ calculated from the *tones of the diapason*, where one tone corresponds to a distance $d=5^6=15625$ miles (miliaria), from the Latin, ENHG and English versions of the *Nuremberg Chronicle* (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024), Schedel & Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), [1496](https://doi.org/10.3931/e-rara-69075), res. and Hadavas, [2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J)) and the Speculum naturale (de Beauvais, [1264](https://digi.vatlib.it/view/MSS_Arch.Cap.S.Pietro.A.40), [1476](https://nbn-resolving.org/urn:nbn:de:hbz:061:1-592809), [1494](https://books.google.com/books?id=v9yKk_tdhusC)). At the moons of (i) Saturn and Jupiter $S/J$, one mile, in turn corresponds to 126 attic stades $s = 0.18498 km$, at the moons of (ii) Uranus and Neptune $U/N$ 29 itinerary stades $s = 0.1575 km$, at the (iii) inner planets $in$ $29×10^3$ itinerary stades and at the (iv) outer planets $out$ $29×10^4$ itinerary stades. Pearson correlations $r$, determination coefficients $det$ and ratio factors $rf$ were calculated, with the respective maximal values being outlined.
+**Table 2**. Distances $act km$ of the moons $U/N$, $S/J$ and planets $in$, $out$ of the *Solar System* in correlation with the distances $km$ calculated from the *tones of the diapason*, where one tone corresponds to a distance $d=5^6=15625$ miles (*miliaria*), from the Latin, ENHG and English versions of the *Nuremberg Chronicle* (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024), Schedel & Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), [1496](https://doi.org/10.3931/e-rara-69075), res. and Hadavas, [2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J)) and the *Speculum Naturale* (de Beauvais, [1264](https://digi.vatlib.it/view/MSS_Arch.Cap.S.Pietro.A.40), [1476](https://nbn-resolving.org/urn:nbn:de:hbz:061:1-592809), [1494](https://books.google.com/books?id=v9yKk_tdhusC)), with the *exact* values from the calculation. At the moons of (i) Saturn and Jupiter $S/J$, one mile, in turn corresponds to 126 *Attic stades* $s = 0.18498 km$, at the moons of (ii) Uranus and Neptune $U/N$ 29 *Itinerary stades* $s = 0.1575 km$, at the (iii) inner planets $in$ $29×10^3$ *Itinerary stades* and at the (iv) outer planets $out$ $29×10^4$ *Itinerary stades*. Pearson correlations $r$, determination coefficients $det$ and ratio factors $rf$ were calculated, with the respective maximal values being outlined.
 ~~~
 n	Syst	Nr.			Name					km												act km		rf			
 						Latin		Greek		Latin		ENHG		En. tr.		Spec. nat.				Latin	ENHG	En. tr.	Spec. nat.
@@ -85,7 +85,7 @@ n	Syst	Nr.			Name					km												act km		rf
 23			α	VII		Uranus¹		Οὐρανός		3,166E+09	3,212E+09	3,212E+09	3,212E+09	2,880E+09	0,910	0,897	0,897	0,897
 24			α	VIII	Neptune		(Ποσειδῶν)	4,950E+09	4,905E+09	4,906E+09	4,996E+09	4,515E+09	0,912	0,920	0,920	0,904
 
-mean											4,676E+08	4,676E+08	4,677E+08	4,718E+08				1,009	1,008	1,008	1,002|
+mean											4,676E+08	4,676E+08	4,677E+08	4,718E+08	4,411E+08		1,009	1,008	1,008	1,002|
 r/sd											0,9994		0,9993		0,9993		0,9993					0,137|	0,143	0,143	0,138
 det %											99,87|		99,86		99,86		99,85					
 ~~~
