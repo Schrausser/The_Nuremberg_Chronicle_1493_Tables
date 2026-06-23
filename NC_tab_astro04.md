@@ -4,7 +4,7 @@
 
 > [...] and stars with which the upper part of the world *itself* is adorned.
 
-**Table 1**. Moons of the *Solar System* with corresponding names, distances and diameters.
+**Table 1**. Moons of the *Solar System* with corresponding *names* in Latin and Greek, *distances* $dist$ and *diameters* $d$ in $km$.
 ~~~
 		Earth					Mars								Jupiter											Saturn											Uranus¹								Neptune			
 10⁵km	Name	dist	d		Name				dist	d		Name						dist	d			Name						dist	d			Name			dist	d			Name					dist	d
