@@ -56,7 +56,7 @@
 ~~~
 ¹) Cælus.
 
-**Table 2**. Distances $act km$ of the moons $U/N$, $S/J$ and planets $in$, $out$ of the *Solar System* in correlation with the distances $km$ calculated from the *tones of the diapason*, where one tone corresponds to a distance $d=5^6=15625$ miles (*miliaria*), from the Latin, ENHG and English versions of the *Nuremberg Chronicle* (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024), Schedel & Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), [1496](https://doi.org/10.3931/e-rara-69075), res. and Hadavas, [2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J)) and the *Speculum Naturale* (de Beauvais, [1264](https://digi.vatlib.it/view/MSS_Arch.Cap.S.Pietro.A.40), [1476](https://nbn-resolving.org/urn:nbn:de:hbz:061:1-592809), [1494](https://books.google.com/books?id=v9yKk_tdhusC)), with the *exact* values from the calculation. At the moons of (i) Saturn and Jupiter $S/J$, one mile, in turn corresponds to 126 *Attic stades* $s = 0.18498 km$, at the moons of (ii) Uranus and Neptune $U/N$ 29 *Itinerary stades* $s = 0.1575 km$, at the (iii) inner planets $in$ $29×10^3$ *Itinerary stades* and at the (iv) outer planets $out$ $29×10^4$ *Itinerary stades*. Pearson correlations $r$, determination coefficients $det$ and ratio factors $rf$ were calculated, with the respective maximal values being outlined.
+**Table 2**. Distances $act km$ of the moons $U/N$, $S/J$ and planets $in$, $out$ of the *Solar System* in correlation with the distances $km$ calculated from the *tones of the diapason*, where one tone corresponds to a distance $d=5^6=15625$ miles (*miliaria*), from the Latin, ENHG and English versions of the *Nuremberg Chronicle* (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024), Schedel & Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), [1496](https://doi.org/10.3931/e-rara-69075), res. and Hadavas, [2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J)) and the *Speculum Naturale* (de Beauvais, [1264](https://digi.vatlib.it/view/MSS_Arch.Cap.S.Pietro.A.40), [1476](https://nbn-resolving.org/urn:nbn:de:hbz:061:1-592809), [1494](https://books.google.com/books?id=v9yKk_tdhusC)), with the *exact* values from the calculation. At the moons of (i) Saturn and Jupiter $S/J$, one mile, in turn corresponds to 126 *Attic stades* $st_A = 0.18498 km$, at the moons of (ii) Uranus and Neptune $U/N$ 29 *Itinerary stades* $st_I= 0.1575 km$, at the (iii) inner planets $in$ $29×10^3$ *Itinerary stades* and at the (iv) outer planets $out$ $29×10^4$ *Itinerary stades*. Pearson correlations $r$, determination coefficients $det$ and ratio factors $rf=\frac{act}{km}$ were calculated, with the respective maximal values being outlined.
 ~~~
 n	Syst	Nr.			Name					km												act km		rf			
 						Latin		Greek		Latin		ENHG		En. tr.		Spec. nat.				Latin	ENHG	En. tr.	Spec. nat.
@@ -138,8 +138,26 @@ ad signiferum		1½		7		5⁶+5⁷/10		2×(3×5⁶+5⁷/10)	109 375,0	4 515 000 00
 ~~~			
 ¹) Cælus.
 
-...
+**Table 4**. Categorized *results* from calculations of *ratio factors* $rf$ and *correlations* $r$ with *determination coefficients* $det$ of *ratios* $rt$ and *distances* $km$ by $n$. Maximal values are outlined.
+~~~
+	moons			planets			
+	U/N	S/J	tot	in	out	tot	tot
 
+rf	1,0095|	1,0308	1,0194	0,9726	0,9751	0,9737	1,0023
+sd	0,1628	0,1692	0,1601	0,0993	0,0933	0,0905	0,1377
+n	8	7	15	5	4	9	24
+r(rt)	0,9674	0,9633	0,9305	0,9923	0,9994	0,8981	0,9102
+n	7	6	13	4	3	7	20
+det%	93,59	92,80	86,58	98,47	99,87|	80,66	82,84
+r(km)	0,9685	0,9642	0,9736	0,9943	0,9996	0,9992	0,9993
+n1	8	7	15	5	4	9	24
+det%	93,79	92,96	94,78	98,87	99,93|	99,85	99,85
+r(km)	0,9670	0,9924	0,9959	0,9878			0,9972
+n2	6	6	12	4			16
+det%	93,52	98,48|	99,19	97,58			99,45
+~~~
+
+...
 
 ## References
 
