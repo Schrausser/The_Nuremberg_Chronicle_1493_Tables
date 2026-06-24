@@ -92,7 +92,7 @@ det %								99,87|		99,86		99,86		99,85
 ¹) Cælus.
 
 **Table 3**. *Comparison* between distance values in tones $tone$, cumulative values $cum$ and calculated $miles$, where one *tone* equals $m=5^6$ *miles*, with the moons and planets of the *Solar System* in ascending order. Empirical ratios $rt$ were calculated according to $rt=\frac{x_n}{x_1}$, relativized on the initial value, taking into account that $x_1$, however, has differently accurate adjustments.
-~~~						
+~~~
 			tone		calc								
 			step	cum	step		cum			miles		actual km	rt	object				Uranus¹		Neptune
 
@@ -134,8 +134,9 @@ ad martem		1	4½	5⁶		4×5⁶+5⁷/10		70 312,5	2 880 000 000	3,7	Uranus¹		Ο�
 ad iovem											
 ad saturnum											
 ad signiferum		1½	7	5⁶+5⁷/10		2×(3×5⁶+5⁷/10)		109 375,0	4 515 000 000	5,8	Neptune		(Ποσειδῶν)	VIII
-~~~			
+~~~
 ¹) Cælus.
+
 
 **Table 4**. Categorized *results* from calculations of *ratio factors* $rf$ and *correlations* $r$ with *determination coefficients* $det$ of *ratios* $rt$ and *distances* $km$ by $n$. Maximal values are outlined.
 ~~~
