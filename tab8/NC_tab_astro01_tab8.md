@@ -4,18 +4,18 @@
 
 >"But occasionally Pythagoras draws on the Tone theory of music [...] ", (Rackham, [1967](https://archive.org/details/naturalhistory01plinuoft/), p. 227 ff.).
 
-**Table 1**. Astronomical parameters in *tones* (s. Fig. 1) and *miles, miliaria* from the *Speculum Naturale* (de Beauvais, [1264](https://digi.vatlib.it/view/MSS_Arch.Cap.S.Pietro.A.40), [1476](https://nbn-resolving.org/urn:nbn:de:hbz:061:1-592809), [1494](https://books.google.com/books?id=v9yKk_tdhusC), [1964](https://nbn-resolving.org/urn:nbn:de:hbz:061:1-20729)). As Basis see the *Historia Naturalis* of Plinius Secundus ([1250](https://gallica.bnf.fr/ark:/12148/btv1b550140045/), [1455](https://digi.vatlib.it/view/MSS_Vat.lat.1957),  [1470](https://doi.org/10.3931/e-rara-74199), [1496](https://doi.org/10.3931/e-rara-84393)) where he refers to *musica universalis* as concept that regards *proportions* in the movements of celestial bodies as a form of music, originating in *Pythagoreanism* (c.f. Kircher, [1650](https://doi.org/10.3931/e-rara-26092); Torrellas, [1999](http://www.jstor.org/stable/40694499); Mathiesen, [2002](https://doi.org/10.1017/CHOL9780521623711); Hermann, [2004](https://books.google.com/books?id=KeYPAQAAIAAJ)).
+**Table 1**. Astronomical parameters in *tones* (s. Fig. 1), with one tone corresponding to a distance of $d=5^6=15625$ *miliaria*, from the *Speculum Naturale* (de Beauvais, [1264](https://digi.vatlib.it/view/MSS_Arch.Cap.S.Pietro.A.40), [1476](https://nbn-resolving.org/urn:nbn:de:hbz:061:1-592809), [1494](https://books.google.com/books?id=v9yKk_tdhusC), [1964](https://nbn-resolving.org/urn:nbn:de:hbz:061:1-20729)). As Basis see the *Historia Naturalis* of Plinius Secundus ([1250](https://gallica.bnf.fr/ark:/12148/btv1b550140045/), [1455](https://digi.vatlib.it/view/MSS_Vat.lat.1957),  [1470](https://doi.org/10.3931/e-rara-74199), [1496](https://doi.org/10.3931/e-rara-84393)) where he refers to *musica universalis* as concept that regards *proportions* in the movements of celestial bodies as a form of music, originating in *Pythagoreanism* (c.f. Kircher, [1650](https://doi.org/10.3931/e-rara-26092); Torrellas, [1999](http://www.jstor.org/stable/40694499); Mathiesen, [2002](https://doi.org/10.1017/CHOL9780521623711); Hermann, [2004](https://books.google.com/books?id=KeYPAQAAIAAJ)).
 ~~~
 			tonus	cum	 miliaria	 cum
 
-terram ad lunam		1,0		 15 625,00 	 15 625,00 
-luna ad mercurium	0,5	1,5	 7 812,50 	 23 437,50 
-ad venerem		0,5	2,0	 7 812,50 	 31 250,00 
-ad solem		1,5	3,5	 23 437,50 	 54 687,50 
-ad martem		1,0	4,5	 15 625,00 	 70 312,50 
-ad iovem		0,5	5,0	 7 812,50 	 78 125,00 
-ad saturnum		0,5	5,5	 7 812,50 	 85 937,50 
-ad signiferum		1,5	7,0	 23 437,50 	 109 375,00
+terram ad lunam		1		 15 625,00 	 15 625,00 
+luna ad mercurium	½	1,5	 7 812,50 	 23 437,50 
+ad venerem		½	2,0	 7 812,50 	 31 250,00 
+ad solem		1½	3,5	 23 437,50 	 54 687,50 
+ad martem		1	4,5	 15 625,00 	 70 312,50 
+ad iovem		½	5,0	 7 812,50 	 78 125,00 
+ad saturnum		½	5,5	 7 812,50 	 85 937,50 
+ad signiferum		1½	7,0	 23 437,50 	 109 375,00
 ~~~
 
 **Table 2**. Comparative representation of the *astronomical* parameters from the *Nuremberg Chronicle* (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024); Schedel & Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), [1496](https://doi.org/10.3931/e-rara-69075), res. and Hadavas, [2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J)) with the parameters from the *Speculum Naturale* (de Beauvais, [1264](https://digi.vatlib.it/view/MSS_Arch.Cap.S.Pietro.A.40), [1476](https://nbn-resolving.org/urn:nbn:de:hbz:061:1-592809), [1494](https://books.google.com/books?id=v9yKk_tdhusC), [1964](https://nbn-resolving.org/urn:nbn:de:hbz:061:1-20729)).
