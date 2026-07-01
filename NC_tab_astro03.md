@@ -125,7 +125,7 @@ AM											1,031|
 SD											0,110
 ~~~
 
-**Figure 1**. *Trigonometric* regression of actual *Solar System* distances $x$ with *tones*, where $tone=y=3,32\cdot \sin(-0.0000056\cdot x+10,71)+4,38$.
+**Figure 1**. *Trigonometric* regression of actual *Solar System* distances $x$ with *tones*, where $tone=y=3.32\cdot \sin(-5.6×10^{-6}\cdot x+10.71)+4.38$.
 
 ![figure.\label{figa0301}](figa0301.jpg)
 
