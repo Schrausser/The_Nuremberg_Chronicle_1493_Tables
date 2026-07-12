@@ -2,7 +2,7 @@
 
 >"As the eyes, said I, seem formed for studying astronomy, so do the ears seem formed for harmonious motions: and these seem to be twin sciences to one another, as also the Pythagoreans say; and we too [...] agree with them [...]", (Book VII, chap. XII of *Plato's Republic, the Allegory of the Cave*, Davis et al., [1901](https://archive.org/details/republicstatesma00plat_0/), p. 252).
 
-**Table 1**. Distances of *Solar System* objects (s. Williams, [2025b](https://nssdc.gsfc.nasa.gov/planetary/factsheet/)) from the Sun in semimajor axis $10^3 km$ and *Galactical objects*¹ from the core (s. Strasbourg astronomical Data Center, [2025](cdsweb.u-strasbg.fr/Simbad.html)) in approx. light years $ly$, $10^{12} km$, with ratios in comparison.
+**Table 1**. Distances of *Solar System* objects (s. Williams, [2025b](https://nssdc.gsfc.nasa.gov/planetary/factsheet/)) from the Sun in semimajor axis $10^3 km$ and *galactic objects*¹ from the core (s. Strasbourg astronomical Data Center, [2025](cdsweb.u-strasbg.fr/Simbad.html)) in approx. light years $ly$, $10^{12} km$, with ratios in comparison.
 ~~~
 1 Solar System		2 Galaxy								
 dist. from		dist. from		ly					
@@ -81,7 +81,7 @@ ly	 	108 210 	16 439 	 	4 550,27 	15 716,48 	-11888,23	-722,02		0,277		0,956
 	SD													0,105		0,229
 ~~~
 
-**Figure 1**. The distances of *Solar System* objects $y$ are $98.88\\%$ *exponentially* predictable from the distances of the *Galactical* objects $x$, $solsyst=y=103493.58\cdot e^{10^{-5}\cdot x}$.
+**Figure 1**. The distances of *Solar System* objects $y$ are $98.88\\%$ *exponentially* predictable from the distances of the *galactic* objects $x$, $solsyst=y=103493.58\cdot e^{10^{-5}\cdot x}$.
 
 ![figure.\label{figa0201}](figa0201.jpg)
 
