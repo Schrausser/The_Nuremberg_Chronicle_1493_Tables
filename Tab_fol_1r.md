@@ -110,7 +110,7 @@ ENHG
 Engl. tr.		
 1			more heat			winged creatures
 2			heavier ones		earthly animals
-3			watery nature		waterly
+3			watery nature		watery
 ~~~
 
 >"De his quatuor mundis moyses sufficienter differuit [...] ", (Schedel, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), fol. Ir).
