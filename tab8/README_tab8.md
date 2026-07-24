@@ -48,8 +48,8 @@ Foliu[m] V	recto	De opere sexte diei.
 Blat V			Vom werck des sechten tags
 Das v. Blat		Vom werck des .v. tags
 		verso	De sanctificatione septime diei
-			Von beheyligung des siebenden tags
-			Von beheyligung des siebenden tags
+			Von beheyligung des sibenden tags
+			Von beheyligung des sibenden tags
 
 Foliu[m] VI	recto	Queda[m] circa spera[m] planetaru[m] et orbiu[m] declara[n]da.
 Blat VI		
