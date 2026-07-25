@@ -2,7 +2,7 @@
 ![figure.\label{LXX interpretes}](LXX_fol_lxxviir.jpg)
 # The Nuremberg Chronicle 1493: Tables
 
->"Das bůch Der croniken vnnd geschichten mit figuren vnd pildnussen von Anbeginn der welt bis auff diese unsere Zeyt", (Schedel & Alt, [1496](https://doi.org/10.3931/e-rara-69075), fol. Ir).
+>"Das bůch Der Croniken vnnd geschichten mit figuren vnd pildnussen von Anbeginn der welt bis auff dise vnsere Zeyt", (Schedel & Alt, [1496](https://doi.org/10.3931/e-rara-69075), fol. Ir).
 
 >The book of chronicles and histories with characters and illustrations from the beginning of the world to this day
 
@@ -18,7 +18,7 @@ page			contents
 
 Foliu[m] I	recto	Epitoma operu[m] sex dieru[m] de mu[n]di fabrica Prologus
 fo. .1.			Ein kurtze beschreybung des wercks der sechs tag von dem geschöpff der werlt die vorrede.
-Das erst Blat		Das bůch Der croniken vnnd geschichten mit figuren vnd pildnussen von Anbeginn der welt bis auff diese unsere Zeyt
+Das erst Blat		Das bůch Der Croniken vnnd geschichten mit figuren vnd pildnussen von Anbeginn der welt bis auff dise vnsere Zeyt
 		verso	
 		
 			Ein kurtze beschreybung des wercks der sechsz tag vo[n] dem geschöpff d[er] welte die vorrede.
