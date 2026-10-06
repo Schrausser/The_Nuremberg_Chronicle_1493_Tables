@@ -12,10 +12,10 @@ Table 1. Timeline of the *creation*.
 ~~~
 t	Latin			ENHG			Engl. tr.
 
-1	materia[m] informe[m]	unförmlich materie	shapeless matter
+1	materia[m] informe[m]	vnförmlich materi	shapeless matter
 2	Angelos			die engel		the angels
 3	Celu[m]			die himel		the heavens
-4	Luce[m]			das liecht		the light
+4	luce[m]			das liecht		the light
 5	terra[m]		die erden		the earth
 6	aqua[m]			das wasser		(water)
 7	aerem			den luft		(air)
@@ -32,7 +32,7 @@ Table 2. Creation of the four cardinal directions.
 Latin			ENHG		Engl. tr .
 
 orientem		auffgang	East (Aufgang, or rise)
-occidentem		nidergang	West (Niedergang, decline)
+occidente[m]		nidergang	West (Niedergang, decline)
 meridie[m]		mittag		South (Mittag, noon)
 septe[m]trione[m]	mitternacht	North (Mitternacht, midnight)
 ~~~

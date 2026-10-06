@@ -4,7 +4,7 @@
 
 >" [...] posuit de[us] in firmame[n]to vt lucere[n]t in celo: [et] terra[m] illuminare[n]t sole[m] videlicet luna[m] [et] stellas: quib[us] ip[s]a sup[er]ior mundi p[ar]s ornat[ur]: vti terra ornat[ur] bis q[uae] in ea fiunt metallis: pla[n]tis: a[n]i[m]antib[us].", (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024), fol. IIIIr).
 
->" [...] ding die got gesetzt hat in de[m] firmament zescheine[n] an de[m] himel. vn[d] zeerlewchte[n] d[er] erde[n]. als die sunne[n]. de[n] mo[n]d. vnd die stern. mit de[n] d[er] oberteil d[er] werlt geziert wirdt. wie die erden mit de[n] dinge[n] die in ir werde[n].", (Schedel & Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), bl. IIIIr, [1496](https://doi.org/10.3931/e-rara-69075), fol. 4v).
+>" [...] ding die got gesetzt hat in de[m] firmament zescheine[n] an de[m] himel. vn[d] zeerlewchte[n] die erde[n]. als die sunne[n]. de[n] mo[n]d. vnd die stern. mit de[n] d[er] oberteil d[er] werlt geziert wirdt. wie die erde mit de[n] dinge[n] die in ir werde[n].", (Schedel & Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), bl. IIIIr, [1496](https://doi.org/10.3931/e-rara-69075), fol. 4v).
 
 >"God set in the firmament to shine in the heavens and to give light to the earth; as the sun, the moon and the stars with which the upper part of the world is adorned, just like the earth is adorned with the things that grow in it.", (Hadavas, [2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J), p. 5).
 
@@ -14,11 +14,11 @@
 
 Latin		
 1		mu[n]di totius q[uo] celu[m] [et] ether 		mot[us]		.24. horis
-		Sol, sidera								.xij. mensiu[m], multiplex [et] varius
-2		Sol							illumi[n]atio	calor
-		sidera									humor
+		sol, side[rum]								.xij. mensiu[m], multiplex [et] varius
+2		sol							illu[m]i[n]atio	calor
+		side[rum]								humor
 ENHG	
-1		ga[n]tze[n] werlt, himel, spera des lufts, feüers	bewegnus	.xxiiij. stu[n]de[n]
+1		ga[n]tze[n] werlt, himel, spera des lufts, feürs	bewegnus	.xxiiij. stu[n]de[n]
 		sun[n], gestirn								xij. monaten, vilfeltig vnd ma[n]cherlay
 2		sun[n]							erlewchtu[n]g	wirm
 		sterne									feüchtigkeit
