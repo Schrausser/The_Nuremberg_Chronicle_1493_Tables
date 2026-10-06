@@ -2,9 +2,9 @@
 
 A clear description is given of the *nature* and *origin* of evil:
 
->"Angelos i[n] p[ri]ncipio o[mn]i[u]m creatura[rum] p[ri]mordiales fecit [...] In q[ui]busda[m] t[a]m[en] indolis diui[n]e stirpis no[n] perma[n]sit. Auctore[m] hui[us] rei ex bono p[er] se malu[m] effectu[m] greci **diabolu[m]** appelant: nos **crimi[n]atore[m]** vocam[us].", (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024), fol. IIr).
+>"Angelos i[n] p[ri]ncipio o[mn]i[u]m creatura[rum] p[ri]mordiales fecit [...] In q[ui]busda[m] t[a]m[en] indolis diui[n]e stirpis no[n] p[er]ma[n]sit. Auctore[m] hui[us] rei ex bono p[er] se malu[m] effectu[m] greci **diabolu[m]** appelant: nos **crimi[n]atore[m]** vocam[us].", (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024), fol. IIr).
 
->"Er hat in anfa[n]g die engel, aller creatur die erste[n] gemacht [...] doch ist in etliche[n] die einpildung göttliches sta[m]mens nit blibe[n], sunder sie sind aus aigner verkerung vo[m] gůtten zum ubel getretten vn[d] zu **teüfeln** worde[n].", (Schedel & Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), [1496](https://doi.org/10.3931/e-rara-69075), bl. IIr).
+>"Er hat in anfa[n]g die engel, aller creatur die erste[n] gemacht [...] doch ist in etliche[n] die einpildung göttliches sta[m]mens nit blibe[n], sunder sie sind auß aigner verkerung vo[m] gůtten zum ubel getretten vn[d] zu **teüfeln** worde[n].", (Schedel & Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), [1496](https://doi.org/10.3931/e-rara-69075), bl. IIr).
 
 >"Of all beings he first created the angels [...] but some of them did not retain the conception of their divine origin, and through their own errors deserted good for evil, and became **devils**.", (Hadavas, [2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J), p. 3).
 
@@ -12,7 +12,7 @@ And further:
 
 >"Aer [...] habet tria interstitia [...] In medio aut[em] interstitio [...] e[st] frigiditas et obscuritas: in quo dicuntur habitare **demones** qui detrusi sunt in hunc aerem caliginosum. Ibi etiam fiu[n]t tempestates: scilicet tonitrua: grando: niues: et si[mi]lia.", (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024), fol. VIr).
 
->"Der luft hat [...] drey underschied [...] aber in dem mitteln underschid [...] ist kelt und tunckelheit darinn sollen wonen die **teüfel** die in diesen tunckeln luft verstössen sind. Daselbst werde[n] auch ungestümigkeit als donerschleg hagel schne vnd der gleich.", (Schedel & Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), [1496](https://doi.org/10.3931/e-rara-69075), bl. VIr).
+>"Der luft hat [...] drey underschid [...] aber in dem mitteln underschid [...] ist kelte und tunckelheit darinn sollen wonen die **teüfel** die in diesen tunckeln luft verstössen sind. Daselbst werde[n] auch ungestümigkeit als donerschleg hagel schne vnd der gleich.", (Schedel & Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), [1496](https://doi.org/10.3931/e-rara-69075), bl. VIr).
 
 >"The air [...] has three distinct parts [...] But the middle part [...] is cold and dark, and therein are said to reside the **devils**, who have been banished to this dark atmosphere. Therein are also to be found such elemental disturbances as thunderclaps, hail, snow and the like.", (Hadavas, [2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J), p. 10).
 
