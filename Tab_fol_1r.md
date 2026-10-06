@@ -4,7 +4,7 @@
 
 >" [...] a mu[n]di fabrica: ac prima hominu[m] generatione: duplex opinio fert[ur].", (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024), fol. Ir).
 
->" [...] vo[n] geschopff der werlt. vnd vo[n] erster geburt der menschen zwayerlay wone ist.", (Schedel & Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), fo. .1.r, [1496](https://doi.org/10.3931/e-rara-69075), fol. 1v).
+>" [...] vo[n] geschopff der welt. vnd vo[n] erster geburt der menschen zwayerlay wone ist.", (Schedel & Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), fo. .1.r, [1496](https://doi.org/10.3931/e-rara-69075), fol. 1v).
 
 >" [...] of the creation of the world and [...] of the birth of man [...] two different accounts exist [...] ", (Hadavas, [2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J), p. 2).
 
@@ -38,16 +38,16 @@ Engl. tr.
 **Table 2**. The three or four, res. *kinds of worlds* according to the ancients with short descriptions.
 ~~~				
 Latin		mundus	
-1			supremum			quem theologi angelicum: philosophi: autem intellectualem vocant¹	
+1			supremum			quem theologi angelicum: philosophi autem intellectualem vocant¹	
 2			celestem			(lux)	
 3			sublunarem			hu[n]c quem incolimus: hic tenebrarum mundus							ille aut[em] lucis: celum ex luce [et] tenebris temperat[ur]
 (4)			ipse est homo		omnia inuenia[n]tur que sunt in reliquis	
 
 ENHG		werlt		
-1			oberste[n]			englische[n] oder vberuerstentlichen	
+1			oberste[n]			englische[n] oder vberuerstentliche[n	]
 2			himlischen			(licht)	
 3			vnder de[m] monde	dar inn wir wone[n]. diss ist die werlt der finsternus					lichts der himel wirt vo[n] licht vn[d] finsternus germaßigt
-(4)			der mensch			alle die ding die in den andern[n] werlte[n] sindt gefunde[n] werde[n]	
+(4)			der mensch			alle die ding die in den ander[e]n werlte[n] sindt gefunde[n] werde[n]	
 
 Engl. tr.	world		
 1			uppermost			world of the angels	
@@ -62,7 +62,7 @@ Engl. tr.	world
 			before the beginning		through								to
 
 Latin		simul [con]fusis forma[m]	disseparatis: diuisisq[ue]			molibus cepisse [...] ordinem
-ENHG		ein eynige form				absunderu[n]g vn[d] zertaylu[n]g	odnung vnd gestalt
+ENHG		ein eynige form				absunderu[n]g vn[d] zerteylu[n]g	odnung vnd gestalt
 Engl. tr.	single form					separation and division				order and structure
 ~~~
 
@@ -75,8 +75,8 @@ Latin
 2			Partem [...] terrestrem		infima loca			grauitatem					2	ex humidis quide[m] mare effectu[m]
 																						3	Ex durioribus vero terram lutosam euasisse: [et] omnino mollem
 ENHG					
-1			feürig tayl					obern stett			vo[n] leichtheit wege[n]	1	sunn vnd merug der stern
-2			irdisch teyl				niderste[n] ort		vo[n] swertheit wege[n]		2	auß de[n] feüchte[n] das mer
+1			feürig tayl					ober[e]n stett			vo[n] leichtheit wege[n]	1	sunn vnd merug der stern
+2			irdisch teyl				niderste[n] ort		vo[n] swerheit wege[n]		2	auß de[n] feüchte[n] das mer
 																						3	vnd auß de[n] hertte[n] dinge[n]. das [...] ertreich worde[n]
 Engl. tr.					
 1			fiery						upper state			became lighter				1	sun and many of the stars
@@ -89,7 +89,7 @@ Engl. tr.
 			Latin					ENHG					Engl. tr.
 
 1			densior					dicker					denser
-2			putredines				faulfeüchtigkeitn[n]	decaying ooze
+2			putredines				faulfeüchtigkeit[e]n	decaying ooze
 3			co[n]tecte pellicula	mit dynne[n] hewtlein	covered by a thin skin
 ~~~
 
@@ -133,7 +133,7 @@ moyses													Moyses															Moses (the prophet, father of God’s hi
 Apud hebreos:		
 Salomonis (liber)										Salomo[n] (in seine[m] buch der weysheit)						Solomon (in his book of wisdom)
 
-apud nostros:											bey den vnsern[n]:												our own brave teachers:
+apud nostros:											bey den vnser[e]n:												our own brave teachers:
 Lucas [et] philon										Lucas vnd Philon												Luke and Philo (our own brave teachers say)
 in vniuersa egyptiorum docrina fuisse eruditissimu[m]	In aller lere d[er] egyptier hoherfare[n] gewest				was highly experienced in all the lore of the Egyptians
 hermippus (attestat[ur])								hermippus														(according to) Hermippus
@@ -145,11 +145,11 @@ Hieronymus												Ieronimus														Jerome
 viri sanctissimi:										die heiligsten mann:											most pious men:
 Ambrosius												Ambrosius														Ambrose
 Augustinus												Augustinus														Augustine
-Strabo													Strabo															Strabo
+Strab[o]												Strabo															Strabo
 Beda													Beda															Bede
 Remigius												Remigius														Remigius
 
-Et ex iunioribus:										auß den iungern[n]:												and the younger ones:
+Et ex iunioribus:										auß den iunger[e]n:												and the younger ones:
 Egidius													Egidius															Aegidius
 Albertus												Albertus														Albertus
 		

@@ -22,7 +22,7 @@ XI												firmamentu[m]					Saturnus
 X																				Iupiter
 VIIII																			Mars
 VIII																			Sol
-VII																				Venus	
+VII																				Uen[us]	
 VI																				Mercurius
 V																				Luna
 IIII						2 elementari		ignis			supremu[m]		igneum
@@ -37,9 +37,9 @@ I																medium			aereum
 ENHG
 umbkrais, himel				natur
 
-himel der trifeltigkeit		1 himlisch			feürigen						det rüet
+himel der trifeltigkeit		1 himlisch			feürigen						det růet
 12												cristallinischen				erst beweglich	
-																untere umbkreys
+																vndere vmbkreys
 11												firmament						Saturnus
 10																				Iupiter
 9																				Mars	
@@ -47,12 +47,12 @@ himel der trifeltigkeit		1 himlisch			feürigen						det rüet
 7																				Venus	
 6																				Mercurius
 5																				Mond
-4							2 eleme[n]tische 	feüers			obersten		feürig
+4							2 eleme[n]tische 	feürs			obersten		feürig
 3																mitteln			liecht
-																understen		liecht
+																vndersten		liecht
 2												lufts			oberst			scheynlich
 1																mittel			lüftig	
-																underst			lüftig	
+																vnderst			lüftig	
 												erden
 												wassers
 
@@ -81,7 +81,7 @@ Heaven of the Trinity		1 celestial			fiery
 
 >"Distantia predictorum orbium et planetarum hec est.", (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024), fol. VIr).
 
->"Mercke auch von gelegenheit der vorgenante[n] umbkrais vn[d] planeten", (Schedel & Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), bl. VIr, [1496](https://doi.org/10.3931/e-rara-69075), fol. 6r).
+>"Mercke auch vo[n] gelegenheit der vorgenante[n] umbkreis vn[d] planeten", (Schedel & Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), bl. VIr, [1496](https://doi.org/10.3931/e-rara-69075), fol. 6r).
 
 >"Note also that the distance [...]", (Hadavas, [2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J), p. 10).
 
@@ -89,14 +89,14 @@ Heaven of the Trinity		1 celestial			fiery
 ~~~
 Latin					miliaria¹
 
-terram ad lunam	 		15 625 
-luna ad mercurium		7 813 
-ad venerem	 			7 813 
+terra ad lunam	 		15 625 
+luna ad Mercurium		7 812 ½ 
+ad venerem	 			7 812 ½ 
 ad solem				22 436 
-ad martem	 			15 625 
-ad iovem	 			7 812 
+ad marte[m]	 			15 625 
+ad iouem	 			7 812 
 ad saturnum	 			7 812 
-ad signiferum	 		23 436 
+ad firmamentum	 		23 436 
 	 					109 375
 
 ENHG					myle 
@@ -108,7 +108,7 @@ venus zu der sunnen		23 436
 der sunnen zu mars		15 625 
 mars zu iupiter	 		6 822 
 iupiter zu saturnus		6 822 
-saturno zum firmament	23 436 
+saturno zum firmame[n]t	23 436 
 	 					109 375
 
 Engl. tr.				miles
@@ -123,13 +123,13 @@ Jupiter to Saturn		6 832
 Saturn to Stars	 		23 436 
 	 					108 375 
 ~~~
-¹) "miliaria. hec sunt stadia .cxxvi.", where miles are 126 stades, (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024), fol. VIr). 
+¹) "miliaria. hec sunt stadia. cxxvi.", where miles are 126 stades, (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024), fol. VIr). 
 
 ### Distinctio celestium hierarchiarum.
 
 >"DE celesti vero natura triplicem quidam posuere distinct[i]onem. scilicet sup[er]naturalem. id est sup[er]celestem. celestem [et] subcelestem.", (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024), fol. VIr).
 
->"ABer von der himlischen natur haben etlich dreierley underschid gesetzt als ein überhi[m]lische. ein himlische vn[d] ein undehi[m]lische.", (Schedel & Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), bl. VIr, [1496](https://doi.org/10.3931/e-rara-69075), fol. 6r).
+>"ABer von der himlischen natur haben etlich dreierlay underschid gesetzt als ein überhi[m]lische. ein himlische vn[d] ein und[er]hi[m]lische.", (Schedel & Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), bl. VIr, [1496](https://doi.org/10.3931/e-rara-69075), fol. 6r).
 
 >"In the celestial nature some have made three classifications: super-celestial, celestial, and sub-celestial.", (Hadavas, [2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J), p. 10).
 
@@ -160,10 +160,10 @@ himlische natur
 												mittlere		herschengel
 																fürstengel
 																gewaltengel
-												undere			kreftengel
-																erzengel
+												vndere			kreftengel
+																ertzengel
 																engel
-3 undehi[m]lische	in heiligen mensche[n]
+3 und[er]hi[m]lische	in heilligen mensche[n]
 
 Engl. tr.
 celestial nature
@@ -183,9 +183,9 @@ celestial nature
 
 ### De tempore siue etatibus.
 
->"MUndi etates accipiunt[ur] similitudinarie iuxta etates homis:", (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024), fol. VIr).
+>"MUndi etates accipiunt[ur] similitudinarie iuxta etates homi[ni]s:", (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024), fol. VIr).
 
->"DEr werlt alter werde[n] in gleichnus weisgenommen nach d[er] mensche[n] alter.", (Schedel & Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), bl. VIr, [1496](https://doi.org/10.3931/e-rara-69075), fol. 6v).
+>"DEr werlt altere werde[n] in gleichnus weisgenomen nach d[er] mensche[n] alter.", (Schedel & Alt, [1493](https://web.archive.org/web/20161003154613/http://ora-web.swkk.de/digimo_online/digimo.entry?source=digimo.Digitalisat_anzeigen&a_id=4218), bl. VIr, [1496](https://doi.org/10.3931/e-rara-69075), fol. 6v).
 
 >"The Ages of the World are analogous to the ages of man.", (Hadavas, [2023](https://digital.library.wisc.edu/1711.dl/3SXNV3NHBQLFQ8J), p. 10).
 
@@ -195,10 +195,10 @@ celestial nature
 age		hebr	lxx		gen		hebr	lxx		gen		hebr	lxx		Latin									ENHG									Engl. tr.
 
 I		1656	2242	10		1656	2242	10		2309	2959	ad diluuiu[m]							bis zu der sintflus						to the Flood
-II		292		942		10		1948	3184	20		2017	2017	ad natiuitatem abrahe					bis auf die gepurt abrahams				to the birth of Abraham
-III		941		940		14		2889	4124	34		1076	1077	ad iniciu[m] regni Dauid				bis zu anfang des reichs david			to the beginning of the Kingdom of David
+II		292		942		10		1948	3184	20		2017	2017	ad natiuitatem abrahe					bis auff die gepurt Abrahams				to the birth of Abraham
+III		941		940		14		2889	4124	34		1076	1077	ad iniciu[m] regni Dauid				bis zu anfang des reichs dauid			to the beginning of the Kingdom of David
 IIII	484		485		17		3373	4609	51		592		592		ad transmigrat[i]o[n]em babilonis		bis zu de[m] übergang babilonis			to the passing of Babylon
-V		590		590		14		3963	5199	65		2		2		ad benedicta[m] nativitatem [christ]i	bis zu der gebenedeiten gepurt cristi	to the blessed Birth of Christ
+V		590		590		14		3963	5199	65		2		2		ad benedicta[m] natiuitatem [christ]i	bis zu der gebenedeiten gepurt cristi	to the blessed Birth of Christ
 VI, VII	terminum solus deus nouit										ad finem mundi, quiescentium			bis zu der werlt ende, der die nw ruen	to the End of the World, of those who are now at rest
 VIII																	resurgentium							d[er] auffersteenden					of the Resurrection
 ~~~
@@ -208,7 +208,7 @@ VIII																	resurgentium							d[er] auffersteenden					of the Resurrec
 		years					description			
 age		from	to		n		Latin				ENHG				Engl. tr.
 
-I		7		7				infantia			ungesprechheyt		infancy
+I		7		7				infantia			vngesprechheyt		infancy
 II		8		14		6		puericia			kintheit			childhood
 III		15		38		23		adolesce[n]tia		zeittigkeit			maturity
 IIII	39		49		10		iuue[n]t[us]		iuge[n]t			youth
