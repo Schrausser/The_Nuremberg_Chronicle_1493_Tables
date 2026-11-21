@@ -1,6 +1,6 @@
 # NC_days.md
 
-**Table 1**. The timeline of the *evolutionary development of the universe* $E_0$ of 13.8 billion years $ya$ is projected onto an interval of <ins>*Tera*</ins> *years* $Ta$, $E_1$, where $E_1=\frac{E_0}{10^{12}}$ ($E->C$). What you immediately *notice* is, that this results in an interval of approx. 6 days $d'$, with $d'=(E_1\cdot y)+1$ and $y=365.25$. *Vice versa*, after the transformation $E_0'=\frac{(d\cdot 10^{12}-10^{12})}{365.25}$, the time frame of evolution results (approximately) from 6 days $d$ ($C->E$).
+**Table 1**. The timeline of the *evolutionary development of the universe* $E_0$ of 13.8 billion years $ya$ is projected onto an interval of <ins>*Tera*</ins> *years* $Ta$, $E_1$, where $E_1=\frac{E_0}{10^{12}}$ ($E \to C$). What you immediately *notice* is, that this results in an interval of approx. 6 days $d'$, with $d'=(E_1\cdot y)+1$ and $y=365.25$. *Vice versa*, after the transformation $E_0'=\frac{(d\cdot 10^{12}-10^{12})}{365.25}$, the time frame of evolution results (approximately) from 6 days $d$ ($C \to E$).
 ~~~
 E0 (ya)	 	 	E->C		d		C->E	
 	 	 	E1¹	d'²			E0'³	 	 	diff
