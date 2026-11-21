@@ -1,48 +1,33 @@
 # NC_days.md
 
-**Table 1**. The timeline of the evolutionary development of the universe *Evol* of 13.8 billion years is (in reverse) projected onto the timeline of 7500 years from the creation story *Creat*, *E>C*, where $y_{total}=\frac{Evol}{10^6}$. What you immediately notice is, that this results in an interval $y_{7500}=\frac{y_{total}}{10^6}$ of approx. 6 days for the remaining 7500 years, with $days=(y_{7500}\cdot365.25)+1$. Thus as, in terms of numerical values and in reverse, the evolutionary line $y_{total}$ could now be considered the historical timeline *Creat*, the remaining timeline *days* considered the timeframe of creation *0*.
+**Table 1**. The timeline of the *evolutionary development of the universe* $E_0$ of 13.8 billion years $ya$ is projected onto an interval of <ins>*Tera*</ins> *years* $Ta$, $E_1$, where $E_1=\frac{E_0}{10^{12}}$ ($E->C$). What you immediately *notice* is, that this results in an interval of approx. 6 days $d'$, with $d'=(E_1\cdot y)+1$ and $y=365.25$. *Vice versa*, after the transformation $E_0'=\frac{(d\cdot 10^{12}-10^{12})}{365.25}$, the time frame of evolution results (approximately) from 6 days $d$ ($C->E$).
 ~~~
-								E>C		
-Evol				Creat		y(total)	y(7500)		days
+E0 (ya)	 	 	E->C		d		C->E	
+	 	 	E1¹	d'²			E0'³	 	 	diff
 
-13 800 000 000 		0	 		13 800 		0,014		6,0
-12 880 000 000 	 	500 	 	12 880 		0,013		5,7
-11 960 000 000 		1 000 	 	11 960 		0,012		5,4
-11 040 000 000 	 	1 500 	 	11 040 		0,011		5,0
-10 120 000 000 	 	2 000 	 	10 120 		0,010		4,7
-9 200 000 000 	 	2 500 	 	9 200 		0,009		4,4
-8 280 000 000 	 	3 000 	 	8 280 		0,008		4,0
-7 360 000 000 	 	3 500 	 	7 360 		0,007		3,7
-6 440 000 000 	 	4 000 	 	6 440 		0,006		3,4
-5 520 000 000 	 	4 500 	 	5 520 		0,006		3,0
-4 600 000 000 	 	5 000 	 	4 600 		0,005		2,7
-3 680 000 000 	 	5 500 	 	3 680 		0,004		2,3
-2 760 000 000 	 	6 000 	 	2 760 		0,003		2,0
-1 840 000 000 	 	6 500 	 	1 840 		0,002		1,7
-920 000 000 	 	7 000 	 	920 		0,001		1,3
-0	 				7 500 		0			0			1,0
-~~~
+ 13 800 000 000 	0,0138	6,04	6,0	1	 13 689 253 936 	-1,11E+08
+ 12 880 000 000 	0,0129	5,70	5,7		 12 776 637 007 	-1,03E+08
 
-**Table 2**. Comparison.
-~~~
-E>C			Creat
+ 11 960 000 000 	0,0120	5,37	5,3		 11 864 020 078 	-9,60E+07
+ 11 040 000 000 	0,0110	5,03	5,0	2	 10 951 403 149 	-8,86E+07
+ 10 120 000 000 	0,0101	4,70	4,7		 10 038 786 219 	-8,12E+07
 
-13800	
-11960		1
-10120		2
-8280		3
-6440		4
-4600		5
-2760		6
-920			:
-:			:
-6,0			500
-5,1			1500
-4,7			2500
-4,0			3500
-3,4			4500
-2,7			5500
-2,0			6500
-1,3			7500
+ 9 200 000 000 	 	0,0092	4,36	4,3		 9 126 169 290 	 	-7,38E+07
+ 8 280 000 000 	 	0,0083	4,02	4,0	3	 8 213 552 361 	 	-6,64E+07
+ 7 360 000 000  	0,0074	3,69	3,7		 7 300 935 432 	 	-5,91E+07
+
+ 6 440 000 000  	0,0064	3,35	3,3		 6 388 318 503 	 	-5,17E+07
+ 5 520 000 000 	 	0,0055	3,02	3,0	4	 5 475 701 574 	 	-4,43E+07
+ 4 600 000 000 	 	0,0046	2,68	2,7		 4 563 084 645 	 	-3,69E+07
+
+ 3 680 000 000 	 	0,0037	2,34	2,3		 3 650 467 716 	 	-2,95E+07
+ 2 760 000 000 	 	0,0028	2,01	2,0	5	 2 737 850 787 	 	-2,21E+07
+ 1 840 000 000 	 	0,0018	1,67	1,7		 1 825 233 858  	-1,48E+07
+
+ 920 000 000 	 	0,0009	1,34	1,3		 912 616 929 	 	-7,38E+06
+ 0 	 	  	0       1,00	1,0	6	 0 	 	 	 3,01E-06
 ~~~
+¹) Tera years $Ta$, $\frac{E_0}{10^{12}}$.  
+²) $\frac{(E_0\cdot 365.25)}{10^{12}}+1$.  
+³) $\frac{(d\cdot10^{12}-10^{12})}{365.25}$.
 
