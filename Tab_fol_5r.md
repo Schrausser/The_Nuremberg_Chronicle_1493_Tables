@@ -10,12 +10,12 @@
 
 **Table 1**. The three types of *species* of animals in the order of their mention *t*, their level of *development* compared to humans as well as their level of *understanding*.
 ~~~
-		Latin		ENHG		Engl. tr.		
-t		animalia	thier		animals				development								understanding
+	Latin		ENHG		Engl. tr.		
+t	animalia	thier		animals			development				understanding
 
-1		iume[n]ta	iohthier	beasts of burden	between animals and man					some measure of understanding
-3		bestias		wildthier	wild animals		middle ground among irrational animals	perfect imagination and fantasy
-2		reptilia	kriechende	creeping animals	between animals and plants				imperfect imagination and fantasy
+1	iume[n]ta	iohthier	beasts of burden	between animals and man			some measure of understanding
+3	bestias		wildthier	wild animals		middle ground among irrational animals	perfect imagination and fantasy
+2	reptilia	kriechende	creeping animals	between animals and plants		imperfect imagination and fantasy
 ~~~
 
 >"Nu[n]c age[n]du[m] de ho[m]i[n]e vt de quarto mu[n]do. [...] Tu[m] fecit ip[s]e simulac[rum] sens[i]bile at[que] i[n]tellige[n]s. i[d est]. ad imaginis sue forma[m]. q[ua] nihil p[otes]t e[ss]e p[er]fecti[us]: ho[m]i[n]em figurauit ex limo terre: vn[de] ho[mo] nu[n]cupat[us] e[st]. q[uia] sit fact[us] ex humo.", (Schedel, [1493](https://daten.digitale-sammlungen.de/~db/0003/bsb00034024/images/index.html?id=00034024), fol. Vr).
@@ -28,12 +28,12 @@ Citing Cicero's *De legibus liber primus* (c.f. Cicero & Cicero, [1496](https://
 
 **Table 2**. Classification of the *four worlds* after the creation of man.
 ~~~
-		Latin				ENHG					Engl. tr.
+	Latin		ENHG			Engl. tr.
 
-1		sup[er]celesti		vberhimlische[n]		super-heavenly
-2		celesti				himlischen				heavenly
-3		s[u]blu[n]ari		vnderhimlischen			under-heavenly
-4		de ho[m]i[n]e		von de[n] mensche[n]	of man
+1	sup[er]celesti	vberhimlische[n]	super-heavenly
+2	celesti		himlischen		heavenly
+3	s[u]blu[n]ari	vnderhimlischen		under-heavenly
+4	de ho[m]i[n]e	von de[n] mensche[n]	of man
 ~~~
 
 [^1]: Deutsch: An dieser Stelle sei unbedingt daran erinnert, dass die übliche Übersetzung des lateinischen *animal* in *Tier* im Zusammenhang mit *Mensch* an dieser Stelle irreführend oder gar unrichtig wäre. Die Bezeichnung *Lebewesen* stellt hier inhaltlich eine wohl weitaus bessere Übersetzung dar, zumal *das Tier* üblicherweise mit *wildem Tier* gleichgesetzt wird, was im Lateinischen jedoch *bestia* wäre.

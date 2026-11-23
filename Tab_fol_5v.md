@@ -11,7 +11,7 @@
 
 **Table 1**. Names of *angels* and *spheres* between the Roman and Greek *wind gods*; the *Anemoi*, sons of *Astraeus* and *Eos* (s. Neuser, [1982](https://books.google.com/books?id=T0gcAAAAMAAJ) or Miller et al., [2010](https://books.google.com/books?id=LCYlQwAACAAJ)).
 ~~~
-Subsolanus¹, S-E									Auster², S
+Subsolanus¹, S-E					Auster², S
 		
 Seraphin		
 Cherubin		
@@ -19,20 +19,20 @@ Throni
 d[omi]nationes		
 principat[us]		
 :		
-						terrA	
-						spera aque	
-						spera aeris	
-						spera ignis	
-						spera lune	
-P[o]t[est]ates			spera mercu [rum]	
-u[ir]tutes				spera ueneris	
-archa[n]gli				spera solis	
-Angeli					spera martus	
-						spera iouis	
-						spera saturni	
-Aparcias³, N				firma mentu[m]			Zephyrus⁴, W
-						Celum Cristallinum	
-						Primum mobile	
+			terrA	
+			spera aque	
+			spera aeris	
+			spera ignis	
+			spera lune	
+P[o]t[est]ates		spera mercu [rum]	
+u[ir]tutes		spera ueneris	
+archa[n]gli		spera solis	
+Angeli			spera martus	
+			spera iouis	
+			spera saturni	
+Aparcias³, N		firma mentu[m]			Zephyrus⁴, W
+			Celum Cristallinum	
+			Primum mobile	
 ~~~
 ¹) The Roman god of the *southeast* wind, *Apeliotes* in Greek. *Eurus*, the Greek god of the *rain-bringing east* wind, mostly excluded from the *Anemoi*, is the Roman *Vulturnus* or *Africanus*.    
 ²) The Roman god of the *south* wind, *Notus* in Greek.  

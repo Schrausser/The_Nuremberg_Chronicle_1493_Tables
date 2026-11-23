@@ -10,23 +10,23 @@
 
 **Table 1**.  The *kinds* of two apparent *functions*, (1) *motion* and (2) *light* of the heavenly corporeal bodies (see also Petavius, [1630](https://doi.org/10.3931/e-rara-2004), p. 261-262; Schrausser, [2024](https://doi.org/10.5281/zenodo.10691681), res.).
 ~~~
-			heavenly corporeal body								function			kind
+		heavenly corporeal body					function	kind
 
 Latin		
-1			mu[n]di totius q[uo] celu[m] [et] ether 			mot[us]				.24. horis
-			sol, side[rum]																.xij. mensiu[m], multiplex [et] varius
-2			sol													illu[m]i[n]atio		calor
-			side[rum]																humor
+1		mu[n]di totius q[uo] celu[m] [et] ether 		mot[us]		.24. horis
+		sol, side[rum]								.xij. mensiu[m], multiplex [et] varius
+2		sol							illu[m]i[n]atio	calor
+		side[rum]								humor
 ENHG	
-1			ga[n]tze[n] werlt, himel, spera des lufts, feürs	bewegnus			.xxiiij. stu[n]de[n]
-			sun[n], gestirn															xij. monaten, vilfeltig vnd ma[n]cherlay
-2			sun[n]												erlewchtu[n]g		wirm
-			sterne																	feüchtigkeit
+1		ga[n]tze[n] werlt, himel, spera des lufts, feürs	bewegnus	.xxiiij. stu[n]de[n]
+		sun[n], gestirn								xij. monaten, vilfeltig vnd ma[n]cherlay
+2		sun[n]							erlewchtu[n]g	wirm
+		sterne									feüchtigkeit
 Engl. tr.		
-1			whole world, heaven, sphere, air, fire				motion				twenty-four hours
-			Sun, stars																twelve months, manifold and various
-2			Sun													give light			warmth
-			stars																	moisture
+1		whole world, heaven, sphere, air, fire			motion		twenty-four hours
+		Sun, stars								twelve months, manifold and various
+2		Sun							give light	warmth
+		stars									moisture
 ~~~
 
 ## References
